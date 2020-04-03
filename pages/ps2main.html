@@ -1,0 +1,32 @@
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>索尼PS2游戏目录</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="/js/loadxmldoc.js"></script>
+	<script src="/js/html.js"></script>
+</head>
+
+<body>
+	<div class="container">
+		<script>navigation()</script>
+		<img src="/img/ps2.jpg" class="img-responsive center-block">
+		<div style="text-align: center;">
+			<script>
+				let arr = [["/xml/sony_ps2usa.xml", "/pages/ps2usa.html"],["/xml/SONY_PS2JP.xml", "/pages/ps2jp.html"],["/xml/sony_ps2eur.xml", "/pages/ps2eur.html"],
+				["/xml/SONY_PS2ZH.xml", "/pages/ps2zh.html"]];
+				readList(arr)
+			</script>
+		</div>
+	</div>
+	<br>
+	<script>bottom()</script>
+	</div>
+
+</body>
+
+</html>

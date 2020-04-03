@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datafile>
+	<header>
+		<platform>SS</platform>
+		<description>世嘉土星SS中文游戏合集</description>
+		<version>2020-03-14</version>
+	</header>
+	<game FlagNo="SSCH#1" name="慟哭之後CHS_Ver1"/>
+	<game FlagNo="SSCH#2" name="三国志4[繁][官方]"/>
+	<game FlagNo="SSCH#3" name="三国志5[繁][官方]"/>
+	<game FlagNo="SSCH#4" name="三国志英杰传[繁][官方]"/>
+	<game FlagNo="SSCH#5" name="仙剑奇侠传[繁][官方]"/>
+	<game FlagNo="SSCH#6" name="光明力量3剧本1 王都巨神[简][完美汉化1"/>
+	<game FlagNo="SSCH#7" name="光明力量3剧本2 被狙击的神子[简][完美汉化1"/>
+	<game FlagNo="SSCH#8" name="光明力量3剧本3 冰壁邪神宫[简][完美汉化1"/>
+	<game FlagNo="SSCH#9" name="光明圣柜[简][完美汉化版1"/>
+	<game FlagNo="SSCH#10" name="公主的皇冠[简][完美汉化版1"/>
+	<game FlagNo="SSCH#11" name="千年帝国之兴亡[简][全文本汉化版1"/>
+	<game FlagNo="SSCH#12" name="大航海时代2[简][完美汉化版1"/>
+	<game FlagNo="SSCH#13" name="大航海时代外传[简][完美汉化版1"/>
+	<game FlagNo="SSCH#14" name="托尔精灵王纪传[简][081225][Ken &amp; madcell]"/>
+	<game FlagNo="SSCH#15" name="梦幻模拟战1&amp;2[简][V1"/>
+	<game FlagNo="SSCH#16" name="梦幻模拟战3[简][意志之路]"/>
+	<game FlagNo="SSCH#17" name="神秘岛[繁][官方]"/>
+</datafile>

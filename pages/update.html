@@ -1,0 +1,33 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>更新日志</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="/js/loadxmldoc.js"></script>
+	<script src="/js/html.js"></script>
+</head>
+
+<body>
+	<div class="container">
+		<script>
+			navigation()
+		</script>
+		<div class="row">
+			<div class="col-md-12">
+				<div id="logTable">
+					<script>
+						readLog("/xml/log.xml")
+					</script>
+				</div>
+				<script>
+					bottom()
+				</script>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>

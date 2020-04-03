@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datafile>
+	<header>
+		<platform>N64</platform>
+		<description>N64游戏合集</description>
+		<version>2020-02-18</version>
+	</header>
+	<game FlagNo="N64#1" name="007 - GoldenEye (Europe)" cn_name="007-黄金眼 （欧版）"/>
+	<game FlagNo="N64#2" name="007 - GoldenEye (Japan)" cn_name="007-黄金眼 （日版）"/>
+	<game FlagNo="N64#3" name="007 - GoldenEye (USA)" cn_name="007-黄金眼 （美版）"/>
+	<game FlagNo="N64#4" name="007 - The World Is Not Enough (Europe) (En,Fr,De)" cn_name="007-明日帝国 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#5" name="007 - The World Is Not Enough (USA) (Beta)" cn_name="007-明日帝国 （美版） (Beta)"/>
+	<game FlagNo="N64#6" name="007 - The World Is Not Enough (USA)" cn_name="007-明日帝国 （美版）"/>
+	<game FlagNo="N64#7" name="1080 TenEighty Snowboarding (Europe) (En,Ja,Fr,De)" cn_name="1080度滑雪 （欧版） (En,Ja,Fr,De)"/>
+	<game FlagNo="N64#8" name="1080 TenEighty Snowboarding (Japan, USA) (En,Ja)" cn_name="1080度滑雪 （日版+美版） (En,Ja)"/>
+	<game FlagNo="N64#9" name="40 Winks (Europe) (En,Es,It) (Proto)" cn_name="精灵大救援 （欧版） (En,Es,It) (Proto)"/>
+	<game FlagNo="N64#10" name="64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)" cn_name="电子宠物世界64 （日版）"/>
+	<game FlagNo="N64#11" name="64 Hanafuda - Tenshi no Yakusoku (Japan)" cn_name="64花札-天使的约束 （日版）"/>
+	<game FlagNo="N64#12" name="64 Oozumou (Japan)" cn_name="64大相扑 （日版）"/>
+	<game FlagNo="N64#13" name="64 Oozumou 2 (Japan)" cn_name="64大相扑 2 （日版）"/>
+	<game FlagNo="N64#14" name="64 Trump Collection - Alice no Wakuwaku Trump World (Japan)" cn_name="64王牌大收集-爱丽丝王牌世界 （日版）"/>
+	<game FlagNo="N64#15" name="Action Replay Pro 64 (Europe) (v3.0) (Unl)" cn_name="ActionReplayPro64 （欧版） (v3.0) (Unl)"/>
+	<game FlagNo="N64#16" name="Action Replay Pro 64 (Europe) (v3.3) (Unl)" cn_name="ActionReplayPro64 （欧版） (v3.3) (Unl)"/>
+	<game FlagNo="N64#17" name="AeroFighters Assault (Europe) (En,Fr,De)" cn_name="音速战机 突击 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#18" name="AeroFighters Assault (USA)" cn_name="音速战机 突击 （美版）"/>
+	<game FlagNo="N64#19" name="AeroGauge (Europe) (En,Fr,De)" cn_name="磁浮轨道车 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#20" name="AeroGauge (Japan) (Demo) (Kiosk)" cn_name="磁浮轨道车 （日版） (Demo) (Kiosk)"/>
+	<game FlagNo="N64#21" name="AeroGauge (Japan) (Rev A)" cn_name="磁浮轨道车 （日版） (Rev A)"/>
+	<game FlagNo="N64#22" name="AeroGauge (USA)" cn_name="磁浮轨道车 （美版）"/>
+	<game FlagNo="N64#23" name="AI Shougi 3 (Japan)" cn_name="AI将棋3 （日版）"/>
+	<game FlagNo="N64#24" name="Aidyn Chronicles - The First Mage (Europe)" cn_name="爱丁编年史-首席魔法师 （欧版）"/>
+	<game FlagNo="N64#25" name="Aidyn Chronicles - The First Mage (USA) (Rev A)" cn_name="爱丁编年史-首席魔法师 （美版） (Rev A)"/>
+	<game FlagNo="N64#26" name="Aidyn Chronicles - The First Mage (USA)" cn_name="爱丁编年史-首席魔法师 （美版）"/>
+	<game FlagNo="N64#27" name="Air Boarder 64 (Europe)" cn_name="疾风滑板64 （欧版）"/>
+	<game FlagNo="N64#28" name="Air Boarder 64 (Japan)" cn_name="疾风滑板64 （日版）"/>
+	<game FlagNo="N64#29" name="Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)" cn_name="恶魔城默示录 （日版）"/>
+	<game FlagNo="N64#30" name="Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)" cn_name="恶魔城默示录外传 （日版）"/>
+	<game FlagNo="N64#31" name="All Star Tennis '99 (Europe) (En,Fr,De,Es,It)" cn_name="全明星网球 '99 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#32" name="All Star Tennis 99 (USA)" cn_name="全明星网球 99 （美版）"/>
+	<game FlagNo="N64#33" name="All-Star Baseball 2000 (Europe)" cn_name="全明星棒球 2000 （欧版）"/>
+	<game FlagNo="N64#34" name="All-Star Baseball 2000 (USA)" cn_name="全明星棒球 2000 （美版）"/>
+	<game FlagNo="N64#35" name="All-Star Baseball 2001 (USA)" cn_name="全明星棒球 2001 （美版）"/>
+	<game FlagNo="N64#36" name="All-Star Baseball 99 (Europe)" cn_name="全明星棒球 99 （欧版）"/>
+	<game FlagNo="N64#37" name="All-Star Baseball 99 (USA)" cn_name="全明星棒球 99 （美版）"/>
+	<game FlagNo="N64#38" name="Armorines - Project S.W.A.R.M. (Europe)" cn_name="装甲兵器-S.W.A.R.M.计划 （欧版）"/>
+	<game FlagNo="N64#39" name="Armorines - Project S.W.A.R.M. (Germany)" cn_name="装甲兵器-S.W.A.R.M.计划 （德版）"/>
+	<game FlagNo="N64#40" name="Armorines - Project S.W.A.R.M. (USA)" cn_name="装甲兵器-S.W.A.R.M.计划 （美版）"/>
+	<game FlagNo="N64#41" name="Army Men - Air Combat (USA)" cn_name="玩具兵大战-空中打击 （美版）"/>
+	<game FlagNo="N64#42" name="Army Men - Sarge's Heroes (Europe) (En,Fr,De)" cn_name="玩具兵大战-萨基英雄 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#43" name="Army Men - Sarge's Heroes (USA)" cn_name="玩具兵大战-萨基英雄 （美版）"/>
+	<game FlagNo="N64#44" name="Army Men - Sarge's Heroes 2 (USA)" cn_name="玩具兵大战-萨基英雄 2 （美版）"/>
+	<game FlagNo="N64#45" name="Asteroids Hyper 64 (USA)" cn_name="游星大战64 （美版）"/>
+	<game FlagNo="N64#46" name="Automobili Lamborghini (Europe)" cn_name="兰博基尼赛车 （欧版）"/>
+	<game FlagNo="N64#47" name="Automobili Lamborghini (USA)" cn_name="兰博基尼赛车 （美版）"/>
+	<game FlagNo="N64#48" name="Baku Bomber Man (Japan)" cn_name="爆 炸弹人 （日版）"/>
+	<game FlagNo="N64#49" name="Baku Bomber Man 2 (Japan)" cn_name="爆 炸弹人 2 （日版）"/>
+	<game FlagNo="N64#50" name="Bakuretsu Muteki Bangaioh (Japan)" cn_name="爆裂无敌 （日版）"/>
+	<game FlagNo="N64#51" name="Bakushou Jinsei 64 - Mezase! Resort Ou (Japan)" cn_name="爆笑人生64 （日版）"/>
+	<game FlagNo="N64#52" name="Banjo to Kazooie no Daibouken (Japan)" cn_name="班卓与卡祖的大冒险 （日版）"/>
+	<game FlagNo="N64#53" name="Banjo to Kazooie no Daibouken 2 (Japan)" cn_name="班卓与卡祖的大冒险 2 （日版）"/>
+	<game FlagNo="N64#54" name="Banjo-Kazooie (Europe) (En,Fr,De)" cn_name="班卓与卡祖的大冒险 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#55" name="Banjo-Kazooie (USA) (Rev A)" cn_name="班卓与卡祖的大冒险 （美版） (Rev A)"/>
+	<game FlagNo="N64#56" name="Banjo-Kazooie (USA)" cn_name="班卓与卡祖的大冒险 （美版）"/>
+	<game FlagNo="N64#57" name="Banjo-Tooie (Australia)" cn_name="班卓与卡祖的大冒险2 澳版"/>
+	<game FlagNo="N64#58" name="Banjo-Tooie (Europe) (En,Fr,De,Es)" cn_name="班卓与卡祖的大冒险2 （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#59" name="Banjo-Tooie (USA)" cn_name="班卓与卡祖的大冒险2 （美版）"/>
+	<game FlagNo="N64#60" name="Bass Rush - ECOGEAR PowerWorm Championship (Japan)" cn_name="巴斯快速钓鱼 （日版）"/>
+	<game FlagNo="N64#61" name="Bassmasters 2000 (USA)" cn_name="巴斯鲈钓大师 2000 （美版）"/>
+	<game FlagNo="N64#62" name="Batman Beyond - Return of the Joker (USA)" cn_name="未来蝙蝠侠-小丑的归来 （美版）"/>
+	<game FlagNo="N64#63" name="Batman of the Future - Return of the Joker (Europe) (En,Fr,De)" cn_name="未来蝙蝠侠-小丑的归来 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#64" name="BattleTanx (USA)" cn_name="坦克大战 （美版）"/>
+	<game FlagNo="N64#65" name="BattleTanx - Global Assault (Europe) (En,Fr,De)" cn_name="坦克大战 - 全球突击 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#66" name="BattleTanx - Global Assault (USA)" cn_name="坦克大战 - 全球突击 （美版）"/>
+	<game FlagNo="N64#67" name="Battlezone - Rise of the Black Dogs (USA)" cn_name="战争地带 （美版）"/>
+	<game FlagNo="N64#68" name="Beetle Adventure Racing! (Europe) (En,Fr,De)" cn_name="甲壳虫冒险赛车 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#69" name="Beetle Adventure Racing! (Japan)" cn_name="甲壳虫冒险赛车 （日版）"/>
+	<game FlagNo="N64#70" name="Beetle Adventure Racing! (USA) (En,Fr,De)" cn_name="甲壳虫冒险赛车 （美版） (En,Fr,De)"/>
+	<game FlagNo="N64#71" name="Big Mountain 2000 (USA)" cn_name="高山滑雪 （美版）"/>
+	<game FlagNo="N64#72" name="Bio F.R.E.A.K.S. (Europe)" cn_name="幻想格斗 （欧版）"/>
+	<game FlagNo="N64#73" name="Bio F.R.E.A.K.S. (USA)" cn_name="幻想格斗 （美版）"/>
+	<game FlagNo="N64#74" name="Biohazard 2 (Japan)" cn_name="生化危机2 （日版）"/>
+	<game FlagNo="N64#75" name="Blast Corps (Europe) (En,De)" cn_name="爆破推土机 （欧版） (En,De)"/>
+	<game FlagNo="N64#76" name="Blast Corps (USA) (Rev A)" cn_name="爆破推土机 （美版） (Rev A)"/>
+	<game FlagNo="N64#77" name="Blast Corps (USA)" cn_name="爆破推土机 （美版）"/>
+	<game FlagNo="N64#78" name="Blastdozer (Japan)" cn_name="爆破推土机 （日版）"/>
+	<game FlagNo="N64#79" name="Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)" cn_name="布鲁斯兄弟 2000 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#80" name="Blues Brothers 2000 (USA)" cn_name="布鲁斯兄弟 2000 （美版）"/>
+	<game FlagNo="N64#81" name="Body Harvest (Europe) (En,Fr,De)" cn_name="肉体收割 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#82" name="Body Harvest (USA)" cn_name="肉体收割 （美版）"/>
+	<game FlagNo="N64#83" name="Bokujou Monogatari 2 (Japan) (Rev A)" cn_name="牧场物语2 （日版） (Rev A)"/>
+	<game FlagNo="N64#84" name="Bokujou Monogatari 2 (Japan) (Rev B)" cn_name="牧场物语2 （日版） (Rev B)"/>
+	<game FlagNo="N64#85" name="Bokujou Monogatari 2 (Japan)" cn_name="牧场物语2 （日版）"/>
+	<game FlagNo="N64#86" name="Bomber Man 64 (Japan)" cn_name="炸弹人64 （日版）"/>
+	<game FlagNo="N64#87" name="Bomber Man Hero - Mirian Oujo o Sukue! (Japan)" cn_name="炸弹人英雄-拯救公主米利安 （日版）"/>
+	<game FlagNo="N64#88" name="Bomberman 64 (Europe)" cn_name="爆 炸弹人64 （欧版）"/>
+	<game FlagNo="N64#89" name="Bomberman 64 (USA)" cn_name="爆 炸弹人64 （美版）"/>
+	<game FlagNo="N64#90" name="Bomberman 64 - The Second Attack! (USA)" cn_name="爆 炸弹人64 - 二次进攻! （美版）"/>
+	<game FlagNo="N64#91" name="Bomberman Hero (Europe)" cn_name="炸弹人英雄 （欧版）"/>
+	<game FlagNo="N64#92" name="Bomberman Hero (USA)" cn_name="炸弹人英雄 （美版）"/>
+	<game FlagNo="N64#93" name="Bottom of the 9th (USA)" cn_name="绝境棒球 （美版）"/>
+	<game FlagNo="N64#94" name="Brunswick Circuit Pro Bowling (USA)" cn_name="布伦瑞克职业保龄球巡回赛 （美版）"/>
+	<game FlagNo="N64#95" name="Buck Bumble (Europe) (En,Fr,De,Es,It)" cn_name="巴克大黄蜂 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#96" name="Buck Bumble (Japan)" cn_name="巴克大黄蜂 （日版）"/>
+	<game FlagNo="N64#97" name="Buck Bumble (USA)" cn_name="巴克大黄蜂 （美版）"/>
+	<game FlagNo="N64#98" name="Bug's Life, A (Europe)" cn_name="虫虫特工队 （欧版）"/>
+	<game FlagNo="N64#99" name="Bug's Life, A (France)" cn_name="虫虫特工队 （法版）"/>
+	<game FlagNo="N64#100" name="Bug's Life, A (Germany)" cn_name="虫虫特工队 （德版）"/>
+	<game FlagNo="N64#101" name="Bug's Life, A (Italy)" cn_name="虫虫特工队 意大利版"/>
+	<game FlagNo="N64#102" name="Bug's Life, A (USA)" cn_name="虫虫特工队 （美版）"/>
+	<game FlagNo="N64#103" name="Bust-A-Move '99 (USA)" cn_name="泡泡龙 '99 （美版）"/>
+	<game FlagNo="N64#104" name="Bust-A-Move 2 - Arcade Edition (Europe)" cn_name="泡泡龙2-街机版 （欧版）"/>
+	<game FlagNo="N64#105" name="Bust-A-Move 2 - Arcade Edition (USA)" cn_name="泡泡龙2-街机版 （美版）"/>
+	<game FlagNo="N64#106" name="Bust-A-Move 3 DX (Europe)" cn_name="泡泡龙3 DX （欧版）"/>
+	<game FlagNo="N64#107" name="California Speed (Europe) (Proto)" cn_name="加州赛车 （欧版） (Proto)"/>
+	<game FlagNo="N64#108" name="California Speed (USA)" cn_name="加州赛车 （美版）"/>
+	<game FlagNo="N64#109" name="Carmageddon 64 (Europe) (En,Fr,De,Es)" cn_name="恶煞车手64 （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#110" name="Carmageddon 64 (Europe) (En,Fr,Es,It)" cn_name="恶煞车手64 （欧版） (En,Fr,Es,It)"/>
+	<game FlagNo="N64#111" name="Carmageddon 64 (USA)" cn_name="恶煞车手64 （美版）"/>
+	<game FlagNo="N64#112" name="Castlevania (Europe) (En,Fr,De)" cn_name="恶魔城默示录 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#113" name="Castlevania (USA) (Rev A)" cn_name="恶魔城默示录 （美版） (Rev A)"/>
+	<game FlagNo="N64#114" name="Castlevania (USA) (Rev B)" cn_name="恶魔城默示录 （美版） (Rev B)"/>
+	<game FlagNo="N64#115" name="Castlevania (USA)" cn_name="恶魔城默示录 （美版）"/>
+	<game FlagNo="N64#116" name="Castlevania - Legacy of Darkness (Europe) (En,Fr,De)" cn_name="恶魔城默示录 - 黑暗遗产 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#117" name="Castlevania - Legacy of Darkness (USA)" cn_name="恶魔城默示录 - 黑暗遗产 （美版）"/>
+	<game FlagNo="N64#118" name="Centre Court Tennis (Europe)" cn_name="中心球场网球赛 （欧版）"/>
+	<game FlagNo="N64#119" name="Chameleon Twist (Europe)" cn_name="变色龙 （欧版）"/>
+	<game FlagNo="N64#120" name="Chameleon Twist (Japan)" cn_name="变色龙 （日版）"/>
+	<game FlagNo="N64#121" name="Chameleon Twist (USA) (Rev A)" cn_name="变色龙 （美版） (Rev A)"/>
+	<game FlagNo="N64#122" name="Chameleon Twist (USA)" cn_name="变色龙 （美版）"/>
+	<game FlagNo="N64#123" name="Chameleon Twist 2 (Europe)" cn_name="变色龙 2 （欧版）"/>
+	<game FlagNo="N64#124" name="Chameleon Twist 2 (Japan)" cn_name="变色龙 2 （日版）"/>
+	<game FlagNo="N64#125" name="Chameleon Twist 2 (USA)" cn_name="变色龙 2 （美版）"/>
+	<game FlagNo="N64#126" name="Charlie Blast's Territory (Europe)" cn_name="爆破工查理 （欧版）"/>
+	<game FlagNo="N64#127" name="Charlie Blast's Territory (USA)" cn_name="爆破工查理 （美版）"/>
+	<game FlagNo="N64#128" name="Chopper Attack (Europe)" cn_name="狂野直升机 （欧版）"/>
+	<game FlagNo="N64#129" name="Chopper Attack (USA)" cn_name="狂野直升机 （美版）"/>
+	<game FlagNo="N64#130" name="Choro Q 64 (Japan)" cn_name="可爱Q赛车 （日版）"/>
+	<game FlagNo="N64#131" name="Choro Q 64 II - Hacha Mecha Grand Prix Race (Japan)" cn_name="可爱Q赛车 II - Hacha Mecha Grand Prix Race （日版）"/>
+	<game FlagNo="N64#132" name="Chou Kuukan Nighter Pro Yakyuu King (Japan)" cn_name="超空间棒球大赛 （日版）"/>
+	<game FlagNo="N64#133" name="Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)" cn_name="超空间棒球大赛 2 （日版）"/>
+	<game FlagNo="N64#134" name="Chou Snobo Kids (Japan)" cn_name="超级滑雪小子 （日版）"/>
+	<game FlagNo="N64#135" name="City-Tour GP - Zen-Nihon GT Senshuken (Japan)" cn_name="GT64-锦标赛版 （日版）"/>
+	<game FlagNo="N64#136" name="Clay Fighter - Sculptor's Cut (USA)" cn_name="黏土战士-雕刻家之作 （美版）"/>
+	<game FlagNo="N64#137" name="Clay Fighter 63 1-3 (Europe)" cn_name="黏土战士63 1-3 （欧版）"/>
+	<game FlagNo="N64#138" name="Clay Fighter 63 1-3 (USA) (Beta)" cn_name="黏土战士63 1-3 （美版） (Beta)"/>
+	<game FlagNo="N64#139" name="Clay Fighter 63 1-3 (USA)" cn_name="黏土战士63 1-3 （美版）"/>
+	<game FlagNo="N64#140" name="Command &amp; Conquer (Europe) (En,Fr)" cn_name="命令与征服 （欧版） (En,Fr)"/>
+	<game FlagNo="N64#141" name="Command &amp; Conquer (Germany)" cn_name="命令与征服 （德版）"/>
+	<game FlagNo="N64#142" name="Command &amp; Conquer (USA)" cn_name="命令与征服 （美版）"/>
+	<game FlagNo="N64#143" name="Conker's Bad Fur Day (Europe)" cn_name="松鼠大作战 （欧版）"/>
+	<game FlagNo="N64#144" name="Conker's Bad Fur Day (USA) (Beta) (25.10.2000)" cn_name="松鼠大作战 （美版） (Beta) (25.10.2000)"/>
+	<game FlagNo="N64#145" name="Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (26.08.2000)" cn_name="松鼠大作战 （美版） (Beta) (ECTS 2000) (26.08.2000)"/>
+	<game FlagNo="N64#146" name="Conker's Bad Fur Day (USA)" cn_name="松鼠大作战 （美版）"/>
+	<game FlagNo="N64#147" name="Cruis'n Exotica (USA)" cn_name="新奇赛车 （美版）"/>
+	<game FlagNo="N64#148" name="Cruis'n USA (Europe)" cn_name="美国赛车 （欧版）"/>
+	<game FlagNo="N64#149" name="Cruis'n USA (USA) (Rev A)" cn_name="美国赛车 （美版） (Rev A)"/>
+	<game FlagNo="N64#150" name="Cruis'n USA (USA) (Rev B)" cn_name="美国赛车 （美版） (Rev B)"/>
+	<game FlagNo="N64#151" name="Cruis'n USA (USA)" cn_name="美国赛车 （美版）"/>
+	<game FlagNo="N64#152" name="Cruis'n World (Europe)" cn_name="世界赛车 （欧版）"/>
+	<game FlagNo="N64#153" name="Cruis'n World (USA)" cn_name="世界赛车 （美版）"/>
+	<game FlagNo="N64#154" name="Custom Robo (Japan)" cn_name="组合机器人 （日版）"/>
+	<game FlagNo="N64#155" name="Custom Robo V2 (Japan)" cn_name="组合机器人 V2 （日版）"/>
+	<game FlagNo="N64#156" name="CyberTiger (Europe)" cn_name="泰格伍兹高尔夫 （欧版）"/>
+	<game FlagNo="N64#157" name="CyberTiger (USA)" cn_name="泰格伍兹高尔夫 （美版）"/>
+	<game FlagNo="N64#158" name="Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)" cn_name="道奇鸭火星历险记 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#159" name="Dance Dance Revolution - Disney Dancing Museum (Japan)" cn_name="热舞革命-迪斯尼舞蹈博物馆 （日版）"/>
+	<game FlagNo="N64#160" name="Dark Rift (Europe)" cn_name="宇宙战士格斗 （欧版）"/>
+	<game FlagNo="N64#161" name="Dark Rift (USA)" cn_name="宇宙战士格斗 （美版）"/>
+	<game FlagNo="N64#162" name="Deadly Arts (USA)" cn_name="死亡格斗 （美版）"/>
+	<game FlagNo="N64#163" name="Defi au Tetris Magique (France)" cn_name="魔法方块挑战 （法版）"/>
+	<game FlagNo="N64#164" name="Densha de Go! 64 (Japan)" cn_name="电车Go!64 （日版）"/>
+	<game FlagNo="N64#165" name="Derby Stallion 64 (Japan) (Beta)" cn_name="德比赛马64 （日版） (Beta)"/>
+	<game FlagNo="N64#166" name="Derby Stallion 64 (Japan)" cn_name="德比赛马64 （日版）"/>
+	<game FlagNo="N64#167" name="Destruction Derby 64 (Europe) (En,Fr,De)" cn_name="德比破坏赛车64 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#168" name="Destruction Derby 64 (USA)" cn_name="德比破坏赛车64 （美版）"/>
+	<game FlagNo="N64#169" name="Dezaemon 3D (Japan)" cn_name="雷电战机3D （日版）"/>
+	<game FlagNo="N64#170" name="Diddy Kong Racing (Europe) (En,Fr,De) (Rev A)" cn_name="迪迪刚赛车 （欧版） (En,Fr,De) (Rev A)"/>
+	<game FlagNo="N64#171" name="Diddy Kong Racing (Europe) (En,Fr,De)" cn_name="迪迪刚赛车 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#172" name="Diddy Kong Racing (Japan)" cn_name="迪迪刚赛车 （日版）"/>
+	<game FlagNo="N64#173" name="Diddy Kong Racing (USA) (En,Fr) (Rev A)" cn_name="迪迪刚赛车 （美版） (En,Fr) (Rev A)"/>
+	<game FlagNo="N64#174" name="Diddy Kong Racing (USA) (En,Fr)" cn_name="迪迪刚赛车 （美版） (En,Fr)"/>
+	<game FlagNo="N64#175" name="Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)" cn_name="唐老鸭大冒险-嘎嘎攻击 （美版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#176" name="Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)" cn_name="唐老鸭大冒险-嘎嘎攻击 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#177" name="Dongwu Senlin (China) (iQue)" cn_name="动物森林 (中国版) （神游版）"/>
+	<game FlagNo="N64#178" name="Donkey Kong 64 (Europe) (En,Fr,De,Es)" cn_name="大金刚64 （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#179" name="Donkey Kong 64 (Japan)" cn_name="大金刚64 （日版）"/>
+	<game FlagNo="N64#180" name="Donkey Kong 64 (USA) (Demo) (Kiosk)" cn_name="大金刚64 （美版） (Demo) (Kiosk)"/>
+	<game FlagNo="N64#181" name="Donkey Kong 64 (USA)" cn_name="大金刚64 （美版）"/>
+	<game FlagNo="N64#182" name="Doom 64 (Europe)" cn_name="毁灭战士64 （欧版）"/>
+	<game FlagNo="N64#183" name="Doom 64 (Japan)" cn_name="毁灭战士64 （日版）"/>
+	<game FlagNo="N64#184" name="Doom 64 (USA) (Rev A)" cn_name="毁灭战士64 （美版） (Rev A)"/>
+	<game FlagNo="N64#185" name="Doom 64 (USA)" cn_name="毁灭战士64 （美版）"/>
+	<game FlagNo="N64#186" name="Doraemon - Nobita to 3tsu no Seireiseki (Japan)" cn_name="哆啦A梦-三颗精灵石 （日版）"/>
+	<game FlagNo="N64#187" name="Doraemon 2 - Nobita to Hikari no Shinden (Japan)" cn_name="哆啦A梦2-光之神殿 （日版）"/>
+	<game FlagNo="N64#188" name="Doraemon 3 - Nobita no Machi SOS! (Japan)" cn_name="哆啦A梦3-野比太町大营救! （日版）"/>
+	<game FlagNo="N64#189" name="Doubutsu no Mori (Japan)" cn_name="动物之森 （日版）"/>
+	<game FlagNo="N64#190" name="Dr. Mario 64 (USA)" cn_name="马里奥医生64 （美版）"/>
+	<game FlagNo="N64#191" name="Dragon Sword 64 (USA) (Proto)" cn_name="龙之剑64 （美版） (Proto)"/>
+	<game FlagNo="N64#192" name="Dual Heroes (Europe)" cn_name="英雄战队 （欧版）"/>
+	<game FlagNo="N64#193" name="Dual Heroes (Japan)" cn_name="英雄战队 （日版）"/>
+	<game FlagNo="N64#194" name="Dual Heroes (USA)" cn_name="英雄战队 （美版）"/>
+	<game FlagNo="N64#195" name="Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta)" cn_name="道奇鸭火星历险记 （美版） (En,Fr,Es) (Beta)"/>
+	<game FlagNo="N64#196" name="Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)" cn_name="道奇鸭火星历险记 （美版） (En,Fr,Es)"/>
+	<game FlagNo="N64#197" name="Duke Nukem - Zero Hour (Europe)" cn_name="毁灭公爵-关键时刻 （欧版）"/>
+	<game FlagNo="N64#198" name="Duke Nukem - Zero Hour (France)" cn_name="毁灭公爵-关键时刻 （法版）"/>
+	<game FlagNo="N64#199" name="Duke Nukem - Zero Hour (USA)" cn_name="毁灭公爵-关键时刻 （美版）"/>
+	<game FlagNo="N64#200" name="Duke Nukem 64 (Europe) (Beta)" cn_name="毁灭公爵64 （欧版） (Beta)"/>
+	<game FlagNo="N64#201" name="Duke Nukem 64 (Europe)" cn_name="毁灭公爵64 （欧版）"/>
+	<game FlagNo="N64#202" name="Duke Nukem 64 (France)" cn_name="毁灭公爵64 （法版）"/>
+	<game FlagNo="N64#203" name="Duke Nukem 64 (USA)" cn_name="毁灭公爵64 （美版）"/>
+	<game FlagNo="N64#204" name="Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)" cn_name="蚯蚓吉姆3D （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#205" name="Earthworm Jim 3D (USA)" cn_name="蚯蚓吉姆3D （美版）"/>
+	<game FlagNo="N64#206" name="ECW Hardcore Revolution (Europe)" cn_name="终极摔交锦标赛 （欧版）"/>
+	<game FlagNo="N64#207" name="ECW Hardcore Revolution (USA)" cn_name="终极摔交锦标赛 （美版）"/>
+	<game FlagNo="N64#208" name="Eikou no Saint Andrews (Japan)" cn_name="荣光的圣安德鲁斯老球场 （日版）"/>
+	<game FlagNo="N64#209" name="Elmo's Letter Adventure (USA)" cn_name="艾摩的字母冒险 （美版）"/>
+	<game FlagNo="N64#210" name="Elmo's Number Journey (USA)" cn_name="艾摩的数字旅程 （美版）"/>
+	<game FlagNo="N64#211" name="Eltale Monsters (Japan)" cn_name="圣魔世纪 （日版）"/>
+	<game FlagNo="N64#212" name="Excitebike 64 (Europe)" cn_name="越野机车64 （欧版）"/>
+	<game FlagNo="N64#213" name="Excitebike 64 (Japan)" cn_name="越野机车64 （日版）"/>
+	<game FlagNo="N64#214" name="Excitebike 64 (USA) (Demo) (Kiosk)" cn_name="越野机车64 （美版） (Demo) (Kiosk)"/>
+	<game FlagNo="N64#215" name="Excitebike 64 (USA) (Rev A)" cn_name="越野机车64 （美版） (Rev A)"/>
+	<game FlagNo="N64#216" name="Excitebike 64 (USA)" cn_name="越野机车64 （美版）"/>
+	<game FlagNo="N64#217" name="Extreme-G (Europe) (En,Fr,De,Es,It)" cn_name="极限摩托车-G （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#218" name="Extreme-G (Japan)" cn_name="极限摩托车-G （日版）"/>
+	<game FlagNo="N64#219" name="Extreme-G (USA)" cn_name="极限摩托车-G （美版）"/>
+	<game FlagNo="N64#220" name="Extreme-G XG2 (Europe) (En,Fr,De,Es,It)" cn_name="极限摩托车-G XG2 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#221" name="Extreme-G XG2 (Japan)" cn_name="极限摩托车-G XG2 （日版）"/>
+	<game FlagNo="N64#222" name="Extreme-G XG2 (USA)" cn_name="极限摩托车-G XG2 （美版）"/>
+	<game FlagNo="N64#223" name="F-1 World Grand Prix (Europe) (Beta)" cn_name="F1国际赛车大奖赛 （欧版） (Beta)"/>
+	<game FlagNo="N64#224" name="F-1 World Grand Prix (Europe)" cn_name="F1国际赛车大奖赛 （欧版）"/>
+	<game FlagNo="N64#225" name="F-1 World Grand Prix (France)" cn_name="F1国际赛车大奖赛 （法版）"/>
+	<game FlagNo="N64#226" name="F-1 World Grand Prix (Germany)" cn_name="F1国际赛车大奖赛 （德版）"/>
+	<game FlagNo="N64#227" name="F-1 World Grand Prix (Japan)" cn_name="F1国际赛车大奖赛 （日版）"/>
+	<game FlagNo="N64#228" name="F-1 World Grand Prix (USA)" cn_name="F1国际赛车大奖赛 （美版）"/>
+	<game FlagNo="N64#229" name="F-1 World Grand Prix II (Europe) (En,Fr,De,Es)" cn_name="F1国际赛车大奖赛 II （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#230" name="F-Zero X (Europe)" cn_name="零式赛车X （欧版）"/>
+	<game FlagNo="N64#231" name="F-Zero X (Japan)" cn_name="零式赛车X （日版）"/>
+	<game FlagNo="N64#232" name="F-Zero X (USA)" cn_name="零式赛车X （美版）"/>
+	<game FlagNo="N64#233" name="F-Zero X - Weilai Saiche (China) (iQue)" cn_name="零式赛车X - 未来赛车 (中国版) （神游版）"/>
+	<game FlagNo="N64#234" name="F-Zero X - Weilai Saiche (China) (v2) (iQue) (Manual)" cn_name="零式赛车X - 未来赛车 (中国版) (v2) （神游版） (Manual)"/>
+	<game FlagNo="N64#235" name="F-Zero X - Weilai Saiche (China) (v4) (iQue) (Manual)" cn_name="零式赛车X - 未来赛车 (中国版) (v4) （神游版） (Manual)"/>
+	<game FlagNo="N64#236" name="F1 Pole Position 64 (Europe) (En,Fr,De)" cn_name="休曼GP赛车 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#237" name="F1 Pole Position 64 (USA) (En,Fr,De)" cn_name="休曼GP赛车 （美版） (En,Fr,De)"/>
+	<game FlagNo="N64#238" name="F1 Racing Championship (Brazil) (En,Fr)" cn_name="F1赛车锦标赛 （巴西版） (En,Fr)"/>
+	<game FlagNo="N64#239" name="F1 Racing Championship (Europe) (En,Fr,De,Es,It)" cn_name="F1赛车锦标赛 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#240" name="Famista 64 (Japan)" cn_name="南梦宫棒球64 （日版）"/>
+	<game FlagNo="N64#241" name="FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)" cn_name="FIFA足球 98-世界杯之路 （欧版） (En,Fr,De,Es,It,Nl,Sv)"/>
+	<game FlagNo="N64#242" name="FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)" cn_name="FIFA足球 98-世界杯之路 （美版） (En,Fr,De,Es,It,Nl,Sv)"/>
+	<game FlagNo="N64#243" name="FIFA - Road to World Cup 98 - World Cup e no Michi (Japan)" cn_name="FIFA足球 98-世界杯之路 - World Cup e no Michi （日版）"/>
+	<game FlagNo="N64#244" name="FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)" cn_name="FIFA足球 99 （欧版） (En,Fr,De,Es,It,Nl,Pt,Sv)"/>
+	<game FlagNo="N64#245" name="FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)" cn_name="FIFA足球 99 （美版） (En,Fr,De,Es,It,Nl,Pt,Sv)"/>
+	<game FlagNo="N64#246" name="FIFA Soccer 64 (Europe) (En,Fr,De)" cn_name="FIFA足球64 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#247" name="FIFA Soccer 64 (USA) (En,Fr,De)" cn_name="FIFA足球64 （美版） (En,Fr,De)"/>
+	<game FlagNo="N64#248" name="Fighter Destiny 2 (USA)" cn_name="格斗传承2 （美版）"/>
+	<game FlagNo="N64#249" name="Fighters Destiny (Europe)" cn_name="格斗传承 （欧版）"/>
+	<game FlagNo="N64#250" name="Fighters Destiny (France)" cn_name="格斗传承 （法版）"/>
+	<game FlagNo="N64#251" name="Fighters Destiny (Germany)" cn_name="格斗传承 （德版）"/>
+	<game FlagNo="N64#252" name="Fighters Destiny (USA)" cn_name="格斗传承 （美版）"/>
+	<game FlagNo="N64#253" name="Fighting Cup (Japan)" cn_name="格斗传承 （日版）"/>
+	<game FlagNo="N64#254" name="Fighting Force 64 (Europe)" cn_name="格斗力量64 （欧版）"/>
+	<game FlagNo="N64#255" name="Fighting Force 64 (USA)" cn_name="格斗力量64 （美版）"/>
+	<game FlagNo="N64#256" name="Flying Dragon (Europe)" cn_name="飞龙之拳 （欧版）"/>
+	<game FlagNo="N64#257" name="Flying Dragon (USA)" cn_name="飞龙之拳 （美版）"/>
+	<game FlagNo="N64#258" name="Forsaken 64 (Europe) (En,Fr,Es,It)" cn_name="浩劫余生64 （欧版） (En,Fr,Es,It)"/>
+	<game FlagNo="N64#259" name="Forsaken 64 (Germany)" cn_name="浩劫余生64 （德版）"/>
+	<game FlagNo="N64#260" name="Forsaken 64 (USA)" cn_name="浩劫余生64 （美版）"/>
+	<game FlagNo="N64#261" name="Fox Sports College Hoops '99 (USA)" cn_name="福克斯篮球 '99 （美版）"/>
+	<game FlagNo="N64#262" name="Frogger 2 (USA) (Rev A) (Proto)" cn_name="青蛙过河2 （美版） (Rev A) (Proto)"/>
+	<game FlagNo="N64#263" name="Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)" cn_name="风来西林之不可思议的迷宫2 （日版）"/>
+	<game FlagNo="N64#264" name="G.A.S.P!! Fighters' NEXTream (Europe)" cn_name="死亡格斗 （欧版）"/>
+	<game FlagNo="N64#265" name="G.A.S.P!! Fighters' NEXTream (Japan)" cn_name="死亡格斗 （日版）"/>
+	<game FlagNo="N64#266" name="GameBooster 64 (Europe) (v1.1) (Unl)" cn_name="GameBooster64 （欧版） (v1.1) (Unl)"/>
+	<game FlagNo="N64#267" name="GameBooster 64 (USA) (v1.1) (Unl)" cn_name="GameBooster64 （美版） (v1.1) (Unl)"/>
+	<game FlagNo="N64#268" name="GameShark Pro (USA) (v2.0) (Unl)" cn_name="GameSharkPro （美版） (v2.0) (Unl)"/>
+	<game FlagNo="N64#269" name="GameShark Pro (USA) (v3.3) (Unl)" cn_name="GameSharkPro （美版） (v3.3) (Unl)"/>
+	<game FlagNo="N64#270" name="Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan)" cn_name="大盗伍佑卫门-道中除妖记 （日版）"/>
+	<game FlagNo="N64#271" name="Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan)" cn_name="大盗伍佑卫门-桃山幕府记 （日版）"/>
+	<game FlagNo="N64#272" name="Ganbare! Nippon! Olympics 2000 (Japan)" cn_name="加油!日本!奥运 2000 （日版）"/>
+	<game FlagNo="N64#273" name="Gauntlet Legends (Europe)" cn_name="圣铠传说 （欧版）"/>
+	<game FlagNo="N64#274" name="Gauntlet Legends (Japan)" cn_name="圣铠传说 （日版）"/>
+	<game FlagNo="N64#275" name="Gauntlet Legends (USA)" cn_name="圣铠传说 （美版）"/>
+	<game FlagNo="N64#276" name="Getter Love!! Cho Renai Party Game (Japan)" cn_name="恋爱告白 （日版）"/>
+	<game FlagNo="N64#277" name="Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)" cn_name="壁虎杰克斯3 （欧版） (En,Es,It)"/>
+	<game FlagNo="N64#278" name="Gex 3 - Deep Cover Gecko (Europe) (Fr,De)" cn_name="壁虎杰克斯3 （欧版） (Fr,De)"/>
+	<game FlagNo="N64#279" name="Gex 3 - Deep Cover Gecko (USA)" cn_name="壁虎杰克斯3 （美版）"/>
+	<game FlagNo="N64#280" name="Gex 64 - Enter the Gecko (Europe)" cn_name="壁虎杰克斯64 （欧版）"/>
+	<game FlagNo="N64#281" name="Gex 64 - Enter the Gecko (USA)" cn_name="壁虎杰克斯64 （美版）"/>
+	<game FlagNo="N64#282" name="Glover (Europe) (En,Fr,De)" cn_name="手套小子 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#283" name="Glover (USA) (Beta)" cn_name="手套小子 （美版） (Beta)"/>
+	<game FlagNo="N64#284" name="Glover (USA)" cn_name="手套小子 （美版）"/>
+	<game FlagNo="N64#285" name="Glover 2 (USA) (Proto) (early)" cn_name="手套小子 2 （美版） (Proto) (early)"/>
+	<game FlagNo="N64#286" name="Glover 2 (USA) (Proto)" cn_name="手套小子 2 （美版） (Proto)"/>
+	<game FlagNo="N64#287" name="Goemon - Mononoke Sugoroku (Japan)" cn_name="大盗伍佑卫门-魔法双六 （日版）"/>
+	<game FlagNo="N64#288" name="Goemon's Great Adventure (USA)" cn_name="大盗伍佑卫门2 （美版）"/>
+	<game FlagNo="N64#289" name="Golden Nugget 64 (USA)" cn_name="职业赌场64 （美版）"/>
+	<game FlagNo="N64#290" name="GT64 - Championship Edition (Europe) (En,Fr,De)" cn_name="GT64-锦标赛版 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#291" name="GT64 - Championship Edition (USA)" cn_name="GT64-锦标赛版 （美版）"/>
+	<game FlagNo="N64#292" name="Hamster Monogatari 64 (Japan)" cn_name="仓鼠物语64 （日版）"/>
+	<game FlagNo="N64#293" name="Harukanaru Augusta - Masters '98 (Japan)" cn_name="遥远的奥古斯塔-大师赛 '98 （日版）"/>
+	<game FlagNo="N64#294" name="Harvest Moon 64 (USA)" cn_name="牧场物语64 （美版）"/>
+	<game FlagNo="N64#295" name="Heiwa Pachinko World 64 (Japan)" cn_name="平和柏青哥世界64 （日版）"/>
+	<game FlagNo="N64#296" name="Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)" cn_name="大力士-传奇旅程 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#297" name="Hercules - The Legendary Journeys (USA)" cn_name="大力士-传奇旅程 （美版）"/>
+	<game FlagNo="N64#298" name="Hexen (Europe)" cn_name="毁灭巫师 （欧版）"/>
+	<game FlagNo="N64#299" name="Hexen (France)" cn_name="毁灭巫师 （法版）"/>
+	<game FlagNo="N64#300" name="Hexen (Germany)" cn_name="毁灭巫师 （德版）"/>
+	<game FlagNo="N64#301" name="Hexen (Japan)" cn_name="毁灭巫师 （日版）"/>
+	<game FlagNo="N64#302" name="Hexen (USA)" cn_name="毁灭巫师 （美版）"/>
+	<game FlagNo="N64#303" name="Hey You, Pikachu! (USA)" cn_name="你好 皮卡丘! （美版）"/>
+	<game FlagNo="N64#304" name="Hiryuu no Ken Twin (Japan)" cn_name="飞龙之拳 （日版）"/>
+	<game FlagNo="N64#305" name="Holy Magic Century (Europe)" cn_name="圣魔世纪 （欧版）"/>
+	<game FlagNo="N64#306" name="Holy Magic Century (France)" cn_name="圣魔世纪 （法版）"/>
+	<game FlagNo="N64#307" name="Holy Magic Century (Germany)" cn_name="圣魔世纪 （德版）"/>
+	<game FlagNo="N64#308" name="Hoshi no Kirby 64 (Japan) (Rev A)" cn_name="星之卡比64 （日版） (Rev A)"/>
+	<game FlagNo="N64#309" name="Hoshi no Kirby 64 (Japan) (Rev B)" cn_name="星之卡比64 （日版） (Rev B)"/>
+	<game FlagNo="N64#310" name="Hoshi no Kirby 64 (Japan) (Rev C)" cn_name="星之卡比64 （日版） (Rev C)"/>
+	<game FlagNo="N64#311" name="Hoshi no Kirby 64 (Japan)" cn_name="星之卡比64 （日版）"/>
+	<game FlagNo="N64#312" name="Hot Wheels - Turbo Racing (Europe) (En,Fr,De)" cn_name="风火轮-涡轮赛车 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#313" name="Hot Wheels - Turbo Racing (USA)" cn_name="风火轮-涡轮赛车 （美版）"/>
+	<game FlagNo="N64#314" name="HSV Adventure Racing! (Australia)" cn_name="HSV冒险赛车 澳版"/>
+	<game FlagNo="N64#315" name="Human Grand Prix - The New Generation (Japan)" cn_name="休曼GP赛车 （日版）"/>
+	<game FlagNo="N64#316" name="Hybrid Heaven (Europe) (En,Fr,De)" cn_name="混沌天堂 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#317" name="Hybrid Heaven (Japan)" cn_name="混沌天堂 （日版）"/>
+	<game FlagNo="N64#318" name="Hybrid Heaven (USA)" cn_name="混沌天堂 （美版）"/>
+	<game FlagNo="N64#319" name="Hydro Thunder (Europe)" cn_name="雷霆快艇 （欧版）"/>
+	<game FlagNo="N64#320" name="Hydro Thunder (France)" cn_name="雷霆快艇 （法版）"/>
+	<game FlagNo="N64#321" name="Hydro Thunder (USA)" cn_name="雷霆快艇 （美版）"/>
+	<game FlagNo="N64#322" name="Hyper Olympics in Nagano 64 (Japan)" cn_name="长野冬季奥运会64 （日版）"/>
+	<game FlagNo="N64#323" name="Ide Yosuke no Mahjong Juku (Japan)" cn_name="井出洋介的麻雀塾 （日版）"/>
+	<game FlagNo="N64#324" name="Iggy's Reckin' Balls (Europe)" cn_name="伊基滚滚球 （欧版）"/>
+	<game FlagNo="N64#325" name="Iggy's Reckin' Balls (USA)" cn_name="伊基滚滚球 （美版）"/>
+	<game FlagNo="N64#326" name="Iggy-kun no Bura Bura Poyon (Japan)" cn_name="伊基滚滚球 （日版）"/>
+	<game FlagNo="N64#327" name="In-Fisherman - Bass Hunter 64 (Europe)" cn_name="巴斯鲈猎人64 （欧版）"/>
+	<game FlagNo="N64#328" name="In-Fisherman - Bass Hunter 64 (USA)" cn_name="巴斯鲈猎人64 （美版）"/>
+	<game FlagNo="N64#329" name="Indiana Jones and the Infernal Machine (Australia) (Proto)" cn_name="印第安纳琼斯与恶魔机器 澳版 (Proto)"/>
+	<game FlagNo="N64#330" name="Indiana Jones and the Infernal Machine (USA)" cn_name="印第安纳琼斯与恶魔机器 （美版）"/>
+	<game FlagNo="N64#331" name="Indy Racing 2000 (USA)" cn_name="印地赛车 2000 （美版）"/>
+	<game FlagNo="N64#332" name="International Superstar Soccer '98 (Europe)" cn_name="国际超级明星足球 '98 （欧版）"/>
+	<game FlagNo="N64#333" name="International Superstar Soccer '98 (USA)" cn_name="国际超级明星足球 '98 （美版）"/>
+	<game FlagNo="N64#334" name="International Superstar Soccer 2000 (Europe) (En,De)" cn_name="国际超级明星足球 2000 （欧版） (En,De)"/>
+	<game FlagNo="N64#335" name="International Superstar Soccer 2000 (Europe) (Fr,It)" cn_name="国际超级明星足球 2000 （欧版） (Fr,It)"/>
+	<game FlagNo="N64#336" name="International Superstar Soccer 2000 (USA) (En,Es)" cn_name="国际超级明星足球 2000 （美版） (En,Es)"/>
+	<game FlagNo="N64#337" name="International Superstar Soccer 64 (Europe)" cn_name="国际超级明星足球64 （欧版）"/>
+	<game FlagNo="N64#338" name="International Superstar Soccer 64 (USA)" cn_name="国际超级明星足球64 （美版）"/>
+	<game FlagNo="N64#339" name="International Track &amp; Field - Summer Games (Europe) (En,Fr,De)" cn_name="国际田径-夏季运动会 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#340" name="International Track &amp; Field 2000 (USA)" cn_name="国际田径 2000 （美版）"/>
+	<game FlagNo="N64#341" name="iQue Club (China) (iQue)" cn_name="神游俱乐部 (中国版) （神游版）"/>
+	<game FlagNo="N64#342" name="iQue Mario (China) (iQue)" cn_name="神游马里奥 (中国版) （神游版）"/>
+	<game FlagNo="N64#343" name="iQue Mario (China) (v6) (iQue) (Manual)" cn_name="神游马里奥 (中国版) (v6) （神游版） (Manual)"/>
+	<game FlagNo="N64#344" name="Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)" cn_name="系井重里的巴斯鲈钓No.1 决定版 （日版）"/>
+	<game FlagNo="N64#345" name="J.League Dynamite Soccer 64 (Japan)" cn_name="J联盟火爆足球64 （日版）"/>
+	<game FlagNo="N64#346" name="J.League Eleven Beat 1997 (Japan)" cn_name="Q版J联盟足球 1997 （日版）"/>
+	<game FlagNo="N64#347" name="J.League Live 64 (Japan)" cn_name="J联盟足球64 （日版）"/>
+	<game FlagNo="N64#348" name="J.League Tactics Soccer (Japan) (Rev A)" cn_name="J联盟战术足球 （日版） (Rev A)"/>
+	<game FlagNo="N64#349" name="J.League Tactics Soccer (Japan)" cn_name="J联盟战术足球 （日版）"/>
+	<game FlagNo="N64#350" name="Jangou Simulation Mahjong Dou 64 (Japan)" cn_name="雀豪模拟 麻雀道64 （日版）"/>
+	<game FlagNo="N64#351" name="Jeopardy! (USA)" cn_name="危险边缘知识问答 （美版）"/>
+	<game FlagNo="N64#352" name="Jeremy McGrath Supercross 2000 (Europe)" cn_name="杰里米麦格拉思超级越野摩托赛 2000 （欧版）"/>
+	<game FlagNo="N64#353" name="Jeremy McGrath Supercross 2000 (USA)" cn_name="杰里米麦格拉思超级越野摩托赛 2000 （美版）"/>
+	<game FlagNo="N64#354" name="Jet Force Gemini (Europe) (En,Fr,De,Es)" cn_name="喷射力量 双子星 （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#355" name="Jet Force Gemini (USA) (Demo) (Kiosk)" cn_name="喷射力量 双子星 （美版） (Demo) (Kiosk)"/>
+	<game FlagNo="N64#356" name="Jet Force Gemini (USA)" cn_name="喷射力量 双子星 （美版）"/>
+	<game FlagNo="N64#357" name="Jikkyou G1 Stable (Japan) (Rev A)" cn_name="实况G1赛马 （日版） (Rev A)"/>
+	<game FlagNo="N64#358" name="Jikkyou G1 Stable (Japan)" cn_name="实况G1赛马 （日版）"/>
+	<game FlagNo="N64#359" name="Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev A)" cn_name="实况J联盟 1999-最佳射手2 （日版） (Rev A)"/>
+	<game FlagNo="N64#360" name="Jikkyou J.League 1999 - Perfect Striker 2 (Japan)" cn_name="实况J联盟 1999-最佳射手2 （日版）"/>
+	<game FlagNo="N64#361" name="Jikkyou J.League Perfect Striker (Japan)" cn_name="实况J联盟 最佳射手 （日版）"/>
+	<game FlagNo="N64#362" name="Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev A)" cn_name="实况力量棒球 2000 （日版） (Rev A)"/>
+	<game FlagNo="N64#363" name="Jikkyou Powerful Pro Yakyuu 2000 (Japan)" cn_name="实况力量棒球 2000 （日版）"/>
+	<game FlagNo="N64#364" name="Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev A)" cn_name="实况力量棒球4 （日版） (Rev A)"/>
+	<game FlagNo="N64#365" name="Jikkyou Powerful Pro Yakyuu 4 (Japan)" cn_name="实况力量棒球4 （日版）"/>
+	<game FlagNo="N64#366" name="Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev A)" cn_name="实况力量棒球5 （日版） (Rev A)"/>
+	<game FlagNo="N64#367" name="Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev B)" cn_name="实况力量棒球5 （日版） (Rev B)"/>
+	<game FlagNo="N64#368" name="Jikkyou Powerful Pro Yakyuu 5 (Japan)" cn_name="实况力量棒球5 （日版）"/>
+	<game FlagNo="N64#369" name="Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev A)" cn_name="实况力量棒球6 （日版） (Rev A)"/>
+	<game FlagNo="N64#370" name="Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev B)" cn_name="实况力量棒球6 （日版） (Rev B)"/>
+	<game FlagNo="N64#371" name="Jikkyou Powerful Pro Yakyuu 6 (Japan)" cn_name="实况力量棒球6 （日版）"/>
+	<game FlagNo="N64#372" name="Jikkyou Powerful Pro Yakyuu Basic Ban 2001 (Japan) (Rev A)" cn_name="实况力量棒球基本版 2001 （日版） (Rev A)"/>
+	<game FlagNo="N64#373" name="Jikkyou Powerful Pro Yakyuu Basic Ban 2001 (Japan)" cn_name="实况力量棒球基本版 2001 （日版）"/>
+	<game FlagNo="N64#374" name="Jikkyou World Soccer - World Cup France '98 (Japan) (Rev A)" cn_name="实况世界足球-法国世界杯 '98 （日版） (Rev A)"/>
+	<game FlagNo="N64#375" name="Jikkyou World Soccer - World Cup France '98 (Japan) (Rev B)" cn_name="实况世界足球-法国世界杯 '98 （日版） (Rev B)"/>
+	<game FlagNo="N64#376" name="Jikkyou World Soccer - World Cup France '98 (Japan)" cn_name="实况世界足球-法国世界杯 '98 （日版）"/>
+	<game FlagNo="N64#377" name="Jikkyou World Soccer 3 (Japan)" cn_name="实况世界足球3 （日版）"/>
+	<game FlagNo="N64#378" name="Jikuu Senshi Turok (Japan)" cn_name="恐龙猎人 （日版）"/>
+	<game FlagNo="N64#379" name="Jinsei Game 64 (Japan)" cn_name="人生游戏64 （日版）"/>
+	<game FlagNo="N64#380" name="John Romero's Daikatana (Europe) (En,Fr,De)" cn_name="大刀 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#381" name="John Romero's Daikatana (Japan)" cn_name="大刀 （日版）"/>
+	<game FlagNo="N64#382" name="John Romero's Daikatana (USA)" cn_name="大刀 （美版）"/>
+	<game FlagNo="N64#383" name="Kakutou Denshou - F-Cup Maniax (Japan)" cn_name="格斗传承2 （日版）"/>
+	<game FlagNo="N64#384" name="Ken Griffey Jr.'s Slugfest (USA)" cn_name="小肯葛瑞菲棒球 （美版）"/>
+	<game FlagNo="N64#385" name="Killer Instinct Gold (Europe)" cn_name="杀手本能 黄金版 （欧版）"/>
+	<game FlagNo="N64#386" name="Killer Instinct Gold (USA) (Rev A)" cn_name="杀手本能 黄金版 （美版） (Rev A)"/>
+	<game FlagNo="N64#387" name="Killer Instinct Gold (USA) (Rev B)" cn_name="杀手本能 黄金版 （美版） (Rev B)"/>
+	<game FlagNo="N64#388" name="Killer Instinct Gold (USA)" cn_name="杀手本能 黄金版 （美版）"/>
+	<game FlagNo="N64#389" name="King Hill 64 - Extreme Snowboarding (Japan)" cn_name="雪地滑板王 （日版）"/>
+	<game FlagNo="N64#390" name="Kiratto Kaiketsu! 64 Tanteidan (Japan)" cn_name="侦探团64 （日版）"/>
+	<game FlagNo="N64#391" name="Kirby 64 - The Crystal Shards (Europe)" cn_name="星之卡比64-水晶碎片 （欧版）"/>
+	<game FlagNo="N64#392" name="Kirby 64 - The Crystal Shards (USA)" cn_name="星之卡比64-水晶碎片 （美版）"/>
+	<game FlagNo="N64#393" name="Knife Edge - Nose Gunner (Europe)" cn_name="刀锋边缘-前机枪手 （欧版）"/>
+	<game FlagNo="N64#394" name="Knife Edge - Nose Gunner (Japan)" cn_name="刀锋边缘-前机枪手 （日版）"/>
+	<game FlagNo="N64#395" name="Knife Edge - Nose Gunner (USA)" cn_name="刀锋边缘-前机枪手 （美版）"/>
+	<game FlagNo="N64#396" name="Knockout Kings 2000 (Europe)" cn_name="击倒王 2000 （欧版）"/>
+	<game FlagNo="N64#397" name="Knockout Kings 2000 (USA)" cn_name="击倒王 2000 （美版）"/>
+	<game FlagNo="N64#398" name="Kobe Bryant in NBA Courtside (Europe)" cn_name="NBA赛场 科比布莱恩特 （欧版）"/>
+	<game FlagNo="N64#399" name="Kobe Bryant's NBA Courtside (USA)" cn_name="NBA赛场 科比布莱恩特 （美版）"/>
+	<game FlagNo="N64#400" name="Last Legion UX (Japan)" cn_name="最终军团UX （日版）"/>
+	<game FlagNo="N64#401" name="Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Debug Version)" cn_name="塞尔达传说-马祖拉的假面 （欧版） (En,Fr,De,Es) (Debug Version)"/>
+	<game FlagNo="N64#402" name="Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev A)" cn_name="塞尔达传说-马祖拉的假面 （欧版） (En,Fr,De,Es) (Rev A)"/>
+	<game FlagNo="N64#403" name="Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)" cn_name="塞尔达传说-马祖拉的假面 （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#404" name="Legend of Zelda, The - Majora's Mask (Europe) (GameCube Edition)" cn_name="塞尔达传说-马祖拉的假面 （欧版） (NGC版)"/>
+	<game FlagNo="N64#405" name="Legend of Zelda, The - Majora's Mask (USA) (Demo)" cn_name="塞尔达传说-马祖拉的假面 （美版） (Demo)"/>
+	<game FlagNo="N64#406" name="Legend of Zelda, The - Majora's Mask (USA) (GameCube Edition)" cn_name="塞尔达传说-马祖拉的假面 （美版） (NGC版)"/>
+	<game FlagNo="N64#407" name="Legend of Zelda, The - Majora's Mask (USA)" cn_name="塞尔达传说-马祖拉的假面 （美版）"/>
+	<game FlagNo="N64#408" name="Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev A)" cn_name="塞尔达传说-时之笛 （欧版） (En,Fr,De) (Rev A)"/>
+	<game FlagNo="N64#409" name="Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)" cn_name="塞尔达传说-时之笛 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#410" name="Legend of Zelda, The - Ocarina of Time (Europe) (GameCube Edition)" cn_name="塞尔达传说-时之笛 （欧版） (NGC版)"/>
+	<game FlagNo="N64#411" name="Legend of Zelda, The - Ocarina of Time (USA) (GameCube Edition)" cn_name="塞尔达传说-时之笛 （美版） (NGC版)"/>
+	<game FlagNo="N64#412" name="Legend of Zelda, The - Ocarina of Time (USA) (Rev A)" cn_name="塞尔达传说-时之笛 （美版） (Rev A)"/>
+	<game FlagNo="N64#413" name="Legend of Zelda, The - Ocarina of Time (USA) (Rev B)" cn_name="塞尔达传说-时之笛 （美版） (Rev B)"/>
+	<game FlagNo="N64#414" name="Legend of Zelda, The - Ocarina of Time (USA)" cn_name="塞尔达传说-时之笛 （美版）"/>
+	<game FlagNo="N64#415" name="Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube Edition)" cn_name="塞尔达传说-时之笛 - Master Quest （欧版） (NGC版)"/>
+	<game FlagNo="N64#416" name="Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug Version)" cn_name="塞尔达传说-时之笛 - Master Quest （美版） (Debug Version)"/>
+	<game FlagNo="N64#417" name="Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube Edition)" cn_name="塞尔达传说-时之笛 - Master Quest （美版） (NGC版)"/>
+	<game FlagNo="N64#418" name="LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" cn_name="乐高赛车 （欧版） (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"/>
+	<game FlagNo="N64#419" name="LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" cn_name="乐高赛车 （美版） (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"/>
+	<game FlagNo="N64#420" name="Let's Smash (Japan)" cn_name="中心球场网球赛 （日版）"/>
+	<game FlagNo="N64#421" name="Lode Runner 3-D (Europe) (En,Fr,De,Es,It)" cn_name="淘金者3-D （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#422" name="Lode Runner 3-D (Japan)" cn_name="淘金者3-D （日版）"/>
+	<game FlagNo="N64#423" name="Lode Runner 3-D (USA)" cn_name="淘金者3-D （美版）"/>
+	<game FlagNo="N64#424" name="Lylat Wars (Australia) (En,Fr,De)" cn_name="星际火狐 澳版 (En,Fr,De)"/>
+	<game FlagNo="N64#425" name="Lylat Wars (Europe) (En,Fr,De)" cn_name="星际火狐 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#426" name="Mace - The Dark Age (Europe)" cn_name="战锤-黑暗时代 （欧版）"/>
+	<game FlagNo="N64#427" name="Mace - The Dark Age (USA)" cn_name="战锤-黑暗时代 （美版）"/>
+	<game FlagNo="N64#428" name="Madden Football 64 (Europe)" cn_name="劲爆美式橄榄球64 （欧版）"/>
+	<game FlagNo="N64#429" name="Madden Football 64 (USA)" cn_name="劲爆美式橄榄球64 （美版）"/>
+	<game FlagNo="N64#430" name="Madden NFL 2000 (USA)" cn_name="劲爆美式橄榄球 2000 （美版）"/>
+	<game FlagNo="N64#431" name="Madden NFL 2001 (USA)" cn_name="劲爆美式橄榄球 2001 （美版）"/>
+	<game FlagNo="N64#432" name="Madden NFL 2002 (USA)" cn_name="劲爆美式橄榄球 2002 （美版）"/>
+	<game FlagNo="N64#433" name="Madden NFL 99 (Europe)" cn_name="劲爆美式橄榄球 99 （欧版）"/>
+	<game FlagNo="N64#434" name="Madden NFL 99 (USA)" cn_name="劲爆美式橄榄球 99 （美版）"/>
+	<game FlagNo="N64#435" name="Magical Tetris Challenge (Europe)" cn_name="魔法方块挑战 （欧版）"/>
+	<game FlagNo="N64#436" name="Magical Tetris Challenge (Germany)" cn_name="魔法方块挑战 （德版）"/>
+	<game FlagNo="N64#437" name="Magical Tetris Challenge (USA)" cn_name="魔法方块挑战 （美版）"/>
+	<game FlagNo="N64#438" name="Magical Tetris Challenge featuring Mickey (Japan)" cn_name="魔法方块挑战 featuring Mickey （日版）"/>
+	<game FlagNo="N64#439" name="Mahjong 64 (Japan)" cn_name="麻雀64 （日版）"/>
+	<game FlagNo="N64#440" name="Mahjong Hourouki Classic (Japan)" cn_name="麻雀放浪记 经典 （日版）"/>
+	<game FlagNo="N64#441" name="Mahjong Master (Japan)" cn_name="麻雀大师 （日版）"/>
+	<game FlagNo="N64#442" name="Major League Baseball featuring Ken Griffey Jr. (Australia)" cn_name="美国职业棒球大联盟 澳版"/>
+	<game FlagNo="N64#443" name="Major League Baseball featuring Ken Griffey Jr. (USA)" cn_name="美国职业棒球大联盟 （美版）"/>
+	<game FlagNo="N64#444" name="Mario Golf (Europe)" cn_name="马里奥高尔夫 （欧版）"/>
+	<game FlagNo="N64#445" name="Mario Golf (USA)" cn_name="马里奥高尔夫 （美版）"/>
+	<game FlagNo="N64#446" name="Mario Golf 64 (Japan) (Rev A)" cn_name="马里奥高尔夫 64 （日版） (Rev A)"/>
+	<game FlagNo="N64#447" name="Mario Golf 64 (Japan)" cn_name="马里奥高尔夫 64 （日版）"/>
+	<game FlagNo="N64#448" name="Mario Kadingche (China) (v2) (iQue) (Manual)" cn_name="马里奥卡丁车 (中国版) (v2) （神游版） (Manual)"/>
+	<game FlagNo="N64#449" name="Mario Kadingche (China) (v4) (iQue)" cn_name="马里奥卡丁车 (中国版) (v4) （神游版）"/>
+	<game FlagNo="N64#450" name="Mario Kadingche (China) (v5) (iQue)" cn_name="马里奥卡丁车 (中国版) (v5) （神游版）"/>
+	<game FlagNo="N64#451" name="Mario Kadingche (China) (v6) (iQue) (Manual)" cn_name="马里奥卡丁车 (中国版) (v6) （神游版） (Manual)"/>
+	<game FlagNo="N64#452" name="Mario Kart 64 (Europe) (Rev A)" cn_name="马里奥赛车64 （欧版） (Rev A)"/>
+	<game FlagNo="N64#453" name="Mario Kart 64 (Europe)" cn_name="马里奥赛车64 （欧版）"/>
+	<game FlagNo="N64#454" name="Mario Kart 64 (Japan) (Rev A)" cn_name="马里奥赛车64 （日版） (Rev A)"/>
+	<game FlagNo="N64#455" name="Mario Kart 64 (Japan)" cn_name="马里奥赛车64 （日版）"/>
+	<game FlagNo="N64#456" name="Mario Kart 64 (USA)" cn_name="马里奥赛车64 （美版）"/>
+	<game FlagNo="N64#457" name="Mario no Photopie (Japan)" cn_name="马里奥纪念册 （日版）"/>
+	<game FlagNo="N64#458" name="Mario Party (Europe) (En,Fr,De)" cn_name="马里奥聚会 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#459" name="Mario Party (Japan)" cn_name="马里奥聚会 （日版）"/>
+	<game FlagNo="N64#460" name="Mario Party (USA)" cn_name="马里奥聚会 （美版）"/>
+	<game FlagNo="N64#461" name="Mario Party 2 (Europe) (En,Fr,De,Es,It)" cn_name="马里奥聚会 2 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#462" name="Mario Party 2 (Japan)" cn_name="马里奥聚会 2 （日版）"/>
+	<game FlagNo="N64#463" name="Mario Party 2 (USA)" cn_name="马里奥聚会 2 （美版）"/>
+	<game FlagNo="N64#464" name="Mario Party 3 (Europe) (En,Fr,De,Es)" cn_name="马里奥聚会 3 （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#465" name="Mario Party 3 (Japan)" cn_name="马里奥聚会 3 （日版）"/>
+	<game FlagNo="N64#466" name="Mario Party 3 (USA)" cn_name="马里奥聚会 3 （美版）"/>
+	<game FlagNo="N64#467" name="Mario Story (Japan)" cn_name="纸片马里奥 （日版）"/>
+	<game FlagNo="N64#468" name="Mario Tennis (Europe)" cn_name="马里奥网球 （欧版）"/>
+	<game FlagNo="N64#469" name="Mario Tennis (USA)" cn_name="马里奥网球 （美版）"/>
+	<game FlagNo="N64#470" name="Mario Tennis 64 (Japan)" cn_name="马里奥网球 64 （日版）"/>
+	<game FlagNo="N64#471" name="Mario Yisheng (China) (iQue)" cn_name="马里奥医生 (中国版) （神游版）"/>
+	<game FlagNo="N64#472" name="Mario Yisheng (China) (v2) (iQue) (Manual)" cn_name="马里奥医生 (中国版) (v2) （神游版） (Manual)"/>
+	<game FlagNo="N64#473" name="Mario Yisheng (China) (v4) (iQue) (Manual)" cn_name="马里奥医生 (中国版) (v4) （神游版） (Manual)"/>
+	<game FlagNo="N64#474" name="Mega Man 64 (USA) (Beta)" cn_name="洛克人64 （美版） (Beta)"/>
+	<game FlagNo="N64#475" name="Mega Man 64 (USA)" cn_name="洛克人64 （美版）"/>
+	<game FlagNo="N64#476" name="Mia Hamm Soccer 64 (USA) (En,Es)" cn_name="米娅哈姆足球64 （美版） (En,Es)"/>
+	<game FlagNo="N64#477" name="Michael Owen's World League Soccer 2000 (Europe)" cn_name="迈克尔欧文世界联盟足球 2000 （欧版）"/>
+	<game FlagNo="N64#478" name="Mickey no Racing Challenge USA (Japan)" cn_name="米奇赛车 （日版）"/>
+	<game FlagNo="N64#479" name="Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)" cn_name="米奇赛车 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#480" name="Mickey's Speedway USA (USA)" cn_name="米奇赛车 （美版）"/>
+	<game FlagNo="N64#481" name="Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)" cn_name="微型机器64 涡轮 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#482" name="Micro Machines 64 Turbo (USA)" cn_name="微型机器64 涡轮 （美版）"/>
+	<game FlagNo="N64#483" name="Midway's Greatest Arcade Hits - Volume 1 (USA)" cn_name="Midway经典街机游戏合集-Vol.1 （美版）"/>
+	<game FlagNo="N64#484" name="Mike Piazza's StrikeZone (USA)" cn_name="麦克皮耶萨棒球 （美版）"/>
+	<game FlagNo="N64#485" name="Milo's Astro Lanes (Europe)" cn_name="米罗的空间保龄球 （欧版）"/>
+	<game FlagNo="N64#486" name="Milo's Astro Lanes (USA)" cn_name="米罗的空间保龄球 （美版）"/>
+	<game FlagNo="N64#487" name="Mini Racers (USA) (Ja) (Proto)" cn_name="迷你赛车 （美版） (Ja) (Proto)"/>
+	<game FlagNo="N64#488" name="Mischief Makers (Europe)" cn_name="麻烦制造者 （欧版）"/>
+	<game FlagNo="N64#489" name="Mischief Makers (USA) (Rev A)" cn_name="麻烦制造者 （美版） (Rev A)"/>
+	<game FlagNo="N64#490" name="Mischief Makers (USA)" cn_name="麻烦制造者 （美版）"/>
+	<game FlagNo="N64#491" name="Mission Impossible (Europe)" cn_name="碟中谍 （欧版）"/>
+	<game FlagNo="N64#492" name="Mission Impossible (France)" cn_name="碟中谍 （法版）"/>
+	<game FlagNo="N64#493" name="Mission Impossible (Germany)" cn_name="碟中谍 （德版）"/>
+	<game FlagNo="N64#494" name="Mission Impossible (Italy)" cn_name="碟中谍 意大利版"/>
+	<game FlagNo="N64#495" name="Mission Impossible (Spain)" cn_name="碟中谍 西班牙版"/>
+	<game FlagNo="N64#496" name="Mission Impossible (USA)" cn_name="碟中谍 （美版）"/>
+	<game FlagNo="N64#497" name="Monaco Grand Prix (USA)" cn_name="模拟赛车2-摩纳哥大奖赛 （美版）"/>
+	<game FlagNo="N64#498" name="Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)" cn_name="模拟赛车2-摩纳哥大奖赛 - 模拟赛车2-摩纳哥大奖赛 （欧版） (En,Fr,Es,It)"/>
+	<game FlagNo="N64#499" name="Monopoly (USA)" cn_name="强手棋 （美版）"/>
+	<game FlagNo="N64#500" name="Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)" cn_name="疯狂怪物卡车64 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#501" name="Monster Truck Madness 64 (USA)" cn_name="疯狂怪物卡车64 （美版）"/>
+	<game FlagNo="N64#502" name="Morita Shougi 64 (Japan)" cn_name="森田将棋64 （日版）"/>
+	<game FlagNo="N64#503" name="Mortal Kombat 4 (Europe)" cn_name="真人快打4 （欧版）"/>
+	<game FlagNo="N64#504" name="Mortal Kombat 4 (USA)" cn_name="真人快打4 （美版）"/>
+	<game FlagNo="N64#505" name="Mortal Kombat Mythologies - Sub-Zero (Europe)" cn_name="真人快打神话-绝对零度 （欧版）"/>
+	<game FlagNo="N64#506" name="Mortal Kombat Mythologies - Sub-Zero (USA)" cn_name="真人快打神话-绝对零度 （美版）"/>
+	<game FlagNo="N64#507" name="Mortal Kombat Trilogy (Europe)" cn_name="真人快打三部曲 （欧版）"/>
+	<game FlagNo="N64#508" name="Mortal Kombat Trilogy (USA) (Rev A)" cn_name="真人快打三部曲 （美版） (Rev A)"/>
+	<game FlagNo="N64#509" name="Mortal Kombat Trilogy (USA) (Rev B)" cn_name="真人快打三部曲 （美版） (Rev B)"/>
+	<game FlagNo="N64#510" name="Mortal Kombat Trilogy (USA)" cn_name="真人快打三部曲 （美版）"/>
+	<game FlagNo="N64#511" name="MRC - Multi Racing Championship (Europe) (En,Fr,De)" cn_name="MRC-多赛车锦标赛 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#512" name="MRC - Multi Racing Championship (Japan)" cn_name="MRC-多赛车锦标赛 （日版）"/>
+	<game FlagNo="N64#513" name="MRC - Multi Racing Championship (USA)" cn_name="MRC-多赛车锦标赛 （美版）"/>
+	<game FlagNo="N64#514" name="Ms. Pac-Man - Maze Madness (USA)" cn_name="吃豆小姐-疯狂迷宫 （美版）"/>
+	<game FlagNo="N64#515" name="Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)" cn_name="大盗伍佑卫门2 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#516" name="Mystical Ninja Starring Goemon (Europe)" cn_name="大盗伍佑卫门 （欧版）"/>
+	<game FlagNo="N64#517" name="Mystical Ninja Starring Goemon (USA)" cn_name="大盗伍佑卫门 （美版）"/>
+	<game FlagNo="N64#518" name="Nagano Winter Olympics '98 (Europe)" cn_name="长野冬季奥运会 '98 （欧版）"/>
+	<game FlagNo="N64#519" name="Nagano Winter Olympics '98 (USA)" cn_name="长野冬季奥运会 '98 （美版）"/>
+	<game FlagNo="N64#520" name="Namco Museum 64 (USA)" cn_name="南梦宫博物馆64 （美版）"/>
+	<game FlagNo="N64#521" name="NASCAR 2000 (USA)" cn_name="云斯顿赛车 2000 （美版）"/>
+	<game FlagNo="N64#522" name="NASCAR 99 (Europe) (En,Fr,De)" cn_name="云斯顿赛车 99 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#523" name="NASCAR 99 (USA)" cn_name="云斯顿赛车 99 （美版）"/>
+	<game FlagNo="N64#524" name="NBA Courtside 2 featuring Kobe Bryant (USA)" cn_name="NBA赛场2 科比布莱恩特 （美版）"/>
+	<game FlagNo="N64#525" name="NBA Hangtime (Europe)" cn_name="NBA二对二 （欧版）"/>
+	<game FlagNo="N64#526" name="NBA Hangtime (USA)" cn_name="NBA二对二 （美版）"/>
+	<game FlagNo="N64#527" name="NBA in the Zone '98 (Japan)" cn_name="NBA地带 '98 （日版）"/>
+	<game FlagNo="N64#528" name="NBA in the Zone '98 (USA)" cn_name="NBA地带 '98 （美版）"/>
+	<game FlagNo="N64#529" name="NBA in the Zone '99 (USA)" cn_name="NBA地带 '99 （美版）"/>
+	<game FlagNo="N64#530" name="NBA in the Zone 2 (Japan)" cn_name="NBA地带2 （日版）"/>
+	<game FlagNo="N64#531" name="NBA in the Zone 2000 (Europe)" cn_name="NBA地带2000 （欧版）"/>
+	<game FlagNo="N64#532" name="NBA in the Zone 2000 (USA)" cn_name="NBA地带2000 （美版）"/>
+	<game FlagNo="N64#533" name="NBA Jam 2000 (Europe)" cn_name="NBA大灌篮 2000 （欧版）"/>
+	<game FlagNo="N64#534" name="NBA Jam 2000 (USA)" cn_name="NBA大灌篮 2000 （美版）"/>
+	<game FlagNo="N64#535" name="NBA Jam 99 (Europe)" cn_name="NBA大灌篮 99 （欧版）"/>
+	<game FlagNo="N64#536" name="NBA Jam 99 (USA)" cn_name="NBA大灌篮 99 （美版）"/>
+	<game FlagNo="N64#537" name="NBA Live 2000 (Europe) (En,Fr,De,Es)" cn_name="NBA实况 2000 （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#538" name="NBA Live 2000 (USA) (En,Fr,De,Es)" cn_name="NBA实况 2000 （美版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#539" name="NBA Live 99 (Europe) (En,Fr,De,Es,It)" cn_name="NBA实况 99 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#540" name="NBA Live 99 (USA) (En,Fr,De,Es,It)" cn_name="NBA实况 99 （美版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#541" name="NBA Pro 98 (Europe)" cn_name="NBA地带 '98 （欧版）"/>
+	<game FlagNo="N64#542" name="NBA Pro 99 (Europe)" cn_name="NBA地带 '99 （欧版）"/>
+	<game FlagNo="N64#543" name="NBA Showtime - NBA on NBC (USA)" cn_name="NBA个人秀-NBC电视台 （美版）"/>
+	<game FlagNo="N64#544" name="Neon Genesis Evangelion (Japan)" cn_name="新世纪福音战士 （日版）"/>
+	<game FlagNo="N64#545" name="New Tetris, The (Europe)" cn_name="新俄罗斯方块 （欧版）"/>
+	<game FlagNo="N64#546" name="New Tetris, The (USA)" cn_name="新俄罗斯方块 （美版）"/>
+	<game FlagNo="N64#547" name="NFL Blitz (USA)" cn_name="橄榄球闪电战 （美版）"/>
+	<game FlagNo="N64#548" name="NFL Blitz - Special Edition (USA)" cn_name="橄榄球闪电战 - Special Edition （美版）"/>
+	<game FlagNo="N64#549" name="NFL Blitz 2000 (USA) (Rev A)" cn_name="橄榄球闪电战 2000 （美版） (Rev A)"/>
+	<game FlagNo="N64#550" name="NFL Blitz 2000 (USA)" cn_name="橄榄球闪电战 2000 （美版）"/>
+	<game FlagNo="N64#551" name="NFL Blitz 2001 (USA)" cn_name="橄榄球闪电战 2001 （美版）"/>
+	<game FlagNo="N64#552" name="NFL QB Club 2001 (USA)" cn_name="NFL四分卫俱乐部 2001 （美版）"/>
+	<game FlagNo="N64#553" name="NFL Quarterback Club 2000 (Europe)" cn_name="NFL四分卫俱乐部 2000 （欧版）"/>
+	<game FlagNo="N64#554" name="NFL Quarterback Club 2000 (USA)" cn_name="NFL四分卫俱乐部 2000 （美版）"/>
+	<game FlagNo="N64#555" name="NFL Quarterback Club 98 (Europe)" cn_name="NFL四分卫俱乐部 98 （欧版）"/>
+	<game FlagNo="N64#556" name="NFL Quarterback Club 98 (USA)" cn_name="NFL四分卫俱乐部 98 （美版）"/>
+	<game FlagNo="N64#557" name="NFL Quarterback Club 99 (Europe)" cn_name="NFL四分卫俱乐部 99 （欧版）"/>
+	<game FlagNo="N64#558" name="NFL Quarterback Club 99 (USA)" cn_name="NFL四分卫俱乐部 99 （美版）"/>
+	<game FlagNo="N64#559" name="NHL 99 (Europe) (En,De,Sv,Fi)" cn_name="NHL冰球 99 （欧版） (En,De,Sv,Fi)"/>
+	<game FlagNo="N64#560" name="NHL 99 (USA)" cn_name="NHL冰球 99 （美版）"/>
+	<game FlagNo="N64#561" name="NHL Blades of Steel '99 (USA)" cn_name="NHL钢铁刀锋 '99 （美版）"/>
+	<game FlagNo="N64#562" name="NHL Breakaway 98 (Europe)" cn_name="劲爆冰球 98 （欧版）"/>
+	<game FlagNo="N64#563" name="NHL Breakaway 98 (USA)" cn_name="劲爆冰球 98 （美版）"/>
+	<game FlagNo="N64#564" name="NHL Breakaway 99 (Europe)" cn_name="劲爆冰球 99 （欧版）"/>
+	<game FlagNo="N64#565" name="NHL Breakaway 99 (USA)" cn_name="劲爆冰球 99 （美版）"/>
+	<game FlagNo="N64#566" name="NHL Pro 99 (Europe)" cn_name="NHL职业冰球 99 （欧版）"/>
+	<game FlagNo="N64#567" name="Nightmare Creatures (USA)" cn_name="恶梦鬼魅 （美版）"/>
+	<game FlagNo="N64#568" name="Nintama Rantarou 64 Game Gallery (Japan)" cn_name="忍者乱太郎64 （日版）"/>
+	<game FlagNo="N64#569" name="Nintendo All-Star! Dairantou Smash Brothers (Japan)" cn_name="任天堂全明星大乱斗 （日版）"/>
+	<game FlagNo="N64#570" name="Nuclear Strike 64 (Europe) (En,Fr)" cn_name="核打击64 （欧版） (En,Fr)"/>
+	<game FlagNo="N64#571" name="Nuclear Strike 64 (Germany)" cn_name="核打击64 （德版）"/>
+	<game FlagNo="N64#572" name="Nuclear Strike 64 (USA)" cn_name="核打击64 （美版）"/>
+	<game FlagNo="N64#573" name="Nushi Zuri 64 (Japan) (Rev A)" cn_name="川之垂钓64 （日版） (Rev A)"/>
+	<game FlagNo="N64#574" name="Nushi Zuri 64 (Japan)" cn_name="川之垂钓64 （日版）"/>
+	<game FlagNo="N64#575" name="Nushi Zuri 64 - Shiokaze ni Notte (Japan)" cn_name="川之垂钓64 - Shiokaze ni Notte （日版）"/>
+	<game FlagNo="N64#576" name="O.D.T. (Europe) (En,Fr,De,Es,It) (Proto)" cn_name="脱离禁区 （欧版） (En,Fr,De,Es,It) (Proto)"/>
+	<game FlagNo="N64#577" name="O.D.T. (USA) (En,Fr,Es) (Proto)" cn_name="脱离禁区 （美版） (En,Fr,Es) (Proto)"/>
+	<game FlagNo="N64#578" name="Off Road Challenge (Europe)" cn_name="越野挑战赛 （欧版）"/>
+	<game FlagNo="N64#579" name="Off Road Challenge (USA)" cn_name="越野挑战赛 （美版）"/>
+	<game FlagNo="N64#580" name="Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev A)" cn_name="皇家骑士团64 （日版） (Rev A)"/>
+	<game FlagNo="N64#581" name="Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev A)" cn_name="皇家骑士团64 （美版） (Rev A)"/>
+	<game FlagNo="N64#582" name="Ogre Battle 64 - Person of Lordly Caliber (USA)" cn_name="皇家骑士团64 （美版）"/>
+	<game FlagNo="N64#583" name="Olympic Hockey 98 (Europe) (En,Fr,De,Es)" cn_name="奥运冰球 98 （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#584" name="Olympic Hockey 98 (Japan)" cn_name="奥运冰球 98 （日版）"/>
+	<game FlagNo="N64#585" name="Olympic Hockey 98 (USA)" cn_name="奥运冰球 98 （美版）"/>
+	<game FlagNo="N64#586" name="Onegai Monsters (Japan)" cn_name="拜托了怪兽 （日版）"/>
+	<game FlagNo="N64#587" name="Operation WinBack (Europe) (En,Fr,De,Es,It)" cn_name="不可能的任务 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#588" name="Pachinko 365 Nichi (Japan)" cn_name="柏青哥365天 （日版）"/>
+	<game FlagNo="N64#589" name="Paper Mario (Europe) (En,Fr,De,Es)" cn_name="纸片马里奥 （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#590" name="Paper Mario (USA)" cn_name="纸片马里奥 （美版）"/>
+	<game FlagNo="N64#591" name="Paperboy (Europe)" cn_name="送报童 （欧版）"/>
+	<game FlagNo="N64#592" name="Paperboy (USA)" cn_name="送报童 （美版）"/>
+	<game FlagNo="N64#593" name="Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan)" cn_name="专业柏青哥64-柏青哥实机模拟游戏 （日版）"/>
+	<game FlagNo="N64#594" name="PD Ultraman Battle Collection 64 (Japan)" cn_name="PD奥特曼64 （日版）"/>
+	<game FlagNo="N64#595" name="Penny Racers (Europe)" cn_name="可爱Q赛车 （欧版）"/>
+	<game FlagNo="N64#596" name="Penny Racers (USA)" cn_name="可爱Q赛车 （美版）"/>
+	<game FlagNo="N64#597" name="Perfect Dark (Europe) (En,Fr,De,Es,It)" cn_name="完美黑暗 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#598" name="Perfect Dark (Japan)" cn_name="完美黑暗 （日版）"/>
+	<game FlagNo="N64#599" name="Perfect Dark (USA) (Rev A)" cn_name="完美黑暗 （美版） (Rev A)"/>
+	<game FlagNo="N64#600" name="Perfect Dark (USA)" cn_name="完美黑暗 （美版）"/>
+	<game FlagNo="N64#601" name="PGA European Tour (USA)" cn_name="PGA欧洲巡回赛 （美版）"/>
+	<game FlagNo="N64#602" name="PGA European Tour Golf (Europe) (En,Fr,De,Es,It)" cn_name="PGA欧洲巡回赛 Golf （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#603" name="Pikachuu Genki de Chuu (Japan)" cn_name="你好 皮卡丘! （日版）"/>
+	<game FlagNo="N64#604" name="Pilotwings 64 (Europe) (En,Fr,De)" cn_name="飞行俱乐部64 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#605" name="Pilotwings 64 (Japan)" cn_name="飞行俱乐部64 （日版）"/>
+	<game FlagNo="N64#606" name="Pilotwings 64 (USA)" cn_name="飞行俱乐部64 （美版）"/>
+	<game FlagNo="N64#607" name="Pokemon Puzzle League (Europe)" cn_name="口袋妖怪方块联赛 （欧版）"/>
+	<game FlagNo="N64#608" name="Pokemon Puzzle League (France)" cn_name="口袋妖怪方块联赛 （法版）"/>
+	<game FlagNo="N64#609" name="Pokemon Puzzle League (Germany)" cn_name="口袋妖怪方块联赛 （德版）"/>
+	<game FlagNo="N64#610" name="Pokemon Puzzle League (USA)" cn_name="口袋妖怪方块联赛 （美版）"/>
+	<game FlagNo="N64#611" name="Pokemon Snap (Australia)" cn_name="口袋妖怪写真 澳版"/>
+	<game FlagNo="N64#612" name="Pokemon Snap (Europe)" cn_name="口袋妖怪写真 （欧版）"/>
+	<game FlagNo="N64#613" name="Pokemon Snap (France)" cn_name="口袋妖怪写真 （法版）"/>
+	<game FlagNo="N64#614" name="Pokemon Snap (Germany)" cn_name="口袋妖怪写真 （德版）"/>
+	<game FlagNo="N64#615" name="Pokemon Snap (Italy)" cn_name="口袋妖怪写真 意大利版"/>
+	<game FlagNo="N64#616" name="Pokemon Snap (Japan)" cn_name="口袋妖怪写真 （日版）"/>
+	<game FlagNo="N64#617" name="Pokemon Snap (Spain)" cn_name="口袋妖怪写真 西班牙版"/>
+	<game FlagNo="N64#618" name="Pokemon Snap (USA)" cn_name="口袋妖怪写真 （美版）"/>
+	<game FlagNo="N64#619" name="Pokemon Snap Station (USA) (Promo)" cn_name="口袋妖怪写真 Station （美版） (Promo)"/>
+	<game FlagNo="N64#620" name="Pokemon Stadium (Europe) (Rev A)" cn_name="口袋妖怪竞技场 （欧版） (Rev A)"/>
+	<game FlagNo="N64#621" name="Pokemon Stadium (Europe)" cn_name="口袋妖怪竞技场 （欧版）"/>
+	<game FlagNo="N64#622" name="Pokemon Stadium (France)" cn_name="口袋妖怪竞技场 （法版）"/>
+	<game FlagNo="N64#623" name="Pokemon Stadium (Germany)" cn_name="口袋妖怪竞技场 （德版）"/>
+	<game FlagNo="N64#624" name="Pokemon Stadium (Italy)" cn_name="口袋妖怪竞技场 意大利版"/>
+	<game FlagNo="N64#625" name="Pokemon Stadium (Japan)" cn_name="口袋妖怪竞技场 （日版）"/>
+	<game FlagNo="N64#626" name="Pokemon Stadium (Spain)" cn_name="口袋妖怪竞技场 西班牙版"/>
+	<game FlagNo="N64#627" name="Pokemon Stadium (USA) (Rev A)" cn_name="口袋妖怪竞技场 （美版） (Rev A)"/>
+	<game FlagNo="N64#628" name="Pokemon Stadium (USA) (Rev B)" cn_name="口袋妖怪竞技场 （美版） (Rev B)"/>
+	<game FlagNo="N64#629" name="Pokemon Stadium (USA)" cn_name="口袋妖怪竞技场 （美版）"/>
+	<game FlagNo="N64#630" name="Pokemon Stadium 2 (Europe)" cn_name="口袋妖怪竞技场 2 （欧版）"/>
+	<game FlagNo="N64#631" name="Pokemon Stadium 2 (France)" cn_name="口袋妖怪竞技场 2 （法版）"/>
+	<game FlagNo="N64#632" name="Pokemon Stadium 2 (Germany)" cn_name="口袋妖怪竞技场 2 （德版）"/>
+	<game FlagNo="N64#633" name="Pokemon Stadium 2 (Italy)" cn_name="口袋妖怪竞技场 2 意大利版"/>
+	<game FlagNo="N64#634" name="Pokemon Stadium 2 (Japan)" cn_name="口袋妖怪竞技场 2 （日版）"/>
+	<game FlagNo="N64#635" name="Pokemon Stadium 2 (Spain)" cn_name="口袋妖怪竞技场 2 西班牙版"/>
+	<game FlagNo="N64#636" name="Pokemon Stadium 2 (USA)" cn_name="口袋妖怪竞技场 2 （美版）"/>
+	<game FlagNo="N64#637" name="Pokemon Stadium Kin Gin (Japan)" cn_name="口袋妖怪竞技场 Kin Gin （日版）"/>
+	<game FlagNo="N64#638" name="Polaris SnoCross (USA)" cn_name="雪地摩托车 （美版）"/>
+	<game FlagNo="N64#639" name="Power League 64 (Japan)" cn_name="超级联盟棒球64 （日版）"/>
+	<game FlagNo="N64#640" name="Power Rangers - Lightspeed Rescue (Europe)" cn_name="超能战队-光速救援 （欧版）"/>
+	<game FlagNo="N64#641" name="Power Rangers - Lightspeed Rescue (USA)" cn_name="超能战队-光速救援 （美版）"/>
+	<game FlagNo="N64#642" name="Powerpuff Girls, The - Chemical X-Traction (USA)" cn_name="飞天小女警-X元素 （美版）"/>
+	<game FlagNo="N64#643" name="Premier Manager 64 (Europe)" cn_name="足球经理64 （欧版）"/>
+	<game FlagNo="N64#644" name="Pro Mahjong Kiwame 64 (Japan) (Rev A)" cn_name="极道麻雀64 （日版） (Rev A)"/>
+	<game FlagNo="N64#645" name="Pro Mahjong Kiwame 64 (Japan)" cn_name="极道麻雀64 （日版）"/>
+	<game FlagNo="N64#646" name="Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)" cn_name="职业麻将 64 - Jansou Battle ni Chousen （日版）"/>
+	<game FlagNo="N64#647" name="Puyo Puyo 4 - Puyo Puyon Party (Japan)" cn_name="噗哟噗哟4-魔法派对 （日版）"/>
+	<game FlagNo="N64#648" name="Puyo Puyo Sun 64 (Japan)" cn_name="噗哟噗哟太阳64 （日版）"/>
+	<game FlagNo="N64#649" name="Puzzle Bobble 64 (Japan)" cn_name="泡泡龙64 （日版）"/>
+	<game FlagNo="N64#650" name="Quake 64 (Europe)" cn_name="雷神之锤64 （欧版）"/>
+	<game FlagNo="N64#651" name="Quake 64 (USA)" cn_name="雷神之锤64 （美版）"/>
+	<game FlagNo="N64#652" name="Quake II (Europe)" cn_name="雷神之锤2 （欧版）"/>
+	<game FlagNo="N64#653" name="Quake II (USA)" cn_name="雷神之锤2 （美版）"/>
+	<game FlagNo="N64#654" name="Quest 64 (USA)" cn_name="圣魔世纪 （美版）"/>
+	<game FlagNo="N64#655" name="Racing Simulation 2 (Germany)" cn_name="模拟赛车2-摩纳哥大奖赛 （德版）"/>
+	<game FlagNo="N64#656" name="Rakuga Kids (Europe)" cn_name="涂鸦小子 （欧版）"/>
+	<game FlagNo="N64#657" name="Rakuga Kids (Japan)" cn_name="涂鸦小子 （日版）"/>
+	<game FlagNo="N64#658" name="Rally '99 (Japan)" cn_name="汽车拉力挑战赛 '99 （日版）"/>
+	<game FlagNo="N64#659" name="Rally Challenge 2000 (USA)" cn_name="汽车拉力挑战赛 2000 （美版）"/>
+	<game FlagNo="N64#660" name="Rampage - World Tour (Europe)" cn_name="狂暴大破坏-世界之旅 （欧版）"/>
+	<game FlagNo="N64#661" name="Rampage - World Tour (USA)" cn_name="狂暴大破坏-世界之旅 （美版）"/>
+	<game FlagNo="N64#662" name="Rampage 2 - Universal Tour (Europe)" cn_name="狂暴大破坏2-环球之旅 （欧版）"/>
+	<game FlagNo="N64#663" name="Rampage 2 - Universal Tour (USA)" cn_name="狂暴大破坏2-环球之旅 （美版）"/>
+	<game FlagNo="N64#664" name="Rat Attack! (Europe) (En,Fr,De,Es,It,Nl)" cn_name="围鼠大作战 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#665" name="Rat Attack! (USA) (En,Fr,De,Es,It,Nl)" cn_name="围鼠大作战 （美版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#666" name="Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)" cn_name="雷曼2-胜利大逃亡 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#667" name="Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)" cn_name="雷曼2-胜利大逃亡 （美版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#668" name="Razmoket, Les - La Chasse aux Tresors (France)" cn_name="淘气小兵兵-寻宝历险记 （法版）"/>
+	<game FlagNo="N64#669" name="Razor Freestyle Scooter (USA)" cn_name="Razor自由式滑板车 （美版）"/>
+	<game FlagNo="N64#670" name="Re-Volt (Europe) (En,Fr,De,Es)" cn_name="遥控小赛车 （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#671" name="Re-Volt (USA)" cn_name="遥控小赛车 （美版）"/>
+	<game FlagNo="N64#672" name="Ready 2 Rumble Boxing (Europe) (En,Fr,De)" cn_name="爆笑拳击 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#673" name="Ready 2 Rumble Boxing (USA)" cn_name="爆笑拳击 （美版）"/>
+	<game FlagNo="N64#674" name="Ready 2 Rumble Boxing - Round 2 (USA)" cn_name="爆笑拳击 - 第二回合 （美版）"/>
+	<game FlagNo="N64#675" name="Rentiantang Mingxing - Daluan Dou (China) (iQue) (Manual)" cn_name="任天堂明星大乱斗 (中国版) （神游版） (Manual)"/>
+	<game FlagNo="N64#676" name="Rentiantang Mingxing - Daluan Dou (China) (iQue)" cn_name="任天堂明星大乱斗 (中国版) （神游版）"/>
+	<game FlagNo="N64#677" name="Resident Evil 2 (Europe) (En,Fr)" cn_name="生化危机2 （欧版） (En,Fr)"/>
+	<game FlagNo="N64#678" name="Resident Evil 2 (USA) (Rev A)" cn_name="生化危机2 （美版） (Rev A)"/>
+	<game FlagNo="N64#679" name="Resident Evil 2 (USA)" cn_name="生化危机2 （美版）"/>
+	<game FlagNo="N64#680" name="Road Rash 64 (Europe)" cn_name="暴力摩托64 （欧版）"/>
+	<game FlagNo="N64#681" name="Road Rash 64 (USA)" cn_name="暴力摩托64 （美版）"/>
+	<game FlagNo="N64#682" name="Roadsters (Europe) (En,Fr,De,Es,It,Nl)" cn_name="敞篷跑车大赛 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#683" name="Roadsters (USA) (En,Fr,Es)" cn_name="敞篷跑车大赛 （美版） (En,Fr,Es)"/>
+	<game FlagNo="N64#684" name="Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)" cn_name="机甲宝贝64-七海传说 （日版）"/>
+	<game FlagNo="N64#685" name="Robotech - Crystal Dreams (USA) (Proto)" cn_name="太空堡垒-水晶之梦 （美版） (Proto)"/>
+	<game FlagNo="N64#686" name="Robotron 64 (Europe)" cn_name="机械大战64 （欧版）"/>
+	<game FlagNo="N64#687" name="Robotron 64 (USA)" cn_name="机械大战64 （美版）"/>
+	<game FlagNo="N64#688" name="Rocket - Robot on Wheels (Europe) (En,Fr,De)" cn_name="火箭-滑轮机器人 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#689" name="Rocket - Robot on Wheels (USA)" cn_name="火箭-滑轮机器人 （美版）"/>
+	<game FlagNo="N64#690" name="Rockman Dash - Hagane no Boukenshin (Japan)" cn_name="洛克人Dash-钢铁之心 （日版）"/>
+	<game FlagNo="N64#691" name="RR64 - Ridge Racer 64 (Europe)" cn_name="山脊赛车64 （欧版）"/>
+	<game FlagNo="N64#692" name="RR64 - Ridge Racer 64 (USA)" cn_name="山脊赛车64 （美版）"/>
+	<game FlagNo="N64#693" name="RTL World League Soccer 2000 (Germany)" cn_name="RTL世界联盟足球 2000 （德版）"/>
+	<game FlagNo="N64#694" name="Rugrats - Die grosse Schatzsuche (Germany)" cn_name="淘气小兵兵-寻宝历险记 （德版）"/>
+	<game FlagNo="N64#695" name="Rugrats - Scavenger Hunt (USA)" cn_name="淘气小兵兵-寻宝历险记 （美版）"/>
+	<game FlagNo="N64#696" name="Rugrats - Treasure Hunt (Europe)" cn_name="淘气小兵兵-寻宝历险记 （欧版）"/>
+	<game FlagNo="N64#697" name="Rugrats in Paris - The Movie (Europe)" cn_name="淘气小兵兵-巴黎历险记 （欧版）"/>
+	<game FlagNo="N64#698" name="Rugrats in Paris - The Movie (USA)" cn_name="淘气小兵兵-巴黎历险记 （美版）"/>
+	<game FlagNo="N64#699" name="Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)" cn_name="狂飙2-美国极限赛车 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#700" name="Rush 2 - Extreme Racing USA (USA)" cn_name="狂飙2-美国极限赛车 （美版）"/>
+	<game FlagNo="N64#701" name="S.C.A.R.S. (Europe) (En,Fr,De)" cn_name="S.C.A.R.S. （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#702" name="S.C.A.R.S. (USA)" cn_name="S.C.A.R.S. （美版）"/>
+	<game FlagNo="N64#703" name="Saikyou Habu Shougi (Japan)" cn_name="最强羽生将棋 （日版）"/>
+	<game FlagNo="N64#704" name="San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)" cn_name="旧金山狂飙-极限赛车 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#705" name="San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev A)" cn_name="旧金山狂飙-极限赛车 （美版） (En,Fr,De) (Rev A)"/>
+	<game FlagNo="N64#706" name="San Francisco Rush - Extreme Racing (USA) (En,Fr,De)" cn_name="旧金山狂飙-极限赛车 （美版） (En,Fr,De)"/>
+	<game FlagNo="N64#707" name="San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)" cn_name="旧金山狂飙 2049 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#708" name="San Francisco Rush 2049 (USA)" cn_name="旧金山狂飙 2049 （美版）"/>
+	<game FlagNo="N64#709" name="Scooby-Doo! - Classic Creep Capers (Europe)" cn_name="史酷比大冒险 （欧版）"/>
+	<game FlagNo="N64#710" name="Scooby-Doo! - Classic Creep Capers (USA) (Rev A)" cn_name="史酷比大冒险 （美版） (Rev A)"/>
+	<game FlagNo="N64#711" name="Scooby-Doo! - Classic Creep Capers (USA)" cn_name="史酷比大冒险 （美版）"/>
+	<game FlagNo="N64#712" name="SD Hiryuu no Ken Densetsu (Japan)" cn_name="SD飞龙之拳传说 （日版）"/>
+	<game FlagNo="N64#713" name="Shadow Man (Brazil)" cn_name="影子武士 （巴西版）"/>
+	<game FlagNo="N64#714" name="Shadow Man (Europe) (En,Es,It)" cn_name="影子武士 （欧版） (En,Es,It)"/>
+	<game FlagNo="N64#715" name="Shadow Man (France)" cn_name="影子武士 （法版）"/>
+	<game FlagNo="N64#716" name="Shadow Man (Germany)" cn_name="影子武士 （德版）"/>
+	<game FlagNo="N64#717" name="Shadow Man (USA)" cn_name="影子武士 （美版）"/>
+	<game FlagNo="N64#718" name="Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)" cn_name="影之门64-四座塔的审判 （欧版） (Es,It)"/>
+	<game FlagNo="N64#719" name="Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)" cn_name="影之门64-四座塔的审判 （欧版） (Fr,De,Nl)"/>
+	<game FlagNo="N64#720" name="Shadowgate 64 - Trials of the Four Towers (Europe)" cn_name="影之门64-四座塔的审判 （欧版）"/>
+	<game FlagNo="N64#721" name="Shadowgate 64 - Trials of the Four Towers (Japan)" cn_name="影之门64-四座塔的审判 （日版）"/>
+	<game FlagNo="N64#722" name="Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)" cn_name="影之门64-四座塔的审判 （美版） (En,Es)"/>
+	<game FlagNo="N64#723" name="Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)" cn_name="新日本职业摔跤斗魂之路 - 战斗之魂 （日版）"/>
+	<game FlagNo="N64#724" name="Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)" cn_name="新日本职业摔跤斗魂之路 2 - 新生代 （日版）"/>
+	<game FlagNo="N64#725" name="Shuishang Motuo (China) (iQue)" cn_name="水上摩托 (中国版) （神游版）"/>
+	<game FlagNo="N64#726" name="Shuishang Motuo (China) (v2) (iQue) (Manual)" cn_name="水上摩托 (中国版) (v2) （神游版） (Manual)"/>
+	<game FlagNo="N64#727" name="Shuishang Motuo (China) (v4) (iQue) (Manual)" cn_name="水上摩托 (中国版) (v4) （神游版） (Manual)"/>
+	<game FlagNo="N64#728" name="SimCity 2000 (Japan)" cn_name="模拟城市 2000 （日版）"/>
+	<game FlagNo="N64#729" name="Snobo Kids (Japan)" cn_name="滑雪小子 （日版）"/>
+	<game FlagNo="N64#730" name="Snow Speeder (Japan)" cn_name="高山滑雪 （日版）"/>
+	<game FlagNo="N64#731" name="Snowboard Kids (Europe)" cn_name="滑雪小子 （欧版）"/>
+	<game FlagNo="N64#732" name="Snowboard Kids (USA)" cn_name="滑雪小子 （美版）"/>
+	<game FlagNo="N64#733" name="Snowboard Kids 2 (Australia)" cn_name="滑雪小子 2 澳版"/>
+	<game FlagNo="N64#734" name="Snowboard Kids 2 (USA)" cn_name="滑雪小子 2 （美版）"/>
+	<game FlagNo="N64#735" name="Sonic Wings Assault (Japan)" cn_name="音速战机 突击 （日版）"/>
+	<game FlagNo="N64#736" name="South Park (Brazil)" cn_name="南方公园 （巴西版）"/>
+	<game FlagNo="N64#737" name="South Park (Europe) (En,Fr,Es)" cn_name="南方公园 （欧版） (En,Fr,Es)"/>
+	<game FlagNo="N64#738" name="South Park (Germany)" cn_name="南方公园 （德版）"/>
+	<game FlagNo="N64#739" name="South Park (USA)" cn_name="南方公园 （美版）"/>
+	<game FlagNo="N64#740" name="South Park - Chef's Luv Shack (Europe)" cn_name="南方公园 - 问答游戏 （欧版）"/>
+	<game FlagNo="N64#741" name="South Park - Chef's Luv Shack (USA)" cn_name="南方公园 - 问答游戏 （美版）"/>
+	<game FlagNo="N64#742" name="South Park Rally (Europe)" cn_name="南方公园 Rally （欧版）"/>
+	<game FlagNo="N64#743" name="South Park Rally (USA)" cn_name="南方公园 Rally （美版）"/>
+	<game FlagNo="N64#744" name="Space Dynamites (Japan)" cn_name="宇宙战士格斗 （日版）"/>
+	<game FlagNo="N64#745" name="Space Invaders (USA)" cn_name="太空侵略者 （美版）"/>
+	<game FlagNo="N64#746" name="SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)" cn_name="硅谷太空站 （欧版） (En,Fr,De,Es,It,Nl,Pt)"/>
+	<game FlagNo="N64#747" name="SpaceStation Silicon Valley (Japan) (Proto)" cn_name="硅谷太空站 （日版） (Proto)"/>
+	<game FlagNo="N64#748" name="SpaceStation Silicon Valley (USA)" cn_name="硅谷太空站 （美版）"/>
+	<game FlagNo="N64#749" name="Spider-Man (USA)" cn_name="蜘蛛侠 （美版）"/>
+	<game FlagNo="N64#750" name="Star Fox 64 (Japan)" cn_name="星际火狐64 （日版）"/>
+	<game FlagNo="N64#751" name="Star Fox 64 (USA) (Rev A)" cn_name="星际火狐64 （美版） (Rev A)"/>
+	<game FlagNo="N64#752" name="Star Fox 64 (USA)" cn_name="星际火狐64 （美版）"/>
+	<game FlagNo="N64#753" name="Star Soldier - Vanishing Earth (Japan)" cn_name="星际战士-失落的地球 （日版）"/>
+	<game FlagNo="N64#754" name="Star Soldier - Vanishing Earth (USA)" cn_name="星际战士-失落的地球 （美版）"/>
+	<game FlagNo="N64#755" name="Star Twins (Japan)" cn_name="喷射力量 双子星 （日版）"/>
+	<game FlagNo="N64#756" name="Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev A)" cn_name="星球大战-侠盗中队 （欧版） (En,Fr,De) (Rev A)"/>
+	<game FlagNo="N64#757" name="Star Wars - Rogue Squadron (Europe) (En,Fr,De)" cn_name="星球大战-侠盗中队 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#758" name="Star Wars - Rogue Squadron (USA) (Rev A)" cn_name="星球大战-侠盗中队 （美版） (Rev A)"/>
+	<game FlagNo="N64#759" name="Star Wars - Rogue Squadron (USA)" cn_name="星球大战-侠盗中队 （美版）"/>
+	<game FlagNo="N64#760" name="Star Wars - Shadows of the Empire (Europe)" cn_name="星球大战-帝国的阴影 （欧版）"/>
+	<game FlagNo="N64#761" name="Star Wars - Shadows of the Empire (USA) (Beta)" cn_name="星球大战-帝国的阴影 （美版） (Beta)"/>
+	<game FlagNo="N64#762" name="Star Wars - Shadows of the Empire (USA) (Rev A)" cn_name="星球大战-帝国的阴影 （美版） (Rev A)"/>
+	<game FlagNo="N64#763" name="Star Wars - Shadows of the Empire (USA) (Rev B)" cn_name="星球大战-帝国的阴影 （美版） (Rev B)"/>
+	<game FlagNo="N64#764" name="Star Wars - Shadows of the Empire (USA)" cn_name="星球大战-帝国的阴影 （美版）"/>
+	<game FlagNo="N64#765" name="Star Wars - Shutsugeki! Rogue Chuutai (Japan)" cn_name="星球大战-侠盗中队 （日版）"/>
+	<game FlagNo="N64#766" name="Star Wars - Teikoku no Kage (Japan)" cn_name="星球大战-帝国的阴影 （日版）"/>
+	<game FlagNo="N64#767" name="Star Wars Episode I - Battle for Naboo (Europe)" cn_name="星球大战前传1-纳布之战 （欧版）"/>
+	<game FlagNo="N64#768" name="Star Wars Episode I - Battle for Naboo (USA)" cn_name="星球大战前传1-纳布之战 （美版）"/>
+	<game FlagNo="N64#769" name="Star Wars Episode I - Racer (Europe) (En,Fr,De)" cn_name="星球大战前传1-极速飞梭 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#770" name="Star Wars Episode I - Racer (Japan)" cn_name="星球大战前传1-极速飞梭 （日版）"/>
+	<game FlagNo="N64#771" name="Star Wars Episode I - Racer (USA)" cn_name="星球大战前传1-极速飞梭 （美版）"/>
+	<game FlagNo="N64#772" name="StarCraft 64 (Australia)" cn_name="星际争霸64 澳版"/>
+	<game FlagNo="N64#773" name="StarCraft 64 (Germany) (Proto)" cn_name="星际争霸64 （德版） (Proto)"/>
+	<game FlagNo="N64#774" name="StarCraft 64 (USA) (Beta)" cn_name="星际争霸64 （美版） (Beta)"/>
+	<game FlagNo="N64#775" name="StarCraft 64 (USA)" cn_name="星际争霸64 （美版）"/>
+	<game FlagNo="N64#776" name="Starshot - Space Circus Fever (Europe) (En,Fr,De)" cn_name="银河出击-太空马戏团狂热 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#777" name="Starshot - Space Circus Fever (USA) (En,Fr,Es)" cn_name="银河出击-太空马戏团狂热 （美版） (En,Fr,Es)"/>
+	<game FlagNo="N64#778" name="Stunt Racer 64 (USA)" cn_name="特技赛车64 （美版）"/>
+	<game FlagNo="N64#779" name="Super B-Daman - Battle Phoenix 64 (Japan)" cn_name="弹珠超人64-战斗凤凰 （日版）"/>
+	<game FlagNo="N64#780" name="Super Bowling (Japan)" cn_name="超级保龄球 （日版）"/>
+	<game FlagNo="N64#781" name="Super Bowling (USA)" cn_name="超级保龄球 （美版）"/>
+	<game FlagNo="N64#782" name="Super Mario 64 (Europe) (En,Fr,De)" cn_name="超级马里奥64 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#783" name="Super Mario 64 (Japan) (Rev C) (Shindou Edition)" cn_name="超级马里奥64 （日版） (Rev C) (Shindou Edition)"/>
+	<game FlagNo="N64#784" name="Super Mario 64 (Japan)" cn_name="超级马里奥64 （日版）"/>
+	<game FlagNo="N64#785" name="Super Mario 64 (USA)" cn_name="超级马里奥64 （美版）"/>
+	<game FlagNo="N64#786" name="Super Robot Spirits (Japan)" cn_name="超钢之魂 （日版）"/>
+	<game FlagNo="N64#787" name="Super Robot Taisen 64 (Japan)" cn_name="超级机器人大战64 （日版）"/>
+	<game FlagNo="N64#788" name="Super Smash Bros. (Australia)" cn_name="任天堂全明星大乱斗 澳版"/>
+	<game FlagNo="N64#789" name="Super Smash Bros. (Europe) (En,Fr,De)" cn_name="任天堂全明星大乱斗 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#790" name="Super Smash Bros. (USA)" cn_name="任天堂全明星大乱斗 （美版）"/>
+	<game FlagNo="N64#791" name="Super Speed Race 64 (Japan)" cn_name="兰博基尼赛车 （日版）"/>
+	<game FlagNo="N64#792" name="Supercross 2000 (Europe) (En,Fr,De)" cn_name="越野狂飙 2000 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#793" name="Supercross 2000 (USA)" cn_name="越野狂飙 2000 （美版）"/>
+	<game FlagNo="N64#794" name="Superman (Europe) (En,Fr,De,Es,It,Nl)" cn_name="超人 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#795" name="Superman (USA) (Beta)" cn_name="超人 （美版） (Beta)"/>
+	<game FlagNo="N64#796" name="Superman - The New Superman Aventures (USA) (En,Fr,Es)" cn_name="超人 - The New 超人 Aventures （美版） (En,Fr,Es)"/>
+	<game FlagNo="N64#797" name="Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)" cn_name="前进!智力对战方块 （日版）"/>
+	<game FlagNo="N64#798" name="Sydney 2000 (Europe) (Proto)" cn_name="悉尼 2000 （欧版） (Proto)"/>
+	<game FlagNo="N64#799" name="Sydney 2000 (USA) (Proto)" cn_name="悉尼 2000 （美版） (Proto)"/>
+	<game FlagNo="N64#800" name="Tamiya Racing 64 (USA) (Proto)" cn_name="田宫赛车64 （美版） (Proto)"/>
+	<game FlagNo="N64#801" name="Tarzan (Europe)" cn_name="人猿泰山 （欧版）"/>
+	<game FlagNo="N64#802" name="Tarzan (France)" cn_name="人猿泰山 （法版）"/>
+	<game FlagNo="N64#803" name="Tarzan (Germany)" cn_name="人猿泰山 （德版）"/>
+	<game FlagNo="N64#804" name="Tarzan (USA)" cn_name="人猿泰山 （美版）"/>
+	<game FlagNo="N64#805" name="Taz Express (Europe) (En,Fr,De,Es,It,Nl)" cn_name="大嘴怪塔兹 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#806" name="Taz Express (USA) (Proto)" cn_name="大嘴怪塔兹 （美版） (Proto)"/>
+	<game FlagNo="N64#807" name="Telefoot Soccer 2000 (France)" cn_name="特勒弗特足球 2000 （法版）"/>
+	<game FlagNo="N64#808" name="Tetris 64 (Japan) (En)" cn_name="俄罗斯方块64 （日版） (En)"/>
+	<game FlagNo="N64#809" name="Tetrisphere (Europe)" cn_name="图形方块 （欧版）"/>
+	<game FlagNo="N64#810" name="Tetrisphere (USA)" cn_name="图形方块 （美版）"/>
+	<game FlagNo="N64#811" name="TG Rally 2 (Europe)" cn_name="疯狂汽车秀 拉力赛2 （欧版）"/>
+	<game FlagNo="N64#812" name="Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)" cn_name="跳跳虎历险记 （欧版） (En,Fr,De,Es,It,Nl,Da)"/>
+	<game FlagNo="N64#813" name="Tigger's Honey Hunt (USA)" cn_name="跳跳虎历险记 （美版）"/>
+	<game FlagNo="N64#814" name="Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)" cn_name="汤姆和杰瑞 绒毛拳头 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#815" name="Tom and Jerry in Fists of Furry (USA)" cn_name="汤姆和杰瑞 绒毛拳头 （美版）"/>
+	<game FlagNo="N64#816" name="Tom Clancy's Rainbow Six (Europe)" cn_name="彩虹六号 （欧版）"/>
+	<game FlagNo="N64#817" name="Tom Clancy's Rainbow Six (France)" cn_name="彩虹六号 （法版）"/>
+	<game FlagNo="N64#818" name="Tom Clancy's Rainbow Six (Germany)" cn_name="彩虹六号 （德版）"/>
+	<game FlagNo="N64#819" name="Tom Clancy's Rainbow Six (USA)" cn_name="彩虹六号 （美版）"/>
+	<game FlagNo="N64#820" name="Tommy Thunder (USA) (Proto)" cn_name="雷鸣汤米 （美版） (Proto)"/>
+	<game FlagNo="N64#821" name="Tonic Trouble (Europe) (En,Fr,De,Es,It)" cn_name="麻烦大了 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#822" name="Tonic Trouble (USA) (Rev A)" cn_name="麻烦大了 （美版） (Rev A)"/>
+	<game FlagNo="N64#823" name="Tony Hawk's Pro Skater (USA) (Rev A)" cn_name="托尼霍克职业滑板 （美版） (Rev A)"/>
+	<game FlagNo="N64#824" name="Tony Hawk's Pro Skater (USA)" cn_name="托尼霍克职业滑板 （美版）"/>
+	<game FlagNo="N64#825" name="Tony Hawk's Pro Skater 2 (Europe)" cn_name="托尼霍克职业滑板 2 （欧版）"/>
+	<game FlagNo="N64#826" name="Tony Hawk's Pro Skater 2 (USA)" cn_name="托尼霍克职业滑板 2 （美版）"/>
+	<game FlagNo="N64#827" name="Tony Hawk's Pro Skater 3 (USA)" cn_name="托尼霍克职业滑板 3 （美版）"/>
+	<game FlagNo="N64#828" name="Tony Hawk's Skateboarding (Europe)" cn_name="托尼霍克职业滑板 （欧版）"/>
+	<game FlagNo="N64#829" name="Toon Panic (Japan) (Proto)" cn_name="恐怖卡通 （日版） (Proto)"/>
+	<game FlagNo="N64#830" name="Top Gear Hyper-Bike (Europe)" cn_name="疯狂汽车秀 超级摩托 （欧版）"/>
+	<game FlagNo="N64#831" name="Top Gear Hyper-Bike (Japan)" cn_name="疯狂汽车秀 超级摩托 （日版）"/>
+	<game FlagNo="N64#832" name="Top Gear Hyper-Bike (USA)" cn_name="疯狂汽车秀 超级摩托 （美版）"/>
+	<game FlagNo="N64#833" name="Top Gear Overdrive (Europe)" cn_name="疯狂汽车秀 超速 （欧版）"/>
+	<game FlagNo="N64#834" name="Top Gear Overdrive (Japan)" cn_name="疯狂汽车秀 超速 （日版）"/>
+	<game FlagNo="N64#835" name="Top Gear Overdrive (USA)" cn_name="疯狂汽车秀 超速 （美版）"/>
+	<game FlagNo="N64#836" name="Top Gear Rally (Europe)" cn_name="疯狂汽车秀 拉力赛 （欧版）"/>
+	<game FlagNo="N64#837" name="Top Gear Rally (Japan)" cn_name="疯狂汽车秀 拉力赛 （日版）"/>
+	<game FlagNo="N64#838" name="Top Gear Rally (USA)" cn_name="疯狂汽车秀 拉力赛 （美版）"/>
+	<game FlagNo="N64#839" name="Top Gear Rally 2 (Europe)" cn_name="疯狂汽车秀 拉力赛 2 （欧版）"/>
+	<game FlagNo="N64#840" name="Top Gear Rally 2 (Japan)" cn_name="疯狂汽车秀 拉力赛 2 （日版）"/>
+	<game FlagNo="N64#841" name="Top Gear Rally 2 (USA)" cn_name="疯狂汽车秀 拉力赛 2 （美版）"/>
+	<game FlagNo="N64#842" name="Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)" cn_name="玩具总动员2-巴斯光年前来救援 （法版）"/>
+	<game FlagNo="N64#843" name="Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)" cn_name="玩具总动员2-巴斯光年前来救援 （欧版）"/>
+	<game FlagNo="N64#844" name="Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev A)" cn_name="玩具总动员2-巴斯光年前来救援 （美版） (Rev A)"/>
+	<game FlagNo="N64#845" name="Toy Story 2 - Buzz Lightyear to the Rescue! (USA)" cn_name="玩具总动员2-巴斯光年前来救援 （美版）"/>
+	<game FlagNo="N64#846" name="Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev A)" cn_name="玩具总动员2-巴斯光年前来救援 （德版） (Rev A)"/>
+	<game FlagNo="N64#847" name="Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany)" cn_name="玩具总动员2-巴斯光年前来救援 （德版）"/>
+	<game FlagNo="N64#848" name="Transformers - Beast Wars Metals 64 (Japan)" cn_name="变形金刚-超能勇士 （日版）"/>
+	<game FlagNo="N64#849" name="Transformers - Beast Wars Transmetals (USA)" cn_name="变形金刚-超能勇士 （美版）"/>
+	<game FlagNo="N64#850" name="Triple Play 2000 (USA)" cn_name="美国职棒三杀 2000 （美版）"/>
+	<game FlagNo="N64#851" name="Tsumi to Batsu - Hoshi no Keishousha (Japan)" cn_name="罪与罚-地球的继承者 （日版）"/>
+	<game FlagNo="N64#852" name="Turok - Dinosaur Hunter (Europe) (Rev A)" cn_name="恐龙猎人 （欧版） (Rev A)"/>
+	<game FlagNo="N64#853" name="Turok - Dinosaur Hunter (Europe) (Rev B)" cn_name="恐龙猎人 （欧版） (Rev B)"/>
+	<game FlagNo="N64#854" name="Turok - Dinosaur Hunter (Europe)" cn_name="恐龙猎人 （欧版）"/>
+	<game FlagNo="N64#855" name="Turok - Dinosaur Hunter (Germany) (Rev A)" cn_name="恐龙猎人 （德版） (Rev A)"/>
+	<game FlagNo="N64#856" name="Turok - Dinosaur Hunter (Germany) (Rev B)" cn_name="恐龙猎人 （德版） (Rev B)"/>
+	<game FlagNo="N64#857" name="Turok - Dinosaur Hunter (Germany)" cn_name="恐龙猎人 （德版）"/>
+	<game FlagNo="N64#858" name="Turok - Dinosaur Hunter (USA) (Rev A)" cn_name="恐龙猎人 （美版） (Rev A)"/>
+	<game FlagNo="N64#859" name="Turok - Dinosaur Hunter (USA) (Rev B)" cn_name="恐龙猎人 （美版） (Rev B)"/>
+	<game FlagNo="N64#860" name="Turok - Dinosaur Hunter (USA)" cn_name="恐龙猎人 （美版）"/>
+	<game FlagNo="N64#861" name="Turok - Legenden des Verlorenen Landes (Germany)" cn_name="恐龙猎人-狂怒之战 （德版）"/>
+	<game FlagNo="N64#862" name="Turok - Rage Wars (Europe) (En,Fr,It)" cn_name="恐龙猎人-狂怒之战 （欧版） (En,Fr,It)"/>
+	<game FlagNo="N64#863" name="Turok - Rage Wars (Europe)" cn_name="恐龙猎人-狂怒之战 （欧版）"/>
+	<game FlagNo="N64#864" name="Turok - Rage Wars (USA) (Rev A)" cn_name="恐龙猎人-狂怒之战 （美版） (Rev A)"/>
+	<game FlagNo="N64#865" name="Turok - Rage Wars (USA)" cn_name="恐龙猎人-狂怒之战 （美版）"/>
+	<game FlagNo="N64#866" name="Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk)" cn_name="恐龙猎人2-邪恶之种 （欧版） (Demo) (Kiosk)"/>
+	<game FlagNo="N64#867" name="Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)" cn_name="恐龙猎人2-邪恶之种 （欧版） (En,Fr,Es,It)"/>
+	<game FlagNo="N64#868" name="Turok 2 - Seeds of Evil (Europe)" cn_name="恐龙猎人2-邪恶之种 （欧版）"/>
+	<game FlagNo="N64#869" name="Turok 2 - Seeds of Evil (Germany)" cn_name="恐龙猎人2-邪恶之种 （德版）"/>
+	<game FlagNo="N64#870" name="Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk)" cn_name="恐龙猎人2-邪恶之种 （美版） (Demo) (Kiosk)"/>
+	<game FlagNo="N64#871" name="Turok 2 - Seeds of Evil (USA) (Rev A)" cn_name="恐龙猎人2-邪恶之种 （美版） (Rev A)"/>
+	<game FlagNo="N64#872" name="Turok 2 - Seeds of Evil (USA)" cn_name="恐龙猎人2-邪恶之种 （美版）"/>
+	<game FlagNo="N64#873" name="Turok 3 - Shadow of Oblivion (Europe)" cn_name="恐龙猎人3-遗忘之影 （欧版）"/>
+	<game FlagNo="N64#874" name="Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-05-31)" cn_name="恐龙猎人3-遗忘之影 （美版） (Beta) (2000-05-31)"/>
+	<game FlagNo="N64#875" name="Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-10)" cn_name="恐龙猎人3-遗忘之影 （美版） (Beta) (2000-07-10)"/>
+	<game FlagNo="N64#876" name="Turok 3 - Shadow of Oblivion (USA)" cn_name="恐龙猎人3-遗忘之影 （美版）"/>
+	<game FlagNo="N64#877" name="Twisted Edge - Extreme Snowboarding (Europe)" cn_name="雪地滑板王 （欧版）"/>
+	<game FlagNo="N64#878" name="Twisted Edge - Extreme Snowboarding (USA)" cn_name="雪地滑板王 （美版）"/>
+	<game FlagNo="N64#879" name="Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)" cn_name="电流棒（日版）"/>
+	<game FlagNo="N64#880" name="V-Rally Edition 99 (Europe) (En,Fr,De)" cn_name="V-拉力赛车 99 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#881" name="V-Rally Edition 99 (Japan)" cn_name="V-拉力赛车 99 （日版）"/>
+	<game FlagNo="N64#882" name="V-Rally Edition 99 (USA)" cn_name="V-拉力赛车 99 （美版）"/>
+	<game FlagNo="N64#883" name="Vigilante 8 (Europe)" cn_name="武装战斗车 （欧版）"/>
+	<game FlagNo="N64#884" name="Vigilante 8 (France)" cn_name="武装战斗车 （法版）"/>
+	<game FlagNo="N64#885" name="Vigilante 8 (Germany)" cn_name="武装战斗车 （德版）"/>
+	<game FlagNo="N64#886" name="Vigilante 8 (USA)" cn_name="武装战斗车 （美版）"/>
+	<game FlagNo="N64#887" name="Vigilante 8 - 2nd Offense (Europe)" cn_name="武装战斗车 - 2nd Offense （欧版）"/>
+	<game FlagNo="N64#888" name="Vigilante 8 - 2nd Offense (USA)" cn_name="武装战斗车 - 2nd Offense （美版）"/>
+	<game FlagNo="N64#889" name="Violence Killer - Turok New Generation (Japan)" cn_name="恐龙猎人2-邪恶之种 （日版）"/>
+	<game FlagNo="N64#890" name="Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)" cn_name="虚拟国际象棋64 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#891" name="Virtual Chess 64 (USA) (En,Fr,Es)" cn_name="虚拟国际象棋64 （美版） (En,Fr,Es)"/>
+	<game FlagNo="N64#892" name="Virtual Pool 64 (Europe)" cn_name="虚拟台球64 （欧版）"/>
+	<game FlagNo="N64#893" name="Virtual Pool 64 (USA)" cn_name="虚拟台球64 （美版）"/>
+	<game FlagNo="N64#894" name="Virtual Pro Wrestling 2 - Oudou Keishou (Japan)" cn_name="虚拟职业摔角2-王道继承 （日版）"/>
+	<game FlagNo="N64#895" name="Virtual Pro Wrestling 64 (Japan)" cn_name="虚拟职业摔角64 （日版）"/>
+	<game FlagNo="N64#896" name="Waialae Country Club - True Golf Classics (Europe) (Rev A)" cn_name="维艾勒伊乡村俱乐部-真正的高尔夫经典 （欧版） (Rev A)"/>
+	<game FlagNo="N64#897" name="Waialae Country Club - True Golf Classics (Europe)" cn_name="维艾勒伊乡村俱乐部-真正的高尔夫经典 （欧版）"/>
+	<game FlagNo="N64#898" name="Waialae Country Club - True Golf Classics (USA) (Rev A)" cn_name="维艾勒伊乡村俱乐部-真正的高尔夫经典 （美版） (Rev A)"/>
+	<game FlagNo="N64#899" name="Waialae Country Club - True Golf Classics (USA)" cn_name="维艾勒伊乡村俱乐部-真正的高尔夫经典 （美版）"/>
+	<game FlagNo="N64#900" name="War Gods (Europe)" cn_name="斗神传说 （欧版）"/>
+	<game FlagNo="N64#901" name="War Gods (USA)" cn_name="斗神传说 （美版）"/>
+	<game FlagNo="N64#902" name="Wave Race 64 (Europe) (En,De)" cn_name="水上摩托车64 （欧版） (En,De)"/>
+	<game FlagNo="N64#903" name="Wave Race 64 (Japan) (Rev A)" cn_name="水上摩托车64 （日版） (Rev A)"/>
+	<game FlagNo="N64#904" name="Wave Race 64 (Japan) (Rev B) (Shindou Edition)" cn_name="水上摩托车64 （日版） (Rev B) (Shindou Edition)"/>
+	<game FlagNo="N64#905" name="Wave Race 64 (Japan)" cn_name="水上摩托车64 （日版）"/>
+	<game FlagNo="N64#906" name="Wave Race 64 (USA) (Rev A)" cn_name="水上摩托车64 （美版） (Rev A)"/>
+	<game FlagNo="N64#907" name="Wave Race 64 (USA)" cn_name="水上摩托车64 （美版）"/>
+	<game FlagNo="N64#908" name="Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)" cn_name="韦恩格列斯基3D冰球 '98 （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#909" name="Wayne Gretzky's 3D Hockey '98 (USA)" cn_name="韦恩格列斯基3D冰球 '98 （美版）"/>
+	<game FlagNo="N64#910" name="Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)" cn_name="韦恩格列斯基3D冰球 （欧版） (En,Fr,De,Es)"/>
+	<game FlagNo="N64#911" name="Wayne Gretzky's 3D Hockey (Japan)" cn_name="韦恩格列斯基3D冰球 （日版）"/>
+	<game FlagNo="N64#912" name="Wayne Gretzky's 3D Hockey (USA) (Rev A)" cn_name="韦恩格列斯基3D冰球 （美版） (Rev A)"/>
+	<game FlagNo="N64#913" name="Wayne Gretzky's 3D Hockey (USA)" cn_name="韦恩格列斯基3D冰球 （美版）"/>
+	<game FlagNo="N64#914" name="WCW Backstage Assault (USA)" cn_name="世界冠军摔角 后台摔角 （美版）"/>
+	<game FlagNo="N64#915" name="WCW Mayhem (Europe)" cn_name="世界冠军摔角 故意伤害 （欧版）"/>
+	<game FlagNo="N64#916" name="WCW Mayhem (USA)" cn_name="世界冠军摔角 故意伤害 （美版）"/>
+	<game FlagNo="N64#917" name="WCW Nitro (USA) (Alt 1)" cn_name="世界冠军摔角 火爆摔角 （美版） (Alt 1)"/>
+	<game FlagNo="N64#918" name="WCW Nitro (USA)" cn_name="世界冠军摔角 火爆摔角 （美版）"/>
+	<game FlagNo="N64#919" name="WCW vs. nWo - World Tour (Europe)" cn_name="世界冠军摔角vs.世界新秩序-世界巡回赛 （欧版）"/>
+	<game FlagNo="N64#920" name="WCW vs. nWo - World Tour (USA) (Rev A)" cn_name="世界冠军摔角vs.世界新秩序-世界巡回赛 （美版） (Rev A)"/>
+	<game FlagNo="N64#921" name="WCW vs. nWo - World Tour (USA)" cn_name="世界冠军摔角vs.世界新秩序-世界巡回赛 （美版）"/>
+	<game FlagNo="N64#922" name="WCW-nWo Revenge (Europe)" cn_name="世界冠军摔角vs.世界新秩序 复仇 （欧版）"/>
+	<game FlagNo="N64#923" name="WCW-nWo Revenge (USA)" cn_name="世界冠军摔角vs.世界新秩序 复仇 （美版）"/>
+	<game FlagNo="N64#924" name="Wetrix (Europe) (En,Fr,De,Es,It,Nl)" cn_name="水滴对对碰 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#925" name="Wetrix (Japan)" cn_name="水滴对对碰 （日版）"/>
+	<game FlagNo="N64#926" name="Wetrix (USA) (En,Fr,De,Es,It,Nl)" cn_name="水滴对对碰 （美版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#927" name="Wheel of Fortune (USA)" cn_name="幸运轮盘 （美版）"/>
+	<game FlagNo="N64#928" name="Wild Choppers (Japan)" cn_name="狂野直升机 （日版）"/>
+	<game FlagNo="N64#929" name="Wildwaters (USA) (Proto)" cn_name="皮划艇漂流 （美版） (Proto)"/>
+	<game FlagNo="N64#930" name="WinBack (Japan) (Rev A)" cn_name="不可能的任务 （日版） (Rev A)"/>
+	<game FlagNo="N64#931" name="WinBack (Japan)" cn_name="不可能的任务 （日版）"/>
+	<game FlagNo="N64#932" name="WinBack - Covert Operations (USA)" cn_name="不可能的任务 - Covert Operations （美版）"/>
+	<game FlagNo="N64#933" name="Wipeout 64 (Europe)" cn_name="反重力赛车64 （欧版）"/>
+	<game FlagNo="N64#934" name="Wipeout 64 (USA)" cn_name="反重力赛车64 （美版）"/>
+	<game FlagNo="N64#935" name="Wonder Project J2 - Koruro no Mori no Jozet (Japan)" cn_name="神奇计划J2-科鲁罗之森的朱赛特 （日版）"/>
+	<game FlagNo="N64#936" name="World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)" cn_name="世界杯 98 （欧版） (En,Fr,De,Es,It,Nl,Sv,Da)"/>
+	<game FlagNo="N64#937" name="World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)" cn_name="世界杯 98 （美版） (En,Fr,De,Es,It,Nl,Sv,Da)"/>
+	<game FlagNo="N64#938" name="World Driver Championship (Europe) (En,Fr,De,Es,It)" cn_name="世界赛车锦标赛 （欧版） (En,Fr,De,Es,It)"/>
+	<game FlagNo="N64#939" name="World Driver Championship (USA)" cn_name="世界赛车锦标赛 （美版）"/>
+	<game FlagNo="N64#940" name="Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)" cn_name="百战天虫 末日浩劫 （欧版） (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="N64#941" name="Worms Armageddon (USA) (En,Fr,Es)" cn_name="百战天虫 末日浩劫 （美版） (En,Fr,Es)"/>
+	<game FlagNo="N64#942" name="WWF Attitude (Europe)" cn_name="世界摔角联盟 恶劣态度 （欧版）"/>
+	<game FlagNo="N64#943" name="WWF Attitude (Germany)" cn_name="世界摔角联盟 恶劣态度 （德版）"/>
+	<game FlagNo="N64#944" name="WWF Attitude (USA)" cn_name="世界摔角联盟 恶劣态度 （美版）"/>
+	<game FlagNo="N64#945" name="WWF No Mercy (Europe) (Rev A)" cn_name="世界摔角联盟 不可饶恕 （欧版） (Rev A)"/>
+	<game FlagNo="N64#946" name="WWF No Mercy (Europe)" cn_name="世界摔角联盟 不可饶恕 （欧版）"/>
+	<game FlagNo="N64#947" name="WWF No Mercy (USA) (Rev A)" cn_name="世界摔角联盟 不可饶恕 （美版） (Rev A)"/>
+	<game FlagNo="N64#948" name="WWF No Mercy (USA)" cn_name="世界摔角联盟 不可饶恕 （美版）"/>
+	<game FlagNo="N64#949" name="WWF War Zone (Europe)" cn_name="世界摔角联盟 战区 （欧版）"/>
+	<game FlagNo="N64#950" name="WWF War Zone (USA)" cn_name="世界摔角联盟 战区 （美版）"/>
+	<game FlagNo="N64#951" name="WWF WrestleMania 2000 (Europe)" cn_name="世界摔角联盟 摔角狂热2000 （欧版）"/>
+	<game FlagNo="N64#952" name="WWF WrestleMania 2000 (Japan)" cn_name="世界摔角联盟 摔角狂热2000 （日版）"/>
+	<game FlagNo="N64#953" name="WWF WrestleMania 2000 (USA)" cn_name="世界摔角联盟 摔角狂热2000 （美版）"/>
+	<game FlagNo="N64#954" name="Xena - Warrior Princess - The Talisman of Fate (Europe)" cn_name="战士公主西娜-命运的护身符 （欧版）"/>
+	<game FlagNo="N64#955" name="Xena - Warrior Princess - The Talisman of Fate (USA)" cn_name="战士公主西娜-命运的护身符 （美版）"/>
+	<game FlagNo="N64#956" name="Xingji Huohu (China) (v4) (iQue) (Manual)" cn_name="星际火狐 (中国版) (v4) （神游版） (Manual)"/>
+	<game FlagNo="N64#957" name="Xingji Huohu (China) (v5) (iQue)" cn_name="星际火狐 (中国版) (v5) （神游版）"/>
+	<game FlagNo="N64#958" name="Xplorer 64 (Germany) (v1.067) (Unl)" cn_name="Xplorer64 （德版） (v1.067) (Unl)"/>
+	<game FlagNo="N64#959" name="Yakouchuu II - Satsujin Kouro (Japan)" cn_name="夜光虫2-杀人航路 （日版）"/>
+	<game FlagNo="N64#960" name="Yaoxi Gushi (China) (iQue)" cn_name="耀西故事 (中国版) （神游版）"/>
+	<game FlagNo="N64#961" name="Yaoxi Gushi (China) (v2) (iQue) (Manual)" cn_name="耀西故事 (中国版) (v2) （神游版） (Manual)"/>
+	<game FlagNo="N64#962" name="Yaoxi Gushi (China) (v4) (iQue) (Manual)" cn_name="耀西故事 (中国版) (v4) （神游版） (Manual)"/>
+	<game FlagNo="N64#963" name="Yaoxi Gushi (China) (v6) (iQue) (Manual)" cn_name="耀西故事 (中国版) (v6) （神游版） (Manual)"/>
+	<game FlagNo="N64#964" name="Yoshi Story (Japan)" cn_name="耀西的故事 （日版）"/>
+	<game FlagNo="N64#965" name="Yoshi's Story (Europe) (En,Fr,De)" cn_name="耀西的故事 （欧版） (En,Fr,De)"/>
+	<game FlagNo="N64#966" name="Yoshi's Story (USA) (En,Ja)" cn_name="耀西的故事 （美版） (En,Ja)"/>
+	<game FlagNo="N64#967" name="Yueye Motuo (China) (iQue) (Manual)" cn_name="越野摩托 (中国版) （神游版） (Manual)"/>
+	<game FlagNo="N64#968" name="Yueye Motuo (China) (iQue)" cn_name="越野摩托 (中国版) （神游版）"/>
+	<game FlagNo="N64#969" name="Yuke Yuke!! Trouble Makers (Japan)" cn_name="麻烦制造者 （日版）"/>
+	<game FlagNo="N64#970" name="Zelda Chuanshuo Shiguang Zhi Di (China) (Chinese Traditional) (iQue)" cn_name="塞尔达传说 时之笛 (中国版) (繁体中文) （神游版）"/>
+	<game FlagNo="N64#971" name="Zelda Chuanshuo Shiguang Zhi Di (China) (iQue)" cn_name="塞尔达传说 时之笛 (中国版) （神游版）"/>
+	<game FlagNo="N64#972" name="Zelda Chuanshuo Shiguang Zhi Di (China) (v2) (iQue) (Manual)" cn_name="塞尔达传说 时之笛 (中国版) (v2) （神游版） (Manual)"/>
+	<game FlagNo="N64#973" name="Zelda Chuanshuo Shiguang Zhi Di (China) (v4) (iQue) (Manual)" cn_name="塞尔达传说 时之笛 (中国版) (v4) （神游版） (Manual)"/>
+	<game FlagNo="N64#974" name="Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube Edition)" cn_name="塞尔达传说-马祖拉的假面 （日版） (NGC版)"/>
+	<game FlagNo="N64#975" name="Zelda no Densetsu - Mujura no Kamen (Japan) (Rev A)" cn_name="塞尔达传说-马祖拉的假面 （日版） (Rev A)"/>
+	<game FlagNo="N64#976" name="Zelda no Densetsu - Mujura no Kamen (Japan)" cn_name="塞尔达传说-马祖拉的假面 （日版）"/>
+	<game FlagNo="N64#977" name="Zelda no Densetsu - Toki no Ocarina (Japan) (Rev A)" cn_name="塞尔达传说-时之笛 （日版） (Rev A)"/>
+	<game FlagNo="N64#978" name="Zelda no Densetsu - Toki no Ocarina (Japan) (Rev B)" cn_name="塞尔达传说-时之笛 （日版） (Rev B)"/>
+	<game FlagNo="N64#979" name="Zelda no Densetsu - Toki no Ocarina (Japan)" cn_name="塞尔达传说-时之笛 （日版）"/>
+	<game FlagNo="N64#980" name="Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube Edition)" cn_name="塞尔达传说-时之笛 GC （日版） (NGC版)"/>
+	<game FlagNo="N64#981" name="Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube Edition)" cn_name="塞尔达传说-时之笛 GC Ura （日版） (NGC版)"/>
+	<game FlagNo="N64#982" name="Zhi Pian Mario (China) (iQue)" cn_name="纸片马里奥 (中国版) （神游版）"/>
+	<game FlagNo="N64#983" name="Zhi Pian Mario (China) (v2) (iQue) (Manual)" cn_name="纸片马里奥 (中国版) (v2) （神游版） (Manual)"/>
+	<game FlagNo="N64#984" name="Zhi Pian Mario (China) (v4) (iQue) (Manual)" cn_name="纸片马里奥 (中国版) (v4) （神游版） (Manual)"/>
+	<game FlagNo="N64#985" name="Zool - Majuu Tsukai Densetsu (Japan)" cn_name="魔兽使传说 （日版）"/>
+	<game FlagNo="N64#986" name="Zuhe Jiqiren (China) (iQue)" cn_name="组合机器人 (中国版) （神游版）"/>
+	<game FlagNo="N64#987" name="Zui Yu Fa Diqiu De Jicheng Zhe (China) (iQue) (Manual)" cn_name="罪与罚:地球的继承者 (中国版) （神游版） (Manual)"/>
+	<game FlagNo="N64#988" name="Zui Yu Fa Diqiu De Jicheng Zhe (China) (iQue)" cn_name="罪与罚:地球的继承者 (中国版) （神游版）"/>
+</datafile>

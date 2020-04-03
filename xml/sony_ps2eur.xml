@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datafile>
+	<header>
+		<platform>PS2</platform>
+		<description>PS2欧版游戏合集</description>
+		<version>2020-03-14</version>
+	</header>
+	<game FlagNo="PS2EU#1" name="007 - Agent Under Fire (Europe) (En,Fr,De,Es,Nl,Sv)"/>
+	<game FlagNo="PS2EU#2" name="007 - Everything or Nothing (Europe) (En,Es,It,Nl,Sv)"/>
+	<game FlagNo="PS2EU#3" name="007 - Everything or Nothing (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#4" name="007 - From Russia with Love (Europe) (En,Fr,De,Es,It,Nl,Sv)"/>
+	<game FlagNo="PS2EU#5" name="007 - Nightfire (Europe) (De,Es)"/>
+	<game FlagNo="PS2EU#6" name="007 - Nightfire (Europe) (En,Fr,It,Nl,Sv)"/>
+	<game FlagNo="PS2EU#7" name="007 - Quantum of Solace (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#8" name="10 Pin - Champions Alley (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#9" name="10.000 Bullets (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#10" name="18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#11" name="187 - Ride or Die (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#12" name="1945 I &amp;amp; II (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#13" name="2002 FIFA World Cup Korea Japan (Europe) (En,Sv)"/>
+	<game FlagNo="PS2EU#14" name="2002 FIFA World Cup Korea Japan (France)"/>
+	<game FlagNo="PS2EU#15" name="2002 FIFA World Cup Korea Japan (Germany)"/>
+	<game FlagNo="PS2EU#16" name="2002 FIFA World Cup Korea Japan (Italy)"/>
+	<game FlagNo="PS2EU#17" name="2002 FIFA World Cup Korea Japan (Spain)"/>
+	<game FlagNo="PS2EU#18" name="21 Card Games (Europe)"/>
+	<game FlagNo="PS2EU#19" name="24 - The Game (Australia) (En,Fr,De,Es,It,Nl,Pl,Hu,Cs)"/>
+	<game FlagNo="PS2EU#20" name="24 - The Game (Europe) (En,Fr,De,Es,It,Nl,Pl,Hu,Cs)"/>
+	<game FlagNo="PS2EU#21" name="25 to Life (Europe)"/>
+	<game FlagNo="PS2EU#22" name="4x4 Evo 2 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#23" name="4x4 Evolution (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#24" name="7 Blades (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#25" name="7 Sins (Europe) (Fr,Es,It)"/>
+	<game FlagNo="PS2EU#26" name="7 Sins (Europe)"/>
+	<game FlagNo="PS2EU#27" name="7 Wonders of the Ancient World (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#28" name="A-Train 6 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#29" name="AC-DC Live - Rock Band (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#30" name="Ace Combat - Distant Thunder (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#31" name="Ace Combat - Squadron Leader (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#32" name="Ace Combat - The Belkan War (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#33" name="Ace Lightning (Europe)"/>
+	<game FlagNo="PS2EU#34" name="Aces of War (Europe)"/>
+	<game FlagNo="PS2EU#35" name="Action Girlz Racing (Europe)"/>
+	<game FlagNo="PS2EU#36" name="Action Man A.T.O.M. - Alpha Teens on Machines (Europe) (En,Fr,De,Es,It,Nl,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#37" name="Activision Anthology (Europe)"/>
+	<game FlagNo="PS2EU#38" name="Adiboo and the Energy Thieves (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#39" name="Aeon Flux (Europe)"/>
+	<game FlagNo="PS2EU#40" name="AFL Live - Premiership Edition (Australia)"/>
+	<game FlagNo="PS2EU#41" name="AFL Live 2003 (Australia)"/>
+	<game FlagNo="PS2EU#42" name="AFL Live 2004 (Australia)"/>
+	<game FlagNo="PS2EU#43" name="AFL Live 2004 - Aussie Rules Football (Europe)"/>
+	<game FlagNo="PS2EU#44" name="AFL Premiership 2005 (Australia)"/>
+	<game FlagNo="PS2EU#45" name="AFL Premiership 2006 (Australia)"/>
+	<game FlagNo="PS2EU#46" name="AFL Premiership 2007 (Australia)"/>
+	<game FlagNo="PS2EU#47" name="Agassi Tennis Generation (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#48" name="Age of Empires II - The Age of Kings (Europe) (En,Fr,De,Es,It) (v1.20)"/>
+	<game FlagNo="PS2EU#49" name="Age of Empires II - The Age of Kings (Europe) (En,Fr,De,Es,It) (v2.00)"/>
+	<game FlagNo="PS2EU#50" name="Agent Hugo (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#51" name="Agent Hugo - Hula Holiday (Europe) (En,Fr,De,Es,It,Nl,Pt)"/>
+	<game FlagNo="PS2EU#52" name="Agent Hugo - Lemoon Twist (Europe) (En,Fr,De,Es,It,Nl,Pt)"/>
+	<game FlagNo="PS2EU#53" name="Agent Hugo - RoboRumble (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#54" name="Aggressive Inline (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#55" name="Air Raid 3 (Europe)"/>
+	<game FlagNo="PS2EU#56" name="Air Ranger - Rescue Helicopter (Europe)"/>
+	<game FlagNo="PS2EU#57" name="AirBlade (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#58" name="Airborne Troops - Countdown to D-Day (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#59" name="Akira Psycho Ball (Europe)"/>
+	<game FlagNo="PS2EU#60" name="Alan Hansen s Sports Challenge (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#61" name="Alarm for Cobra 11 (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#62" name="Alarm for Cobra 11 - Vol. II (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#63" name="Alarm for Cobra 11 Vol. 2 - Hot Pursuit (Europe)"/>
+	<game FlagNo="PS2EU#64" name="Alex Ferguson s Player Manager 2001 (Europe)"/>
+	<game FlagNo="PS2EU#65" name="Alias (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#66" name="Alien Hominid (Australia) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#67" name="Aliens in the Attic (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#68" name="Aliens Versus Predator - Extinction (Europe)"/>
+	<game FlagNo="PS2EU#69" name="All Star Fighters (Europe)"/>
+	<game FlagNo="PS2EU#70" name="All-Star Baseball 2002 (Europe)"/>
+	<game FlagNo="PS2EU#71" name="All-Star Baseball 2003 featuring Derek Jeter (Europe)"/>
+	<game FlagNo="PS2EU#72" name="All-Star Baseball 2004 featuring Derek Jeter (Europe)"/>
+	<game FlagNo="PS2EU#73" name="Alone in the Dark (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#74" name="Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#75" name="Alpine Racer 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#76" name="Alpine Ski Racing 2007 (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#77" name="Alpine Skiing 2005 (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#78" name="Alpine Skiing 2005 (Europe)"/>
+	<game FlagNo="PS2EU#79" name="Alpine Skiing 2006 featuring Bode Miller (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#80" name="Alter Echo (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#81" name="Alter Echo (Europe)"/>
+	<game FlagNo="PS2EU#82" name="Altered Beast (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#83" name="Alvin and the Chipmunks (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#84" name="America's 10 Most Wanted (Europe) (En,Fr,De,Es,It) (v1.00)"/>
+	<game FlagNo="PS2EU#85" name="America's 10 Most Wanted (Europe) (En,Fr,De,Es,It) (v1.04)"/>
+	<game FlagNo="PS2EU#86" name="American Chopper (Europe, Australia)"/>
+	<game FlagNo="PS2EU#87" name="American Chopper 2 - Full Throttle (Europe)"/>
+	<game FlagNo="PS2EU#88" name="American Tail, An (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#89" name="AMF Xtreme Bowling 2006 (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#90" name="Amplitude (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#91" name="AND 1 Streetball (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#92" name="Animal Soccer World (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#93" name="Animaniacs - The Great Edgar Hunt (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#94" name="Ant Bully, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#95" name="Antz Extreme Racing (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#96" name="Anubis II (Europe)"/>
+	<game FlagNo="PS2EU#97" name="Ape Escape 2 (Europe)"/>
+	<game FlagNo="PS2EU#98" name="Ape Escape 2 (France)"/>
+	<game FlagNo="PS2EU#99" name="Ape Escape 2 (Germany)"/>
+	<game FlagNo="PS2EU#100" name="Ape Escape 2 (Italy)"/>
+	<game FlagNo="PS2EU#101" name="Ape Escape 2 (Spain)"/>
+	<game FlagNo="PS2EU#102" name="Ape Escape 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#103" name="Aqua Aqua - Wetrix 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#104" name="Aqua Teen Hunger Force - Zombie Ninja Pro-Am (Europe)"/>
+	<game FlagNo="PS2EU#105" name="Ar tonelico - Melody of Elemia (Europe) (En,Ja)"/>
+	<game FlagNo="PS2EU#106" name="Ar tonelico II - Melody of Metafalica (Europe) (En,Ja)"/>
+	<game FlagNo="PS2EU#107" name="Arc - Twilight of the Spirits (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#108" name="Arcade Action - 30 Games (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#109" name="Arcade Classics Volume 1 (Europe)"/>
+	<game FlagNo="PS2EU#110" name="Arcade USA (Europe)"/>
+	<game FlagNo="PS2EU#111" name="Arcade, The (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#112" name="Arctic Thunder (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#113" name="Area 51 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#114" name="Area 51 (Germany) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#115" name="Armored Core - Last Raven (Europe)"/>
+	<game FlagNo="PS2EU#116" name="Armored Core - Nexus (Europe) (En,Fr,Es,It,Nl) (Disc 1) (Evolution)"/>
+	<game FlagNo="PS2EU#117" name="Armored Core - Nexus (Europe) (En,Fr,Es,It,Nl) (Disc 2) (Revolution)"/>
+	<game FlagNo="PS2EU#118" name="Armored Core - Nine Breaker (Europe)"/>
+	<game FlagNo="PS2EU#119" name="Armored Core - Silent Line (Europe)"/>
+	<game FlagNo="PS2EU#120" name="Armored Core 2 (Europe)"/>
+	<game FlagNo="PS2EU#121" name="Armored Core 2 - Another Age (Europe)"/>
+	<game FlagNo="PS2EU#122" name="Armored Core 3 (Europe)"/>
+	<game FlagNo="PS2EU#123" name="Army Men - Air Attack - Blade s Revenge (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#124" name="Army Men - Green Rogue (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#125" name="Army Men - Major Malfunction (Europe, Australia)"/>
+	<game FlagNo="PS2EU#126" name="Army Men - RTS (Europe) (Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#127" name="Army Men - Sarge s Heroes 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#128" name="Army Men - Sarge s War (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#129" name="Art of Fighting Anthology (Europe)"/>
+	<game FlagNo="PS2EU#130" name="Arthur and the Minimoys (Europe) (En,Fr,De,Es,It,Nl,Sv)"/>
+	<game FlagNo="PS2EU#131" name="Artlist Collection - The Dog Island (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#132" name="Assault Suits Valken (Europe)"/>
+	<game FlagNo="PS2EU#133" name="Asterix &amp;amp; Obelix XXL (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#134" name="Asterix &amp;amp; Obelix XXL 2 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#135" name="Asterix &amp;amp; Obelix XXL 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#136" name="Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#137" name="Astro Boy (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#138" name="Astro Boy - The Video Game (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#139" name="Atari Anthology (Europe)"/>
+	<game FlagNo="PS2EU#140" name="Atelier Iris - Eternal Mana (Europe) (En,Ja)"/>
+	<game FlagNo="PS2EU#141" name="Atelier Iris 2 - The Azoth of Destiny (Europe) (En,Ja)"/>
+	<game FlagNo="PS2EU#142" name="Atelier Iris 3 - Grand Phantasm (Europe) (En,Ja)"/>
+	<game FlagNo="PS2EU#143" name="Athens 2004 (Europe) (Nl,Sv,No,Da,Fi,El)"/>
+	<game FlagNo="PS2EU#144" name="Athens 2004 (Europe, Australia) (En,Fr,De,Es,It,Pt)"/>
+	<game FlagNo="PS2EU#145" name="Atlantis III - The New World (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#146" name="Atlantis III - The New World (Europe) (Es,It)"/>
+	<game FlagNo="PS2EU#147" name="Attheraces Presents Gallop Racer (Europe)"/>
+	<game FlagNo="PS2EU#148" name="ATV - Quad Power Racing 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#149" name="ATV Offroad - All Terrain Vehicle (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#150" name="ATV Offroad Fury 2 (Europe)"/>
+	<game FlagNo="PS2EU#151" name="ATV Offroad Fury 3 (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#152" name="Australian Idol Sing (Australia)"/>
+	<game FlagNo="PS2EU#153" name="Auto Modellista (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#154" name="Autobahn Raser - Das Spiel zum Film (Germany)"/>
+	<game FlagNo="PS2EU#155" name="Autobahn Raser IV (Germany)"/>
+	<game FlagNo="PS2EU#156" name="Azur &amp;amp; Asmar (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#157" name="B-Boy (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#158" name="Babe (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#159" name="Backyard Wrestling - Don t Try This at Home (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#160" name="Backyard Wrestling 2 - There Goes the Neighborhood (Europe)"/>
+	<game FlagNo="PS2EU#161" name="Bad Boys II (Europe)"/>
+	<game FlagNo="PS2EU#162" name="Bad Boys II (Germany) (En,De)"/>
+	<game FlagNo="PS2EU#163" name="Bakugan - Battle Brawlers (Europe) (En,Fr,De,Es,It,Nl,Sv)"/>
+	<game FlagNo="PS2EU#164" name="Baldur's Gate - Dark Alliance (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#165" name="Baldur's Gate - Dark Alliance II (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#166" name="Baldur's Gate - Dark Alliance II (Europe, Australia) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#167" name="Band Hero (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#168" name="Baphomets Fluch - Der schlafende Drache (Germany)"/>
+	<game FlagNo="PS2EU#169" name="Barbarian (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#170" name="Barbie as The Island Princess (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#171" name="Barbie Horse Adventures - Riding Camp (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#172" name="Barbie Horse Adventures - Wild Horse Rescue (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#173" name="Barbie in The 12 Dancing Princesses (Europe) (Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#174" name="Barbie in The 12 Dancing Princesses (Europe)"/>
+	<game FlagNo="PS2EU#175" name="Bard's Tale, The (Australia)"/>
+	<game FlagNo="PS2EU#176" name="Bard's Tale, The (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#177" name="Baroque (Europe)"/>
+	<game FlagNo="PS2EU#178" name="Basketball Xciting (Europe)"/>
+	<game FlagNo="PS2EU#179" name="Bass Master Fishing (Europe)"/>
+	<game FlagNo="PS2EU#180" name="Bass Strike (Europe)"/>
+	<game FlagNo="PS2EU#181" name="Batman - Rise of Sin Tzu (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#182" name="Batman - Vengeance (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#183" name="Batman Begins (Europe) (En,Fr,De,Es,It,Nl,Sv)"/>
+	<game FlagNo="PS2EU#184" name="Battlefield 2 - Modern Combat (Europe) (En,Es,Nl,Sv) (v1.00)"/>
+	<game FlagNo="PS2EU#185" name="Battlefield 2 - Modern Combat (Europe) (En,Es,Nl,Sv) (v2.01)"/>
+	<game FlagNo="PS2EU#186" name="Battlefield 2 - Modern Combat (Europe) (Fr,De,It)"/>
+	<game FlagNo="PS2EU#187" name="Battlestar Galactica (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#188" name="BCV - Battle Construction Vehicles (Europe)"/>
+	<game FlagNo="PS2EU#189" name="BDFL Manager 2002 (Germany) (En,De)"/>
+	<game FlagNo="PS2EU#190" name="BDFL Manager 2003 (Germany)"/>
+	<game FlagNo="PS2EU#191" name="BDFL Manager 2004 (Germany)"/>
+	<game FlagNo="PS2EU#192" name="BDFL Manager 2005 (Germany)"/>
+	<game FlagNo="PS2EU#193" name="Beach King Stunt Racer (Europe) (En,Fr,De,Nl)"/>
+	<game FlagNo="PS2EU#194" name="Beat Down - Fists of Vengeance (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#195" name="Ben 10 - Alien Force (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#196" name="Ben 10 - Alien Force - Vilgax Attacks (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#197" name="Ben 10 - Protector of Earth (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#198" name="Ben Hur - Blood of Braves (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#199" name="Beverly Hills Cop (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#200" name="Beyond Good &amp;amp; Evil (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#201" name="Big Mutha Truckers (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#202" name="Big Mutha Truckers 2 - Truck Me Harder (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#203" name="Biker Mice from Mars (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#204" name="Billiards Xciting (Europe)"/>
+	<game FlagNo="PS2EU#205" name="Billy the Wizard - Rocket Broomstick Racing (Europe)"/>
+	<game FlagNo="PS2EU#206" name="Bionicle (Europe) (En,Fr,De,Es,It,Da)"/>
+	<game FlagNo="PS2EU#207" name="Bionicle Heroes (Europe) (En,Fr,De,Es,It,Da)"/>
+	<game FlagNo="PS2EU#208" name="Black &amp;amp; Bruised (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#209" name="Black (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#210" name="Black (Europe)"/>
+	<game FlagNo="PS2EU#211" name="Black Buccaneer (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#212" name="Black Market Bowling (Europe)"/>
+	<game FlagNo="PS2EU#213" name="Blade II (Europe)"/>
+	<game FlagNo="PS2EU#214" name="Blade II (France)"/>
+	<game FlagNo="PS2EU#215" name="Blood Omen 2 - The Legacy of Kain Series (Europe) (Fr,Es,It)"/>
+	<game FlagNo="PS2EU#216" name="Blood Omen 2 - The Legacy of Kain Series (Germany)"/>
+	<game FlagNo="PS2EU#217" name="Blood Omen 2 - The Legacy of Kain Series (UK)"/>
+	<game FlagNo="PS2EU#218" name="Blood Will Tell - Tezuka Osamu s Dororo (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#219" name="BloodRayne (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#220" name="BloodRayne 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#221" name="Bloody Roar 3 (Europe)"/>
+	<game FlagNo="PS2EU#222" name="Bloody Roar 4 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#223" name="Blowout (Europe)"/>
+	<game FlagNo="PS2EU#224" name="BMX XXX (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#225" name="Board Games Gallery (Europe)"/>
+	<game FlagNo="PS2EU#226" name="Bob the Builder (Europe) (En,De,Nl)"/>
+	<game FlagNo="PS2EU#227" name="Bob the Builder (Europe) (En,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#228" name="Bob the Builder - Festival of Fun (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#229" name="Bombastic (Europe)"/>
+	<game FlagNo="PS2EU#230" name="Bomberman Hardball (Europe)"/>
+	<game FlagNo="PS2EU#231" name="Bomberman Kart (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#232" name="Boogie (Europe) (En,Fr,De,Es,It,Nl,Pt)"/>
+	<game FlagNo="PS2EU#233" name="Bouncer, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#234" name="Bowling Xciting (Europe)"/>
+	<game FlagNo="PS2EU#235" name="Boxing Champions (Europe)"/>
+	<game FlagNo="PS2EU#236" name="Bratz - Forever Diamondz (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#237" name="Bratz - Girlz Really Rock (Europe) (De,Es,It)"/>
+	<game FlagNo="PS2EU#238" name="Bratz - Rock Angelz (Europe, Australia)"/>
+	<game FlagNo="PS2EU#239" name="Bratz - Rock Angelz (Germany)"/>
+	<game FlagNo="PS2EU#240" name="Bratz - Rock Angelz (Spain)"/>
+	<game FlagNo="PS2EU#241" name="Bratz - Rock Angelz (Sweden)"/>
+	<game FlagNo="PS2EU#242" name="Bratz - The Movie (Europe) (En,Fr)"/>
+	<game FlagNo="PS2EU#243" name="Bratz - The Movie (Germany)"/>
+	<game FlagNo="PS2EU#244" name="Brave - The Search for Spirit Dancer (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#245" name="Breath of Fire - Dragon Quarter (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#246" name="Brian Lara International Cricket 2005 (Europe)"/>
+	<game FlagNo="PS2EU#247" name="Brian Lara International Cricket 2007 (Europe)"/>
+	<game FlagNo="PS2EU#248" name="Britney s Dance Beat (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#249" name="Britney s Dance Beat (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#250" name="Broken Sword - The Sleeping Dragon (Europe, Australia) (En,Es,It)"/>
+	<game FlagNo="PS2EU#251" name="Brothers in Arms - Earned in Blood (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#252" name="Brothers in Arms - Road to Hill 30 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#253" name="Brunswick Pro Bowling (Europe)"/>
+	<game FlagNo="PS2EU#254" name="Buccaneer (Europe)"/>
+	<game FlagNo="PS2EU#255" name="Buffy the Vampire Slayer - Chaos Bleeds (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#256" name="Bujingai - Swordmaster (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#257" name="Burnout (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#258" name="Burnout 2 - Point of Impact (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#259" name="Burnout 3 - Takedown (Europe) (Fr,De,It)"/>
+	<game FlagNo="PS2EU#260" name="Burnout 3 - Takedown (Europe, Australia) (En,Es,Nl,Sv)"/>
+	<game FlagNo="PS2EU#261" name="Burnout Dominator (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#262" name="Burnout Dominator (Europe)"/>
+	<game FlagNo="PS2EU#263" name="Burnout Revenge (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#264" name="Burnout Revenge (Europe) (Es,It,Nl,Sv,Fi)"/>
+	<game FlagNo="PS2EU#265" name="Bust-A-Bloc (Europe)"/>
+	<game FlagNo="PS2EU#266" name="Butt-Ugly Martians - Zoom or Doom&amp;nbsp;&amp;nbsp;(Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#267" name="Buzz&amp;nbsp;&amp;nbsp;Brain of the UK (UK)"/>
+	<game FlagNo="PS2EU#268" name="Buzz&amp;nbsp;&amp;nbsp;Das grosse Quiz (Germany)"/>
+	<game FlagNo="PS2EU#269" name="Buzz&amp;nbsp;&amp;nbsp;Das Mega-Quiz (Germany)"/>
+	<game FlagNo="PS2EU#270" name="Buzz&amp;nbsp;&amp;nbsp;Das Sport-Quiz (Germany)"/>
+	<game FlagNo="PS2EU#271" name="Buzz&amp;nbsp;&amp;nbsp;Deutschlands Superquiz (Germany)"/>
+	<game FlagNo="PS2EU#272" name="Buzz&amp;nbsp;&amp;nbsp;El Gran Concurso de Deportes (Spain)"/>
+	<game FlagNo="PS2EU#273" name="Buzz&amp;nbsp;&amp;nbsp;El Gran Reto (Spain)"/>
+	<game FlagNo="PS2EU#274" name="Buzz&amp;nbsp;&amp;nbsp;El Mega Concurso (Spain)"/>
+	<game FlagNo="PS2EU#275" name="Buzz&amp;nbsp;&amp;nbsp;Escuela de Talentos (Spain)"/>
+	<game FlagNo="PS2EU#276" name="Buzz&amp;nbsp;&amp;nbsp;Hollywood (Europe) (Es,Pt)"/>
+	<game FlagNo="PS2EU#277" name="Buzz&amp;nbsp;&amp;nbsp;Junior - Ace Racers (Europe) (En,Fr,De,Es,It,Nl,Pt,El)"/>
+	<game FlagNo="PS2EU#278" name="Buzz&amp;nbsp;&amp;nbsp;Junior - Dino Den (Europe) (En,Fr,De,Es,It,Nl,Pt,El)"/>
+	<game FlagNo="PS2EU#279" name="Buzz&amp;nbsp;&amp;nbsp;Junior - Jungle Party (Europe) (En,Fr,De,Es,It,Nl,Pt)"/>
+	<game FlagNo="PS2EU#280" name="Buzz&amp;nbsp;&amp;nbsp;Junior - Monster Rumble (Europe) (En,Fr,De,Es,It,Nl,Pt)"/>
+	<game FlagNo="PS2EU#281" name="Buzz&amp;nbsp;&amp;nbsp;Junior - Monster Rumble (Europe) (En,Sv,No,Da,Fi,El,Pl,Ru,Cs)"/>
+	<game FlagNo="PS2EU#282" name="Buzz&amp;nbsp;&amp;nbsp;Junior - RoboJam (Europe) (En,Fr,De,Es,It,Nl,Pt)"/>
+	<game FlagNo="PS2EU#283" name="Buzz&amp;nbsp;&amp;nbsp;Le mega quiz (France)"/>
+	<game FlagNo="PS2EU#284" name="Buzz&amp;nbsp;&amp;nbsp;Le quiz du sport (France)"/>
+	<game FlagNo="PS2EU#285" name="Buzz&amp;nbsp;&amp;nbsp;Que Sabes de tu Pais (Europe) (Es,Pt)"/>
+	<game FlagNo="PS2EU#286" name="Buzz&amp;nbsp;&amp;nbsp;The Big Quiz (Europe) (v1.01)"/>
+	<game FlagNo="PS2EU#287" name="Buzz&amp;nbsp;&amp;nbsp;The Big Quiz (Europe) (v2.00)"/>
+	<game FlagNo="PS2EU#288" name="Buzz&amp;nbsp;&amp;nbsp;The Hollywood Quiz (Europe) (Fr,De,It)"/>
+	<game FlagNo="PS2EU#289" name="Buzz&amp;nbsp;&amp;nbsp;The Hollywood Quiz (Europe) (Sv,No,Da)"/>
+	<game FlagNo="PS2EU#290" name="Buzz&amp;nbsp;&amp;nbsp;The Hollywood Quiz (Europe)"/>
+	<game FlagNo="PS2EU#291" name="Buzz&amp;nbsp;&amp;nbsp;The Mega Quiz (Europe) (Sv,No,Da)"/>
+	<game FlagNo="PS2EU#292" name="Buzz&amp;nbsp;&amp;nbsp;The Music Quiz (Europe) (Es,Pt)"/>
+	<game FlagNo="PS2EU#293" name="Buzz&amp;nbsp;&amp;nbsp;The Music Quiz (Europe) (Fr,De,It,Nl)"/>
+	<game FlagNo="PS2EU#294" name="Buzz&amp;nbsp;&amp;nbsp;The Music Quiz (UK)"/>
+	<game FlagNo="PS2EU#295" name="Buzz&amp;nbsp;&amp;nbsp;The Pop Quiz (Europe) (Es,Pt)"/>
+	<game FlagNo="PS2EU#296" name="Buzz&amp;nbsp;&amp;nbsp;The Pop Quiz (Europe) (Fr,De,It)"/>
+	<game FlagNo="PS2EU#297" name="Buzz&amp;nbsp;&amp;nbsp;The Pop Quiz (Europe)"/>
+	<game FlagNo="PS2EU#298" name="Buzz&amp;nbsp;&amp;nbsp;The Schools Quiz (Europe)"/>
+	<game FlagNo="PS2EU#299" name="Buzz&amp;nbsp;&amp;nbsp;The Sports Quiz (Australia)"/>
+	<game FlagNo="PS2EU#300" name="Buzz&amp;nbsp;&amp;nbsp;The Sports Quiz (Europe)"/>
+	<game FlagNo="PS2EU#301" name="Cabela's Big Game Hunter 2005 Adventures (Europe)"/>
+	<game FlagNo="PS2EU#302" name="Cabela's Dangerous Adventures (Europe)"/>
+	<game FlagNo="PS2EU#303" name="Call of Duty - Finest Hour (Europe) (Fr,Es,It)"/>
+	<game FlagNo="PS2EU#304" name="Call of Duty - Finest Hour (Europe)"/>
+	<game FlagNo="PS2EU#305" name="Call of Duty - Finest Hour (Germany)"/>
+	<game FlagNo="PS2EU#306" name="Call of Duty - World at War - Final Fronts (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#307" name="Call of Duty - World at War - Final Fronts (Germany)"/>
+	<game FlagNo="PS2EU#308" name="Call of Duty 2 - Big Red One (Europe) (Fr,Es,It)"/>
+	<game FlagNo="PS2EU#309" name="Call of Duty 2 - Big Red One (Europe)"/>
+	<game FlagNo="PS2EU#310" name="Call of Duty 2 - Big Red One (Germany)"/>
+	<game FlagNo="PS2EU#311" name="Call of Duty 3 (Europe) (Fr,Es,It)"/>
+	<game FlagNo="PS2EU#312" name="Call of Duty 3 (Europe)"/>
+	<game FlagNo="PS2EU#313" name="Call of Duty 3 (Germany)"/>
+	<game FlagNo="PS2EU#314" name="Canis Canem Edit (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#315" name="Capcom Classics Collection Vol. 1 (Europe)"/>
+	<game FlagNo="PS2EU#316" name="Capcom Fighting Jam (Europe)"/>
+	<game FlagNo="PS2EU#317" name="Capcom vs. SNK 2 - Mark of the Millennium 2001 (Europe)"/>
+	<game FlagNo="PS2EU#318" name="Captain Scarlet (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#319" name="D-Unit Drift Racing (Europe)"/>
+	<game FlagNo="PS2EU#320" name="Da Vinci Code, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#321" name="Daemon Summoner (Europe)"/>
+	<game FlagNo="PS2EU#322" name="Dakar 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#323" name="Dalmatians 3 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#324" name="Dance - UK (UK)"/>
+	<game FlagNo="PS2EU#325" name="Dance - UK XL Lite (UK)"/>
+	<game FlagNo="PS2EU#326" name="Dance Fest (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#327" name="Dance Party Club Hits (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#328" name="Dance Party Pop Hits (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#329" name="Dancing Stage Fever (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#330" name="Dancing Stage Fusion (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#331" name="Dancing Stage MegaMix (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#332" name="Dancing Stage SuperNOVA (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#333" name="Dancing Stage SuperNOVA 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#334" name="Dark Chronicle (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#335" name="Dark Cloud (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#336" name="Dark Summit (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#337" name="Dark Wind (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#338" name="Darkwatch (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#339" name="Dave Mirra Freestyle BMX 2 (Europe)"/>
+	<game FlagNo="PS2EU#340" name="David Beckham Soccer (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#341" name="Dead or Alive 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#342" name="Dead to Rights (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#343" name="Dead to Rights II (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#344" name="Deadly Strike (Europe)"/>
+	<game FlagNo="PS2EU#345" name="Death by Degrees (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#346" name="Def Jam - Fight for NY (Europe, Australia) (En,Fr)"/>
+	<game FlagNo="PS2EU#347" name="Def Jam - Vendetta (Europe)"/>
+	<game FlagNo="PS2EU#348" name="Defender - For All Mankind (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#349" name="Delta Force - Black Hawk Down - Team Sabre (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#350" name="Demon Chaos (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#351" name="Demon Stone (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#352" name="Despicable Me - The Game (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#353" name="Destroy All Humans&amp;nbsp;&amp;nbsp;(Europe, Australia) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#354" name="Destroy All Humans&amp;nbsp;&amp;nbsp;(Germany)"/>
+	<game FlagNo="PS2EU#355" name="Destroy All Humans&amp;nbsp;&amp;nbsp;2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#356" name="Destruction Derby Arenas (Europe) (En,Fr,De,Es,It,Pt)"/>
+	<game FlagNo="PS2EU#357" name="Detonator (Europe)"/>
+	<game FlagNo="PS2EU#358" name="Deus Ex (Europe)"/>
+	<game FlagNo="PS2EU#359" name="Deus Ex (Germany)"/>
+	<game FlagNo="PS2EU#360" name="Deus Ex (Spain)"/>
+	<game FlagNo="PS2EU#361" name="Devil Kings (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#362" name="Devil May Cry (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#363" name="Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 1) (Dante Disc)"/>
+	<game FlagNo="PS2EU#364" name="Devil May Cry 2 (Europe) (En,Fr,De,Es,It) (Disc 2) (Lucia Disc)"/>
+	<game FlagNo="PS2EU#365" name="Devil May Cry 3 - Dante s Awakening (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#366" name="Devil May Cry 3 - Dante s Awakening - Special Edition (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#367" name="Diabolik - The Original Sin (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#368" name="Die Hard - Vendetta (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#369" name="Die Hard - Vendetta (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#370" name="Digimon Rumble Arena 2 (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#371" name="Digimon World 4 (Europe) (En,De,Es,It)"/>
+	<game FlagNo="PS2EU#372" name="Dino Stalker (Europe)"/>
+	<game FlagNo="PS2EU#373" name="Dino Stalker (Germany)"/>
+	<game FlagNo="PS2EU#374" name="Dirge of Cerberus - Final Fantasy VII (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#375" name="Dirt Track Devils (Europe)"/>
+	<game FlagNo="PS2EU#376" name="Disgaea - Hour of Darkness (Europe)"/>
+	<game FlagNo="PS2EU#377" name="Disgaea 2 - Cursed Memories (Europe) (En,Ja)"/>
+	<game FlagNo="PS2EU#378" name="Disney Bolt (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#379" name="Disney Bolt (Europe) (Fr,De,Nl)"/>
+	<game FlagNo="PS2EU#380" name="Disney G-Force (Europe) (De,It)"/>
+	<game FlagNo="PS2EU#381" name="Disney Golf (Europe)"/>
+	<game FlagNo="PS2EU#382" name="Disney Hannah Montana - Spotlight World Tour (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#383" name="Disney High School Musical - Sing It&amp;nbsp;&amp;nbsp;(Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#384" name="Disney High School Musical 3 - Senior Year Dance&amp;nbsp;&amp;nbsp;(Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#385" name="Disney Move (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#386" name="Disney Piglet el Gran Juego (Spain)"/>
+	<game FlagNo="PS2EU#387" name="Disney Pirates of the Caribbean - At World s End (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#388" name="Disney Princess - Enchanted Journey (Europe) (En,De,Es)"/>
+	<game FlagNo="PS2EU#389" name="Disney Princess - Enchanted Journey (Europe) (Fr,It,Nl)"/>
+	<game FlagNo="PS2EU#390" name="Disney Sing It (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#391" name="Disney Sing It - High School Musical 3 - Senior Year (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#392" name="Disney TH NK Fast (Europe) (Es,It)"/>
+	<game FlagNo="PS2EU#393" name="Disney TH NK Fast (Europe) (Fr,De,Nl)"/>
+	<game FlagNo="PS2EU#394" name="Disney TH NK Fast (Europe)"/>
+	<game FlagNo="PS2EU#395" name="Disney Vol t (Russia)"/>
+	<game FlagNo="PS2EU#396" name="Disney's Chicken Little (Europe) (Es,It)"/>
+	<game FlagNo="PS2EU#397" name="Disney's Dinosaur (Europe) (En,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#398" name="Disney's Dinosaur (Europe) (Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#399" name="Disney's Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#400" name="Disney's Donald Duck PK (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#401" name="Disney's Jungle Book - Groove Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)"/>
+	<game FlagNo="PS2EU#402" name="Disney's Kim Possible - What s the Switch (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#403" name="Disney's Meet the Robinsons (Europe) (En,De,Es)"/>
+	<game FlagNo="PS2EU#404" name="Disney's Peter Pan - The Legend of Never Land (Europe) (En,Es)"/>
+	<game FlagNo="PS2EU#405" name="Disney's Peter Pan - The Legend of Never Land (Europe) (Fr,De,It,Nl,Pt)"/>
+	<game FlagNo="PS2EU#406" name="Disney's Stitch - Experiment 626 (Europe) (En,Sv)"/>
+	<game FlagNo="PS2EU#407" name="Disney's Stitch - Experiment 626 (Europe) (Es,Pt)"/>
+	<game FlagNo="PS2EU#408" name="Disney's Tarzan - Freeride (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#409" name="Disney's Treasure Planet (Europe) (En,Es,It,Sv,Da)"/>
+	<game FlagNo="PS2EU#410" name="Disney's Treasure Planet (Europe) (En,Fr,De,Nl)"/>
+	<game FlagNo="PS2EU#411" name="Disney-Pixar Cars (Europe, Australia)"/>
+	<game FlagNo="PS2EU#412" name="Disney-Pixar Cars (Spain)"/>
+	<game FlagNo="PS2EU#413" name="Disney-Pixar Cars - Race-O-Rama (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#414" name="Disney-Pixar Die Monster AG - Schreckens-Insel (Germany)"/>
+	<game FlagNo="PS2EU#415" name="Disney-Pixar Die Unglaublichen (Germany)"/>
+	<game FlagNo="PS2EU#416" name="Disney-Pixar Finding Nemo (Europe) (Es,Fi)"/>
+	<game FlagNo="PS2EU#417" name="Disney-Pixar Finding Nemo (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#418" name="Disney-Pixar Finding Nemo (Europe) (Sv,No,Da)"/>
+	<game FlagNo="PS2EU#419" name="Disney-Pixar Finding Nemo (Europe)"/>
+	<game FlagNo="PS2EU#420" name="Disney-Pixar Los Increibles (Spain)"/>
+	<game FlagNo="PS2EU#421" name="Disney-Pixar Monsters, Inc. - Skraemmaroen (Sweden)"/>
+	<game FlagNo="PS2EU#422" name="Disney-Pixar Oben (Germany)"/>
+	<game FlagNo="PS2EU#423" name="Disney-Pixar Ratatouille (Europe) (Es,Pt)"/>
+	<game FlagNo="PS2EU#424" name="Disney-Pixar Ratatouille (Europe)"/>
+	<game FlagNo="PS2EU#425" name="Disney-Pixar Ratatouille (Germany)"/>
+	<game FlagNo="PS2EU#426" name="Disney-Pixar The Incredibles (Europe)"/>
+	<game FlagNo="PS2EU#427" name="Disney-Pixar The Incredibles - Rise of the Underminer (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#428" name="Disney-Pixar The Incredibles - Rise of the Underminer (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#429" name="Disney-Pixar Toy Story 3 (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#430" name="Disney-Pixar Up (Spain)"/>
+	<game FlagNo="PS2EU#431" name="Disney-Pixar WALL-E (Europe) (En,Es,Pt)"/>
+	<game FlagNo="PS2EU#432" name="Disney-Pixar WALL-E (Europe) (En,Fr)"/>
+	<game FlagNo="PS2EU#433" name="Disney-Pixar WALL-E (Europe) (Fr,Nl)"/>
+	<game FlagNo="PS2EU#434" name="Disneys Ferkels grosses Abenteuer-Spiel (Germany)"/>
+	<game FlagNo="PS2EU#435" name="Disneys Himmel und Huhn (Germany)"/>
+	<game FlagNo="PS2EU#436" name="DJ - Decks &amp;amp; FX - Claudio Coccoluto Edition (Italy)"/>
+	<game FlagNo="PS2EU#437" name="DJ - Decks &amp;amp; FX - House Edition (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,No,Da)"/>
+	<game FlagNo="PS2EU#438" name="DJ Hero (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#439" name="DNA - Dark Native Apostle (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#440" name="Document of Metal Gear Solid 2, The (Europe)"/>
+	<game FlagNo="PS2EU#441" name="Dodgeball (Europe)"/>
+	<game FlagNo="PS2EU#442" name="Dog's Life (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#443" name="Dogz (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)"/>
+	<game FlagNo="PS2EU#444" name="Donkey Xote (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#445" name="Dot Hack Part 1 - Infection (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#446" name="Dot Hack Part 2 - Mutation (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#447" name="Dot Hack Part 3 - Outbreak (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#448" name="Dot Hack Part 4 - Quarantine (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#449" name="Downforce (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#450" name="Downhill Domination (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#451" name="Downhill Slalom (Europe)"/>
+	<game FlagNo="PS2EU#452" name="Downtown Run (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#453" name="Dr. Dolittle (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#454" name="Dr. Muto (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#455" name="Drag Racer USA (Europe)"/>
+	<game FlagNo="PS2EU#456" name="Dragon Blaze (Europe)"/>
+	<game FlagNo="PS2EU#457" name="Dragon Quest - The Journey of the Cursed King (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#458" name="Dragon Rage (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#459" name="Dragon Sisters (Europe)"/>
+	<game FlagNo="PS2EU#460" name="Dragon's Lair 3D - Special Edition (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#461" name="DragonBall Z - Budokai (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#462" name="DragonBall Z - Budokai 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#463" name="DragonBall Z - Budokai 3 (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#464" name="DragonBall Z - Budokai 3 - Collector s Edition (Europe) (En,Ja,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#465" name="DragonBall Z - Budokai Tenkaichi (Europe, Australia) (En,Ja,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#466" name="DragonBall Z - Budokai Tenkaichi 2 (Europe, Australia) (En,Ja,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#467" name="DragonBall Z - Budokai Tenkaichi 3 (Europe, Australia) (En,Ja,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#468" name="DragonBall Z - Infinite World (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#469" name="Drakan - The Ancients&amp;nbsp;&amp;nbsp;Gates (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#470" name="Drakengard (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#471" name="Drakengard 2 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#472" name="DreamWorks &amp;amp; Aardman Flushed Away (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#473" name="DreamWorks Bee Movie Game (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#474" name="DreamWorks Madagascar (Europe) (En,It,Sv)"/>
+	<game FlagNo="PS2EU#475" name="DreamWorks Madagascar (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#476" name="DreamWorks Madagascar (Europe)"/>
+	<game FlagNo="PS2EU#477" name="DreamWorks Madagascar (Spain)"/>
+	<game FlagNo="PS2EU#478" name="DreamWorks Madagascar 2 - Escape 2 Africa (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#479" name="DreamWorks Monsters vs. Aliens (Europe) (En,Fr,De,Es,It,Nl,Sv)"/>
+	<game FlagNo="PS2EU#480" name="DreamWorks Over the Hedge (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#481" name="DreamWorks Over the Hedge (Europe)"/>
+	<game FlagNo="PS2EU#482" name="DreamWorks Over the Hedge (Netherlands)"/>
+	<game FlagNo="PS2EU#483" name="DreamWorks Shark Tale (Europe) (Fr,De,Es)"/>
+	<game FlagNo="PS2EU#484" name="DreamWorks Shrek - SuperSlam (Europe) (Fr,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#485" name="DreamWorks Shrek - SuperSlam (Europe)"/>
+	<game FlagNo="PS2EU#486" name="DreamWorks Shrek Smash'n Crash Racing (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#487" name="DreamWorks Shrek the Third (Europe) (En,Fr,De,Es,Nl)"/>
+	<game FlagNo="PS2EU#488" name="DreamWorks Shrek the Third (Europe)"/>
+	<game FlagNo="PS2EU#489" name="DreamWorks Vecinos invasores (Spain)"/>
+	<game FlagNo="PS2EU#490" name="Driv3r (Europe) (En,Es)"/>
+	<game FlagNo="PS2EU#491" name="Driv3r (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#492" name="Driven (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#493" name="Driven to Destruction (Europe)"/>
+	<game FlagNo="PS2EU#494" name="Driver - Parallel Lines (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#495" name="Drome Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"/>
+	<game FlagNo="PS2EU#496" name="Dropship - United Peace Force (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#497" name="DSF Fussball Manager 2002 (Germany)"/>
+	<game FlagNo="PS2EU#498" name="DT Racer (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#499" name="DTM Race Driver (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#500" name="DTM Race Driver 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#501" name="DTM Race Driver 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#502" name="Duel Masters (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#503" name="Dukes of Hazzard, The - Return of the General Lee (Europe)"/>
+	<game FlagNo="PS2EU#504" name="Dynasty Tactics (Europe)"/>
+	<game FlagNo="PS2EU#505" name="Dynasty Tactics (Germany)"/>
+	<game FlagNo="PS2EU#506" name="Dynasty Tactics 2 (Europe)"/>
+	<game FlagNo="PS2EU#507" name="Dynasty Warriors 2 (Europe)"/>
+	<game FlagNo="PS2EU#508" name="Dynasty Warriors 2 (Germany)"/>
+	<game FlagNo="PS2EU#509" name="Dynasty Warriors 3 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#510" name="Dynasty Warriors 3 - Xtreme Legends (Europe)"/>
+	<game FlagNo="PS2EU#511" name="Dynasty Warriors 3 - Xtreme Legends (Germany)"/>
+	<game FlagNo="PS2EU#512" name="Dynasty Warriors 4 (Europe)"/>
+	<game FlagNo="PS2EU#513" name="Dynasty Warriors 4 (France)"/>
+	<game FlagNo="PS2EU#514" name="Dynasty Warriors 4 (Germany)"/>
+	<game FlagNo="PS2EU#515" name="Dynasty Warriors 4 - Empires (Europe)"/>
+	<game FlagNo="PS2EU#516" name="Dynasty Warriors 4 - Empires (France)"/>
+	<game FlagNo="PS2EU#517" name="Dynasty Warriors 4 - Empires (Germany)"/>
+	<game FlagNo="PS2EU#518" name="Dynasty Warriors 4 - Xtreme Legends (Europe)"/>
+	<game FlagNo="PS2EU#519" name="Dynasty Warriors 5 (Europe)"/>
+	<game FlagNo="PS2EU#520" name="Dynasty Warriors 5 (Germany)"/>
+	<game FlagNo="PS2EU#521" name="Dynasty Warriors 5 - Empires (Europe, Australia)"/>
+	<game FlagNo="PS2EU#522" name="Dynasty Warriors 5 - Empires (Germany)"/>
+	<game FlagNo="PS2EU#523" name="Dynasty Warriors 5 - Xtreme Legends (Germany)"/>
+	<game FlagNo="PS2EU#524" name="E.O.E - Eve of Extinction (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#525" name="Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#526" name="Echo Night - Beyond (Europe)"/>
+	<game FlagNo="PS2EU#527" name="eJay ClubWorld - The Music Making Experience (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#528" name="Endgame (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#529" name="Energy Airforce - Aim Strike&amp;nbsp;&amp;nbsp;(Europe)"/>
+	<game FlagNo="PS2EU#530" name="England International Football (Europe)"/>
+	<game FlagNo="PS2EU#531" name="Enter the Matrix (Europe) (En,Fr,De,Es,It) (v1.01)"/>
+	<game FlagNo="PS2EU#532" name="Enter the Matrix (Europe) (En,Fr,De,Es,It) (v2.00)"/>
+	<game FlagNo="PS2EU#533" name="Enthusia - Professional Racing (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#534" name="Entraineur 5, L&amp;nbsp;&amp;nbsp;- Saison 04-05 (France)"/>
+	<game FlagNo="PS2EU#535" name="Ephemeral Fantasia (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#536" name="Eragon (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#537" name="Escape from Monkey Island (Europe)"/>
+	<game FlagNo="PS2EU#538" name="Escape from Monkey Island (France)"/>
+	<game FlagNo="PS2EU#539" name="ESPN International Track &amp;amp; Field (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#540" name="ESPN International Winter Sports (Europe) (En,Fr,De,It)"/>
+	<game FlagNo="PS2EU#541" name="ESPN NBA 2K5 (Europe)"/>
+	<game FlagNo="PS2EU#542" name="ESPN NBA 2Night (Europe)"/>
+	<game FlagNo="PS2EU#543" name="ESPN NBA Basketball (Europe)"/>
+	<game FlagNo="PS2EU#544" name="ESPN NFL 2K5 (Europe)"/>
+	<game FlagNo="PS2EU#545" name="ESPN NFL Football (Europe)"/>
+	<game FlagNo="PS2EU#546" name="ESPN NHL 2K5 (Europe)"/>
+	<game FlagNo="PS2EU#547" name="Eternal Quest (Europe)"/>
+	<game FlagNo="PS2EU#548" name="Eternal Ring (Europe)"/>
+	<game FlagNo="PS2EU#549" name="European Tennis Pro (Europe)"/>
+	<game FlagNo="PS2EU#550" name="Everblue (Europe)"/>
+	<game FlagNo="PS2EU#551" name="Evergrace (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#552" name="EverQuest - Online Adventures (Europe)"/>
+	<game FlagNo="PS2EU#553" name="Everybody s Golf (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#554" name="Everybody s Tennis (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#555" name="Evil Dead - A Fistful of Boomstick (Europe)"/>
+	<game FlagNo="PS2EU#556" name="Evil Dead - Regeneration (Europe)"/>
+	<game FlagNo="PS2EU#557" name="Evil Twin - Cyprien s Chronicles (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#558" name="Evolution GT (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#559" name="Evolution Skateboarding (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#560" name="Evolution Snowboarding (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#561" name="Extermination (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#562" name="Extreme Sprint 3010 (Europe)"/>
+	<game FlagNo="PS2EU#563" name="ExZeus (Europe)"/>
+	<game FlagNo="PS2EU#564" name="EyeToy - Antigrav (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#565" name="EyeToy - Chat (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#566" name="EyeToy - Chat Light (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#567" name="EyeToy - Groove (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#568" name="EyeToy - Kinetic (Europe) (En,Fr,De,Es,It,Pt,No)"/>
+	<game FlagNo="PS2EU#569" name="EyeToy - Kinetic Combat (Europe) (En,Fr,De,Es,It,Pt,No)"/>
+	<game FlagNo="PS2EU#570" name="EyeToy - Monkey Mania (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#571" name="EyeToy - Play (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#572" name="EyeToy - Play 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El) (v1.00)"/>
+	<game FlagNo="PS2EU#573" name="EyeToy - Play 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El) (v2.00)"/>
+	<game FlagNo="PS2EU#574" name="EyeToy - Play 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El) (v3.03)"/>
+	<game FlagNo="PS2EU#575" name="EyeToy - Play 3 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El)"/>
+	<game FlagNo="PS2EU#576" name="EyeToy - Play Astro Zoo (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El,Pl,Ru,Cs)"/>
+	<game FlagNo="PS2EU#577" name="EyeToy - Play Hero (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El,Pl,Ru,Cs)"/>
+	<game FlagNo="PS2EU#578" name="EyeToy - Play Pom Pom Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El,Pl,Ru,Cs)"/>
+	<game FlagNo="PS2EU#579" name="EyeToy - Play Sports (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El,Pl,Cs,Tr)"/>
+	<game FlagNo="PS2EU#580" name="F1 2001 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#581" name="F1 2002 (Europe) (En,Fr,De,Es,It,Fi)"/>
+	<game FlagNo="PS2EU#582" name="F1 Career Challenge (Europe) (En,Fr,De,It)"/>
+	<game FlagNo="PS2EU#583" name="F1 Championship Season 2000 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#584" name="F1 Racing Championship (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#585" name="Fahrenheit (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#586" name="Falling Stars (Europe) (En,Fr,De,Es,It,Ru)"/>
+	<game FlagNo="PS2EU#587" name="Fallout - Brotherhood of Steel (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#588" name="Fallout - Brotherhood of Steel (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#589" name="Family Boardgames (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#590" name="Family Guy (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#591" name="Fantastic 4 (Europe)"/>
+	<game FlagNo="PS2EU#592" name="Fantastic 4 (Germany)"/>
+	<game FlagNo="PS2EU#593" name="Fantastic 4 (Spain)"/>
+	<game FlagNo="PS2EU#594" name="Fantastic Four - Rise of the Silver Surfer (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#595" name="Fantastic Four - Rise of the Silver Surfer (Europe) (En,It)"/>
+	<game FlagNo="PS2EU#596" name="Fantavision (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#597" name="Fast and the Furious, The (Europe)"/>
+	<game FlagNo="PS2EU#598" name="Fatal Fury - Battle Archives Volume 1 (Europe)"/>
+	<game FlagNo="PS2EU#599" name="Ferrari Challenge - Trofeo Pirelli (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#600" name="Ferrari F355 Challenge (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#601" name="FIFA 06 (Europe) (En,Nl,Sv,No,Da,El,Pl,Hu)"/>
+	<game FlagNo="PS2EU#602" name="FIFA 06 (Europe) (Es,Pt)"/>
+	<game FlagNo="PS2EU#603" name="FIFA 06 (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#604" name="FIFA 06 (Europe)"/>
+	<game FlagNo="PS2EU#605" name="FIFA 06 (Italy)"/>
+	<game FlagNo="PS2EU#606" name="FIFA 07 (Europe) (En,Nl,Sv,No,Da)"/>
+	<game FlagNo="PS2EU#607" name="FIFA 07 (Europe) (Es,Pt)"/>
+	<game FlagNo="PS2EU#608" name="FIFA 07 (Europe) (Fr,De,It)"/>
+	<game FlagNo="PS2EU#609" name="FIFA 07 (Europe)"/>
+	<game FlagNo="PS2EU#610" name="FIFA 08 (Europe) (En,Nl,Sv,No,Da)"/>
+	<game FlagNo="PS2EU#611" name="FIFA 08 (Europe) (Es,Pt)"/>
+	<game FlagNo="PS2EU#612" name="FIFA 08 (Europe) (Fr,De,It)"/>
+	<game FlagNo="PS2EU#613" name="FIFA 08 (Europe)"/>
+	<game FlagNo="PS2EU#614" name="FIFA 09 (Europe) (En,Es,It,Nl,Pt)"/>
+	<game FlagNo="PS2EU#615" name="FIFA 09 (Europe) (En,Pl,Ru,Hu,Cs)"/>
+	<game FlagNo="PS2EU#616" name="FIFA 09 (Europe) (En,Sv,No,Da)"/>
+	<game FlagNo="PS2EU#617" name="FIFA 09 (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#618" name="FIFA 09 (Europe)"/>
+	<game FlagNo="PS2EU#619" name="FIFA 10 (Europe) (En,Pl,Ru,Hu,Cs)"/>
+	<game FlagNo="PS2EU#620" name="FIFA 10 (Europe) (En,Sv,No,Da)"/>
+	<game FlagNo="PS2EU#621" name="FIFA 10 (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#622" name="FIFA 10 (Europe)"/>
+	<game FlagNo="PS2EU#623" name="FIFA 11 (Europe) (En,De,Sv,No,Da)"/>
+	<game FlagNo="PS2EU#624" name="FIFA 11 (Europe) (En,Es,Pt,Pl,Ru)"/>
+	<game FlagNo="PS2EU#625" name="FIFA 11 (Europe) (En,Fr,It,Nl)"/>
+	<game FlagNo="PS2EU#626" name="FIFA 12 (Europe) (En,De,Sv,No,Da)"/>
+	<game FlagNo="PS2EU#627" name="FIFA 12 (Europe) (En,Es,Pt,Pl,Ru)"/>
+	<game FlagNo="PS2EU#628" name="FIFA 2001 (Europe) (En,De,Es,Nl,Sv)"/>
+	<game FlagNo="PS2EU#629" name="FIFA 2001 (Germany) (En,De,Es,Nl,Sv)"/>
+	<game FlagNo="PS2EU#630" name="FIFA 2001 (Italy)"/>
+	<game FlagNo="PS2EU#631" name="FIFA 2001 (Spain) (En,De,Es,Nl,Sv)"/>
+	<game FlagNo="PS2EU#632" name="FIFA Football 2002 (Europe) (En,De,Es,Nl,Sv)"/>
+	<game FlagNo="PS2EU#633" name="FIFA Football 2002 (France)"/>
+	<game FlagNo="PS2EU#634" name="FIFA Football 2002 (Germany) (En,De,Es,Nl,Sv)"/>
+	<game FlagNo="PS2EU#635" name="FIFA Football 2002 (Italy)"/>
+	<game FlagNo="PS2EU#636" name="FIFA Football 2002 (Spain) (En,De,Es,Nl,Sv)"/>
+	<game FlagNo="PS2EU#637" name="FIFA Football 2003 (Europe) (En,Fr,De,Es,It,Nl,Sv)"/>
+	<game FlagNo="PS2EU#638" name="FIFA Football 2004 (Europe) (En,It,Nl,Sv) (v1.00)"/>
+	<game FlagNo="PS2EU#639" name="FIFA Football 2004 (Europe) (En,It,Nl,Sv) (v2.00)"/>
+	<game FlagNo="PS2EU#640" name="FIFA Football 2004 (Europe) (Es,Pt)"/>
+	<game FlagNo="PS2EU#641" name="FIFA Football 2004 (Europe) (Fr,De) (v1.01)"/>
+	<game FlagNo="PS2EU#642" name="FIFA Football 2004 (Europe) (Fr,De) (v2.00)"/>
+	<game FlagNo="PS2EU#643" name="FIFA Football 2005 (Europe) (En,Nl,Sv,No,Da,El)"/>
+	<game FlagNo="PS2EU#644" name="FIFA Football 2005 (Europe) (Es,Pt)"/>
+	<game FlagNo="PS2EU#645" name="FIFA Football 2005 (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#646" name="FIFA Football 2005 (Europe)"/>
+	<game FlagNo="PS2EU#647" name="FIFA Football 2005 (Italy)"/>
+	<game FlagNo="PS2EU#648" name="FIFA Street (Europe) (En,Fr,De,Es,It,Nl,Sv)"/>
+	<game FlagNo="PS2EU#649" name="FIFA Street 2 (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#650" name="FIFA Street 2 (Europe)"/>
+	<game FlagNo="PS2EU#651" name="FIFA World Cup Germany 2006 (Europe) (En,Es,Pt)"/>
+	<game FlagNo="PS2EU#652" name="FIFA World Cup Germany 2006 (Europe) (En,It,Sv)"/>
+	<game FlagNo="PS2EU#653" name="FIFA World Cup Germany 2006 (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#654" name="FIFA World Cup Germany 2006 (Europe)"/>
+	<game FlagNo="PS2EU#655" name="Fight Club (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#656" name="Fight Night 2004 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#657" name="Fight Night Round 2 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#658" name="Fight Night Round 3 (Europe) (En,Fr)"/>
+	<game FlagNo="PS2EU#659" name="FightBox (UK)"/>
+	<game FlagNo="PS2EU#660" name="Fighting Angels (Europe)"/>
+	<game FlagNo="PS2EU#661" name="Fighting Fury (Europe)"/>
+	<game FlagNo="PS2EU#662" name="Final Armada (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#663" name="Final Fantasy X (Europe, Australia)"/>
+	<game FlagNo="PS2EU#664" name="Final Fantasy X (France)"/>
+	<game FlagNo="PS2EU#665" name="Final Fantasy X (Germany)"/>
+	<game FlagNo="PS2EU#666" name="Final Fantasy X (Italy)"/>
+	<game FlagNo="PS2EU#667" name="Final Fantasy X (Spain)"/>
+	<game FlagNo="PS2EU#668" name="Final Fantasy X-2 (Europe, Australia)"/>
+	<game FlagNo="PS2EU#669" name="Final Fantasy X-2 (France)"/>
+	<game FlagNo="PS2EU#670" name="Final Fantasy X-2 (Germany)"/>
+	<game FlagNo="PS2EU#671" name="Final Fantasy X-2 (Spain)"/>
+	<game FlagNo="PS2EU#672" name="Final Fantasy XII (Europe, Australia)"/>
+	<game FlagNo="PS2EU#673" name="Final Fantasy XII (France)"/>
+	<game FlagNo="PS2EU#674" name="Final Fantasy XII (Germany)"/>
+	<game FlagNo="PS2EU#675" name="Final Fight - Streetwise (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#676" name="Finkles World (Europe)"/>
+	<game FlagNo="PS2EU#677" name="Fire Heroes (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#678" name="FireBlade (Europe)"/>
+	<game FlagNo="PS2EU#679" name="Firefighter F.D.18 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#680" name="Fitness Fun (Europe)"/>
+	<game FlagNo="PS2EU#681" name="FlatOut (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#682" name="FlatOut 2 (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#683" name="FlatOut 2 (Germany)"/>
+	<game FlagNo="PS2EU#684" name="Flintstones in Viva Rock Vegas, The (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#685" name="Flintstones, The - Bedrock Racing (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#686" name="Flipnic (Europe)"/>
+	<game FlagNo="PS2EU#687" name="Flow - Urban Dance Uprising (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#688" name="Flucht von Monkey Island (Germany)"/>
+	<game FlagNo="PS2EU#689" name="Football Generation (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#690" name="Football Manager Campionato 2003 (Italy)"/>
+	<game FlagNo="PS2EU#691" name="Football Manager Campionato 2004 (Italy)"/>
+	<game FlagNo="PS2EU#692" name="Football Manager Campionato 2005 (Italy)"/>
+	<game FlagNo="PS2EU#693" name="Football Mania (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"/>
+	<game FlagNo="PS2EU#694" name="Forbidden Siren (Europe)"/>
+	<game FlagNo="PS2EU#695" name="Forbidden Siren (Germany)"/>
+	<game FlagNo="PS2EU#696" name="Forbidden Siren (Spain)"/>
+	<game FlagNo="PS2EU#697" name="Forbidden Siren 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#698" name="Ford Street Racing (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#699" name="Formula Challenge (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#700" name="Formula One 04 (Europe) (En,Fr,De,Es,It,Fi) (v1.01)"/>
+	<game FlagNo="PS2EU#701" name="Formula One 04 (Europe) (En,Fr,De,Es,It,Fi) (v2.02)"/>
+	<game FlagNo="PS2EU#702" name="Formula One 05 (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)"/>
+	<game FlagNo="PS2EU#703" name="Formula One 06 (Europe) (En,Fr,De,Es,It,Pt,Fi)"/>
+	<game FlagNo="PS2EU#704" name="Formula One 2001 (Europe) (En,Fr,De,Es,It,Fi) (v1.01)"/>
+	<game FlagNo="PS2EU#705" name="Formula One 2001 (Europe) (En,Fr,De,Es,It,Fi) (v2.00)"/>
+	<game FlagNo="PS2EU#706" name="Formula One 2002 (Europe) (En,Fr,De,Es,It,Fi)"/>
+	<game FlagNo="PS2EU#707" name="Formula One 2003 (Europe) (En,Fr,De,Es,It,Fi)"/>
+	<game FlagNo="PS2EU#708" name="Frank Herbert s Dune (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#709" name="Frankie Dettori Racing (Australia)"/>
+	<game FlagNo="PS2EU#710" name="Freak Out (Europe)"/>
+	<game FlagNo="PS2EU#711" name="Freak Out - Extreme Freeride (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#712" name="Freaky Flyers (Europe)"/>
+	<game FlagNo="PS2EU#713" name="Free Running (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#714" name="Freedom Fighters (Europe)"/>
+	<game FlagNo="PS2EU#715" name="Freedom Fighters (Germany)"/>
+	<game FlagNo="PS2EU#716" name="Freedom Fighters (Spain)"/>
+	<game FlagNo="PS2EU#717" name="Freekstyle (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#718" name="Frequency (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#719" name="Friends - The One with All the Trivia (Europe)"/>
+	<game FlagNo="PS2EU#720" name="Frogger - The Great Quest (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#721" name="Fruit Fall (Europe)"/>
+	<game FlagNo="PS2EU#722" name="Fuga de Monkey Island, La (Spain)"/>
+	<game FlagNo="PS2EU#723" name="Full Spectrum Warrior (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#724" name="Fur Fighters - Viggo s Revenge (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#725" name="Furry Tales (Europe) (En,Fr)"/>
+	<game FlagNo="PS2EU#726" name="Futurama (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#727" name="Future Tactics - The Uprising (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#728" name="G-Surfers (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#729" name="G.I. Joe - The Rise of Cobra (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#730" name="G1 Jockey 3 (Europe)"/>
+	<game FlagNo="PS2EU#731" name="G1 Jockey 4 (Europe, Australia)"/>
+	<game FlagNo="PS2EU#732" name="Gadget &amp;amp; the Gadgetinis (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#733" name="Gaelic Games - Football (Europe)"/>
+	<game FlagNo="PS2EU#734" name="Gaelic Games - Football 2 (Europe)"/>
+	<game FlagNo="PS2EU#735" name="Galerians-Ash (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#736" name="Gallop Racer 2 (Europe)"/>
+	<game FlagNo="PS2EU#737" name="Garfield (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#738" name="Garfield - Saving Arlene (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#739" name="Gauntlet - Dark Legacy (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#740" name="Gauntlet - Seven Sorrows (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#741" name="Germany s Next Topmodel (Germany)"/>
+	<game FlagNo="PS2EU#742" name="Getaway, The (Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#743" name="Getaway, The (Europe) (En,Fr,De,Es,It) (v1.03)"/>
+	<game FlagNo="PS2EU#744" name="Getaway, The (Europe) (En,Fr,De,Es,It) (v2.03)"/>
+	<game FlagNo="PS2EU#745" name="Getaway, The - Black Monday (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#746" name="Getaway, The - Black Monday (Europe) (En,Pt,El,Ru)"/>
+	<game FlagNo="PS2EU#747" name="Ghost in the Shell - Stand Alone Complex (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#748" name="Ghost Master - The Gravenville Chronicles (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#749" name="Ghost Rider (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#750" name="Ghost Vibration (Europe)"/>
+	<game FlagNo="PS2EU#751" name="Ghostbusters - The Video Game (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#752" name="Ghosthunter (Europe) (En,El,Ru)"/>
+	<game FlagNo="PS2EU#753" name="Ghosthunter (Europe) (En,Fr,De,Es,It,Pt)"/>
+	<game FlagNo="PS2EU#754" name="Giants - Citizen Kabuto (Europe)"/>
+	<game FlagNo="PS2EU#755" name="Gift (France)"/>
+	<game FlagNo="PS2EU#756" name="Gift (Spain)"/>
+	<game FlagNo="PS2EU#757" name="Giftie (Germany)"/>
+	<game FlagNo="PS2EU#758" name="Girl Zone (Europe)"/>
+	<game FlagNo="PS2EU#759" name="Gitaroo Man (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#760" name="Gladiator - Schwert der Rache (Germany)"/>
+	<game FlagNo="PS2EU#761" name="Gladiator - Sword of Vengeance (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#762" name="Gladius (Germany)"/>
+	<game FlagNo="PS2EU#763" name="Glass Rose (Europe)"/>
+	<game FlagNo="PS2EU#764" name="Global Defence Force (Europe)"/>
+	<game FlagNo="PS2EU#765" name="Global Defence Force Tactics (Europe)"/>
+	<game FlagNo="PS2EU#766" name="Go Go Copter - Remote Control Helicopter (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#767" name="Go Go Golf (Europe)"/>
+	<game FlagNo="PS2EU#768" name="God Hand (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#769" name="Godai - Elemental Force (Europe)"/>
+	<game FlagNo="PS2EU#770" name="Godfather, The - The Game (Europe) (En,Nl,Pt,Sv,Da,Pl)"/>
+	<game FlagNo="PS2EU#771" name="Godzilla - Save the Earth (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#772" name="Golden Age of Racing (Europe)"/>
+	<game FlagNo="PS2EU#773" name="Golden Compass, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#774" name="GoldenEye - Agente Corrupto (Spain)"/>
+	<game FlagNo="PS2EU#775" name="GoldenEye - Au Service du Mal (France)"/>
+	<game FlagNo="PS2EU#776" name="GoldenEye - Rogue Agent (Europe) (En,It,Nl,Sv)"/>
+	<game FlagNo="PS2EU#777" name="GoldenEye - Rogue Agent (Germany)"/>
+	<game FlagNo="PS2EU#778" name="Gottlieb Pinball Classics (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#779" name="Gradius III and IV (Europe)"/>
+	<game FlagNo="PS2EU#780" name="Gradius V (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#781" name="Gran Turismo 3 - A-spec (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#782" name="Gran Turismo 3 - A-spec (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#783" name="Gran Turismo 4 - Prologue (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#784" name="Gran Turismo Concept - 2002 Tokyo-Geneva (Europe) (En,Fr,De,Es,It,Pt)"/>
+	<game FlagNo="PS2EU#785" name="Grand Prix Challenge (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#786" name="Grand Theft Auto - Liberty City Stories (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#787" name="Grand Theft Auto - San Andreas (Europe) (En,Fr,De,Es,It) (v1.03)"/>
+	<game FlagNo="PS2EU#788" name="Grand Theft Auto - San Andreas (Europe) (En,Fr,De,Es,It) (v2.01)"/>
+	<game FlagNo="PS2EU#789" name="Grand Theft Auto - San Andreas (Germany) (En,De)"/>
+	<game FlagNo="PS2EU#790" name="Grand Theft Auto - Vice City (Australia)"/>
+	<game FlagNo="PS2EU#791" name="Grand Theft Auto - Vice City (Europe) (En,Fr,De,Es,It) (v1.50)"/>
+	<game FlagNo="PS2EU#792" name="Grand Theft Auto - Vice City (Europe) (En,Fr,De,Es,It) (v2.03)"/>
+	<game FlagNo="PS2EU#793" name="Grand Theft Auto - Vice City (Europe) (En,Fr,De,Es,It) (v3.00)"/>
+	<game FlagNo="PS2EU#794" name="Grand Theft Auto - Vice City Stories (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#795" name="Grand Theft Auto - Vice City Stories (Germany) (En,De)"/>
+	<game FlagNo="PS2EU#796" name="Grand Theft Auto III (Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#797" name="Grand Theft Auto III (Europe) (En,Fr,De,Es,It) (v1.40)"/>
+	<game FlagNo="PS2EU#798" name="Grand Theft Auto III (Europe) (En,Fr,De,Es,It) (v1.60)"/>
+	<game FlagNo="PS2EU#799" name="Grande quiz sul calcio italiano, Il (Italy)"/>
+	<game FlagNo="PS2EU#800" name="Grandia II (Europe)"/>
+	<game FlagNo="PS2EU#801" name="Gravity Games Bike - Street, Vert. Dirt (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#802" name="Great Escape, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#803" name="Gregory Horror Show (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#804" name="GrimGrimoire (Europe) (En,Ja)"/>
+	<game FlagNo="PS2EU#805" name="Grooverider (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#806" name="Growlanser - Heritage of War (Europe)"/>
+	<game FlagNo="PS2EU#807" name="GT Racers (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#808" name="GT-R 400 (Europe)"/>
+	<game FlagNo="PS2EU#809" name="GT-R Touring (Europe)"/>
+	<game FlagNo="PS2EU#810" name="GTC Africa (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#811" name="Guerrilla Strike (Europe)"/>
+	<game FlagNo="PS2EU#812" name="Guilty Gear X (Europe)"/>
+	<game FlagNo="PS2EU#813" name="Guilty Gear X2 (Europe)"/>
+	<game FlagNo="PS2EU#814" name="Guilty Gear X2"/>
+	<game FlagNo="PS2EU#815" name="Guitar Hero - Aerosmith (Europe) (Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#816" name="Guitar Hero - Aerosmith (Europe)"/>
+	<game FlagNo="PS2EU#817" name="Guitar Hero - Rocks the 80s (Australia)"/>
+	<game FlagNo="PS2EU#818" name="Guitar Hero - Rocks the 80s (Europe) (Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#819" name="Guitar Hero 5 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#820" name="Guitar Hero II (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#821" name="Gumball 3000 (Europe)"/>
+	<game FlagNo="PS2EU#822" name="Gun (Europe, Australia) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#823" name="Gun (Germany)"/>
+	<game FlagNo="PS2EU#824" name="Gunbird Special Edition (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#825" name="Guncom 2 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#826" name="Gunfighter II - Revenge of Jesse James (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#827" name="Gungrave (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#828" name="Gungrave - Overdose (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#829" name="Gungriffon Blaze (Germany)"/>
+	<game FlagNo="PS2EU#830" name="Half-Life (Europe, Australia)"/>
+	<game FlagNo="PS2EU#831" name="Half-Life (Germany)"/>
+	<game FlagNo="PS2EU#832" name="Half-Life (Spain)"/>
+	<game FlagNo="PS2EU#833" name="Happy Feet (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#834" name="Hard Hitter 2 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#835" name="Hard Knock High (Europe)"/>
+	<game FlagNo="PS2EU#836" name="Hard Rock Casino (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#837" name="Hardware - Online Arena (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#838" name="Harry Potter - Quidditch World Cup (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)"/>
+	<game FlagNo="PS2EU#839" name="Harry Potter and the Chamber of Secrets (Europe)"/>
+	<game FlagNo="PS2EU#840" name="Harry Potter and the Goblet of Fire (Europe) (En,Nl,Sv,No,Da,Fi,Pl)"/>
+	<game FlagNo="PS2EU#841" name="Harry Potter and the Goblet of Fire (Europe) (Fr,De,Es,It,Pt)"/>
+	<game FlagNo="PS2EU#842" name="Harry Potter and the Goblet of Fire (Europe)"/>
+	<game FlagNo="PS2EU#843" name="Harry Potter and the Half-Blood Prince (Europe) (En,De,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#844" name="Harry Potter and the Order of the Phoenix (Europe) (Fr,De,Es,It,Pt)"/>
+	<game FlagNo="PS2EU#845" name="Harry Potter and the Philosopher s Stone (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi)"/>
+	<game FlagNo="PS2EU#846" name="Harry Potter and the Prisoner of Azkaban (Europe) (En,Fr,De,Es,It,Nl,Pt)"/>
+	<game FlagNo="PS2EU#847" name="Harry Potter and the Prisoner of Azkaban (Europe) (En,Sv,No,Da)"/>
+	<game FlagNo="PS2EU#848" name="Harry Potter e la camera dei segreti (Italy)"/>
+	<game FlagNo="PS2EU#849" name="Harry Potter und die Kammer des Schreckens (Germany)"/>
+	<game FlagNo="PS2EU#850" name="Harry Potter y la camara secreta (Spain)"/>
+	<game FlagNo="PS2EU#851" name="Harvest Fishing (Europe)"/>
+	<game FlagNo="PS2EU#852" name="Harvest Moon - A Wonderful Life - Special Edition (Europe)"/>
+	<game FlagNo="PS2EU#853" name="Hasbro Familien-Spieleabend (Germany)"/>
+	<game FlagNo="PS2EU#854" name="Haunting Ground (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#855" name="Haven - Call of the King (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#856" name="Hawk Kawasaki Racing (Europe)"/>
+	<game FlagNo="PS2EU#857" name="Headhunter (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#858" name="Headhunter - Redemption (Europe) (Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#859" name="Headhunter - Redemption (Europe)"/>
+	<game FlagNo="PS2EU#860" name="Heatseeker (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#861" name="Hello Kitty - Roller Rescue (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#862" name="Heracles - Battle with the Gods (Europe)"/>
+	<game FlagNo="PS2EU#863" name="Heracles - Chariot Racing (Europe) (En,Fr)"/>
+	<game FlagNo="PS2EU#864" name="Herdy Gerdy (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#865" name="Heroes of Might and Magic - Quest for the DragonBone Staff (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#866" name="Heroes of the Pacific (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#867" name="Herr der Ringe, Der - Das dritte Zeitalter (Germany)"/>
+	<game FlagNo="PS2EU#868" name="Herr der Ringe, Der - Die Rueckkehr des Koenigs (Germany)"/>
+	<game FlagNo="PS2EU#869" name="Herr der Ringe, Der - Die zwei Tuerme (Germany)"/>
+	<game FlagNo="PS2EU#870" name="Hidden Invasion (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#871" name="History Channel, The - Battle for the Pacific (Europe)"/>
+	<game FlagNo="PS2EU#872" name="Hitman - Blood Money (Europe)"/>
+	<game FlagNo="PS2EU#873" name="Hitman - Blood Money (Germany)"/>
+	<game FlagNo="PS2EU#874" name="Hitman - Blood Money (Spain)"/>
+	<game FlagNo="PS2EU#875" name="Hitman - Contracts (Europe)"/>
+	<game FlagNo="PS2EU#876" name="Hitman - Contracts (Germany)"/>
+	<game FlagNo="PS2EU#877" name="Hitman 2 - Silent Assassin (Europe) (v1.01)"/>
+	<game FlagNo="PS2EU#878" name="Hitman 2 - Silent Assassin (Europe) (v2.00)"/>
+	<game FlagNo="PS2EU#879" name="Hitman 2 - Silent Assassin (France)"/>
+	<game FlagNo="PS2EU#880" name="Hitman 2 - Silent Assassin (Germany)"/>
+	<game FlagNo="PS2EU#881" name="Hobbit, The - The Prelude to the Lord of the Rings (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#882" name="Home Alone (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#883" name="Homerun (Europe)"/>
+	<game FlagNo="PS2EU#884" name="Homura (Europe)"/>
+	<game FlagNo="PS2EU#885" name="Hot Wheels - Stunt Track Challenge (Europe)"/>
+	<game FlagNo="PS2EU#886" name="Hot Wheels - World Race (Europe)"/>
+	<game FlagNo="PS2EU#887" name="Hugo - Bukkazoom&amp;nbsp;&amp;nbsp;(Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)"/>
+	<game FlagNo="PS2EU#888" name="Hugo - CannonCruise (Europe) (En,Es,Pt,Pl)"/>
+	<game FlagNo="PS2EU#889" name="Hugo - CannonCruise (Europe) (Fr,De,It,Nl)"/>
+	<game FlagNo="PS2EU#890" name="Hulk (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#891" name="Hummer Badlands (Europe)"/>
+	<game FlagNo="PS2EU#892" name="Hunter - The Reckoning - Wayward (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#893" name="Hyper Street Fighter 2 - The Anniversary Edition (Europe)"/>
+	<game FlagNo="PS2EU#894" name="I-Ninja (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#895" name="Ice Age 2 - The Meltdown (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#896" name="Ice Age 3 - Dawn of the Dinosaurs (Europe) (En,Fr,De,Es,Nl,Sv)"/>
+	<game FlagNo="PS2EU#897" name="ICO (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#898" name="Incredible Hulk, The (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#899" name="Incredible Hulk, The - Ultimate Destruction (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#900" name="Indiana Jones and the Emperor s Tomb (Europe)"/>
+	<game FlagNo="PS2EU#901" name="Indiana Jones and the Staff of Kings (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#902" name="Indiana Jones y la Tumba del Emperador (Spain)"/>
+	<game FlagNo="PS2EU#903" name="IndyCar Series (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#904" name="IndyCar Series 2005 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#905" name="Inspector Gadget - Mad Robots Invasion (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#906" name="Intellivision Lives - The History of Video Gaming (Europe)"/>
+	<game FlagNo="PS2EU#907" name="International Cue Club (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#908" name="International Cue Club 2 (Europe)"/>
+	<game FlagNo="PS2EU#909" name="International Golf Pro (Europe) (Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#910" name="International League Soccer (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#911" name="International Pool Championship (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#912" name="International Snooker Championship (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#913" name="International Super Karts (Europe)"/>
+	<game FlagNo="PS2EU#914" name="International Superstar Soccer (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#915" name="International Superstar Soccer (Europe) (Fr,Es,It)"/>
+	<game FlagNo="PS2EU#916" name="International Superstar Soccer 2 (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#917" name="International Superstar Soccer 2 (Europe) (Fr,Es,It)"/>
+	<game FlagNo="PS2EU#918" name="International Superstar Soccer 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#919" name="International Tennis Pro (Europe)"/>
+	<game FlagNo="PS2EU#920" name="Iridium Runners (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#921" name="Iron Aces 2 - Birds of Prey (Europe)"/>
+	<game FlagNo="PS2EU#922" name="Iron Man (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#923" name="Italian Job, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#924" name="Jackass - The Game (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#925" name="Jacked (Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#926" name="Jackie Chan Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt)"/>
+	<game FlagNo="PS2EU#927" name="Jade Cocoon 2 (Europe)"/>
+	<game FlagNo="PS2EU#928" name="Jak 3 (Europe, Australia) (En,Fr,De,Es,It,Pt,Ru)"/>
+	<game FlagNo="PS2EU#929" name="Jak and Daxter - The Lost Frontier (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)"/>
+	<game FlagNo="PS2EU#930" name="Jak and Daxter - The Precursor Legacy (Europe) (En,Ja,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#931" name="Jak II - Renegade (Europe, Australia) (En,Ja,Fr,De,Es,It,Ko)"/>
+	<game FlagNo="PS2EU#932" name="Jak X (Europe, Australia) (En,Fr,De,Es,It,Pt,Ru)"/>
+	<game FlagNo="PS2EU#933" name="James Cameron s Dark Angel (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#934" name="James Pond - Codename - RoboCod (Europe)"/>
+	<game FlagNo="PS2EU#935" name="Jaws Unleashed (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#936" name="Jeremy McGrath Supercross World (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#937" name="Jet Ion GP (Europe)"/>
+	<game FlagNo="PS2EU#938" name="Jet Ski Riders (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#939" name="Jetix - Puzzle Buzzle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#940" name="Jim Henson s Muppets Party Cruise (Europe) (En,Fr)"/>
+	<game FlagNo="PS2EU#941" name="Jonny Moseley Mad Trix (Europe) (Es,It)"/>
+	<game FlagNo="PS2EU#942" name="Jonny Moseley Mad Trix (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#943" name="Judge Dredd - Dredd vs. Death (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#944" name="Judge Dredd - Dredd vs. Death (Germany) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#945" name="Juiced (Europe, Australia) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#946" name="Juiced 2 - Hot Import Nights (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#947" name="Jumanji (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#948" name="Jumper - Griffin s Story (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#949" name="Junior Board Games (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#950" name="Jurassic Park - Operation Genesis (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#951" name="Just Cause (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#952" name="Just Cause (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#953" name="Justice League Heroes (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#954" name="Kaan - Barbarian s Blade (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#955" name="Kaido Racer (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#956" name="Kaido Racer 2 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#957" name="Kao the Kangaroo Round 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#958" name="Kelly Slater s Pro Surfer (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#959" name="Kengo - Master of Bushido (Europe)"/>
+	<game FlagNo="PS2EU#960" name="Kessen (Europe)"/>
+	<game FlagNo="PS2EU#961" name="Kessen II (Europe)"/>
+	<game FlagNo="PS2EU#962" name="Kessen III (Europe)"/>
+	<game FlagNo="PS2EU#963" name="Kidz Sports Basketball (Europe)"/>
+	<game FlagNo="PS2EU#964" name="Kidz Sports Ice Hockey (Europe)"/>
+	<game FlagNo="PS2EU#965" name="kill.switch (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#966" name="Killer 7 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#967" name="Killzone (Europe) (En,El,Ru)"/>
+	<game FlagNo="PS2EU#968" name="Killzone (Europe) (En,Fr,De,Es,It) (Bonus Disc)"/>
+	<game FlagNo="PS2EU#969" name="Killzone (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#970" name="King Arthur (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#971" name="King of Clubs (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#972" name="King of Fighters&amp;nbsp;&amp;nbsp;98, The - Ultimate Match (Europe)"/>
+	<game FlagNo="PS2EU#973" name="King of Fighters 2000-2001, The (Europe)"/>
+	<game FlagNo="PS2EU#974" name="King of Fighters 2002, The (Europe)"/>
+	<game FlagNo="PS2EU#975" name="King of Fighters 2003, The (Europe)"/>
+	<game FlagNo="PS2EU#976" name="King of Fighters Collection, The - The Orochi Saga (Europe)"/>
+	<game FlagNo="PS2EU#977" name="King of Fighters XI, The (Europe)"/>
+	<game FlagNo="PS2EU#978" name="King of Fighters, The - Maximum Impact (Europe) (En,Ja)"/>
+	<game FlagNo="PS2EU#979" name="King of Fighters, The - Maximum Impact 2 (Europe)"/>
+	<game FlagNo="PS2EU#980" name="King of Fighters, The - Neowave (Europe, Australia)"/>
+	<game FlagNo="PS2EU#981" name="King of Route 66, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#982" name="King s Field IV (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#983" name="Kingdom Hearts (Europe)"/>
+	<game FlagNo="PS2EU#984" name="Kingdom Hearts (France)"/>
+	<game FlagNo="PS2EU#985" name="Kingdom Hearts (Germany)"/>
+	<game FlagNo="PS2EU#986" name="Kingdom Hearts (Italy)"/>
+	<game FlagNo="PS2EU#987" name="Kingdom Hearts (Spain)"/>
+	<game FlagNo="PS2EU#988" name="Kingdom Hearts II (Europe, Australia)"/>
+	<game FlagNo="PS2EU#989" name="Kingdom Hearts II (France)"/>
+	<game FlagNo="PS2EU#990" name="Kingdom Hearts II (Germany)"/>
+	<game FlagNo="PS2EU#991" name="Kingdom Hearts II (Spain)"/>
+	<game FlagNo="PS2EU#992" name="Klonoa 2 - Lunatea s Veil (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#993" name="Knight Rider - The Game (Europe) (En,Fr,De,Nl)"/>
+	<game FlagNo="PS2EU#994" name="Knight Rider - The Game 2 (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#995" name="Knockout Kings 2001 (Europe)"/>
+	<game FlagNo="PS2EU#996" name="Knockout Kings 2001 (Germany)"/>
+	<game FlagNo="PS2EU#997" name="Knockout Kings 2002 (Germany)"/>
+	<game FlagNo="PS2EU#998" name="Kuon (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#999" name="Kuri Kuri Mix (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1000" name="Kya - Dark Lineage (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1001" name="L.A. Rush (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1002" name="La Pucelle - Tactics (Europe)"/>
+	<game FlagNo="PS2EU#1003" name="Lake Masters EX (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1004" name="Lara Croft Tomb Raider - Anniversary (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1005" name="Lara Croft Tomb Raider - Legend (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1006" name="Lara Croft Tomb Raider - The Angel of Darkness (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1007" name="Largo Winch - Empire Under Threat (Europe) (En,De,Es,It)"/>
+	<game FlagNo="PS2EU#1008" name="Largo Winch - Empire Under Threat (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1009" name="Lassie (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1010" name="Le Mans 24 Hours (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1011" name="Leaderboard Golf (Europe)"/>
+	<game FlagNo="PS2EU#1012" name="Legacy of Kain - Defiance (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1013" name="Legacy of Kain - Soul Reaver 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1014" name="Legaia 2 - Duel Saga (Europe)"/>
+	<game FlagNo="PS2EU#1015" name="Legend of Kay (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1016" name="Legend of Sayuki (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1017" name="Legend of Spyro, The - A New Beginning (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1018" name="Legend of Spyro, The - Dawn of the Dragon (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1019" name="Legend of Spyro, The - Dawn of the Dragon (Europe) (En,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1020" name="Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1021" name="Legends of Wrestling (Europe)"/>
+	<game FlagNo="PS2EU#1022" name="Legends of Wrestling 2 (Europe)"/>
+	<game FlagNo="PS2EU#1023" name="Legion - The Legend of Excalibur (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1024" name="LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da)"/>
+	<game FlagNo="PS2EU#1025" name="LEGO Indiana Jones - The Original Adventures (Europe) (En,Fr,De,Es,It,Da)"/>
+	<game FlagNo="PS2EU#1026" name="LEGO Island Xtreme Stunts (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"/>
+	<game FlagNo="PS2EU#1027" name="LEGO Star Wars - The Video Game (Europe) (En,Fr,De,Es,It,Nl,Da)"/>
+	<game FlagNo="PS2EU#1028" name="LEGO Star Wars II - The Original Trilogy (Europe) (En,Fr,De,Es,It,Da)"/>
+	<game FlagNo="PS2EU#1029" name="Leisure Suit Larry - Magna Cum Laude (Europe)"/>
+	<game FlagNo="PS2EU#1030" name="Leisure Suit Larry - Magna Cum Laude (Germany)"/>
+	<game FlagNo="PS2EU#1031" name="Leisure Suit Larry - Magna Cum Laude (Spain)"/>
+	<game FlagNo="PS2EU#1032" name="Lemmings (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1033" name="Lemony Snicket s A Series of Unfortunate Events (Europe)"/>
+	<game FlagNo="PS2EU#1034" name="Let s Make a Soccer Team&amp;nbsp;&amp;nbsp;(Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1035" name="Let s Ride&amp;nbsp;&amp;nbsp;Silver Buckle Stables (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1036" name="Lethal Skies - Elite Pilot Team SW (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1037" name="Little Britain - The Video Game (Europe)"/>
+	<game FlagNo="PS2EU#1038" name="LMA Manager 2002 (Europe)"/>
+	<game FlagNo="PS2EU#1039" name="LMA Manager 2003 (Europe)"/>
+	<game FlagNo="PS2EU#1040" name="LMA Manager 2004 (Europe)"/>
+	<game FlagNo="PS2EU#1041" name="LMA Manager 2005 (Europe)"/>
+	<game FlagNo="PS2EU#1042" name="LMA Manager 2006 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1043" name="LMA Manager 2007 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1044" name="London Cab Challenge (Europe)"/>
+	<game FlagNo="PS2EU#1045" name="London Racer - Destruction Madness (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1046" name="London Racer - Police Madness (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1047" name="London Racer - World Challenge (Europe) (En,Fr,De,Nl)"/>
+	<game FlagNo="PS2EU#1048" name="London Racer II (Europe)"/>
+	<game FlagNo="PS2EU#1049" name="London Taxi - Rushour (Europe)"/>
+	<game FlagNo="PS2EU#1050" name="Looney Tunes - ACME Arsenal (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1051" name="Looney Tunes - Back in Action (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1052" name="Looney Tunes - Space Race (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1053" name="Lord of the Rings, The - Aragorn s Quest (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1054" name="Lord of the Rings, The - The Fellowship of the Ring (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1055" name="Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Pt,Sv,Pl)"/>
+	<game FlagNo="PS2EU#1056" name="Lord of the Rings, The - The Third Age (Europe) (En,Nl,Pt,Sv,Pl)"/>
+	<game FlagNo="PS2EU#1057" name="Lord of the Rings, The - The Two Towers (Europe) (En,Nl,Sv)"/>
+	<game FlagNo="PS2EU#1058" name="Lotus Challenge (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1059" name="Lumines Plus (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1060" name="Luxor - Pharaoh s Challenge (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1061" name="Mace Griffin - Bounty Hunter (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1062" name="Mace Griffin - Bounty Hunter (Germany)"/>
+	<game FlagNo="PS2EU#1063" name="Madden NFL 06 (Europe)"/>
+	<game FlagNo="PS2EU#1064" name="Madden NFL 07 (Europe)"/>
+	<game FlagNo="PS2EU#1065" name="Madden NFL 08 (Europe)"/>
+	<game FlagNo="PS2EU#1066" name="Madden NFL 2001 (Europe)"/>
+	<game FlagNo="PS2EU#1067" name="Madden NFL 2002 (Europe)"/>
+	<game FlagNo="PS2EU#1068" name="Madden NFL 2003 (Europe)"/>
+	<game FlagNo="PS2EU#1069" name="Madden NFL 2004 (Europe)"/>
+	<game FlagNo="PS2EU#1070" name="Madden NFL 2005 (Europe)"/>
+	<game FlagNo="PS2EU#1071" name="Made Man (Europe) (Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1072" name="Mafia (Europe, Australia)"/>
+	<game FlagNo="PS2EU#1073" name="MAGIX Music Maker (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#1074" name="Magna Carta - Lacrime di sangue (Italy)"/>
+	<game FlagNo="PS2EU#1075" name="Magna Carta - Tears of Blood (Australia)"/>
+	<game FlagNo="PS2EU#1076" name="Makai Kingdom - Chronicles of the Sacred Tome (Europe)"/>
+	<game FlagNo="PS2EU#1077" name="Maken Shao - Demon Sword (Europe)"/>
+	<game FlagNo="PS2EU#1078" name="Malice (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1079" name="Mana Khemia - Alchemists of Al-Revis (Europe)"/>
+	<game FlagNo="PS2EU#1080" name="Manager de Liga 2002 (Spain)"/>
+	<game FlagNo="PS2EU#1081" name="Manager de Liga 2003 (Spain)"/>
+	<game FlagNo="PS2EU#1082" name="Manager de Liga 2004 (Spain)"/>
+	<game FlagNo="PS2EU#1083" name="Manager de Liga 2005 (Spain)"/>
+	<game FlagNo="PS2EU#1084" name="Manhunt (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1085" name="Manhunt 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1086" name="Marc Ecko s Getting Up - Contents Under Pressure (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1087" name="Margot s Word Brain (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1088" name="Mark of Kri, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1089" name="Marvel - Ultimate Alliance (Europe) (En,It)"/>
+	<game FlagNo="PS2EU#1090" name="Marvel - Ultimate Alliance 2 (Europe)"/>
+	<game FlagNo="PS2EU#1091" name="Marvel Nemesis - Rise of the Imperfects (Europe) (En,Fr,De,It)"/>
+	<game FlagNo="PS2EU#1092" name="Marvel Super Hero Squad (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1093" name="Marvel vs. Capcom 2 - New Age of Heroes (Europe)"/>
+	<game FlagNo="PS2EU#1094" name="Mary-Kate and Ashley - Sweet 16 (Europe)"/>
+	<game FlagNo="PS2EU#1095" name="Mashed - Drive to Survive (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1096" name="Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1097" name="Master Rallye (Europe) (En,Fr,De,Es,It,Pt)"/>
+	<game FlagNo="PS2EU#1098" name="Masters of the Universe - He-Man - Defender of Grayskull (Europe)"/>
+	<game FlagNo="PS2EU#1099" name="Mat Hoffman s Pro BMX 2 (Europe)"/>
+	<game FlagNo="PS2EU#1100" name="Matrix, The - Path of Neo (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1101" name="Matrix, The - Path of Neo (Europe)"/>
+	<game FlagNo="PS2EU#1102" name="Max Payne (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1103" name="Max Payne (Europe)"/>
+	<game FlagNo="PS2EU#1104" name="Max Payne 2 - The Fall of Max Payne (Europe) (En,Es)"/>
+	<game FlagNo="PS2EU#1105" name="Max Payne 2 - The Fall of Max Payne (Europe)"/>
+	<game FlagNo="PS2EU#1106" name="Max Payne 2 - The Fall of Max Payne (Germany) (En,De)"/>
+	<game FlagNo="PS2EU#1107" name="Maximo - Ghosts to Glory (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1108" name="Maximo vs. Army of Zin (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1109" name="Maxxed Out Racing (Europe)"/>
+	<game FlagNo="PS2EU#1110" name="Maxxed Out Racing Nitro (Europe)"/>
+	<game FlagNo="PS2EU#1111" name="Maze Action (Europe)"/>
+	<game FlagNo="PS2EU#1112" name="McFarlane s Evil Prophecy (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1113" name="MDK2 - Armageddon (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1114" name="Medal of Honor - En premiere ligne (France)"/>
+	<game FlagNo="PS2EU#1115" name="Medal of Honor - European Assault (Europe) (En,Nl,Sv,Da)"/>
+	<game FlagNo="PS2EU#1116" name="Medal of Honor - European Assault (Germany)"/>
+	<game FlagNo="PS2EU#1117" name="Medal of Honor - European Assault (Spain)"/>
+	<game FlagNo="PS2EU#1118" name="Medal of Honor - Frontline (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#1119" name="Medal of Honor - Frontline (Germany)"/>
+	<game FlagNo="PS2EU#1120" name="Medal of Honor - Les Faucons de Guerre (France)"/>
+	<game FlagNo="PS2EU#1121" name="Medal of Honor - Rising Sun (Europe) (En,It,Nl,Sv,Da)"/>
+	<game FlagNo="PS2EU#1122" name="Medal of Honor - Rising Sun (Germany)"/>
+	<game FlagNo="PS2EU#1123" name="Medal of Honor - Rising Sun (Spain)"/>
+	<game FlagNo="PS2EU#1124" name="Medal of Honor - Vanguard (Europe) (En,Fr,De,Es,It,Nl,Pl,Hu,Cs)"/>
+	<game FlagNo="PS2EU#1125" name="Mega Man X - Command Mission (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1126" name="Mega Man X7 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1127" name="Mega Man X8 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1128" name="Men in Black II - Alien Escape (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1129" name="Mercenaries - Playground of Destruction (Europe) (Es,It)"/>
+	<game FlagNo="PS2EU#1130" name="Mercenaries - Playground of Destruction (Europe)"/>
+	<game FlagNo="PS2EU#1131" name="Mercenaries - Playground of Destruction (Germany)"/>
+	<game FlagNo="PS2EU#1132" name="Mercenaries 2 - World in Flames (Germany)"/>
+	<game FlagNo="PS2EU#1133" name="Mercenaries 2 - World in Flames (Spain)"/>
+	<game FlagNo="PS2EU#1134" name="Mercury Meltdown Remix (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1135" name="Metal Arms - Glitch in the System (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1136" name="Metal Gear Solid 2 - Sons of Liberty (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1137" name="Metal Gear Solid 2 - Sons of Liberty (Spain)"/>
+	<game FlagNo="PS2EU#1138" name="Metal Gear Solid 2 - Substance (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1139" name="Metal Gear Solid 3 - Snake Eater (Europe, Australia) (En,Fr)"/>
+	<game FlagNo="PS2EU#1140" name="Metal Gear Solid 3 - Snake Eater (Germany)"/>
+	<game FlagNo="PS2EU#1141" name="Metal Gear Solid 3 - Snake Eater (Spain)"/>
+	<game FlagNo="PS2EU#1142" name="Metal Gear Solid 3 - Subsistence (Europe) (En,Fr) (Disc 1) (Subsistence Disc)"/>
+	<game FlagNo="PS2EU#1143" name="Metal Gear Solid 3 - Subsistence (Europe) (En,Fr) (Disc 2) (Persistence Disc)"/>
+	<game FlagNo="PS2EU#1144" name="Metal Gear Solid 3 - Subsistence (Germany) (Disc 1) (Subsistence Disc)"/>
+	<game FlagNo="PS2EU#1145" name="Metal Gear Solid 3 - Subsistence (Germany) (Disc 2) (Persistence Disc)"/>
+	<game FlagNo="PS2EU#1146" name="Metal Gear Solid 3 - Subsistence (Spain) (Disc 1) (Subsistence Disc)"/>
+	<game FlagNo="PS2EU#1147" name="Metal Gear Solid 3 - Subsistence (Spain) (Disc 2) (Persistence Disc)"/>
+	<game FlagNo="PS2EU#1148" name="Metal Slug 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1149" name="Metal Slug 4 (Europe)"/>
+	<game FlagNo="PS2EU#1150" name="Metal Slug 5 (Europe)"/>
+	<game FlagNo="PS2EU#1151" name="Metal Slug Anthology (Europe)"/>
+	<game FlagNo="PS2EU#1152" name="Metropolismania (Europe)"/>
+	<game FlagNo="PS2EU#1153" name="Metropolismania 2 (Europe)"/>
+	<game FlagNo="PS2EU#1154" name="Miami Vice (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1155" name="Michigan - Report from Hell (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1156" name="Micro Machines (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1157" name="Midnight Club - Street Racing (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1158" name="Midnight Club 3 - DUB Edition (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1159" name="Midnight Club 3 - DUB Edition Remix (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1160" name="Midnight Club II (Europe)"/>
+	<game FlagNo="PS2EU#1161" name="Midway Arcade Treasures (Europe)"/>
+	<game FlagNo="PS2EU#1162" name="Midway Arcade Treasures 2 (Europe)"/>
+	<game FlagNo="PS2EU#1163" name="Midway Arcade Treasures 3 (Europe, Australia)"/>
+	<game FlagNo="PS2EU#1164" name="Mighty Mulan (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1165" name="Mike Tyson Heavyweight Boxing (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1166" name="Millenium European Paintball Series, The - Championship Paintball 2009 (Europe)"/>
+	<game FlagNo="PS2EU#1167" name="Minority Report (Europe)"/>
+	<game FlagNo="PS2EU#1168" name="Minority Report (France)"/>
+	<game FlagNo="PS2EU#1169" name="Minority Report (Germany)"/>
+	<game FlagNo="PS2EU#1170" name="Mission Impossible - Operation Surma (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1171" name="Mobile Light Force 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1172" name="Moderngroove - Ministry of Sound Edition (Europe)"/>
+	<game FlagNo="PS2EU#1173" name="Mojo&amp;nbsp;&amp;nbsp;(Europe) (En,Fr,De,Es,It,Pt)"/>
+	<game FlagNo="PS2EU#1174" name="Monde des Bleus 2003, Le - Un Nouveau Defi (France)"/>
+	<game FlagNo="PS2EU#1175" name="Monopoly (Europe) (En,De,Sv,Fi)"/>
+	<game FlagNo="PS2EU#1176" name="Monopoly Party (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1177" name="Monster House (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1178" name="Monster House (Europe)"/>
+	<game FlagNo="PS2EU#1179" name="Monster Hunter (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1180" name="Monster Jam (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1181" name="Monster Jam - Maximum Destruction (Europe)"/>
+	<game FlagNo="PS2EU#1182" name="Monster Lab (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1183" name="Monster Trux Extreme - Arena Edition (Europe)"/>
+	<game FlagNo="PS2EU#1184" name="Monster Trux Extreme - Offroad Edition (Europe)"/>
+	<game FlagNo="PS2EU#1185" name="Monstruos, S.A. - La Isla de los Sustos (Spain)"/>
+	<game FlagNo="PS2EU#1186" name="Mortal Kombat - Armageddon (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1187" name="Mortal Kombat - Deadly Alliance (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1188" name="Mortal Kombat - Deadly Alliance (Germany) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1189" name="Mortal Kombat - Deception (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1190" name="Mortal Kombat - Deception (Germany) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1191" name="Mortal Kombat - Shaolin Monks (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1192" name="Mortal Kombat - Shaolin Monks (Germany) (En,De)"/>
+	<game FlagNo="PS2EU#1193" name="Moto X Maniac (Europe)"/>
+	<game FlagNo="PS2EU#1194" name="Motocross Mania 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1195" name="MotoGP (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1196" name="MotoGP 07 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1197" name="MotoGP 08 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1198" name="MotoGP 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1199" name="MotoGP 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1200" name="MotoGP 4 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1201" name="Motorbike King (Europe)"/>
+	<game FlagNo="PS2EU#1202" name="Motorsiege - Warriors of Primetime (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1203" name="MotorStorm - Arctic Edge (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El,Pl,Ru)"/>
+	<game FlagNo="PS2EU#1204" name="Mountain Bike Adrenaline featuring Salomon (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1205" name="Mr Moskeeto (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1206" name="Mr. Bean (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1207" name="Mr. Golf (Europe)"/>
+	<game FlagNo="PS2EU#1208" name="MTV Celebrity Deathmatch (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1209" name="MTV Music Generator 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1210" name="MTV Music Generator 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1211" name="MTV Pimp My Ride - Street Racing (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1212" name="MTX - Mototrax (Europe)"/>
+	<game FlagNo="PS2EU#1213" name="Mummy Returns, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1214" name="Musashi - Samurai Legend (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1215" name="MX 2002 featuring Ricky Carmichael (Europe)"/>
+	<game FlagNo="PS2EU#1216" name="MX Rider (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1217" name="MX SuperFly (Europe)"/>
+	<game FlagNo="PS2EU#1218" name="MX Unleashed (Europe)"/>
+	<game FlagNo="PS2EU#1219" name="MX vs. ATV Unleashed (Europe)"/>
+	<game FlagNo="PS2EU#1220" name="MX vs. ATV Untamed (Europe)"/>
+	<game FlagNo="PS2EU#1221" name="MX World Tour (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1222" name="Myst III - Exile (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1223" name="Mystic Heroes (Europe)"/>
+	<game FlagNo="PS2EU#1224" name="Mystic Heroes (France)"/>
+	<game FlagNo="PS2EU#1225" name="Mystic Heroes (Germany)"/>
+	<game FlagNo="PS2EU#1226" name="Myth Makers Orbs of Doom (Europe)"/>
+	<game FlagNo="PS2EU#1227" name="Myth Makers Super Kart GP (Europe)"/>
+	<game FlagNo="PS2EU#1228" name="Nanobreaker (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1229" name="Naruto - Ultimate Ninja (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1230" name="Naruto - Ultimate Ninja 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1231" name="Naruto - Ultimate Ninja 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1232" name="Naruto - Uzumaki Chronicles (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1233" name="Naruto - Uzumaki Chronicles 2 (Europe) (En,Ja,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1234" name="Naruto Shippuden - Ultimate Ninja 4 (Europe) (De,Es,It)"/>
+	<game FlagNo="PS2EU#1235" name="Naruto Shippuden - Ultimate Ninja 5 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1236" name="NASCAR 06 - Total Team Control (Europe)"/>
+	<game FlagNo="PS2EU#1237" name="NASCAR 07 (Europe)"/>
+	<game FlagNo="PS2EU#1238" name="National Geographic - Safari Adventures Africa (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1239" name="Naval Ops - Warship Gunner (Europe)"/>
+	<game FlagNo="PS2EU#1240" name="NBA 08 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1241" name="NBA 2K10 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1242" name="NBA 2K11 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1243" name="NBA 2K3 (Europe)"/>
+	<game FlagNo="PS2EU#1244" name="NBA 2K6 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1245" name="NBA 2K8 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1246" name="NBA 2K9 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1247" name="NBA Ballers (Europe)"/>
+	<game FlagNo="PS2EU#1248" name="NBA Hoopz (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1249" name="NBA Jam (Europe, Australia) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1250" name="NBA Live 06 (Europe) (En,De,It)"/>
+	<game FlagNo="PS2EU#1251" name="NBA Live 06 (Europe)"/>
+	<game FlagNo="PS2EU#1252" name="NBA Live 06 (Spain)"/>
+	<game FlagNo="PS2EU#1253" name="NBA Live 07 (Europe) (En,De,It)"/>
+	<game FlagNo="PS2EU#1254" name="NBA Live 07 (Spain)"/>
+	<game FlagNo="PS2EU#1255" name="NBA Live 08 (Europe) (En,De,It)"/>
+	<game FlagNo="PS2EU#1256" name="NBA Live 08 (Spain)"/>
+	<game FlagNo="PS2EU#1257" name="NBA Live 09 (Spain)"/>
+	<game FlagNo="PS2EU#1258" name="NBA Live 2001 (France)"/>
+	<game FlagNo="PS2EU#1259" name="NBA Live 2001 (Germany)"/>
+	<game FlagNo="PS2EU#1260" name="NBA Live 2001 (Italy)"/>
+	<game FlagNo="PS2EU#1261" name="NBA Live 2001 (Spain)"/>
+	<game FlagNo="PS2EU#1262" name="NBA Live 2002 (Germany)"/>
+	<game FlagNo="PS2EU#1263" name="NBA Live 2002 (Spain)"/>
+	<game FlagNo="PS2EU#1264" name="NBA Live 2003 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1265" name="NBA Live 2004 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1266" name="NBA Live 2005 (Europe) (En,De,It)"/>
+	<game FlagNo="PS2EU#1267" name="NBA Live 2005 (Spain)"/>
+	<game FlagNo="PS2EU#1268" name="NBA Street (Europe) (En,Fr)"/>
+	<game FlagNo="PS2EU#1269" name="NBA Street V3 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1270" name="NBA Street Vol. 2 (Europe) (En,Fr)"/>
+	<game FlagNo="PS2EU#1271" name="Need for Speed - Carbon (Europe) (En,Nl,Sv,Da,Fi,Pl,Hu,Cs)"/>
+	<game FlagNo="PS2EU#1272" name="Need for Speed - Carbon (Europe) (Es,It)"/>
+	<game FlagNo="PS2EU#1273" name="Need for Speed - Carbon (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#1274" name="Need for Speed - Carbon (Europe)"/>
+	<game FlagNo="PS2EU#1275" name="Need for Speed - Carbon (Russia)"/>
+	<game FlagNo="PS2EU#1276" name="Need for Speed - Carbon - Collector s Edition (Europe)"/>
+	<game FlagNo="PS2EU#1277" name="Need for Speed - Carbon - Edition Collector (France)"/>
+	<game FlagNo="PS2EU#1278" name="Need for Speed - Hot Pursuit 2 (Europe) (En,Fr,De,Es,It,Sv)"/>
+	<game FlagNo="PS2EU#1279" name="Need for Speed - Most Wanted (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#1280" name="Need for Speed - Most Wanted (Europe) (En,Fr,De,Nl,Sv,Da,Fi,Pl)"/>
+	<game FlagNo="PS2EU#1281" name="Need for Speed - Most Wanted (Europe)"/>
+	<game FlagNo="PS2EU#1282" name="Need for Speed - Most Wanted - Black Edition (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1283" name="Need for Speed - ProStreet (Europe) (En,Nl,Sv,Da,Fi,Pl,Hu,Cs)"/>
+	<game FlagNo="PS2EU#1284" name="Need for Speed - ProStreet (Europe) (Es,It)"/>
+	<game FlagNo="PS2EU#1285" name="Need for Speed - ProStreet (Europe)"/>
+	<game FlagNo="PS2EU#1286" name="Need for Speed - Underground (Europe) (En,Fr,De,Es,It,Nl,Sv)"/>
+	<game FlagNo="PS2EU#1287" name="Need for Speed - Underground 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"/>
+	<game FlagNo="PS2EU#1288" name="Neo Contra (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1289" name="NeoGeo Battle Coliseum (Europe, Australia)"/>
+	<game FlagNo="PS2EU#1290" name="NFL Street (Europe)"/>
+	<game FlagNo="PS2EU#1291" name="NFL Street 2 (Europe)"/>
+	<game FlagNo="PS2EU#1292" name="NFL Street 3 (Europe)"/>
+	<game FlagNo="PS2EU#1293" name="NHL 2K6 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1294" name="NHL Hitz 2002 (Europe)"/>
+	<game FlagNo="PS2EU#1295" name="NHL Hitz 2003 (Europe)"/>
+	<game FlagNo="PS2EU#1296" name="NHL Hitz Pro (Europe)"/>
+	<game FlagNo="PS2EU#1297" name="Nickelodeon Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl)"/>
+	<game FlagNo="PS2EU#1298" name="Nickelodeon Avatar - The Legend of Aang - Into the Inferno (Europe) (En,De,Nl,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1299" name="Nickelodeon Avatar - The Legend of Aang - The Burning Earth (Europe) (En,Fr,De,Nl)"/>
+	<game FlagNo="PS2EU#1300" name="Nickelodeon SpongeBob SquarePants - Movin&amp;nbsp;&amp;nbsp;with Friends (Europe)"/>
+	<game FlagNo="PS2EU#1301" name="Nickelodeon SpongeBob SquarePants - Revenge of the Flying Dutchman (Europe)"/>
+	<game FlagNo="PS2EU#1302" name="Nickelodeon SpongeBob SquarePants - The Movie (Europe)"/>
+	<game FlagNo="PS2EU#1303" name="Nickelodeon Tak - The Great Juju Challenge (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#1304" name="Nickelodeon Tak and the Guardians of Gross (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#1305" name="Nightshade (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1306" name="Ninja Assault (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1307" name="Ninjabread Man (Europe)"/>
+	<game FlagNo="PS2EU#1308" name="Nitrobike (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1309" name="NYR - New York Race (Europe) (En,Fr,De,Es,It,Pt)"/>
+	<game FlagNo="PS2EU#1310" name="ObsCure (Europe)"/>
+	<game FlagNo="PS2EU#1311" name="ObsCure II (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1312" name="Odin Sphere (Europe) (En,Ja,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1313" name="Okami (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1314" name="One Piece - Round the Land&amp;nbsp;&amp;nbsp;(Europe) (De,Es,It)"/>
+	<game FlagNo="PS2EU#1315" name="Onimusha - Blade Warriors (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1316" name="Onimusha - Dawn of Dreams (Europe) (En,Fr,De,Es,It) (Disc 1)"/>
+	<game FlagNo="PS2EU#1317" name="Onimusha - Dawn of Dreams (Europe) (En,Fr,De,Es,It) (Disc 2)"/>
+	<game FlagNo="PS2EU#1318" name="Onimusha - Warlords (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1319" name="Onimusha 2 - Samurai's Destiny (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1320" name="Onimusha 3 - Demon Siege (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1321" name="Open Season (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1322" name="Operative, The - No One Lives Forever (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1323" name="Orphen - Scion of Sorcery (Europe)"/>
+	<game FlagNo="PS2EU#1324" name="Outlaw Golf (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1325" name="Outlaw Golf 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1326" name="Outlaw Tennis (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1327" name="Outlaw Volleyball (Europe, Australia) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1328" name="OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1329" name="P.T.O. IV - Pacific Theater of Operations (Europe)"/>
+	<game FlagNo="PS2EU#1330" name="P3 - Persona 3 (Europe)"/>
+	<game FlagNo="PS2EU#1331" name="Panzer Elite Action - Fields of Glory (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1332" name="PaRappa the Rapper 2 (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1333" name="Perfect Ace - Pro Tournament Tennis (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1334" name="Persona 3 FES (Europe)"/>
+	<game FlagNo="PS2EU#1335" name="Persona 4 (Europe)"/>
+	<game FlagNo="PS2EU#1336" name="Peter Jackson s King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1337" name="Phantasy Star Universe (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1338" name="Phantasy Star Universe - Ambition of the Illuminus (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1339" name="Phantom Brave (Europe)"/>
+	<game FlagNo="PS2EU#1340" name="Pilot Down - Behind Enemy Lines (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1341" name="Pinball Hall of Fame - The Gottlieb Collection (Europe) (En,Fr,De,Es,It,Pt)"/>
+	<game FlagNo="PS2EU#1342" name="Pipe Mania (Europe) (En,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1343" name="Pirates - The Legend of Black Kat (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1344" name="Pirates of the Caribbean - The Legend of Jack Sparrow (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1345" name="Plan, The (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#1346" name="Polar Express, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1347" name="Portal Runner (Europe)"/>
+	<game FlagNo="PS2EU#1348" name="Power Rangers - Dino Thunder (Europe)"/>
+	<game FlagNo="PS2EU#1349" name="Powerdrome (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1350" name="Primal (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1351" name="Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1352" name="Prince of Persia - The Two Thrones (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1353" name="Prince of Persia - Warrior Within (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1354" name="Pro Beach Soccer (Europe) (En,Fr,De,Es,It,Pt)"/>
+	<game FlagNo="PS2EU#1355" name="Pro Evolution Soccer (Europe) (En,Fr,De) (v1.02)"/>
+	<game FlagNo="PS2EU#1356" name="Pro Evolution Soccer (Europe) (En,Fr,De) (v2.00)"/>
+	<game FlagNo="PS2EU#1357" name="Pro Evolution Soccer (Europe) (Es,It) (v1.02)"/>
+	<game FlagNo="PS2EU#1358" name="Pro Evolution Soccer (Europe) (Es,It) (v2.00)"/>
+	<game FlagNo="PS2EU#1359" name="Pro Evolution Soccer 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1360" name="Pro Evolution Soccer 2008 (Europe) (En,Es)"/>
+	<game FlagNo="PS2EU#1361" name="Pro Evolution Soccer 2008 (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#1362" name="Pro Evolution Soccer 2008 (Europe) (It,Pt)"/>
+	<game FlagNo="PS2EU#1363" name="Pro Evolution Soccer 2009 (Europe) (En,Es,It,Pt)"/>
+	<game FlagNo="PS2EU#1364" name="Pro Evolution Soccer 2009 (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#1365" name="Pro Evolution Soccer 2010 (Europe) (Es,It,Pt)"/>
+	<game FlagNo="PS2EU#1366" name="Pro Evolution Soccer 2010 (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#1367" name="Pro Evolution Soccer 2011 (Europe) (Es,It,Pt,El)"/>
+	<game FlagNo="PS2EU#1368" name="Pro Evolution Soccer 2011 (Europe) (Fr,De)"/>
+	<game FlagNo="PS2EU#1369" name="Pro Evolution Soccer 3 (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1370" name="Pro Evolution Soccer 3 (Italy)"/>
+	<game FlagNo="PS2EU#1371" name="Pro Evolution Soccer 4 (Europe) (En,Fr,De,Es) (v1.02)"/>
+	<game FlagNo="PS2EU#1372" name="Pro Evolution Soccer 4 (Europe) (En,Fr,De,Es) (v2.00)"/>
+	<game FlagNo="PS2EU#1373" name="Pro Evolution Soccer 4 (Italy)"/>
+	<game FlagNo="PS2EU#1374" name="Pro Evolution Soccer 5 (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1375" name="Pro Evolution Soccer 5 (Italy)"/>
+	<game FlagNo="PS2EU#1376" name="Pro Evolution Soccer 6 (Europe) (It,Pl)"/>
+	<game FlagNo="PS2EU#1377" name="Pro Evolution Soccer 6 (Europe)"/>
+	<game FlagNo="PS2EU#1378" name="Pro Evolution Soccer 6 (France)"/>
+	<game FlagNo="PS2EU#1379" name="Pro Evolution Soccer 6 (Germany)"/>
+	<game FlagNo="PS2EU#1380" name="Pro Evolution Soccer 6 (Spain)"/>
+	<game FlagNo="PS2EU#1381" name="Pro Evolution Soccer Management (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1382" name="Project - Snowblind (Europe, Australia)"/>
+	<game FlagNo="PS2EU#1383" name="Project Eden (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1384" name="Project Minerva Professional (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1385" name="Project Zero (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1386" name="Project Zero 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1387" name="Project Zero II - Crimson Butterfly (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1388" name="ProStroke Golf (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1389" name="Pryzm - Chapter One - The Dark Unicorn (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1390" name="Psi-Ops - The Mindgate Conspiracy (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1391" name="Psychonauts (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1392" name="Psyvariar - Complete Edition (Europe) (En,Ja,Fr,De)"/>
+	<game FlagNo="PS2EU#1393" name="Punisher, The (Europe) (En,Fr)"/>
+	<game FlagNo="PS2EU#1394" name="Quake III - Revolution (Europe) (En,Fr,It)"/>
+	<game FlagNo="PS2EU#1395" name="R - Racing (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1396" name="R-Type Final (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1397" name="Raging Blades (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1398" name="Rampage - Total Destruction (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1399" name="Ratchet &amp;amp; Clank (Europe) (En,Fr,De,Es,It) (v1.00)"/>
+	<game FlagNo="PS2EU#1400" name="Ratchet &amp;amp; Clank - Size Matters (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Hr)"/>
+	<game FlagNo="PS2EU#1401" name="Ratchet &amp;amp; Clank 2 (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1402" name="Ratchet &amp;amp; Clank 3 (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1403" name="Ratchet - Gladiator (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1404" name="Rayman 3 - Hoodlum Havoc (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1405" name="Rayman M (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1406" name="Rayman Revolution (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1407" name="RC Revenge Pro (Europe)"/>
+	<game FlagNo="PS2EU#1408" name="RC Toy Machines (Europe)"/>
+	<game FlagNo="PS2EU#1409" name="Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1410" name="Real World Golf 2007 (Europe) (En,Fr,It)"/>
+	<game FlagNo="PS2EU#1411" name="Realm of the Dead (Europe)"/>
+	<game FlagNo="PS2EU#1412" name="Rebel Raiders - Operation Nighthawk (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1413" name="Red Dead Revolver (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1414" name="Red Faction (Europe, Australia)"/>
+	<game FlagNo="PS2EU#1415" name="Red Faction II (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1416" name="Red Ninja - End of Honor (Europe) (SLES-53025)"/>
+	<game FlagNo="PS2EU#1417" name="Red Star, The (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1418" name="Reign of Fire (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1419" name="Reservoir Dogs (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1420" name="Resident Evil - Code - Veronica X (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1421" name="Resident Evil - Dead Aim (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1422" name="Resident Evil - Outbreak (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1423" name="Resident Evil - Outbreak - File #2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1424" name="Resident Evil - Survivor 2 - Code - Veronica (Europe)"/>
+	<game FlagNo="PS2EU#1425" name="Resident Evil 4 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1426" name="Retro Classics - 8 Arcade Classics from Yesteryears (Europe)"/>
+	<game FlagNo="PS2EU#1427" name="Return to Castle Wolfenstein - Operation Resurrection (Europe)"/>
+	<game FlagNo="PS2EU#1428" name="Rez (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1429" name="Richard Burns Rally (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1430" name="Ridge Racer V (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1431" name="Riding Spirits (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1432" name="Ring of Red (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1433" name="Rise to Honour (Europe) (En,Fr,De,Es,It,Zh)"/>
+	<game FlagNo="PS2EU#1434" name="Risk - Global Domination (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1435" name="Road Rage 3 (Europe)"/>
+	<game FlagNo="PS2EU#1436" name="Road Trip Adventure (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1437" name="RoadKill (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1438" name="RoboCop (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1439" name="Robot Warlords (Europe)"/>
+	<game FlagNo="PS2EU#1440" name="Robotech - Battlecry (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1441" name="Robotech - Invasion (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1442" name="Robots (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1443" name="Rock Band - Song Pack 1 (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1444" name="Rock N Roll Adventures (Europe)"/>
+	<game FlagNo="PS2EU#1445" name="Rocky (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1446" name="Rocky Legends (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1447" name="Rogue Ops (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1448" name="Rogue Trooper (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1449" name="Roland Garros 2005 - Powered by Smash Court Tennis (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1450" name="Romance of the Three Kingdoms VIII (Europe)"/>
+	<game FlagNo="PS2EU#1451" name="RPM Tuning (Europe)"/>
+	<game FlagNo="PS2EU#1452" name="RSII - Riding Spirits (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1453" name="RTX - Red Rock (Europe)"/>
+	<game FlagNo="PS2EU#1454" name="Ruff Trigger - The Vanocore Conspiracy (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1455" name="Rumble Roses (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1456" name="Run Like Hell (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1457" name="Runabout 3 - Neo Age (Europe)"/>
+	<game FlagNo="PS2EU#1458" name="Rune - Viking Warlord (Europe)"/>
+	<game FlagNo="PS2EU#1459" name="Rygar - The Legendary Adventure (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1460" name="S.L.A.I. - Steel Lancer Arena International (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1461" name="Saint Seiya - The Hades (Europe) (En,Ja,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1462" name="Saint Seiya - The Sanctuary (Europe) (En,Ja,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1463" name="Samurai Shodown Anthology (Europe)"/>
+	<game FlagNo="PS2EU#1464" name="Samurai Shodown V (Europe)"/>
+	<game FlagNo="PS2EU#1465" name="Samurai Warriors (Europe)"/>
+	<game FlagNo="PS2EU#1466" name="Samurai Warriors 2 (Europe)"/>
+	<game FlagNo="PS2EU#1467" name="Samurai Warriors 2 - Empires (Europe)"/>
+	<game FlagNo="PS2EU#1468" name="Samurai Western (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1469" name="Scaler (Europe) (En,Fr)"/>
+	<game FlagNo="PS2EU#1470" name="Scarface (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1471" name="Scooby-Doo&amp;nbsp;&amp;nbsp;and the Spooky Swamp (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1472" name="Scooby-Doo&amp;nbsp;&amp;nbsp;First Frights (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1473" name="Scooby-Doo&amp;nbsp;&amp;nbsp;Mystery Mayhem (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1474" name="Scooby-Doo&amp;nbsp;&amp;nbsp;Night of 100 Frights (Europe)"/>
+	<game FlagNo="PS2EU#1475" name="Scooby-Doo&amp;nbsp;&amp;nbsp;Unmasked (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1476" name="Scorpion King, The - Rise of the Akkadian (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1477" name="SeaWorld Adventure Parks - Shamu s Deep Sea Adventures (Europe)"/>
+	<game FlagNo="PS2EU#1478" name="Second Sight (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1479" name="Secret Saturdays, The - Beasts of the 5th Sun (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1480" name="Secret Service (Europe)"/>
+	<game FlagNo="PS2EU#1481" name="Seek and Destroy (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1482" name="Sega Classics Collection (Europe)"/>
+	<game FlagNo="PS2EU#1483" name="Sega Mega Drive Collection (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1484" name="Sega Soccer Slam (Europe)"/>
+	<game FlagNo="PS2EU#1485" name="Sega Superstars Tennis (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1486" name="Sensible Soccer 2006 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1487" name="Serious Sam - Next Encounter (Europe, Australia) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1488" name="Seven Samurai 20XX (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1489" name="Shadow Hearts (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1490" name="Shadow Hearts - From the New World (Europe, Australia)"/>
+	<game FlagNo="PS2EU#1491" name="Shadow Hearts II (Europe, Australia) (En,Fr,De) (Disc 1)"/>
+	<game FlagNo="PS2EU#1492" name="Shadow Hearts II (Europe, Australia) (En,Fr,De) (Disc 2)"/>
+	<game FlagNo="PS2EU#1493" name="Shadow Man - 2econd Coming (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1494" name="Shadow of Rome (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1495" name="Shadow of the Colossus (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1496" name="Shadow the Hedgehog (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1497" name="Shaun White Snowboarding (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1498" name="ShellShock - Nam&amp;nbsp;&amp;nbsp;67 (Europe)"/>
+	<game FlagNo="PS2EU#1499" name="Shifters (Europe)"/>
+	<game FlagNo="PS2EU#1500" name="Shin Megami Tensei - Digital Devil Saga (Europe)"/>
+	<game FlagNo="PS2EU#1501" name="Shin Megami Tensei - Digital Devil Saga 2 (Europe)"/>
+	<game FlagNo="PS2EU#1502" name="Shin Megami Tensei - Lucifer s Call (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1503" name="Shinobi (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1504" name="Shonen Jump's One Piece - Grand Adventure (Europe)"/>
+	<game FlagNo="PS2EU#1505" name="Shox - Rally Reinvented (Europe) (En,Fr,De,Es,It,Sv,Fi)"/>
+	<game FlagNo="PS2EU#1506" name="Shrek 2 (Europe)"/>
+	<game FlagNo="PS2EU#1507" name="Silent Hill - Shattered Memories (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1508" name="Silent Hill 2 - Director's Cut (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1509" name="Silent Hill 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1510" name="Silent Hill 4 - The Room (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1511" name="Silent Hill Origins (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1512" name="Silent Scope (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1513" name="Silent Scope 2 - Fatal Judgement (Europe) (En,Ja,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1514" name="Silent Scope 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1515" name="Simpsons Game, The (Europe) (En,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1516" name="Simpsons, The - Hit &amp;amp; Run (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1517" name="Simpsons, The - Road Rage (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1518" name="Simpsons, The - Skateboarding (Europe)"/>
+	<game FlagNo="PS2EU#1519" name="Sims 2, The (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1520" name="Sims 2, The - Castaway (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,El,Pl)"/>
+	<game FlagNo="PS2EU#1521" name="Sims 2, The - Pets (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl)"/>
+	<game FlagNo="PS2EU#1522" name="Sims, The (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"/>
+	<game FlagNo="PS2EU#1523" name="Sims, The - Bustin&amp;nbsp;&amp;nbsp;Out (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1524" name="Sitting Ducks (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1525" name="Skate Attack (Europe)"/>
+	<game FlagNo="PS2EU#1526" name="Ski Racing 2005 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1527" name="Sky Odyssey (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1528" name="Sled Storm (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1529" name="Sly 2 - Band of Thieves (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1530" name="Sly 3 - Honour Among Thieves (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1531" name="Sly Raccoon (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1532" name="Smarties - Meltdown (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1533" name="Smash Cars (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1534" name="Smash Court Tennis - Pro Tournament (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1535" name="Smash Court Tennis - Pro Tournament 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1536" name="Smuggler's Run (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1537" name="Smuggler's Run 2 - Hostile Territory (Europe) (En,Fr,De,It)"/>
+	<game FlagNo="PS2EU#1538" name="Sniper 2, The (Europe)"/>
+	<game FlagNo="PS2EU#1539" name="SNK Arcade Classics Vol. 1 (Europe)"/>
+	<game FlagNo="PS2EU#1540" name="SNK vs. Capcom - SVC Chaos (Europe)"/>
+	<game FlagNo="PS2EU#1541" name="SnoCross 2 featuring Blair Morgan (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1542" name="Snow Queen Quest, The (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1543" name="Snow White &amp;amp; the 7 Clever Boys (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1544" name="Snowboard Racer 2 (Europe)"/>
+	<game FlagNo="PS2EU#1545" name="Soccer Life&amp;nbsp;&amp;nbsp;(Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1546" name="SOCOM - U.S. Navy SEALs (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1547" name="SOCOM - U.S. Navy SEALs - Combined Assault (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1548" name="SOCOM 3 - U.S. Navy SEALs (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1549" name="SOCOM II - U.S. Navy SEALs (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1550" name="Soldier of Fortune - Gold Edition (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1551" name="Sonic Gems Collection (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1552" name="Sonic Heroes (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1553" name="Sonic Mega Collection Plus (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1554" name="Sonic Riders (Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1555" name="Sonic Riders - Zero Gravity (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1556" name="Sonic Unleashed (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1557" name="Sopranos, The - Road to Respect (Europe, Australia) (En,Es)"/>
+	<game FlagNo="PS2EU#1558" name="SOS - The Final Escape (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1559" name="Soulcalibur II (Europe) (En,Ja,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1560" name="Soulcalibur III (Europe, Australia) (En,Ja,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1561" name="Space Channel 5 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1562" name="Space Channel 5 - Part 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1563" name="Space Chimps (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1564" name="Space Invaders - Invasion Day (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1565" name="Space Invaders Anniversary (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1566" name="Spartan - Total Warrior (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1567" name="Spawn - Armageddon (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1568" name="Spectral vs. Generation (Europe)"/>
+	<game FlagNo="PS2EU#1569" name="Speed Challenge - Jacques Villeneuve's Racing Vision (Europe) (En,Fr)"/>
+	<game FlagNo="PS2EU#1570" name="Speed Kings (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1571" name="Speed Machines 3 (Europe)"/>
+	<game FlagNo="PS2EU#1572" name="Speed Racer (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1573" name="Sphinx and the Cursed Mummy (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1574" name="Spider-Man (Europe)"/>
+	<game FlagNo="PS2EU#1575" name="Spider-Man - Friend or Foe (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1576" name="Spider-Man 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1577" name="Spider-Man 2 (Europe)"/>
+	<game FlagNo="PS2EU#1578" name="Spider-Man 3 (Europe)"/>
+	<game FlagNo="PS2EU#1579" name="Spiderwick Chronicles, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1580" name="SpinDrive Ping Pong (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1581" name="Splashdown (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1582" name="Splashdown 2 - Rides Gone Wild (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1583" name="Splatter Master (Europe)"/>
+	<game FlagNo="PS2EU#1584" name="Springdale (Europe) (En,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1585" name="Sprint Car Challenge (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1586" name="Sprint Cars - Road to Knoxville (Europe)"/>
+	<game FlagNo="PS2EU#1587" name="Spy vs. Spy (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1588" name="SpyHunter (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1589" name="SpyHunter 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1590" name="Spyro - A Hero's Tail (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1591" name="Spyro - Enter the Dragonfly (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1592" name="SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1593" name="SSX (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1594" name="SSX 3 (Europe) (En,Fr,De,Es) (v2.00)"/>
+	<game FlagNo="PS2EU#1595" name="SSX On Tour (Europe) (En,Fr,De,Es,Nl,Sv,No,Fi)"/>
+	<game FlagNo="PS2EU#1596" name="SSX Tricky (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1597" name="Star Ocean - Till the End of Time (Europe) (Disc 1)"/>
+	<game FlagNo="PS2EU#1598" name="Star Ocean - Till the End of Time (Europe) (Disc 2)"/>
+	<game FlagNo="PS2EU#1599" name="Star Trek - Shattered Universe (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1600" name="Star Trek - Voyager - Elite Force (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1601" name="Star Trek Encounters (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1602" name="Star Wars - Battlefront (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#1603" name="Star Wars - Battlefront II (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#1604" name="Star Wars - Episode III - Revenge of the Sith (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1605" name="Star Wars - Jedi Starfighter (Europe)"/>
+	<game FlagNo="PS2EU#1606" name="Star Wars - Racer Revenge (Europe)"/>
+	<game FlagNo="PS2EU#1607" name="Star Wars - Starfighter (Europe)"/>
+	<game FlagNo="PS2EU#1608" name="Star Wars - Super Bombad Racing (Germany)"/>
+	<game FlagNo="PS2EU#1609" name="Star Wars - The Clone Wars (France)"/>
+	<game FlagNo="PS2EU#1610" name="Star Wars - The Force Unleashed (Europe) (Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1611" name="Starsky &amp;amp; Hutch (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1612" name="State of Emergency (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1613" name="State of Emergency 2 (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#1614" name="State of Emergency 2 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1615" name="Steambot Chronicles (Europe)"/>
+	<game FlagNo="PS2EU#1616" name="Stella Deus - The Gate of Eternity (Europe)"/>
+	<game FlagNo="PS2EU#1617" name="Stock Car Crash (Europe, Australia)"/>
+	<game FlagNo="PS2EU#1618" name="Stock Car Speedway (Europe)"/>
+	<game FlagNo="PS2EU#1619" name="Stolen (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1620" name="Strawberry Shortcake - The Sweet Dreams Game (Australia) (En,Fr,De,Es,No,Da)"/>
+	<game FlagNo="PS2EU#1621" name="Street Boyz (Europe)"/>
+	<game FlagNo="PS2EU#1622" name="Street Dance (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1623" name="Street Fighter EX3 (Europe)"/>
+	<game FlagNo="PS2EU#1624" name="Street Golfer (Europe)"/>
+	<game FlagNo="PS2EU#1625" name="Street Hoops (Europe)"/>
+	<game FlagNo="PS2EU#1626" name="Street Warrior (Europe)"/>
+	<game FlagNo="PS2EU#1627" name="Strike Force Bowling (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1628" name="Stuart Little 3 - Big Photo Adventure (Europe) (En,Fr,De,Es,It,Nl,Pt,Fi,Pl)"/>
+	<game FlagNo="PS2EU#1629" name="Stunt GP (Europe) (En,Fr,De,Es,It,Nl,Sv)"/>
+	<game FlagNo="PS2EU#1630" name="Stuntman (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1631" name="Stuntman - Ignition (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1632" name="Sub Rebellion (Europe)"/>
+	<game FlagNo="PS2EU#1633" name="Suffering, The (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#1634" name="Suffering, The - Ties That Bind (Europe) (En,De)"/>
+	<game FlagNo="PS2EU#1635" name="Suffering, The - Ties That Bind (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#1636" name="Suikoden IV (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1637" name="Suikoden Tactics (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1638" name="Suikoden V (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1639" name="Summer Heat Beach Volleyball (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1640" name="Summoner (Europe)"/>
+	<game FlagNo="PS2EU#1641" name="Summoner 2 (Europe)"/>
+	<game FlagNo="PS2EU#1642" name="Sunny Garcia Surfing (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1643" name="Super Bust-A-Move (Europe)"/>
+	<game FlagNo="PS2EU#1644" name="Super Bust-A-Move 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1645" name="Super Monkey Ball Adventure (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1646" name="Super Monkey Ball Deluxe (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1647" name="Super Trucks (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1648" name="Super-Bikes Riding Challenge (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1649" name="Superman - Shadow of Apokolips (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1650" name="Superman Returns (Europe)"/>
+	<game FlagNo="PS2EU#1651" name="Surf's Up (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1652" name="Sven-Goeran Eriksson's World Challenge (Europe)"/>
+	<game FlagNo="PS2EU#1653" name="SWAT - Global Strike Team (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1654" name="Swing Away Golf (Europe)"/>
+	<game FlagNo="PS2EU#1655" name="Sword of Etheria, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1656" name="Sword of the Samurai (Europe)"/>
+	<game FlagNo="PS2EU#1657" name="Swords of Destiny (Europe) (En,Fr,Es)"/>
+	<game FlagNo="PS2EU#1658" name="Syberia (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1659" name="Syberia II (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1660" name="Syphon Filter - Dark Mirror (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1661" name="Syphon Filter - The Omega Strain (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1662" name="Taito Legends (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1663" name="Taito Legends 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1664" name="Taxi Rider (Europe)"/>
+	<game FlagNo="PS2EU#1665" name="Taz - Wanted (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1666" name="TD Overdrive (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1667" name="Teenage Mutant Ninja Turtles - Smash-Up (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1668" name="Teenage Mutant Ninja Turtles 2 - Battle Nexus (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1669" name="Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1670" name="Tekken 4 (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1671" name="Tekken 5 (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1672" name="Tekken Tag Tournament (Europe) (En,Fr,De,Es,It) (v2.00)"/>
+	<game FlagNo="PS2EU#1673" name="Tenchu - Fatal Shadows (Europe)"/>
+	<game FlagNo="PS2EU#1674" name="Tenchu - Wrath of Heaven (Europe) (En,Ja)"/>
+	<game FlagNo="PS2EU#1675" name="Tengai (Europe)"/>
+	<game FlagNo="PS2EU#1676" name="Terminator 3 - The Redemption (Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1677" name="Terminator, The - Dawn of Fate (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1678" name="Test Drive Unlimited (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1679" name="Tetris Worlds (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1680" name="Theme Park World (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1681" name="They Came from the Skies (Europe)"/>
+	<game FlagNo="PS2EU#1682" name="Thing, The (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1683" name="Thomas &amp;amp; Friends - A Day at the Races (Europe) (En,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1684" name="Thunderbirds (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1685" name="Thunderhawk - Operation Phoenix (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1686" name="Tiger Woods PGA Tour 2001 (Europe)"/>
+	<game FlagNo="PS2EU#1687" name="Tiger Woods PGA Tour 2002 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1688" name="Tim Burton's The Nightmare Before Christmas - Oogie's Revenge (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1689" name="Time Crisis 3 (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1690" name="Time Crisis II (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1691" name="TimeSplitters (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1692" name="TimeSplitters - Future Perfect (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1693" name="TimeSplitters 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1694" name="TOCA Race Driver (Europe) (En,Fr,Es) (v2.00)"/>
+	<game FlagNo="PS2EU#1695" name="TOCA Race Driver 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1696" name="TOCA Race Driver 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1697" name="Tokobot Plus - Mysteries of the Karakuri (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1698" name="Tokyo Road Race (Europe)"/>
+	<game FlagNo="PS2EU#1699" name="Tokyo Xtreme Racer (Europe)"/>
+	<game FlagNo="PS2EU#1700" name="Tom and Jerry in War of the Whiskers (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1701" name="Tom Clancy's Ghost Recon (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1702" name="Tom Clancy's Ghost Recon - Advanced Warfighter (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1703" name="Tom Clancy's Ghost Recon - Jungle Storm (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1704" name="Tom Clancy's Ghost Recon 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1705" name="Tom Clancy's Rainbow Six - Lockdown (Europe) (En,De,Es)"/>
+	<game FlagNo="PS2EU#1706" name="Tom Clancy's Rainbow Six 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1707" name="Tom Clancy's Splinter Cell - Chaos Theory (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1708" name="Tom Clancy's Splinter Cell - Double Agent (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1709" name="Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1710" name="Tomb Raider - Underworld (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1711" name="Tony Hawk's American Wasteland (Europe) (Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1712" name="Tony Hawk's Pro Skater 3 (Europe)"/>
+	<game FlagNo="PS2EU#1713" name="Tony Hawk's Pro Skater 4 (Europe)"/>
+	<game FlagNo="PS2EU#1714" name="Tony Hawk's Proving Ground (Europe) (Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1715" name="Tony Hawk's Underground (Europe)"/>
+	<game FlagNo="PS2EU#1716" name="Tony Hawk's Underground 2 (Europe) (Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1717" name="Top Spin (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1718" name="Top Trumps Adventures Vol. 1 - Horror &amp;amp; Predators (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1719" name="Top Trumps Adventures Vol. 2 - Dogs &amp;amp; Dinosaurs (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1720" name="Torino 2006 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1721" name="Torrente 3 - The Protector (Europe)"/>
+	<game FlagNo="PS2EU#1722" name="Total Club Manager 2004 (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1723" name="Total Club Manager 2005 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1724" name="Total Overdose (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1725" name="Tourist Trophy - The Real Riding Simulator (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1726" name="Toy Golf Extreme (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1727" name="Toys Room, The (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1728" name="Transformers (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1729" name="Transformers - Revenge of the Fallen (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1730" name="Transformers - The Game (Europe)"/>
+	<game FlagNo="PS2EU#1731" name="TransWorld Surf (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1732" name="Trapt (Europe)"/>
+	<game FlagNo="PS2EU#1733" name="Trivial Pursuit (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1734" name="Trivial Pursuit - Unhinged (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1735" name="Truck Racing 2 (Europe)"/>
+	<game FlagNo="PS2EU#1736" name="True Crime - New York City (Europe)"/>
+	<game FlagNo="PS2EU#1737" name="True Crime - Streets of LA (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1738" name="TT Superbikes (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1739" name="TT Superbikes - Legends (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1740" name="TT Superbikes - Real Road Racing Championship (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1741" name="Turbo Trucks (Europe)"/>
+	<game FlagNo="PS2EU#1742" name="Turok - Evolution (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1743" name="Twenty 2 Party (Europe)"/>
+	<game FlagNo="PS2EU#1744" name="Twin Caliber (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1745" name="Twisted Metal - Black (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1746" name="TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1747" name="TY the Tasmanian Tiger - Night of the Quinkan (Australia)"/>
+	<game FlagNo="PS2EU#1748" name="TY the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De,Es,It,Sv,Da)"/>
+	<game FlagNo="PS2EU#1749" name="U-Move Super Sports (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1750" name="UEFA Challenge (Europe) (En,Fr,De,Es,It,Nl,Pt)"/>
+	<game FlagNo="PS2EU#1751" name="UEFA Champions League - Season 2001-2002 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1752" name="UEFA Champions League 2004-2005 (Europe)"/>
+	<game FlagNo="PS2EU#1753" name="UEFA Champions League 2006-2007 (Europe)"/>
+	<game FlagNo="PS2EU#1754" name="UEFA Euro 2004 - Portugal (Europe) (En,It,Nl)"/>
+	<game FlagNo="PS2EU#1755" name="UEFA Euro 2008 - Austria-Switzerland (Europe) (En,Nl,Sv,Pl,Ru)"/>
+	<game FlagNo="PS2EU#1756" name="UFC - Sudden Impact (Europe)"/>
+	<game FlagNo="PS2EU#1757" name="UFC - Throwdown (Europe)"/>
+	<game FlagNo="PS2EU#1758" name="Ultimate Casino (Europe)"/>
+	<game FlagNo="PS2EU#1759" name="Ultimate Film Quiz, The (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1760" name="Ultimate Mind Games (Europe)"/>
+	<game FlagNo="PS2EU#1761" name="Ultimate Music Quiz, The (Europe) (En,Fr,De,Es,It,Nl) (v2.00)"/>
+	<game FlagNo="PS2EU#1762" name="Ultimate Pro Pinball (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1763" name="Ultimate Spider-Man (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1764" name="Ultimate Sports Quiz, The (Europe)"/>
+	<game FlagNo="PS2EU#1765" name="Ultimate World Cup Quiz, The (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1766" name="Under the Skin (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1767" name="Underworld - The Eternal War (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1768" name="Underworld - The Eternal War (Europe)"/>
+	<game FlagNo="PS2EU#1769" name="Unlimited Saga (Europe)"/>
+	<game FlagNo="PS2EU#1770" name="Unreal Tournament (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1771" name="Urban Chaos - Riot Response (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1772" name="Urban Extreme (Europe)"/>
+	<game FlagNo="PS2EU#1773" name="Urban Freestyle Soccer (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1774" name="Urban Reign (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1775" name="Urbz, The - Sims in the City (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi,Pl)"/>
+	<game FlagNo="PS2EU#1776" name="USA Racer (Europe) (En,Fr,De,Nl)"/>
+	<game FlagNo="PS2EU#1777" name="V-Rally 3 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1778" name="V.I.P. (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1779" name="Valkyrie Profile 2 - Silmeria (Europe, Australia)"/>
+	<game FlagNo="PS2EU#1780" name="Vampire Night (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1781" name="Van Helsing (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1782" name="Vegas Casino II (Europe)"/>
+	<game FlagNo="PS2EU#1783" name="Vexx (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1784" name="Victorious Boxers - Ippo's Road to Glory (Europe)"/>
+	<game FlagNo="PS2EU#1785" name="Victorious Boxers 2 - Fighting Spirit (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1786" name="Video Poker &amp;amp; Blackjack (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1787" name="Vietcong - Purple Haze (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1788" name="Viewtiful Joe (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1789" name="Viewtiful Joe 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1790" name="Virtua Fighter 4 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1791" name="Virtua Fighter 4 - Evolution (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1792" name="Virtua Tennis 2 (Europe) (En,Fr,De,Es)"/>
+	<game FlagNo="PS2EU#1793" name="Wacky Races - Mad Motors (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1794" name="Wacky Races Starring Dastardly &amp;amp; Muttley (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1795" name="Wakeboarding Unleashed featuring Shaun Murray (Europe)"/>
+	<game FlagNo="PS2EU#1796" name="Wallace &amp;amp; Gromit - The Curse of the Were-Rabbit (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1797" name="Wallace &amp;amp; Gromit in Project Zoo (Europe)"/>
+	<game FlagNo="PS2EU#1798" name="War Chess (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1799" name="War of the Monsters (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1800" name="Warhammer 40,000 - Fire Warrior (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1801" name="Warriors Orochi (Europe)"/>
+	<game FlagNo="PS2EU#1802" name="Warriors Orochi 2 (Germany)"/>
+	<game FlagNo="PS2EU#1803" name="Warriors, The (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1804" name="Water Horse, The - Legend of the Deep (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)"/>
+	<game FlagNo="PS2EU#1805" name="Way of the Samurai (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1806" name="Way of the Samurai 2 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1807" name="We Love Katamari (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1808" name="Weakest Link, The (Europe)"/>
+	<game FlagNo="PS2EU#1809" name="Wer wird Millionaer - 2. Edition (Germany)"/>
+	<game FlagNo="PS2EU#1810" name="Wer wird Millionaer - Party Edition (Germany)"/>
+	<game FlagNo="PS2EU#1811" name="Whiplash (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1812" name="Whirl Tour (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1813" name="Whiteout (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1814" name="Wild Water Adrenaline featuring Salomon (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1815" name="Wild Wild Racing (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1816" name="Winter X Games Snowboarding (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1817" name="Winter X Games Snowboarding 2 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1818" name="WipEout Fusion (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1819" name="WipEout Pulse (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1820" name="Without Warning (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1821" name="Wizardry - Tale of the Forsaken Land (Europe)"/>
+	<game FlagNo="PS2EU#1822" name="WM Nationalspieler (Germany)"/>
+	<game FlagNo="PS2EU#1823" name="Woody Woodpecker (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1824" name="World Championship Poker (Europe)"/>
+	<game FlagNo="PS2EU#1825" name="World Championship Snooker 2002 (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1826" name="World Destruction League - Thunder Tanks (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1827" name="World Destruction League - WarJetz (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1828" name="World Heroes Anthology (Europe)"/>
+	<game FlagNo="PS2EU#1829" name="World of Outlaws - Sprint Cars (Europe)"/>
+	<game FlagNo="PS2EU#1830" name="World Poker Tour (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1831" name="World Racing (Europe) (En,Es,It)"/>
+	<game FlagNo="PS2EU#1832" name="World Racing 2 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1833" name="World Series of Poker (Europe)"/>
+	<game FlagNo="PS2EU#1834" name="World Series of Poker - Tournament of Champions - 2007 Edition (Europe)"/>
+	<game FlagNo="PS2EU#1835" name="World Series of Poker 2008 - Battle for the Bracelets (Europe)"/>
+	<game FlagNo="PS2EU#1836" name="World Super Police (Europe)"/>
+	<game FlagNo="PS2EU#1837" name="World War Zero - IronStorm (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1838" name="World Wrestling Championship (Europe)"/>
+	<game FlagNo="PS2EU#1839" name="Worms 3D (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1840" name="Worms 4 - Mayhem (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1841" name="Worms Blast (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1842" name="Worms Forts - Under Siege (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1843" name="Wrath Unleashed (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1844" name="WRC - Rally Evolved (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00)"/>
+	<game FlagNo="PS2EU#1845" name="WRC - World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,Fi)"/>
+	<game FlagNo="PS2EU#1846" name="WRC 3 - The Official Game of the FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi)"/>
+	<game FlagNo="PS2EU#1847" name="WRC 4 - The Official Game of the FIA World Rally Championship (Europe) (En,Fr,De,Es,It,Pt,No,Fi) (v2.00)"/>
+	<game FlagNo="PS2EU#1848" name="WRC II Extreme (Europe) (En,Fr,De,Es,It,Pt,Fi)"/>
+	<game FlagNo="PS2EU#1849" name="Wreckless - The Yakuza Missions (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1850" name="WWE All-Stars (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1851" name="WWE Crush Hour (Europe)"/>
+	<game FlagNo="PS2EU#1852" name="WWE SmackDown&amp;nbsp;&amp;nbsp;Here Comes the Pain (Europe)"/>
+	<game FlagNo="PS2EU#1853" name="WWE SmackDown&amp;nbsp;&amp;nbsp;Shut Your Mouth (Europe)"/>
+	<game FlagNo="PS2EU#1854" name="WWE SmackDown&amp;nbsp;&amp;nbsp;vs. Raw (Europe)"/>
+	<game FlagNo="PS2EU#1855" name="WWE SmackDown&amp;nbsp;&amp;nbsp;vs. Raw 2006 (Europe)"/>
+	<game FlagNo="PS2EU#1856" name="WWE SmackDown vs. Raw 2007 (Europe)"/>
+	<game FlagNo="PS2EU#1857" name="WWE SmackDown vs. Raw 2008 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1858" name="WWE SmackDown vs. Raw 2009 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1859" name="WWE SmackDown vs. Raw 2010 (Europe, Australia) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1860" name="WWE SmackDown vs. Raw 2011 (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1861" name="WWF SmackDown! Just Bring It (Europe, Australia)"/>
+	<game FlagNo="PS2EU#1862" name="WWI - Aces of the Sky (Europe)"/>
+	<game FlagNo="PS2EU#1863" name="WWII - Battle Over Europe (Europe)"/>
+	<game FlagNo="PS2EU#1864" name="WWII - Battle Over the Pacific (Europe)"/>
+	<game FlagNo="PS2EU#1865" name="WWII - Soldier (Europe)"/>
+	<game FlagNo="PS2EU#1866" name="WWII - Tank Battles (Europe)"/>
+	<game FlagNo="PS2EU#1867" name="X Squad (Europe)"/>
+	<game FlagNo="PS2EU#1868" name="X-Men - Next Dimension (Europe)"/>
+	<game FlagNo="PS2EU#1869" name="X-Men - The Official Game (Europe) (En,Fr,Es,It)"/>
+	<game FlagNo="PS2EU#1870" name="X-Men 2 - Wolverine s Revenge (Europe)"/>
+	<game FlagNo="PS2EU#1871" name="X-Men Legends (Europe)"/>
+	<game FlagNo="PS2EU#1872" name="X-Men Legends II - Rise of Apocalypse (Europe) (En,Fr,De)"/>
+	<game FlagNo="PS2EU#1873" name="X-Men Origins - Wolverine (Europe) (De,Es,It)"/>
+	<game FlagNo="PS2EU#1874" name="X-treme Express - World Grand Prix (Europe)"/>
+	<game FlagNo="PS2EU#1875" name="X-Treme Quads (Europe)"/>
+	<game FlagNo="PS2EU#1876" name="Xenosaga Episode II - Jenseits von Gut und Boese (Europe) (En,Fr,De) (Disc 1)"/>
+	<game FlagNo="PS2EU#1877" name="Xenosaga Episode II - Jenseits von Gut und Boese (Europe) (En,Fr,De) (Disc 2)"/>
+	<game FlagNo="PS2EU#1878" name="XG3 - Extreme-G Racing (Europe) (En,Fr,De,Es) (v2.00)"/>
+	<game FlagNo="PS2EU#1879" name="XGRA - Extreme G Racing Association (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1880" name="Xiaolin Showdown (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1881" name="XII Stag (Europe)"/>
+	<game FlagNo="PS2EU#1882" name="XIII (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1883" name="XS Junior League Soccer (Europe)"/>
+	<game FlagNo="PS2EU#1884" name="Xtreme Speed (Europe)"/>
+	<game FlagNo="PS2EU#1885" name="Yakuza (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1886" name="Yakuza Fury (Europe)"/>
+	<game FlagNo="PS2EU#1887" name="Yetisports Arctic Adventures (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1888" name="Ys - The Ark of Napishtim (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1889" name="Yu Yu Hakusho - Dark Tournament (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1890" name="Yu-Gi-Oh&amp;nbsp;&amp;nbsp;Capsule Monster Coliseum (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1891" name="Yu-Gi-Oh&amp;nbsp;&amp;nbsp;GX - Tag Force Evolution (Europe) (En,Fr,De,Es,It)"/>
+	<game FlagNo="PS2EU#1892" name="Yu-Gi-Oh&amp;nbsp;&amp;nbsp;The Duelists of the Roses (Europe)"/>
+	<game FlagNo="PS2EU#1893" name="Zapper (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1894" name="Zathura (Europe) (En,Fr,De,Es,It,Nl)"/>
+	<game FlagNo="PS2EU#1895" name="Zombie Attack (Europe)"/>
+	<game FlagNo="PS2EU#1896" name="Zombie Hunters 2 (Europe)"/>
+	<game FlagNo="PS2EU#1897" name="Zombie Virus (Europe)"/>
+	<game FlagNo="PS2EU#1898" name="Zombie Zone (Europe)"/>
+	<game FlagNo="PS2EU#1899" name="Zombie Zone - Other Side (Europe)"/>
+	<game FlagNo="PS2EU#1900" name="Zone of the Enders (Europe) (En,Fr,De,It)"/>
+	<game FlagNo="PS2EU#1901" name="Zone of the Enders - The 2nd Runner - Special Edition (Europe) (En,Fr,De,Es,It)"/>
+</datafile>

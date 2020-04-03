@@ -1,0 +1,76 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>PSV游戏安装教程</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="/js/loadxmldoc.js"></script>
+    <script src="/js/html.js"></script>
+</head>
+
+<body>
+<div class="container">
+    <script>
+        navigation()
+    </script>
+    <h2 class="text-center">PSV游戏安装教程</h2><br><br>
+    <p class="lead">这里主要介绍的是vpk格式和文件夹格式游戏安装方法,推荐使用usb上传后使用文件夹格式安装更快。<br><br>
+        <strong>一.小V必备的软件：</strong><br><br>
+        VitaShell（文件管理器，主要用于usb传输和vpk安装、文件管理等）<br>
+        项目地址：<a href="https://github.com/TheOfficialFloW/VitaShell/pulse">https://github.com/TheOfficialFloW/VitaShell/pulse</a><br><br>
+        MaiDumpTool （mai游戏解密提取工具，另外还有安装文件夹格式游戏和补丁、dlc等功能）<br>
+        项目地址：<a href="https://github.com/BeniYukiMai/MaiDumpTool/releases/">https://github.com/BeniYukiMai/MaiDumpTool/releases/</a><br><br>
+        百度网盘下载地址如下：<br>
+        链接：<a href="https://pan.baidu.com/s/1K8WfcduMYZYg8Vh4cWvXaw">https://pan.baidu.com/s/1K8WfcduMYZYg8Vh4cWvXaw</a><br>
+        提取码：<span style="color: green; ">vwcc</span><br><br>
+        <strong>二.vpk安装、打包方法：</strong><br><br>
+        其实vpk格式是一种zip的压缩包，所以可以使用压缩软件直接打开，安装方法也简单上传到小V后直接用vitashell选择安装就可以了。<br>
+        下面介绍下vpk游戏格式的文件结构，方便了解游戏是不是vpk格式的结构是不是错误导致无法安装等问题。<br>
+        这里简单的说下，具体就不在做详细说明了，有需要的可以自行百度。<br>
+        <img src="/img/psv1.jpg"><br><br>
+        电脑上用压缩软件打开就如上图是这个种结构，就代表是正确的，简单的判断就是根目录下没有红框里面的文件，所以下载来的文件夹格式只要结构正确就可以把所有文件打包zip格式的压缩包，完成后把后缀.zip改成vpk就可以了。
+        文件没有显示后缀的又不知道哪里改的也请自行百度。<br><br>
+        <strong>三.MaiDumpTool、文件夹格式游戏安装方法：</strong><br><br>
+        mai安装需要注意的是文件一定要传到<span style="color: red; "> ux0:/mai</span> 文件夹里，如果没有自行建立。<br>
+        这个需要你安装了上面mai软件，游戏传到小V后打开mai选择文件夹安装在选游戏就可以安装完成，vitashell现在也支持文件夹格式的安装但是我几乎没用过（有兴趣的朋友可以试试看），所以还是推荐使用mai安装。<br>
+        vpk格式的也可以转文件夹格式，是要把vpk的文件全部解压出来传到自定文件夹了用mai安装。但需要注意的是这个比vpk的结构多了一层文件夹。<br>
+        <img src="/img/psv2.jpg"><br><br>
+        主要多了一个以游戏id为名的文件夹，里面才是之前说的vpk里的文件结构，所以转文件夹格式时要自行建立以游戏id的文件夹，把游戏解压到里面。
+        上传时要传游戏id名的文件夹到<span style="color: red; "> ux0:/mai </span>。<br>
+        <br>mai安装游戏路径说明（游戏id为每个游戏游戏标号如：PCSD00085）：<br>
+        <span style="color: green; ">
+        游戏本体：ux0:/mai/游戏id<br><br>
+        游戏补丁：ux0:/mai/游戏id_patch<br><br>
+        DLC：ux0:/mai/游戏id_addc<br><br>
+        mai的游戏dlc需要更改游戏加载模式为5<br><br></span>
+        <strong>四.NoNpDrm游戏安装方法：</strong><br>
+        <span style="color: red; ">注意：NoNpDrm版本的游戏不能使用mai安装！</span><br><br>
+        把游戏所有文件传到内存卡（ux0）下，具体请查看存放位置说明，然后用VitaShell在ux0上按三角选Refresh LiveArea更新图标（第一项），刷新完成桌面就会有游戏的气泡，或者使用工具箱刷新游戏气泡。<br>
+        NoNpDrm游戏需要插件支持才能游戏，点击下载NoNpDrm v1.2插件，里面下载和安装方法。<br>
+        ps：NoNpDrm插件安装和刷新游戏都可以工具箱操作。<br>
+        <img src="/img/psvnnd1.jpg"><br><br>
+        <img src="/img/psvnnd2.jpg"><br><br>
+        NoNpDrm游戏区分很简单，因为是加密的所以在游戏里随便找个图片打开，如果图片无法正常显示就是NoNpDrm格式的游戏。<br>
+        打开vita工具箱，选择常用插件大全，安装NoNpDrm插件，如果安装过该插件的可以跳过这个步骤。<br>
+        用数据线把PSV连接到电脑上，接下来在vitashell或者vita工具箱主界面按start键启用USB连接。<br>
+        把NoNpDrm游戏拷贝到PSV储存卡{或卡托TF卡}的相应目录下：<br><br>
+        NoNpDrm游戏文件存放位置：<br><br>
+        <span style="color: green; ">
+        游戏本体传输到ux0:/app下，路径为ux0:/app/游戏编号<br><br>
+        DLC传输到ux0:/addcont下，路径为ux0:/addcont/游戏编号<br><br>
+        补丁传输到ux0:/patch下，路径为ux0:/patch/游戏编号<br><br></span>
+        如果下载的游戏文件包括（如app、addcont、patch其中一个或几个）这些文件夹的直接用数据线上传到ux0根目录就可以了。上传完成后用vitashell或使用工具箱刷新出游戏气泡，必须是安装了NoNpDrm插件后才能刷出。<br>
+        <img src="/img/psvnnd3.jpg"><br><br>
+        <img src="/img/psvnnd4.jpg"><br><br>
+    </p><br><br><br><br>
+    <script>
+        bottom()
+    </script>
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datafile>
+	<header>
+		<platform>PSV</platform>
+		<description>PSV中文游戏合集目录</description>
+		<version>2020-03-07</version>
+	</header>
+	<game FlagNo="PSVzh#1" name="36个午夜碎片(36 Fragments of Midnight)[PCSH10119][港版][中文][NONPDRM][3.68]"/>
+	<game FlagNo="PSVzh#2" name="AR桌面冰球[PCSD00047][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#3" name="AR粉碎[PCSD00044][港版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#4" name="DEEMO最终演奏[PCSG00685][港版][中文][v1.03][Mai233]"/>
+	<game FlagNo="PSVzh#5" name="Fate Extella Link[PCSH10121][港版][中文][v1.01][Mai][3.60]"/>
+	<game FlagNo="PSVzh#6" name="Fate Extella Link[PCSH10121][港版][中文][v1.01][NONPDRM][3.68]"/>
+	<game FlagNo="PSVzh#7" name="Fate Extella[PCSH00299][港版][中文][2DLC][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#8" name="Fate Extella[中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#9" name="FEZ[中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#10" name="FIFA15[PCSB00603][欧版][部分汉化测试版][Mai][kyda]"/>
+	<game FlagNo="PSVzh#11" name="Hue[PCSE00996][美版][中英文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#12" name="J群星 胜利对决VS+[PCSH00136][港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#13" name="New Game！挑战舞台[PCSH10101][港版][中文][NONPDRM][3.60]"/>
+	<game FlagNo="PSVzh#14" name="Nikoli数独V-12种经典猜谜[PCSH00006][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#15" name="SD高达G世纪 创世[PCSH00241][港版][中文][17DLC][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#16" name="SD高达G世纪 创世[PCSH00241][港版][中文][v1.05][DLC][Mai][3.60](加载方式选5)"/>
+	<game FlagNo="PSVzh#17" name="SUPERBEAT-XONiC[PCSH00167][港版][中文][v1.05][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#18" name="UPPERS欲望之拳[PCSH00279][港版][中文][v1.00][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#19" name="七罪绯红[PCSH10090][中文][Mai][3.60]"/>
+	<game FlagNo="PSVzh#20" name="万亿魔坏神[PCSH00273][港版][中文][v1.00][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#21" name="三国志13威力加强版[港版][中文][v1.02][全DLC含姜维剧本][NONPDRM]"/>
+	<game FlagNo="PSVzh#22" name="三国志13威力加强版[繁体中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#23" name="三国英杰传[繁体中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#24" name="东京幻想乡[PCSG00608][汉化][中文][v1.04][Mai233]"/>
+	<game FlagNo="PSVzh#25" name="东京迷城[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#26" name="临终重生试炼[港版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#27" name="乔伊小摩托[港版][中文][Vitamin]"/>
+	<game FlagNo="PSVzh#28" name="仙剑奇侠传 移植版(包含动画)[中文]"/>
+	<game FlagNo="PSVzh#29" name="仙境传说奥德赛[PCSH00020][港版][中文][v1.01][Mai233]"/>
+	<game FlagNo="PSVzh#30" name="仙境传送奥德赛ACE[PCSH00044][港版][中文][v1.31][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#31" name="以撒重生[PCSE00507][汉化][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#32" name="伊苏 起源[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#33" name="伊苏 起源[简体中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#34" name="伊苏8 达娜的安魂曲[PCSH00297][港版][中文][v1.02][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#35" name="伊苏8 达娜的安魂曲[亚版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#36" name="伊苏塞尔塞塔树海[PCSH00181][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#37" name="伏尔加维京[中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#38" name="传说之下[PCSG01112][汉化v1.0][含原版v1.08][依旧W如此][Mai]"/>
+	<game FlagNo="PSVzh#39" name="传说之下[PCSG01112][汉化v1.0][含原版v1.08][依旧W如此][NONPDRM]"/>
+	<game FlagNo="PSVzh#40" name="传颂之物 两个白皇[PCSG00838][汉化][中文][v1.04][Mai200]"/>
+	<game FlagNo="PSVzh#41" name="传颂之物 两个白皇[日版][汉化版v1.1][中文][DLC][NONPDRM]"/>
+	<game FlagNo="PSVzh#42" name="传颂之物 虚伪的假面[PCSG00617][日版][汉化v1.2][1.02][全DLC][NONPDRM][銀の契约者等]"/>
+	<game FlagNo="PSVzh#43" name="传颂之物 虚伪的假面[PCSG00617][汉化][中文][v1.02][Mai233]"/>
+	<game FlagNo="PSVzh#44" name="佣兵之王[PCSE00956][美版][汉化][NONPDRM][imjinjia]"/>
+	<game FlagNo="PSVzh#45" name="信长之野望 创造 威力加强版[PCSH00171][港版][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#46" name="信长之野望 创造 威力加强版[港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#47" name="信长之野望 创造 战国立志传[PCSH00291][港版][中文][v1.01][NONPDRM]"/>
+	<game FlagNo="PSVzh#48" name="信长之野望 创造[PCSH00087][港版][中文][v1.01][Mai233]"/>
+	<game FlagNo="PSVzh#49" name="信长之野望 战国立志传[PCSH00291][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#50" name="傲气雄鹰[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#51" name="像素地下城[PCSE01096][美版][中文][v1.01][NONPDRM]"/>
+	<game FlagNo="PSVzh#52" name="像素地下城[PCSH10140][港版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#53" name="光之子[PCSG00408][港版][中文][v1.01][Mai200]"/>
+	<game FlagNo="PSVzh#54" name="光之子[PCSG00408][港版][中文][国语配音][Mai]"/>
+	<game FlagNo="PSVzh#55" name="全面反攻[PCSB00355][港版][中文][v1.01][Mai233]"/>
+	<game FlagNo="PSVzh#56" name="再刷一层[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#57" name="农民骑士[PCSH10120][港版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#58" name="几何冒险[PCSE01172][美版][中英文][v1.01][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#59" name="刀剑神域 失落之歌[PCSH00134][港版][中文][v1.04][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#60" name="刀剑神域 失落之歌[PCSH00235][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#61" name="刀剑神域 虚空幻界[港版][中文][v3.20][DLC][Mai][3.65]"/>
+	<game FlagNo="PSVzh#62" name="刀剑神域 虚空断章[PCSH00070][港版][中文][v1.04][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#63" name="创世的神迹 华[PCSH00278][港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#64" name="创意赛车族摩登赛车[PCSD00004][欧版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#65" name="创意赛车族摩登赛车[PCSD00004][港版][中文][v1.02][Mai233]"/>
+	<game FlagNo="PSVzh#66" name="初音未来歌姬计划F2[PCSH00088][港版][中文][v1.00][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#67" name="初音未来歌姬计划X[PCSH00176][港版][中文][v1.00][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#68" name="刺客信条编年史[PCSB00792][港版][中文][v1.01][Mai233]"/>
+	<game FlagNo="PSVzh#69" name="剑风无双[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#70" name="加速世界VS刀剑神域 千年的黄昏[繁体中文][v2.03][DLC][Mai][3.65]"/>
+	<game FlagNo="PSVzh#71" name="劳拉GO[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#72" name="勇者别嚣张3D[汉化版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#73" name="勇者别嚣张G[PCSD00085][港版][中文][2DLC][NONPDRM]"/>
+	<game FlagNo="PSVzh#74" name="勇者别嚣张G[PCSD00085][港版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#75" name="勇者斗恶龙 创世小玩家[PCSH00221][港版][中文][v1.00][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#76" name="勇者斗恶龙 英雄集结2[PCSH00298][港版][中文][v1.02][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#77" name="匕首鞘 Daggerhood[PCSE01348][美版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#78" name="半球[中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#79" name="南瓜先生大冒险[PCSH00194][国行][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#80" name="厕所穿越记[汉化][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#81" name="双重焦点 文与椛的弹丸取材纪行[PCSE01015][美版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#82" name="反重力赛车2048[PCSC00006][日版][简易汉化][1.04][DLC][Mai][我干ufo](加载方式选5)"/>
+	<game FlagNo="PSVzh#83" name="叛逆机械师[PCSE01177][美版][汉化修正版][NONPDRM][imjinjia]"/>
+	<game FlagNo="PSVzh#84" name="古树旋律 最终演奏[PCSH00214][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#85" name="召唤之夜6消失的境界[PCSH00225][港版][中文][v1.03][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#86" name="合金弹头3[汉化版v1.01][Mai]"/>
+	<game FlagNo="PSVzh#87" name="同步音律喵赛克[PCSH00263][国行][简中][v1.02][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#88" name="同步音律喵赛克[PCSH10058][港版][中英文][v1.02][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#89" name="吟游诗人的黄金[PCSG01006][日版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#90" name="命运石之门 精英版[PCSG01166][日版][汉化][NONPDRM][依旧W如此]"/>
+	<game FlagNo="PSVzh#91" name="命运石之门0[PCSG00673][汉化][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#92" name="啃货来袭[PCSH00177][国行][简中][NONPDRM](系统设置为简体)"/>
+	<game FlagNo="PSVzh#93" name="啪啪英雄[PCSH00205][港版][中日英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#94" name="噬神者2愤怒爆裂[PCSH00133][港版][中文][v1.30][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#95" name="噬神者重生[PCSH00199][港版][中文][v1.10][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#96" name="四元素大冒险[港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#97" name="回到1995[PCSE01343][美版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#98" name="回到床上[PCSE00706][美版][中英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#99" name="圣剑传说2[PCSH10067][港版][中文][v1.03][Mai](免存档直装中文)"/>
+	<game FlagNo="PSVzh#100" name="圣剑传说2[日版][中文][v1.00][NONPDRM]"/>
+	<game FlagNo="PSVzh#101" name="圣剑传说2[日版][中文][v1.02][Mai]"/>
+	<game FlagNo="PSVzh#102" name="地域迂回战2[PCSG01278][日版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#103" name="地牢猎手 联盟(同盟)[PCSB00041][汉化][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#104" name="地狱潜者[PCSD00086][港版][中文][v4.06][Mai233]"/>
+	<game FlagNo="PSVzh#105" name="地狱潜者[国行][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#106" name="地狱边境[PCSE00268][港版][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#107" name="地狱迂回战[PCSH10122][港版][中英文][NONPDRM][3.68]"/>
+	<game FlagNo="PSVzh#108" name="块仔大逃脱[PCSH10128][港版][中日英韩文][NONPDRM]"/>
+	<game FlagNo="PSVzh#109" name="型号8 Forma.8[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#110" name="城堡风暴[PCSH00169][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#111" name="城堡风暴[亚版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#112" name="城市自由狂飙[PCSH00159][国行][简中][NONPDRM](系统设置为简体)"/>
+	<game FlagNo="PSVzh#113" name="堕落军团 火焰的叛乱[PCSE00955][美版][中英文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#114" name="墨爆(InkSplosion)[PCSH10116][港版][中文][NONPDRM][3.68]"/>
+	<game FlagNo="PSVzh#115" name="壮汉海上飘流记[中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#116" name="声音与形态[PCSD00027][港版][中文][v1.14][Mai233]"/>
+	<game FlagNo="PSVzh#117" name="夜下降生[PCSE01144][第二次汉化][Mai][3.60]"/>
+	<game FlagNo="PSVzh#118" name="夜廻[PCSG00669][汉化][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#119" name="大众高尔夫6[PCSD00008][港版][中文][v1.09][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#120" name="大伙乐相伴 Friend Network [PCSD00037][港版][中英文][v2.03][NONPDRM]"/>
+	<game FlagNo="PSVzh#121" name="大胃王爵士[PCSG01170][港版][中文][NONPDRM][3.67]"/>
+	<game FlagNo="PSVzh#122" name="大蛇无双2终极版[PCSH00054][港版][中文][v1.02][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#123" name="大都市 迷情中世纪[PCSE01221][中文][Mai][3.60]"/>
+	<game FlagNo="PSVzh#124" name="太空竞速[PCSH00272][港版][中英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#125" name="太鼓达人[PCSG00551][日版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#126" name="失落之子[港版][中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#127" name="失落之子[港版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#128" name="奥丁领域[PCSH00218][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#129" name="女武神驱动 比基尼[PCSG00632][日版][汉化v.05][1.08][160DLC][NONPDRM][昨日小学生]"/>
+	<game FlagNo="PSVzh#130" name="女神异闻录3 舞动月夜[PCSH10108][港版][中文][Mai]"/>
+	<game FlagNo="PSVzh#131" name="女神异闻录3 舞动月夜[PCSH10108][港版][中文][NONPDRM][3.68]"/>
+	<game FlagNo="PSVzh#132" name="女神异闻录4通宵热舞[PCSH00211][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#133" name="女神异闻录4黄金版[PCSH00021][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#134" name="女神异闻录5 舞动星夜[PCSH10109][港版][中文][Mai]"/>
+	<game FlagNo="PSVzh#135" name="女神异闻录5 舞动星夜[PCSH10109][港版][中文][NONPDRM][3.68]"/>
+	<game FlagNo="PSVzh#136" name="如龙0 起誓之地[PCSH00147][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#137" name="子弹少女[PCSH10099][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#138" name="学战都市 凤华绚烂[港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#139" name="学战都市[PCSH00249][港版][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#140" name="学战都市[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#141" name="宝藏乐园[PCSD00020][港版][中文][NONPDRM](系统设置为繁体)"/>
+	<game FlagNo="PSVzh#142" name="富豪街DQ&amp;FF 30周年 骰动人生好运道[港版][中文][DLC][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#143" name="小小大星球[PCSD00006][港版][中文][v1.22][Mai200]"/>
+	<game FlagNo="PSVzh#144" name="小小白日梦[PCSH00131][国行][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#145" name="小小白日梦[PCSH00131][国行][中文][v1.02][NONPDRM]"/>
+	<game FlagNo="PSVzh#146" name="小小白日梦[港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#147" name="尸体派对 驭血[PCSG00298][汉化][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#148" name="希米诺 Himno[PCSE01427][美版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#149" name="幻想英雄 未被继承的遗产[PCSH00157][港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#150" name="幽浮未知敌人加强版[PCSG00589][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#151" name="弹丸论破1[PCSH00055][港版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#152" name="弹丸论破2[PCSH00072][港版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#153" name="弹丸论破V3[PCSH10051][港版][中文][[1.01][2DLC][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#154" name="影牢 暗黑公主[PCSG00304][汉化][中文][v1.02][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#155" name="心灵判官 无法抉择的幸福[PCSH00284][港版][中英文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#156" name="心理测量者没有选择的幸福[PCSE00904][美版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#157" name="忍者龙剑传Σ1加强版[PCSE00021][美版][汉化2.0][Mai]"/>
+	<game FlagNo="PSVzh#158" name="忍者龙剑传Σ1加强版[PCSE00033][汉化][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#159" name="忍者龙剑传Σ1加强版[PCSG00033][日版][汉化1.0][Mai]"/>
+	<game FlagNo="PSVzh#160" name="忍者龙剑传Σ2加强版[PCSB00294][欧版][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#161" name="忍者龙剑传Σ2加强版[PCSG00157][港版][中文][v1.00][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#162" name="忍道2散华[PCSH00001][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#163" name="怪物猎人 边境G[PCSH00109][港版][中文][1.68][NONPDRM]"/>
+	<game FlagNo="PSVzh#164" name="恶意(灾厄) 重生[PCSH00032][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#165" name="我们 I and Me[PCSE01358][美版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#166" name="我的世界[PCSB00560][欧版][中英文][v1.74][14DLC][NONPDRM]"/>
+	<game FlagNo="PSVzh#167" name="我的世界[PCSE00491][欧版][中文][v1.50][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#168" name="我的世界[PCSG00302][日版][中文][v1.37][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#169" name="战国无双4-2[PCSH00164][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#170" name="战国无双编年史3[PCSH00152][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#171" name="战机少女VS丧失军团[PCSH00236][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#172" name="战神1+2高清版[PCSA00126][CG全屏][汉化][中文][Mai]"/>
+	<game FlagNo="PSVzh#173" name="扣押 豪华版[PCSE01159][美版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#174" name="抵抗燃烧苍穹[PCSD00033][港版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#175" name="拉比哩比[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#176" name="拒绝访问[PCSE01356][美版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#177" name="探险活宝 无名王国的秘密[PCSE00582][美版][汉化][Mai][imjinjia]"/>
+	<game FlagNo="PSVzh#178" name="撕纸小邮差[PCSD00077][港版][中文][v1.01][Mai233]"/>
+	<game FlagNo="PSVzh#179" name="撕纸小邮差[亚版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#180" name="收音锤神[港版][中文][1.01][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#181" name="数码宝贝世界 新秩序[PCSH00261][港版][中文][v1.03][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#182" name="数码宝贝物语 网络侦探 骇客追忆 20周年限定[港版][中文][1.05][DLC][Mai]"/>
+	<game FlagNo="PSVzh#183" name="数码宝贝物语 网络侦探 骇客追忆[港版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#184" name="文明2加强版[PCSG00588][日版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#185" name="断绝[PCSE00589][港版][中文][v1.01][Mai233]"/>
+	<game FlagNo="PSVzh#186" name="新冰城传奇[中文][Mai]"/>
+	<game FlagNo="PSVzh#187" name="新弹丸论破V3[繁体中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#188" name="方块猫嘉年华[PCSH00099][港版][中文][v1.01][Mai233]"/>
+	<game FlagNo="PSVzh#189" name="方块猫嘉年华[PCSH00126][国行][简中][v1.01][NONPDRM]"/>
+	<game FlagNo="PSVzh#190" name="方根书简[PCSH00289][港版][中文][v1.01][Mai233]"/>
+	<game FlagNo="PSVzh#191" name="无主之地2[PCSF00570][欧版][缺字汉化2.8][DLC][NONPDRM][3.65][我干ufo]"/>
+	<game FlagNo="PSVzh#192" name="无双全明星[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#193" name="无双全明星[繁体中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#194" name="无双明星大串会[PCSH10037][港版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#195" name="无夜之国2新月的花嫁[PCSG00986][日版][汉化][v1.02][13DLC][Mai](加载方式选5)"/>
+	<game FlagNo="PSVzh#196" name="无夜之国[PCSG00557][日版][中文][v1.01][Mai200]"/>
+	<game FlagNo="PSVzh#197" name="无夜之国[PCSH00254][国行][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#198" name="无尽梦魇[PCSE00847][欧版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#199" name="时间操控者 Timespinner[PCSE01246][美版][汉化][1.03][Mai][昨日小学生]"/>
+	<game FlagNo="PSVzh#200" name="时间操控者(纺时者) Timespinner[PCSE01246][美版][官方简中][1.04][NONPDRM]"/>
+	<game FlagNo="PSVzh#201" name="星际大亨(沃斯托克公司)[PCSE01038][中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#202" name="星际大亨(沃斯托克公司)[PCSE01038][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#203" name="星露谷物语[PCSE01235][中文][Mai][3.60]"/>
+	<game FlagNo="PSVzh#204" name="暗黑地牢[PCSE00919][美版][汉化][v1.17][DLC][NONPDRM][imjinjia]"/>
+	<game FlagNo="PSVzh#205" name="最终幻想X 高清重制版[PCSH00100][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#206" name="最终幻想X-2 高清重制版[PCSH00101][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#207" name="最终幻想X-2[PCSH00043][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#208" name="最终幻想X-2[PCSH00101][国行][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#209" name="最终幻想X[PCSH00042][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#210" name="最终幻想世界[PCSE00880][美版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#211" name="月夜 豪华版 Midnight Deluxe[PCSG00198][港版][中文][NONPDRM][3.67]"/>
+	<game FlagNo="PSVzh#212" name="朋克大暴走[PCSE00835][美版][汉化][Mai][昨日小学生]"/>
+	<game FlagNo="PSVzh#213" name="术士之塔[PCSH10137][港版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#214" name="杀戮地带[港版][中文][v1.12][DLC][NONPDRM]"/>
+	<game FlagNo="PSVzh#215" name="杀戮地带佣兵[PCSD00071][港版][中文][v1.12][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#216" name="杰克与吉尔DX[PCSH10127][港版][中日英文][NONPDRM][3.68]"/>
+	<game FlagNo="PSVzh#217" name="极品飞车17最高通缉[PCSE00089][美版][中文][v1.01][Mai233](系统设置成繁体)"/>
+	<game FlagNo="PSVzh#218" name="极速冒险2x Velocity2x[PCSB00410][国行][中文][Mai]"/>
+	<game FlagNo="PSVzh#219" name="极速冒险2X[PCSH00122][国行][简中][NONPDRM](系统设置为简体)"/>
+	<game FlagNo="PSVzh#220" name="极限凸记萌萌编年史[PCSH00148][港版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#221" name="极限爆炸 Full Blast[PCSE01261][美版][中文][Mai][3.60]"/>
+	<game FlagNo="PSVzh#222" name="极限爆炸 Full Blast[PCSE01261][美版][中文][NONPDRM][3.68]"/>
+	<game FlagNo="PSVzh#223" name="极限爆炸 Full Blast[PCSH10123][港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#224" name="极限脱出3刻之困境[PCSG00747][汉化][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#225" name="果然游戏中我的青春恋爱物语也有问题[PCSG00215][日版][汉化测试版][Mai]"/>
+	<game FlagNo="PSVzh#226" name="果然游戏中我的青春恋爱物语也有问题续[PCSG00895][日版][汉化][Mai][春物氮气卖鶸汉化组]"/>
+	<game FlagNo="PSVzh#227" name="枪弹辩驳3[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#228" name="桑塔 半精灵英雄[美版][汉化][简体中文][Mai]"/>
+	<game FlagNo="PSVzh#229" name="桥[PCSE00525][欧版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#230" name="梅露露的炼金工房加强版[PCSG00171][汉化][中文][v1.04][Mai233]"/>
+	<game FlagNo="PSVzh#231" name="梦幻之星新星[PCSH00143][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#232" name="梦游者[PCSE00706][欧版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#233" name="模拟农场14[PCSE00419][美版][中英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#234" name="模拟农场14[PCSH00117][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#235" name="模拟农场16[亚版][中文][Mai]"/>
+	<game FlagNo="PSVzh#236" name="模拟农场18[PCSE01035][美版][中英文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#237" name="模组世界赛车 街头之旅[亚版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#238" name="欧米伽迷宫Z[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#239" name="欧米伽迷宫[PCSG00550][汉化][中文][v1.02][Mai233]"/>
+	<game FlagNo="PSVzh#240" name="死亡国度[港版][中文][Vitamin]"/>
+	<game FlagNo="PSVzh#241" name="死或生5加强版[PCSG00167][港版][中文][v1.01][Mai200]"/>
+	<game FlagNo="PSVzh#242" name="死或生沙滩排球3[PCSH00250][港版][中文][v1.12][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#243" name="死灵法球 豪华版[PCSB01321][欧版][中文][v1.01][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#244" name="死魂空间 豪华版[PCSG01256][美版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#245" name="水滴记忆[PCSH00175][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#246" name="沥青都市 喷射[中文][Mai]"/>
+	<game FlagNo="PSVzh#247" name="海之号角[中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#248" name="海之号角[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#249" name="海贼无双2[PCSH00034][港版][中文][10DLC][NONPDRM]"/>
+	<game FlagNo="PSVzh#250" name="海贼无双2[PCSH00034][港版][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#251" name="海贼无双3[PCSH00145][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#252" name="海贼王 无尽世界R[PCSH00071][港版][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#253" name="海贼王 燃烧之血[PCSH00202][港版][中文][v1.08][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#254" name="涂鸦公园加强版[PCSD00064][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#255" name="涂鸦王国[PCSE00431][美版][中文][NONPDRM](系统设置为简体)"/>
+	<game FlagNo="PSVzh#256" name="深夜廻[日版][汉化][PCSG01080][Mai][xiguan88668]"/>
+	<game FlagNo="PSVzh#257" name="深渊矿坑[PCSE01031][移植汉化][含原版1.02][字体美化][Mai][依旧W如此]"/>
+	<game FlagNo="PSVzh#258" name="混沌之子[港版][中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#259" name="混沌之子[港版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#260" name="混沌之戒3编年史[日版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#261" name="混沌之戒Ω[PCSG00499][日版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#262" name="混沌之戒Ⅰ[PCSG00497][日版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#263" name="潜行公司 黑暗中的克隆[PCSE00280][美版][中英文][v1.01][NONPDRM]"/>
+	<game FlagNo="PSVzh#264" name="火中英雄[PCSE00566][美版][中英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#265" name="火箭飞人[PCSE00537][欧版][中文][v1.02][Mai233]"/>
+	<game FlagNo="PSVzh#266" name="火箭鸟2 进化[PCSH00127][港版][中英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#267" name="灰鹰幻境[PCSH10091][中文][Mai]"/>
+	<game FlagNo="PSVzh#268" name="灵魂交织[PCSD00094][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#269" name="灵魂献祭DLTA[PCSD00079][港版][中文][v1.30][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#270" name="灵魂献祭[PCSD00065][港版][中文][v1.32][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#271" name="灾难大师[港版][中文][Vitamin]"/>
+	<game FlagNo="PSVzh#272" name="炸弹飞猴[PCSH00201][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#273" name="烙印勇士无双[PCSH10025][港版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#274" name="爱夏的工作室[PCSG00347][汉化][中文][v1.02][Mai200]"/>
+	<game FlagNo="PSVzh#275" name="爱夏的炼金工房加强版 黃昏大地之炼金术士[PCSG00347][汉化][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#276" name="狐风[PCSE01382][美版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#277" name="玩具坦克的袭击[PCSH10160][港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#278" name="生化危机 启示录2[港版][中文][1.04][NONPDRM]"/>
+	<game FlagNo="PSVzh#279" name="电击文库巅峰格斗[PCSH00142][港版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#280" name="电脑战机Virtual-OnX魔法禁书目录[PCSH10075][港版][中文][1.02][NONPDRM][3.67]"/>
+	<game FlagNo="PSVzh#281" name="疾风兔丸 冒险双奇谭[PCSE01067][美版][中英文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#282" name="瘟疫之路[中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#283" name="白日梦(Reverie)[PCSG01147][港版][中文][NONPDRM][3.68]"/>
+	<game FlagNo="PSVzh#284" name="白色相簿2 幸福的对面[PCSG00249][日版][汉化][1.02][Mai][依旧W如此]"/>
+	<game FlagNo="PSVzh#285" name="白色相簿2 幸福的对面[PCSG00249][日版][汉化][1.02][NONPDRM][依旧W如此]"/>
+	<game FlagNo="PSVzh#286" name="白衣性爱情依存症[PCSE01004][美版][中英文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#287" name="百变女孩[PCSH10097][港版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#288" name="盐与避难所[中文][v1.02][Mai][3.65]"/>
+	<game FlagNo="PSVzh#289" name="盐与避难所[美版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#290" name="盗贼的遗产[PCSG00622][汉化][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#291" name="真三国无双 英杰传[PCSH10006][港版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#292" name="真三国无双7帝国(共斗版)[PCSH00193][港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#293" name="真三国无双7帝国[PCSH00192][港版][中文][v1.02][DLC][Mai](黑屏修复版)"/>
+	<game FlagNo="PSVzh#294" name="真三国无双7猛将传[PCSH00052][港版][中文][v1.03][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#295" name="真三国无双7猛将传[PCSH00111][国行][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#296" name="真三国无双NEXT[PCSH00003][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#297" name="真人快打9[PCSE00023][汉化][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#298" name="真高达无双[PCSH00058][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#299" name="神之战 日本神话大战[PCSH10126][港版][中文][1.01][NONPDRM]"/>
+	<game FlagNo="PSVzh#300" name="神之战 超越时空[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#301" name="神之战 超越時空[繁体中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#302" name="神秘海域 卡牌之战[PCSD00043][港版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#303" name="神秘海域 黄金深渊[PCSD00001][港版][中文][Mai233](系统设置为繁体)"/>
+	<game FlagNo="PSVzh#304" name="神秘海域 黄金深渊[PCSD00001][港版][中英文][v1.03][NONPDRM](系统设置为繁体)"/>
+	<game FlagNo="PSVzh#305" name="秋之回忆8 无垢少女 for Dearest[港版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#306" name="秋之回忆8 无垢少女[PCSH10133][港版][中文][NONPDRM][3.60]"/>
+	<game FlagNo="PSVzh#307" name="秋叶原之旅2[PCSH00057][港版][中文][19DLC][NONPDRM]"/>
+	<game FlagNo="PSVzh#308" name="秋叶原之旅2[PCSH00057][港版][中文][v1.01][Mai200]"/>
+	<game FlagNo="PSVzh#309" name="秋叶原妄想物语[中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#310" name="秋叶原妄想物语[港版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#311" name="空间竞赛 极速[PCSH00158][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#312" name="突突兔大战突击兔[PCSH00282][国行][简中][v1.01][NONPDRM](系统设置为简体)"/>
+	<game FlagNo="PSVzh#313" name="突突兔独战突击兔[PCSE00328][美版][中文][1.01][NONPDRM]"/>
+	<game FlagNo="PSVzh#314" name="章鱼奶爸 致命捕捉[PCSB00825][欧版][中英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#315" name="箱！打开我 数字版[PCSD00052][港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#316" name="箱！打开我[PCSD00049][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#317" name="精灵命运[PCSD00061][港版][中文][v1.12][NONPDRM]"/>
+	<game FlagNo="PSVzh#318" name="索尼全明星大乱斗[PCSD00040][港版][中文][1.12][DLC][NONPDRM]"/>
+	<game FlagNo="PSVzh#319" name="索尼全明星大乱斗[PCSD00040][港版][中文][v1.12][Mai233]"/>
+	<game FlagNo="PSVzh#320" name="约会大作战TwinEdition凛绪轮回[PCSG00599][汉化][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#321" name="绘画公园Plus[PCSD00064][港版][中英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#322" name="绘画公园[PCSD00019][港版][中英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#323" name="绝对绝望少女[PCSH00146][港版][中文][v1.01][Mai233]"/>
+	<game FlagNo="PSVzh#324" name="维京人进攻之时[PCSD00051][港版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#325" name="胧村正[PCSG00150][汉化][中文][v1.07][黑屏修复+传送死机修复][Mai](dv890+梦影无幽)"/>
+	<game FlagNo="PSVzh#326" name="能量循环边缘[PCSH10158][港版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#327" name="自由战争[PCSD00087][港版][中文][v1.22][Mai200]"/>
+	<game FlagNo="PSVzh#328" name="节奏地牢[PCSB00919][欧版][中英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#329" name="花花卡姆[PCSD00095][国行][简中][v1.01][NONPDRM]"/>
+	<game FlagNo="PSVzh#330" name="苍翼默示录 刻之幻影扩展版[PCSH00161][港版][中文][v1.00][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#331" name="苍翼默示录 刻之幻影扩展版[亚版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#332" name="苍翼默示录 连续变换扩展版[PCSE00018][港版][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#333" name="苍蓝女神[繁体中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#334" name="苏菲的工作室[PCSH00220][港版][中文][v1.00][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#335" name="苏菲的炼金工房 不可思议之书的炼金术士[港版][中文][4DLC][NONPDRM]"/>
+	<game FlagNo="PSVzh#336" name="英雄传说 碧之轨迹 进化版[PCSG00246][日版][汉化][Mai][福音]"/>
+	<game FlagNo="PSVzh#337" name="英雄传说 碧之轨迹 进化版[PCSH10113][港版][官方中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#338" name="英雄传说 空之轨迹3rd[PCSH10082][港版][中文][Mai][3.60][by MK]"/>
+	<game FlagNo="PSVzh#339" name="英雄传说 空之轨迹FC 全面进化版[PCSH00179][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#340" name="英雄传说 空之轨迹FC进化版[PCSH00178][港版][中文][v1.01][Mai200]"/>
+	<game FlagNo="PSVzh#341" name="英雄传说 空之轨迹FC进化版[PCSH00179][国行][中文][v1.00][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#342" name="英雄传说 零之轨迹 进化版[PCSH10111][港版][官方中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#343" name="英雄传说空之轨迹SC[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#344" name="英雄审判[PCSH10138][港版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#345" name="英雄就是我[PCSE01188][美版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#346" name="英雄就是我[PCSG01257][日版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#347" name="莉迪与苏瑞的工作室[移植汉化][Mai][3.60]"/>
+	<game FlagNo="PSVzh#348" name="菲斯[PCSE00404][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#349" name="菲莉丝的炼金工房 不可思议之旅的炼金术士[中文][Mai][3.65]"/>
+	<game FlagNo="PSVzh#350" name="萝洁与黄昏古城(罗塞与黄昏古城)[PCSH00268][港版][中文][v1.02][Mai233]"/>
+	<game FlagNo="PSVzh#351" name="蒸汽世界 挖掘(开采)[PCSH00119][国行][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#352" name="蒸汽世界 挖掘2[汉化][Mai][3.65]"/>
+	<game FlagNo="PSVzh#353" name="蒸汽世界开采[PCSH00119][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#354" name="蓝色反射 幻舞少女之剑[PCSG00987][日版][缺字汉化][v1.05][DLC][Mai]"/>
+	<game FlagNo="PSVzh#355" name="薄樱鬼 真改 华之章[PCSH10057][港版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#356" name="薄樱鬼 真改 风之章[PCSH10005][港版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#357" name="血污 月之诅咒[汉化移植v1.1][移植汉化][Mai][3.60]"/>
+	<game FlagNo="PSVzh#358" name="血腥大地[PCSE00453][汉化][中文][Mai](昨日小学生)"/>
+	<game FlagNo="PSVzh#359" name="街头涂鸦[港版][中文][Vitamin2]"/>
+	<game FlagNo="PSVzh#360" name="街霸X铁拳[PCSG00063][港版][中文][v1.08][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#361" name="讨鬼传 极[PCSH00110][国行][简中][v1.02][NONPDRM]"/>
+	<game FlagNo="PSVzh#362" name="讨鬼传2 共斗版[PCSH10027][港版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#363" name="讨鬼传2[PCSG00830][汉化][中文][v1.05][DLC][Mai233][3.65]"/>
+	<game FlagNo="PSVzh#364" name="讨鬼传2[PCSH10022][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#365" name="讨鬼传[PCSH00045][港版][中文][v1.03][Mai200]"/>
+	<game FlagNo="PSVzh#366" name="讨鬼传极[PCSH00103][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#367" name="讨鬼传极[PCSH00110][国行][中文][v1.02][Mai200]"/>
+	<game FlagNo="PSVzh#368" name="诅咒世界大冒险[PCSH00247][港版][中英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#369" name="起床俱乐部[PCSD00015][港版][中日文][NONPDRM]"/>
+	<game FlagNo="PSVzh#370" name="超次元ACT 海王星U[PCSE00588][美版][汉化][Mai][3.60]"/>
+	<game FlagNo="PSVzh#371" name="超次元海王星重生1[PCSG00226][汉化][中文][v1.02][Mai233]"/>
+	<game FlagNo="PSVzh#372" name="超次元海王星重生2姐妹时代[PCSE00508][美版][汉化][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#373" name="超次元海王星重生2姐妹时代[PCSG00335][日版][汉化][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#374" name="超级周末模式[PCSH10150][港版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#375" name="超级机器人大战V[中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#376" name="超级机器人大战X[PCSH10089][港版][中文][v1.04][21DLC][Mai][3.60]"/>
+	<game FlagNo="PSVzh#377" name="超级机器人大战X[PCSH10089][港版][中文][v1.04][21DLC][NONPDRM][3.60]"/>
+	<game FlagNo="PSVzh#378" name="超级爆破动物园[PCSE00362][欧版][中文][v1.02][Mai233]"/>
+	<game FlagNo="PSVzh#379" name="超级爆破动物园[PCSE00734][港版][中文][v1.02][Mai233]"/>
+	<game FlagNo="PSVzh#380" name="超级特种船员DX[PCSH10124][港版][中英文][NONPDRM][3.68]"/>
+	<game FlagNo="PSVzh#381" name="超级食肉男孩[PCSE00769][港版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#382" name="超酷节拍 音速 SUPERBEAT XONiC[PCSH00264][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#383" name="跨越我的尸体(跨越俺的尸体)2[PCSD00084][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#384" name="跳跃子弹[PCSH10143][港版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#385" name="迈阿密热线2 空号[PCSE00402][美版][汉化][v1.01][Mai][imjinjia]"/>
+	<game FlagNo="PSVzh#386" name="进击的巨人[PCSH00253][港版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#387" name="迷宫下的死亡[PCSH00294][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#388" name="逃脱计划[PCSD00016][港版][中文][v1.04][Mai233]"/>
+	<game FlagNo="PSVzh#389" name="逗留 Stay[PCSE01277][美版][中文][NONPDRM][3.68]"/>
+	<game FlagNo="PSVzh#390" name="邪恶联盟[PCSH10096][港版][中英韩文][NONPDRM]"/>
+	<game FlagNo="PSVzh#391" name="重力獾[PCSE00487][美版][中英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#392" name="重力眩晕[PCSD00003][港版][中文][v1.02][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#393" name="重力眩晕[亚版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#394" name="重力鸭[PCSH10203][港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#395" name="重装机兵Xeno[PCSH10100][港版][中文][Mai][3.60]"/>
+	<game FlagNo="PSVzh#396" name="金色琴弦4[PCSH00275][港版][中文][DLC][NONPDRM]"/>
+	<game FlagNo="PSVzh#397" name="金色琴弦4[PCSH00275][港版][中文][v1.00][Mai200]"/>
+	<game FlagNo="PSVzh#398" name="铁汉雄鸡 火箭鸟[PCSG00185][日版][中文][v1.00][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#399" name="铁汉雄鸡2进化[PCSH00127][港版][中文][v1.02][Mai233]"/>
+	<game FlagNo="PSVzh#400" name="铲子骑士 无主珍宝(含前四部)[PCSE00640][美版][官方中文][v1.06][Mai]"/>
+	<game FlagNo="PSVzh#401" name="铲子骑士 无主珍宝(含前四部)[PCSE00640][美版][官方中文][v1.06][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#402" name="铲子骑士[PCSE00640][美版][汉化][v1.05][NONPDRM]"/>
+	<game FlagNo="PSVzh#403" name="银魂乱舞[PCSG01073][日版][汉化][1.06][特典+DLC][Benladen][3.60]"/>
+	<game FlagNo="PSVzh#404" name="银魂乱舞[PCSG01073][日版][繁体汉化][1.06][DLC][Mai][圣之御]"/>
+	<game FlagNo="PSVzh#405" name="闪之轨迹1[PCSH00074][港版][中文][v1.03][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#406" name="闪之轨迹2[PCSH00075][港版][中文][v1.03][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#407" name="闪乱神乐 夏日对决[PCSH00162][港版][中文][v1.21][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#408" name="闪乱神乐 忍乳负重A+B[PCSH00077][港版][中文][DLC][NONPDRM]"/>
+	<game FlagNo="PSVzh#409" name="闪乱神乐 忍乳负重[PCSH00128][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#410" name="限界凸起 萌情水晶[PCSH00301][港版][中文][v1.03][Mai233]"/>
+	<game FlagNo="PSVzh#411" name="限界凸起 萌情水晶[PCSH00695][日版][中文][v1.03][Mai233]"/>
+	<game FlagNo="PSVzh#412" name="雷曼 传奇[PCSH00118][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#413" name="雷曼传奇[PCSH00118][国行][中文][v1.00][Mai101]"/>
+	<game FlagNo="PSVzh#414" name="霓虹交汇口[PCSH10161][港版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#415" name="霓虹跑酷[PCSH00206][国行][简中][NONPDRM]"/>
+	<game FlagNo="PSVzh#416" name="音量[PCSH00285][港版][中英文][NONPDRM]"/>
+	<game FlagNo="PSVzh#417" name="音量[港版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#418" name="飞艇之空[PCSG00461][港版][中文][v1.02][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#419" name="食尸鬼男孩 哥布林的剑[PCSG01251][日版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#420" name="食尸鬼男孩 哥布林的暗剑[PCSE01340][美版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#421" name="饥荒 巨人国[jinjia汉化移植][Mai][3.60]"/>
+	<game FlagNo="PSVzh#422" name="高达极限对决全力加速[PCSH00196][港版][中文][v1.04][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#423" name="高达破坏者2[PCSH00132][港版][中文][v1.03][Mai233]"/>
+	<game FlagNo="PSVzh#424" name="高达破坏者3[PCSH00207][港版][中文][v1.30][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#425" name="魔力四射 Supermagical[PCSE00942][美版][中文][NONPDRM]"/>
+	<game FlagNo="PSVzh#426" name="魔神少女[PCSG00652][港版][中文][v1.00][Mai233]"/>
+	<game FlagNo="PSVzh#427" name="魔神少女[PCSH00160][国行][简中][v1.01][NONPDRM]"/>
+	<game FlagNo="PSVzh#428" name="鲤 KOI[PCSE01040][美版][中文][NONPDRM][3.65]"/>
+	<game FlagNo="PSVzh#429" name="鸭子拳击[PCSH10149][港版][中文][NONPDRM][3.69]"/>
+	<game FlagNo="PSVzh#430" name="麻布仔快跑[PCSD00090][港版][中文][v1.01][DLC][Mai233]"/>
+	<game FlagNo="PSVzh#431" name="黑蝶幻境[PCSH10077][中文][Mai]"/>
+	<game FlagNo="PSVzh#432" name="龙之皇冠[PCSH00050][港版][中文][v1.03][Mai233]"/>
+	<game FlagNo="PSVzh#433" name="龙翅汤[PCSE00447][美版][汉化v2][NONPDRM][imjinjia]"/>
+	<game FlagNo="PSVzh#434" name="瘟疫之路 中日文版[PCSG01169][3.69][NND]"/>
+	<game FlagNo="PSVzh#435" name="荒岛大冒险 中日文版PCSG01316[3.69-NND]"/>
+	<game FlagNo="PSVzh#436" name="红丝带：奇妙的梦 中日英文版[PCSE01434][3.69][NND]"/>
+	<game FlagNo="PSVzh#437" name="迈阿密热线v1.01汉化移植[NND+Mai]"/>
+	<game FlagNo="PSVzh#438" name="雨中冒险 汉化移植[VPK]"/>
+	<game FlagNo="PSVzh#439" name="梅露露的炼金工房Plus 亚兰德的炼金术士3[PCSG00171][汉化版][NONPDRM]"/>
+	<game FlagNo="PSVzh#440" name="托托莉的炼金工房Plus 亚兰德的炼金术士2[PCSG00127][汉化版][Mai]"/>
+	<game FlagNo="PSVzh#441" name="骑士+ [中文版][3.65][NND]"/>
+
+</datafile>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datafile>
+	<header>
+		<platform>3do</platform>
+		<description>3DO游戏合集</description>
+		<version>2020-02-05</version>
+	</header>
+	<game FlagNo="3DO001" name="20th century almanac, the software toolworks (u)" cn_name="20世纪年鉴"/>
+	<game FlagNo="3DO002" name="3d atlas (u)" cn_name="3D 阿特拉斯"/>
+	<game FlagNo="3DO003" name="3do game guru (u)" cn_name="3DO游戏大师"/>
+	<game FlagNo="3DO004" name="3DO Interactive Cover Disc One (Europe)" cn_name="3DO封面CD1"/>
+	<game FlagNo="3DO005" name="3DO Interactive Sampler CD #2, The (1994)(3DO Company)(US)[B368 CE 00988.3-2 R72]" cn_name="3DO交互式集锦CD2"/>
+	<game FlagNo="3DO006" name="3DO Interactive Sampler CD #3, The (1995)(3DO Company)(US)[B811 CE 01843-2 R71]" cn_name="3DO交互式集锦CD3"/>
+	<game FlagNo="3DO007" name="3DO Interactive Sampler CD 4, The (1995)(3DO Company)(US)[A1792 CE 02374-2 R70]" cn_name="3DO交互式集锦CD4"/>
+	<game FlagNo="3DO008" name="3DO Magazine 01 (1994)(Paragon Publishing)(GB)[!][CDD3913]" cn_name="3DO杂志01"/>
+	<game FlagNo="3DO009" name="3DO Magazine 02 (1995)(Paragon Publishing)(GB)[!][CDD5969]" cn_name="3DO杂志02"/>
+	<game FlagNo="3DO010" name="3DO Magazine 03 (1995-03-30)(Paragon Publishing)(GB)[!][CDD6243]" cn_name="3DO杂志03"/>
+	<game FlagNo="3DO011" name="3DO Magazine 04 (1995)(Paragon Publishing)(GB)[!][CDD6914]" cn_name="3DO杂志04"/>
+	<game FlagNo="3DO012" name="3DO Magazine 05 (1995)(Paragon Publishing)(GB)[!][Aug-Sep 1995][CDD7858]" cn_name="3DO杂志05"/>
+	<game FlagNo="3DO013" name="3DO Magazine 06 (1995)(Paragon Publishing)(GB)[Oct-Nov 1995][CDD8606]" cn_name="3DO杂志06"/>
+	<game FlagNo="3DO014" name="3DO Magazine 07 (1995)(Paragon Publishing)(GB)[!][Dec 1995-Jan 1996][CDD8847]" cn_name="3DO杂志07"/>
+	<game FlagNo="3DO015" name="3DO Magazine 08 (1996)(Paragon Publishing)(GB)[Feb-Mar 1996][CDD10435]" cn_name="3DO杂志08"/>
+	<game FlagNo="3DO016" name="3DO Magazine 09 (1996)(Paragon Publishing)(GB)[Apr 1996][CDD11618]" cn_name="3DO杂志09"/>
+	<game FlagNo="3DO017" name="3DO Magazine 10 (1996)(Paragon Publishing)(GB)[!][May 1996][CDD12023]" cn_name="3DO杂志10"/>
+	<game FlagNo="3DO018" name="3DO Magazine 11 (1996)(Paragon Publishing)(GB)[!][Jun 1996][CDD6243]" cn_name="3DO杂志11"/>
+	<game FlagNo="3DO019" name="3DO Magazine 12 (1996)(Paragon Publishing)(GB)[Jul 1996]" cn_name="3DO杂志12"/>
+	<game FlagNo="3DO020" name="3DO Magazine 13 (1996)(Paragon Publishing)(GB)[!][Aug 1996][CDD13074]" cn_name="3DO杂志13"/>
+	<game FlagNo="3DO021" name="3DO Multi Game Sampler Number 3, The (1995)(3DO Company)[!][CDD7667]" cn_name=""/>
+	<game FlagNo="3DO022" name="Alfred Hitchcock Presents (J)" cn_name="希区柯克剧场"/>
+	<game FlagNo="3DO023" name="Alone in the Dark (1994)(Interplay)(US)[!][CD3D00380 R1H]" cn_name="鬼屋魔影（美版）"/>
+	<game FlagNo="3DO024" name="Alone in the Dark (Europe) (En,Fr)" cn_name="鬼屋魔影（欧版）"/>
+	<game FlagNo="3DO025" name="Alone in the Dark (Japan)" cn_name="鬼屋魔影（日版）"/>
+	<game FlagNo="3DO026" name="Alone in the Dark 2 (Japan)" cn_name="鬼屋魔影2（日版）"/>
+	<game FlagNo="3DO027" name="alone in the dark 2 (u)" cn_name="鬼屋魔影2（美版）"/>
+	<game FlagNo="3DO028" name="Another World (1994)(Interplay)(Eu)" cn_name="另一个世界"/>
+	<game FlagNo="3DO029" name="Aqua World - Umibi Monogatari (Japan)" cn_name="水族世界"/>
+	<game FlagNo="3DO030" name="ARPM (J)" cn_name="ARPM"/>
+	<game FlagNo="3DO031" name="AutoBahn Tokio (Japan)" cn_name="东京时速"/>
+	<game FlagNo="3DO032" name="Bakushou!! All Yoshimoto Quiz-ou Ketteisen (Japan)" cn_name="爆笑!吉本 答题王决定战"/>
+	<game FlagNo="3DO033" name="Ballz - The Director's Cut (1995)(Panasonic)(US)[!][65283 R1J]" cn_name="BallZ导演剪辑版（美版）"/>
+	<game FlagNo="3DO034" name="Ballz - The Director's Cut (USA, Japan) (En,Ja)" cn_name="BallZ导演剪辑版（日版）"/>
+	<game FlagNo="3DO035" name="Battle Chess (1993)(Interplay)(US)[!][W.O. 57350-3P]" cn_name="国际象棋（美版）"/>
+	<game FlagNo="3DO036" name="Battle Pinball (Japan)" cn_name="战斗弹珠台"/>
+	<game FlagNo="3DO037" name="BattleSport (1995)(Studio 3DO)(US)[B1670 CE 02381-2 R70]" cn_name="战斗运动（美版）"/>
+	<game FlagNo="3DO038" name="BattleSport (Europe)" cn_name="战斗运动（欧版）"/>
+	<game FlagNo="3DO039" name="bc racers (u)" cn_name="石器时代赛车"/>
+	<game FlagNo="3DO040" name="Belzerion (J)" cn_name="凡尔赛里昂"/>
+	<game FlagNo="3DO041" name="BFS - Blue Forest Story (Japan)" cn_name="蓝森林物语 风之封印（日版）"/>
+	<game FlagNo="3DO042" name="Bishojou Senshi Sailor Moon S (1995)(Bandai)(Jp)[FZ-SJ1453]" cn_name="美少女战士S"/>
+	<game FlagNo="3DO043" name="Blade Force (Japan)" cn_name="刃之力量（日版）"/>
+	<game FlagNo="3DO044" name="BladeForce (1995)(3DO Company)(US)[A1796 CE 01595-2 R71]" cn_name="刃之力量（美版）"/>
+	<game FlagNo="3DO045" name="BladeForce (Europe)" cn_name="刃之力量（欧版）"/>
+	<game FlagNo="3DO046" name="blonde justice (u)" cn_name="金发大法官(18+) "/>
+	<game FlagNo="3DO047" name="Bodyconscious Digital Rave! Part 1 - Shinjuku &amp; Takasaki (JP) (Transpegasus)" cn_name="性感狂欢晚会part1(18+)"/>
+	<game FlagNo="3DO048" name="Book of Life and Death The Competition (J)" cn_name="生死书竞赛"/>
+	<game FlagNo="3DO049" name="brain dead 13 starring fritz (disc 1 of 2)(u)" cn_name="吃脑外星人cd1"/>
+	<game FlagNo="3DO050" name="brain dead 13 starring fritz (disc 2 of 2)(u)" cn_name="吃脑外星人cd2"/>
+	<game FlagNo="3DO051" name="Burning Soldier (Europe)" cn_name="燃烧的士兵 （欧版）"/>
+	<game FlagNo="3DO052" name="Burning Soldier (Japan)" cn_name="燃烧的士兵 （日版）"/>
+	<game FlagNo="3DO053" name="burning soldier (u)" cn_name="燃烧的士兵 （美版）"/>
+	<game FlagNo="3DO054" name="bust-a-move (u)" cn_name="泡泡龙"/>
+	<game FlagNo="3DO055" name="Cannon Fodder (1994)(Virgin)(Eu)[CDD7568]" cn_name="小兵立大功（欧版）"/>
+	<game FlagNo="3DO056" name="Captain Quazar (Japan)" cn_name="Q上尉（日版）"/>
+	<game FlagNo="3DO057" name="Captain Quazar (USA)" cn_name="Q上尉（美版）"/>
+	<game FlagNo="3DO058" name="carrier fortress at sea (u)" cn_name="海上堡垒"/>
+	<game FlagNo="3DO059" name="casper (u)" cn_name="鬼马小精灵"/>
+	<game FlagNo="3DO060" name="Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen (Japan)" cn_name="顽皮狗"/>
+	<game FlagNo="3DO061" name="Chiki Chiki Machine Mou Race 2 - In Space (Japan)" cn_name="顽皮狗2"/>
+	<game FlagNo="3DO062" name="Cinderella Fairytales (J)" cn_name="灰姑娘童话"/>
+	<game FlagNo="3DO063" name="Club 3DO - Station Invasion (1994)(Studio 3DO)(US)[!][A-1135 CE 01594-2 R71]" cn_name="3DO俱乐部"/>
+	<game FlagNo="3DO064" name="Confrontation Wax Water (J)" cn_name="互相滴蜡 "/>
+	<game FlagNo="3DO065" name="Corpse Killer (USA)" cn_name="杀人僵尸"/>
+	<game FlagNo="3DO066" name="coven, the (u)" cn_name="女巫的聚会(18+)"/>
+	<game FlagNo="3DO067" name="cowboy casino (u)" cn_name="牛仔赌场 "/>
+	<game FlagNo="3DO068" name="Crash 'n Burn (Japan)" cn_name="日食战机（日版）"/>
+	<game FlagNo="3DO069" name="Crash 'n Burn (USA)" cn_name="日食战机（美版）"/>
+	<game FlagNo="3DO071" name="Crayon Shin-chan - Puzzle Daimaou no Nazo (Japan)" cn_name="蜡笔小新谜题大魔王之谜（日版）"/>
+	<game FlagNo="3DO072" name="creature shock (disc 1 of 2)(u)" cn_name="生物冲击CD1"/>
+	<game FlagNo="3DO073" name="creature shock (disc 2 of 2)(u)" cn_name="生物冲击CD2"/>
+	<game FlagNo="3DO074" name="Crime Patrol (1994)(American Laser Games)(US)[!][B587 000173-2 R71]" cn_name="罪恶刑警"/>
+	<game FlagNo="3DO075" name="cyberdillo (u)" cn_name="生化犰狳"/>
+	<game FlagNo="3DO076" name="cyberia (u)" cn_name="网络世界"/>
+	<game FlagNo="3DO077" name="d (disc 1 of 2)(u)" cn_name="D之食卓（美版）cd1"/>
+	<game FlagNo="3DO078" name="d (disc 2 of 2)(u)" cn_name="D之食卓（美版）cd2"/>
+	<game FlagNo="3DO079" name="D (Europe) (Disc 1)" cn_name="D之食卓（欧版）cd1"/>
+	<game FlagNo="3DO080" name="D (Europe) (Disc 2)" cn_name="D之食卓（欧版）cd2"/>
+	<game FlagNo="3DO081" name="D no Shokutaku (Japan) (Disc 1)" cn_name="D之食卓删减版（日版）cd1"/>
+	<game FlagNo="3DO082" name="D no Shokutaku (Japan) (Disc 2)" cn_name="D之食卓删减版（日版）cd2"/>
+	<game FlagNo="3DO083" name="D's Diner - The Director's Cut (Japan) (Disc A)" cn_name="D之食卓（日版）cdA"/>
+	<game FlagNo="3DO084" name="D's Diner - The Director's Cut (Japan) (Disc B)" cn_name="D之食卓（日版）cdB"/>
+	<game FlagNo="3DO085" name="D's Diner - The Director's Cut (Japan) (Disc C)" cn_name="D之食卓（日版）cdC"/>
+	<game FlagNo="3DO086" name="Daedalus Encounter - Episode 1 - Nanpasen no Alien (Japan) (Disc 1)" cn_name="宇宙冒险家 難破船のエイリアン～cd1"/>
+	<game FlagNo="3DO087" name="Daedalus Encounter - Episode 1 - Nanpasen no Alien (Japan) (Disc 2)" cn_name="宇宙冒险家 難破船のエイリアン～cd2"/>
+	<game FlagNo="3DO088" name="Daedalus Encounter - Episode 1 - Nanpasen no Alien (Japan) (Disc 3)" cn_name="宇宙冒险家 難破船のエイリアン～cd3"/>
+	<game FlagNo="3DO089" name="Daedalus Encounter - Episode 1 - Nanpasen no Alien (Japan) (Disc 4)" cn_name="宇宙冒险家 難破船のエイリアン～cd4"/>
+	<game FlagNo="3DO090" name="Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 1 of 4)[!][FZSM37511 R1J]" cn_name="宇宙冒险家cd1"/>
+	<game FlagNo="3DO091" name="Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 2 of 4)[!][FZSM37512 R1H]" cn_name="宇宙冒险家cd2"/>
+	<game FlagNo="3DO092" name="Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 3 of 4)[!][FZSM37513 R1J]" cn_name="宇宙冒险家cd3"/>
+	<game FlagNo="3DO093" name="Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 4 of 4)[!][FZSM37514 R1J]" cn_name="宇宙冒险家cd4"/>
+	<game FlagNo="3DO094" name="death keep, advanced dungeons &amp; dragons (u)" cn_name="龙与地下城"/>
+	<game FlagNo="3DO095" name="Deep Blue Fleet (J)" cn_name="绀碧舰队"/>
+	<game FlagNo="3DO096" name="Demolition Man (Japan)" cn_name="月空狂龙（日版）"/>
+	<game FlagNo="3DO097" name="demolition man (u)" cn_name="月空狂龙（美版）"/>
+	<game FlagNo="3DO098" name="dennis miller that's news to me (u)" cn_name="丹尼斯·米勒 对我可是新闻"/>
+	<game FlagNo="3DO099" name="digital dreamware (u)" cn_name="数字织梦者"/>
+	<game FlagNo="3DO100" name="dino park tycoon (u)" cn_name="迪诺公园大亨 "/>
+	<game FlagNo="3DO101" name="Diving Spot Guide - Marine Tour (Japan)" cn_name="潜水点导游-海上旅游"/>
+	<game FlagNo="3DO102" name="Doctor Hauzer (J)" cn_name="浩泽博士"/>
+	<game FlagNo="3DO104" name="doom (u)(3do)" cn_name="毁灭战士"/>
+	<game FlagNo="3DO105" name="Doraemons, The - Yuujou Densetsu (1995)(ShoPro)(JP)[!]" cn_name="哆啦A梦 友情传说"/>
+	<game FlagNo="3DO106" name="dragon lore (disc 1 of 3)(u)" cn_name="巨龙传说 CD1"/>
+	<game FlagNo="3DO107" name="dragon lore (disc 2 of 3)(u)" cn_name="巨龙传说 CD2"/>
+	<game FlagNo="3DO108" name="dragon lore (disc 3 of 3)(u)" cn_name="巨龙传说 CD3"/>
+	<game FlagNo="3DO109" name="Dragon Tycoon Edge (J)" cn_name="龙王边缘"/>
+	<game FlagNo="3DO110" name="Dragon's Lair (1993)(ReadySoft)(US)" cn_name="龙穴历险记(美版)"/>
+	<game FlagNo="3DO111" name="Dragon's Lair (Japan)" cn_name="龙穴历险记（日版）"/>
+	<game FlagNo="3DO112" name="Driving School (J)" cn_name="驾驶学校"/>
+	<game FlagNo="3DO113" name="Drug Wars (1995)(American Laser Games)(US)[!][B1384 CP 000234-2 R70]" cn_name="毒品战争"/>
+	<game FlagNo="3DO114" name="Emit Vol. 1 - Toki no Maigo (Japan)" cn_name="Emit卷1 - 时の迷子"/>
+	<game FlagNo="3DO115" name="Emit Vol. 2 - Inochigake no Tabi (Japan)" cn_name="Emit卷2 - 命がけの旅"/>
+	<game FlagNo="3DO116" name="Emit Vol. 3 - Watashi ni Sayonara O (J)" cn_name="Emit卷3 - 私にさよならを"/>
+	<game FlagNo="3DO117" name="endlessly (1994)(Vivid)[!]" cn_name="无穷禁地(18+)"/>
+	<game FlagNo="3DO118" name="Escape from Monster Manor - A Terrifying Hunt for the Undead (1993)(Electronic Arts)(US)[!][B349" cn_name="逃离怪兽领地"/>
+	<game FlagNo="3DO119" name="espn baseball - interactive hitting (1994)(intellimedia)(usa)" cn_name="espn棒球 "/>
+	<game FlagNo="3DO120" name="espn fitness pro's step aerobics (u)" cn_name="espn健身专业的阶梯健美操 "/>
+	<game FlagNo="3DO121" name="ESPN Golf - Lower Your Score With Tom Kite - Shot Making - Mental Messages (1994)(IntelliPlay)(US" cn_name="espn高尔夫 精神信息 "/>
+	<game FlagNo="3DO122" name="espn golf lower your score with tom kite - shot making (disc 1 of 3)(u)" cn_name="espn高尔夫cd1"/>
+	<game FlagNo="3DO123" name="espn golf lower your score with tom kite - shot making (disc 2 of 3)(u)" cn_name="espn高尔夫cd2"/>
+	<game FlagNo="3DO124" name="espn golf lower your score with tom kite - shot making (disc 3 of 3)(u)" cn_name="espn高尔夫cd3"/>
+	<game FlagNo="3DO125" name="espn let's go skiing (1994)(intellimedia)(usa)" cn_name="espn滑雪"/>
+	<game FlagNo="3DO126" name="espn let's play beach volleyball (u)" cn_name="espn沙滩排球"/>
+	<game FlagNo="3DO127" name="ESPN Let's Play Soccer (1994)(IntelliPlay)(US)[!][501126]" cn_name="espn足球"/>
+	<game FlagNo="3DO128" name="espn let's play tennis (u)" cn_name="espn网球"/>
+	<game FlagNo="3DO129" name="F1 GP (J)" cn_name="F1 GP赛车"/>
+	<game FlagNo="3DO130" name="Family Feud (1994)(Gametek)(US)[!][FAMILYFEUD R1J]" cn_name="家庭问答（美版）"/>
+	<game FlagNo="3DO132" name="Fatty Bear's Birthday Surprise (Japan) (En,Ja)" cn_name="胖熊的生日惊喜 （日版）"/>
+	<game FlagNo="3DO133" name="Fatty Bear's Birthday Surprise (USA)" cn_name="胖熊的生日惊喜 （美版）"/>
+	<game FlagNo="3DO134" name="Fatty Bear's Funpack (1993)(Humongous)(US)[!]" cn_name="胖熊的玩具 "/>
+	<game FlagNo="3DO135" name="FIFA International Soccer (Europe)" cn_name="FIFA世界杯（欧版）"/>
+	<game FlagNo="3DO136" name="FIFA International Soccer (USA)" cn_name="FIFA世界杯（美版）"/>
+	<game FlagNo="3DO137" name="Fire Ball!! (Japan)" cn_name="火球"/>
+	<game FlagNo="3DO138" name="Flashback (Japan) (En,Ja,Fr,De,It,Nl)" cn_name="回到过去"/>
+	<game FlagNo="3DO139" name="flashback the quest for identity (u)" cn_name="回到过去:印地安之谜"/>
+	<game FlagNo="3DO140" name="Flopon World (Kashou) (Japan)" cn_name=""/>
+	<game FlagNo="3DO141" name="flying nightmares (u)" cn_name="梦魇"/>
+	<game FlagNo="3DO142" name="Foes of Ali (1995)(Electronic Arts)(US)[CC 734507 SRCR##01]" cn_name="阿里的敌人（美版）"/>
+	<game FlagNo="3DO143" name="Foes of Ali (Europe)" cn_name="阿里的敌人（欧版）"/>
+	<game FlagNo="3DO144" name="Fortune Telling Tarot (J)" cn_name="算命塔罗牌 "/>
+	<game FlagNo="3DO145" name="fun 'n games (u)" cn_name="趣味游戏（美版）"/>
+	<game FlagNo="3DO146" name="Fun 'n Games - Soft no Omochabako (Japan) (En,Ja)" cn_name="趣味游戏（日版）"/>
+	<game FlagNo="3DO147" name="Gakkou no Kowai Usawa Hanako-chan Ga Kite! (J)" cn_name="学校里的恐怖传言 花子来了"/>
+	<game FlagNo="3DO148" name="Game no Tatsujin (Japan)" cn_name="游戏之达人（日版）"/>
+	<game FlagNo="3DO149" name="Gex (Europe)" cn_name="蜥蜴（欧版）"/>
+	<game FlagNo="3DO150" name="Gex (Japan)" cn_name="蜥蜴（日版）"/>
+	<game FlagNo="3DO151" name="Ghost Hunter Series - The Mask of Black Death (J)" cn_name="幽灵猎人系列-黑死病面具 "/>
+	<game FlagNo="3DO152" name="Goal FH (Field Hunter) (Japan)" cn_name="野战猎人"/>
+	<game FlagNo="3DO153" name="Graduation - Final (J)" cn_name="卒业1－最终－（日版）"/>
+	<game FlagNo="3DO154" name="Graduation II - Special - Neo Generation (J)" cn_name="卒业2"/>
+	<game FlagNo="3DO155" name="Great! Soccer Kid (Japan)" cn_name="伟大的！足球小子 "/>
+	<game FlagNo="3DO156" name="Gridders (USA)" cn_name="橄榄球运动员"/>
+	<game FlagNo="3DO157" name="Grimm Meisaku Gekijou Vol. 2 - Hansel to Gretel (Japan)" cn_name="格林名著剧场vol2"/>
+	<game FlagNo="3DO158" name="Grimm Meisaku Gekijou Vol. 3 - Akazukin (Japan)" cn_name="格林名著剧场vol3"/>
+	<game FlagNo="3DO159" name="Guardian War (1994)(Panasonic)(US)[!][A788 DE SM0202-2 R70]" cn_name="守护战争"/>
+	<game FlagNo="3DO160" name="Happy Birthday 3DO 1 (J)" cn_name="生日快乐3DO"/>
+	<game FlagNo="3DO161" name="Hell - A Cyberpunk Thriller (1994)(Take 2)(US)[!][439480035803 R2J]" cn_name="地狱-一部网络朋克惊悚片 "/>
+	<game FlagNo="3DO162" name="Hello Kitty Toy Box (J)" cn_name="凯蒂猫的玩具盒子"/>
+	<game FlagNo="3DO163" name="Hirata Shougo Interactive Ehon - Aesop Monogatari Vol. 1 (Japan) (En,Ja,Fr)" cn_name=""/>
+	<game FlagNo="3DO164" name="Hirata Shougo Interactive Ehon - Cinderella (Japan) (En,Ja,Fr)" cn_name=""/>
+	<game FlagNo="3DO165" name="Horde, The (1994)(Crystal Dynamics)(US)[!][W.O. 58458-19]" cn_name="部落（欧版）"/>
+	<game FlagNo="3DO166" name="Horde, The (Europe)" cn_name="部落（日版）"/>
+	<game FlagNo="3DO167" name="Horde, The (Japan)" cn_name="部落（美版）"/>
+	<game FlagNo="3DO168" name="Icebreaker (1995)(Panasonic)(US)[!][FZ-SW0001]" cn_name="破冰者"/>
+	<game FlagNo="3DO169" name="Idol Janshi Suchie-Pai Special (Japan)" cn_name="偶像雀士特别篇"/>
+	<game FlagNo="3DO170" name="Idol Mahjong Final Romance 2 - Hyper Edition (JP) (Panasonic Japan)" cn_name="麻将罗曼史2（18+）"/>
+	<game FlagNo="3DO171" name="Immercenary (1995)(Electronic Arts)(US)[!][B749 CC 731407-2 R71]" cn_name="完美世界"/>
+	<game FlagNo="3DO172" name="immortal desire (u)" cn_name="不朽的欲望(18+)"/>
+	<game FlagNo="3DO173" name="Incredible Machine, The (1994)(Dynamix)(US)[44874-3]" cn_name="不可思议的机器"/>
+	<game FlagNo="3DO174" name="Insector War (Japan)" cn_name="杀虫战记"/>
+	<game FlagNo="3DO175" name="Interplay 3DO Buffet, The (1995)(Interplay)(US)" cn_name=""/>
+	<game FlagNo="3DO176" name="Iron Angel of the Apocalypse (Europe)" cn_name="世界末日的铁天使 （欧版）"/>
+	<game FlagNo="3DO177" name="iron angel of the apocalypse (USA)" cn_name="世界末日的铁天使 （美版）"/>
+	<game FlagNo="3DO178" name="Iron Angel of the Apocalypse - The Return (USA)" cn_name="世界末日的铁天使 - 回归（美版）"/>
+	<game FlagNo="3DO179" name="Ishida Yoshio Kudan no Igo Seiha (Japan)" cn_name="石田芳夫九段之围棋制霸（日版）"/>
+	<game FlagNo="3DO180" name="J. League Virtual Stadium (Japan)" cn_name="J 联盟虚拟体育场 "/>
+	<game FlagNo="3DO181" name="Jammit (1994)(GTE)(US)[46401]" cn_name="该死"/>
+	<game FlagNo="3DO182" name="Jikki Pachi-Slot Simulator Vol. 1 (Japan)" cn_name="Jikki Pachi插槽模拟器 vol1"/>
+	<game FlagNo="3DO183" name="John Madden Football (USA)" cn_name="约翰麦登橄榄球（美版）"/>
+	<game FlagNo="3DO184" name="John Madden NFL Football (Europe)" cn_name="约翰麦登橄榄球（欧版）"/>
+	<game FlagNo="3DO185" name="johnny bazookatone (u)" cn_name=""/>
+	<game FlagNo="3DO186" name="Jurassic Park Interactive (1994)(Universal)(US)[!][UISD1001 R1D]" cn_name="侏罗纪公园（美版）"/>
+	<game FlagNo="3DO187" name="Jurassic Park Interactive (Europe)" cn_name="侏罗纪公园（欧版）"/>
+	<game FlagNo="3DO188" name="Jurassic Park Interactive (Japan)" cn_name="侏罗纪公园（日版）"/>
+	<game FlagNo="3DO189" name="Kakinoki Shougi (Japan)" cn_name="柿木将棋"/>
+	<game FlagNo="3DO190" name="Keiba Saishou no Housoku (Japan)" cn_name=""/>
+	<game FlagNo="3DO191" name="Killing Time (1995)(Studio 3DO)(US)[!]" cn_name="杀戮时刻（美版）"/>
+	<game FlagNo="3DO192" name="Killing Time (Europe)" cn_name="杀戮时刻（欧版）"/>
+	<game FlagNo="3DO193" name="killing time (mail-in upgrade disc) (u)" cn_name="杀戮时刻"/>
+	<game FlagNo="3DO194" name="killing time ost (pc version)" cn_name="杀戮时刻ost"/>
+	<game FlagNo="3DO195" name="Kingdom - The Far Reaches (Europe)" cn_name="王国-遥远"/>
+	<game FlagNo="3DO196" name="last bounty hunter, the (u)" cn_name="最后的赏金猎人"/>
+	<game FlagNo="3DO197" name="Le Cirque De Frankl (J)" cn_name="弗兰克尔马戏团 "/>
+	<game FlagNo="3DO198" name="Lemmings (Japan)" cn_name="旅鼠（日版）"/>
+	<game FlagNo="3DO199" name="lemmings (u)" cn_name="旅鼠（美版）"/>
+	<game FlagNo="3DO200" name="Letter That Came Over Time, The (J)" cn_name="随时间而来的信 "/>
+	<game FlagNo="3DO201" name="life stage, the - virtual house (u)" cn_name="生命阶段 虚拟小屋"/>
+	<game FlagNo="3DO202" name="Little House, The (J)" cn_name="小房子"/>
+	<game FlagNo="3DO203" name="Live! 3DO Magazine CD-ROM #03 (1994)(Tokumashoten)(Jp)" cn_name="3DO杂志 CD-ROM #03"/>
+	<game FlagNo="3DO204" name="Live! 3DO Magazine CD-ROM #10 (1996)(Tokumashoten)(Jp)" cn_name="3DO杂志 CD-ROM #10"/>
+	<game FlagNo="3DO205" name="Live! 3DO Magazine CD-ROM #2 (1994)(Tokumashoten)(Jp)[TIM-3DO 002 1]" cn_name="3DO杂志 CD-ROM #2"/>
+	<game FlagNo="3DO206" name="Live! 3DO Magazine CD-ROM #8 (1995)(Tokumashoten)(Jp)[TIM-3DO 008 1]" cn_name="3DO杂志 CD-ROM #8"/>
+	<game FlagNo="3DO207" name="lost eden (u)" cn_name="失落的伊甸园"/>
+	<game FlagNo="3DO208" name="Lost Files of Sherlock Holmes, The (USA)" cn_name="福尔摩斯丢失的档案"/>
+	<game FlagNo="3DO209" name="love bites (u)" cn_name="恋爱字节(18+)"/>
+	<game FlagNo="3DO210" name="lucienne's quest (u)" cn_name="吕西安娜的谜题"/>
+	<game FlagNo="3DO211" name="Macaroni Interactive (J)" cn_name="通心粉互动 "/>
+	<game FlagNo="3DO212" name="Mad Dog II - the Lost Gold (1994)(American Laser Games)(US)[!][A810 CP 00014-2 R71]" cn_name="疯狗2消失的黄金城"/>
+	<game FlagNo="3DO213" name="mad dog mccree (u)" cn_name="疯狗 麦克里"/>
+	<game FlagNo="3DO214" name="mad dog mccree 2 (arcade prototype) (u)" cn_name="疯狗 麦克里2"/>
+	<game FlagNo="3DO215" name="Mahjong Enlightenment Sky - Heaven Sent (J)" cn_name="麻将启蒙"/>
+	<game FlagNo="3DO216" name="Mahjong Gokuu Tenjiku (Japan)" cn_name="麻雀悟空 天竺"/>
+	<game FlagNo="3DO217" name="Mahjong Kyou Jidai - AV Gal Seifuku Hen (1994)(Micronet)(Jp)[MC-700-R1M]" cn_name="麻雀狂时代av（18+）"/>
+	<game FlagNo="3DO218" name="Mahjong Kyou Jidai - Cogal Houkago Hen (JP) (Micronet)" cn_name="麻雀狂时代(18+)"/>
+	<game FlagNo="3DO219" name="Makaroni Hourensou Interactive (Japan)" cn_name=""/>
+	<game FlagNo="3DO220" name="Marine Tour - Diving Spot Guide (J)" cn_name="海上旅游-潜水点导游 "/>
+	<game FlagNo="3DO221" name="mathemagics - an interactive learning cube (u)" cn_name="数学"/>
+	<game FlagNo="3DO222" name="Mazer (1995)(American Laser Games)(US)[B1279 CP 000388-2 R70]" cn_name="马泽尔"/>
+	<game FlagNo="3DO223" name="MegaRace (1994)(Mindscape)(US)(M5)[B309 DJ 219961-2 R73]" cn_name="烈火战车（美版）"/>
+	<game FlagNo="3DO224" name="MegaRace (Japan)" cn_name="烈火战车（日版）"/>
+	<game FlagNo="3DO225" name="Microcosm (1994)(Psygnosis)(US)[!][DK 10376 SRCR##01]" cn_name="缩影（美版）"/>
+	<game FlagNo="3DO226" name="Microcosm (Japan)" cn_name="缩影（日版）"/>
+	<game FlagNo="3DO227" name="mind teazzer (u)" cn_name="心灵导师（18+）"/>
+	<game FlagNo="3DO228" name="Mirai Shounen Conan - Digital Library (Japan)" cn_name="未来少年柯南 - 数字图书馆"/>
+	<game FlagNo="3DO229" name="Montana Jones (J)" cn_name="飞虎奇兵 "/>
+	<game FlagNo="3DO230" name="Murphy da yo Zen'in Shuugou!! (Japan) (En,Ja)" cn_name="墨菲全员集合! "/>
+	<game FlagNo="3DO231" name="Myst (1994)(Panasonic)(US)[FZSM0204 R1J]" cn_name="神秘岛（美版）"/>
+	<game FlagNo="3DO232" name="Myst (Germany)" cn_name="神秘岛（德版）"/>
+	<game FlagNo="3DO233" name="Myst (Japan)" cn_name="神秘岛（日版）"/>
+	<game FlagNo="3DO234" name="Naoko to Hide Bou - Kanji no Tensai 1 (J)" cn_name="算数天才1"/>
+	<game FlagNo="3DO235" name="Naoko to Hide Bou - Kanji no Tensai 2 (J)" cn_name="算数天才2"/>
+	<game FlagNo="3DO237" name="Neo Organic Bioform (J)" cn_name="有机生物膜 （18+）"/>
+	<game FlagNo="3DO238" name="neurodancer (u)" cn_name="神经舞者(18+)"/>
+	<game FlagNo="3DO239" name="New House 1 Front House (J)" cn_name="新房1前厅 "/>
+	<game FlagNo="3DO240" name="NFL Madden Football (1994)(Electronic Arts)(Jp)" cn_name="NFL疯狂橄榄球"/>
+	<game FlagNo="3DO241" name="night trap (disc 1 of 2)(u)" cn_name="午夜陷阱 cd1"/>
+	<game FlagNo="3DO242" name="night trap (disc 2 of 2)(u)" cn_name="午夜陷阱 cd2"/>
+	<game FlagNo="3DO243" name="Nishimura Kyotaro Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 1)" cn_name="西村京太郎旅行悬疑:凶恶的季节东京南纪白滨连续杀人事件CD1"/>
+	<game FlagNo="3DO244" name="Nishimura Kyotaro Travel Mystery - Akugyaku no Kisetsu - Tokyo ~ Nanki Shirahama Renzoku Satsujin Jiken (Japan) (Disc 2)" cn_name="西村京太郎旅行悬疑:凶恶的季节东京南纪白滨连续杀人事件CD2"/>
+	<game FlagNo="3DO245" name="Nobunaga no Yabou - Haouden (Japan)" cn_name="信长之野望霸王传（日版）"/>
+	<game FlagNo="3DO246" name="Nontan to Issho - Hoshi no Okurimono (Japan)" cn_name="诺坦的挑战-星之赠礼"/>
+	<game FlagNo="3DO247" name="Nontan to Issho - Nohara de Asobo (Japan)" cn_name="诺坦的挑战"/>
+	<game FlagNo="3DO248" name="Novastorm (1994)(Psygnosis)(US)[!][3DRM-1255110 1]" cn_name="诺瓦风暴)"/>
+	<game FlagNo="3DO249" name="Oceans Below (1993)(Software Toolworks)(US)[DJ 198650 SRCR01]" cn_name="海洋以下（美版）"/>
+	<game FlagNo="3DO250" name="Oceans Below (Japan)" cn_name="海洋以下 （日版）"/>
+	<game FlagNo="3DO252" name="Off-World Interceptor (1994)(Crystal Dynamics)(Eu)[!][3DRM1241330 1]" cn_name="外星拦截器 （欧版）"/>
+	<game FlagNo="3DO253" name="Off-World Interceptor (Japan)" cn_name="外星拦截器 （日版）"/>
+	<game FlagNo="3DO254" name="Olympic Soccer (USA)" cn_name="奥林匹克足球"/>
+	<game FlagNo="3DO255" name="olympic soccer 1996 (u)" cn_name="奥林匹克足球1996"/>
+	<game FlagNo="3DO256" name="olympic summer games (u)" cn_name="夏季奥林匹克运动会"/>
+	<game FlagNo="3DO257" name="Onee-san to Isshoo! Kise Kae Paradise (JP) (Panasonic Japan)" cn_name="一个圣人去伊苏！凯西乐园 (18+)"/>
+	<game FlagNo="3DO258" name="Onee-san to Isshoo! Shanken Paradise (JP) (Panasonic Japan)" cn_name="一个圣人去伊苏！山根乐园 (18+)"/>
+	<game FlagNo="3DO259" name="orbatak (arcade prototype) (u)" cn_name=""/>
+	<game FlagNo="3DO260" name="out of this world (u)" cn_name="世界上最棒"/>
+	<game FlagNo="3DO261" name="Outer World (Japan)" cn_name="逃离异世界"/>
+	<game FlagNo="3DO263" name="Oyaji Hunter Mahjong (Japan)" cn_name="爆烈猎人 麻将"/>
+	<game FlagNo="3DO264" name="Pack in Kodak Discover Photo CD Version 2 (J)" cn_name="柯达探索相片包 "/>
+	<game FlagNo="3DO265" name="Paddock Note '95 (Japan)" cn_name="围场注释'95 "/>
+	<game FlagNo="3DO266" name="Paddock Note '95 (Japan) (Rev 1)" cn_name="围场注释'95 rev1"/>
+	<game FlagNo="3DO267" name="Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (1993)(Panasonic)(US)[DFJN5001ZBZ]" cn_name=""/>
+	<game FlagNo="3DO268" name="Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (Japan)" cn_name=""/>
+	<game FlagNo="3DO269" name="Panasonic REAL 3DO Interactive Multiplayer - Sampler CD For PAL system (1994)(Panasonic)(Eu)[!][D" cn_name=""/>
+	<game FlagNo="3DO270" name="panzer general, the (u)" cn_name="坦克将军（美版）"/>
+	<game FlagNo="3DO271" name="PaTaank (Europe)" cn_name="装甲元帅（欧版）"/>
+	<game FlagNo="3DO272" name="PaTaank (Japan)" cn_name="装甲元帅（日版）"/>
+	<game FlagNo="3DO273" name="Pebble Beach Golf Links (USA)" cn_name="圆石滩滨海球场（美版）"/>
+	<game FlagNo="3DO274" name="Pebble Beach no Hatou (1994)(Panasonic)(Jp)[!]" cn_name="圆石滩滨海球场（日版）"/>
+	<game FlagNo="3DO275" name="Penthouse Interactive - Virtual Photo Shoot Vol. 1 (JP) (Panasonic Japan)" cn_name="顶楼互动-虚拟摄影1(18+)"/>
+	<game FlagNo="3DO276" name="perfect general, the (u)" cn_name="完美将军 "/>
+	<game FlagNo="3DO277" name="Perfect World (Japan)" cn_name="完美世界"/>
+	<game FlagNo="3DO278" name="PGA Tour 96 (USA)" cn_name="PGA巡回赛96 "/>
+	<game FlagNo="3DO279" name="phoenix 3 (u)" cn_name="凤凰3"/>
+	<game FlagNo="3DO280" name="plumbers don't wear ties (u)" cn_name="水管工不打领带 (18+)"/>
+	<game FlagNo="3DO281" name="PO'ed (1995)(Studio 3DO)(Eu-US)[!]" cn_name=""/>
+	<game FlagNo="3DO282" name="Policenauts (1995)(Konami)(Jp)(Disc 1 of 2)" cn_name="宇宙骑警CD1"/>
+	<game FlagNo="3DO283" name="Policenauts (1995)(Konami)(Jp)(Disc 2 of 2)" cn_name="宇宙骑警CD2"/>
+	<game FlagNo="3DO284" name="Policenauts - Pilot Disc (1995)(Konami)(Jp)[VZ-001-R2C V]" cn_name="宇宙骑警引导盘"/>
+	<game FlagNo="3DO285" name="Powers Kingdom (1994)(Panasonic)(Eu)[!][FZ-SE0202]" cn_name="力量王国（欧版）"/>
+	<game FlagNo="3DO286" name="Powers Kingdom (Japan)" cn_name="力量王国（日版）"/>
+	<game FlagNo="3DO287" name="Pretty Soldier Sailormoon Demo (J)" cn_name="美少女战士demo"/>
+	<game FlagNo="3DO288" name="Primal Rage (Europe)" cn_name="原始之怒"/>
+	<game FlagNo="3DO289" name="Princess Maker 2 (Japan)" cn_name="美少女梦工厂2"/>
+	<game FlagNo="3DO290" name="Psychic Detective (1995)(Electronic Arts)(US)(Disc 1 of 3)[!][CC 726307.1]" cn_name="通灵侦探CD1"/>
+	<game FlagNo="3DO291" name="Psychic Detective (1995)(Electronic Arts)(US)(Disc 2 of 3)[!][CC 726307.2]" cn_name="通灵侦探CD2"/>
+	<game FlagNo="3DO292" name="Psychic Detective (1995)(Electronic Arts)(US)(Disc 3 of 3)[!][CC 726307.3]" cn_name="通灵侦探CD3"/>
+	<game FlagNo="3DO293" name="Puppet Tale (Japan)" cn_name="木偶故事 "/>
+	<game FlagNo="3DO294" name="putt putt fun pack (u)" cn_name="putt putt趣味包"/>
+	<game FlagNo="3DO295" name="putt putt goes to the moon (u)" cn_name="putt putt奔向月球"/>
+	<game FlagNo="3DO296" name="Putt Putt Joins the Parade (1993)(Humongous)(US)[A905 CQ 6922-2 R70]" cn_name="Putt Putt加入游行队伍 "/>
+	<game FlagNo="3DO297" name="Puzzle Bobble (Japan)" cn_name="泡泡龙（日版）"/>
+	<game FlagNo="3DO298" name="Puzzle Bobble (Japan) (Demo)" cn_name="泡泡龙demo（日版）"/>
+	<game FlagNo="3DO299" name="Pyramid Intruder (Japan)" cn_name="金字塔入侵者 "/>
+	<game FlagNo="3DO300" name="Quarantine (1994)(Gametek)(US)[439480068501RE3 R3J]" cn_name="隔离"/>
+	<game FlagNo="3DO301" name="Quarterback Attack - The Professional Quarterback Simulator (1995)(Digital Pictures)(US)" cn_name="四分卫进攻 - 专业四分卫模拟器 "/>
+	<game FlagNo="3DO302" name="quarterback attack with mike ditka (u)" cn_name="迪特卡的四分卫进攻"/>
+	<game FlagNo="3DO303" name="Real Pinball (1994)(Panasonic)(US)" cn_name="真实弹珠台（美版）"/>
+	<game FlagNo="3DO304" name="Real Pinball (Europe)" cn_name="真实弹珠台（欧版）"/>
+	<game FlagNo="3DO305" name="Return Fire (Europe)" cn_name="救援炮火（欧版）"/>
+	<game FlagNo="3DO306" name="Return Fire (Japan) (En,Ja,Fr,De,Es,It,Pt,Ko,Ru,Ar)" cn_name="救援炮火（日版）"/>
+	<game FlagNo="3DO307" name="Return Fire - Maps o' Death (Europe)" cn_name="救援炮火 死亡地图（欧版）"/>
+	<game FlagNo="3DO308" name="Return Fire - Maps O' Death v1.0 FB13.1.0 (1995)(Prolific)(US)[data disc]" cn_name="救援炮火 死亡地图（美版）"/>
+	<game FlagNo="3DO310" name="Return Fire v1.0 F306.1.2 (1994)(Silent)(Eu-US)[!]" cn_name="救援炮火（美版）"/>
+	<game FlagNo="3DO311" name="Rise of the Robots (1995)(Time Warner Interactive)(Eu)[!]" cn_name="机器人崛起（欧版）"/>
+	<game FlagNo="3DO312" name="Rise of the Robots (USA)" cn_name="机器人崛起（美版）"/>
+	<game FlagNo="3DO313" name="Road &amp; Track Presents - OverDrivin' (Japan)" cn_name="极品飞车（日版）"/>
+	<game FlagNo="3DO314" name="Road &amp; Track Presents - The Need for Speed (Europe)" cn_name="极品飞车（欧版）"/>
+	<game FlagNo="3DO315" name="Road Rash (Europe)" cn_name="暴力摩托（欧版）"/>
+	<game FlagNo="3DO316" name="Road Rash (Japan)" cn_name="暴力摩托（日版）"/>
+	<game FlagNo="3DO317" name="Road Rash (USA)" cn_name="暴力摩托（美版）"/>
+	<game FlagNo="3DO318" name="Robinson's Requiem (1996)(Silmarils)(US)" cn_name="鲁滨孙的安魂曲"/>
+	<game FlagNo="3DO319" name="Romance of the Three Kingdoms IV (J)" cn_name="三国志4"/>
+	<game FlagNo="3DO320" name="Royal Pro Wrestling (J)" cn_name="皇家职业摔跤 "/>
+	<game FlagNo="3DO321" name="Sample This! (1994)(Crystal Dynamics)(US)[!][61340 R1J]" cn_name=""/>
+	<game FlagNo="3DO322" name="Sampler III and 3DO Storage Manager (1994)(Panasonic)(US)" cn_name=""/>
+	<game FlagNo="3DO323" name="Samurai Shodown (1994)(Crystal Dynamics)(US)[!]" cn_name="侍魂（美版）"/>
+	<game FlagNo="3DO324" name="Samurai Shodown (Europe)" cn_name="侍魂（欧版）"/>
+	<game FlagNo="3DO325" name="Samurai Shodown (Japan) (En,Ja)" cn_name="侍魂（日版）"/>
+	<game FlagNo="3DO326" name="San Diego Zoo Presents...The Animals!, The (1993)(Software Toolworks)(US)" cn_name="圣地亚哥动物园的礼物"/>
+	<game FlagNo="3DO327" name="Scramble Cobra (1995)(Panasonic)(US)" cn_name="眼镜蛇紧急起飞（美版）"/>
+	<game FlagNo="3DO328" name="Scramble Cobra (Japan)" cn_name="眼镜蛇紧急起飞（日版）"/>
+	<game FlagNo="3DO329" name="Secre Fuumin no Omochabako (Japan)" cn_name=""/>
+	<game FlagNo="3DO330" name="Sento Monogatari - Sono I (Japan)" cn_name="澡堂物语"/>
+	<game FlagNo="3DO331" name="Sesame Street - Numbers (Japan)" cn_name="芝麻街（日版）"/>
+	<game FlagNo="3DO332" name="sesame street numbers (u)" cn_name="芝麻街（美版）"/>
+	<game FlagNo="3DO333" name="Sewer Shark (1994)(Digital Pictures)(US)" cn_name="下水道鲨鱼（美版）"/>
+	<game FlagNo="3DO334" name="Sewer Shark (Europe)" cn_name="下水道鲨鱼（欧版）"/>
+	<game FlagNo="3DO335" name="sex (u)" cn_name="性（18+）"/>
+	<game FlagNo="3DO336" name="Shadow - War of Succession (1994)(Tribeca)(US)" cn_name="暗影 继承战争 "/>
+	<game FlagNo="3DO337" name="Shadow Warriors (Japan)" cn_name="影子武士"/>
+	<game FlagNo="3DO338" name="Shanghai - Banri no Choujou (1994)(Electronic Arts Victor)(Jp)(en)" cn_name="上海万里之长城（日版）"/>
+	<game FlagNo="3DO339" name="Shanghai - Triple-Threat (1994)(Activision)(US)[!][TRIPLETHREAT R1J]" cn_name="上海万里之长城（美版）"/>
+	<game FlagNo="3DO340" name="Shelley Duvall's It's A Bird's Life (199x)(Sanctuary Woods)(US)[!]" cn_name="雪莱鸟"/>
+	<game FlagNo="3DO341" name="Shock Wave (Japan)" cn_name="冲击波（日版）"/>
+	<game FlagNo="3DO342" name="Shock Wave (USA)" cn_name="冲击波 （美版）"/>
+	<game FlagNo="3DO343" name="Shock Wave - Operation JumpGate (1994)(Electronic Arts)(US)[!][data disc]" cn_name="冲击波 - 操作跨接门 （美版）"/>
+	<game FlagNo="3DO344" name="Shock Wave - Operation JumpGate (Europe)" cn_name="冲击波 - 操作跨接门 （欧版）"/>
+	<game FlagNo="3DO345" name="Shock Wave - Operation JumpGate (Japan)" cn_name="冲击波（日版）"/>
+	<game FlagNo="3DO346" name="Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(US)(Disc 1 of 2)[!]" cn_name="冲击波2 CD1"/>
+	<game FlagNo="3DO347" name="Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(US)(Disc 2 of 2)[!]" cn_name="冲击波2 CD2"/>
+	<game FlagNo="3DO349" name="sid meier's cpu bach (u)" cn_name=""/>
+	<game FlagNo="3DO350" name="Slam 'n Jam '95 (Japan)" cn_name="詹姆士灌篮95（日版）"/>
+	<game FlagNo="3DO351" name="Slam 'n Jam '95 (USA, Europe)" cn_name="詹姆士灌篮95（美版）"/>
+	<game FlagNo="3DO352" name="Slayer (1994)(SSI)(US)[!][SLAYER R1J]" cn_name=" 屠宰者"/>
+	<game FlagNo="3DO353" name="slopestyle - an interactive learning cube (u)" cn_name="交互式学习立方体 "/>
+	<game FlagNo="3DO354" name="Slot Machine Simulator Volume 1 (J)" cn_name="老虎机模拟器 "/>
+	<game FlagNo="3DO355" name="Snow Job Starring Tracy Scoggins (1995)(Studio 3DO)(US)(Disc 1 of 2)" cn_name="特蕾西·斯科金斯主演CD1"/>
+	<game FlagNo="3DO356" name="Snow Job Starring Tracy Scoggins (1995)(Studio 3DO)(US)(Disc 2 of 2)" cn_name="特蕾西·斯科金斯主演CD2"/>
+	<game FlagNo="3DO357" name="Snowjob (1995)(Studio 3DO)(Eu)(Disc 1 of 2)" cn_name="花言巧语CD1"/>
+	<game FlagNo="3DO358" name="Snowjob (1995)(Studio 3DO)(Eu)(Disc 2 of 2)" cn_name="花言巧语CD2"/>
+	<game FlagNo="3DO359" name="Soccer Kid (USA)" cn_name="足球小子"/>
+	<game FlagNo="3DO361" name="Space Ace (1995)(ReadySoft)(US)" cn_name="太空王牌"/>
+	<game FlagNo="3DO362" name="Space Ace (Europe) (Demo)" cn_name="太空王牌demo"/>
+	<game FlagNo="3DO363" name="Space Hulk - Vengeance of the Blood Angels (1995)(Electronic Arts)(US)" cn_name="太空战舰"/>
+	<game FlagNo="3DO364" name="Space Pirates (1994)(American Laser Games)(US)[!]" cn_name="太空海盗"/>
+	<game FlagNo="3DO365" name="space shuttle, the software toolworks presents (u)" cn_name="航天飞机"/>
+	<game FlagNo="3DO366" name="Star Control II (1994)(Crystal Dynamics)(US)[!]" cn_name="行星控制2"/>
+	<game FlagNo="3DO367" name="Star Fighter (1995)(Studio 3DO)(Eu-US)[!]" cn_name="星际战士"/>
+	<game FlagNo="3DO368" name="Star Fighter (Europe) (Demo)" cn_name="星际战士demo"/>
+	<game FlagNo="3DO369" name="Star Wars - Rebel Assault (Europe)" cn_name="星球大战 义军进攻"/>
+	<game FlagNo="3DO370" name="Star Wars - Rebel Assault (Japan)" cn_name="星球大战 义军进攻"/>
+	<game FlagNo="3DO371" name="StarBlade (1994)(Panasonic)(US)[FZSC5351]" cn_name="星际之刃（美版）"/>
+	<game FlagNo="3DO372" name="Starblade (Europe)" cn_name="星际之刃（欧版）"/>
+	<game FlagNo="3DO373" name="Starblade (Japan)" cn_name="星际之刃（日版）"/>
+	<game FlagNo="3DO374" name="Stellar 7 - Draxon's Revenge (1993)(Dynamix)(US)[!]" cn_name="德克森的复仇"/>
+	<game FlagNo="3DO375" name="Stellar 7 - Draxon's Revenge (Japan)" cn_name="德克森的复仇"/>
+	<game FlagNo="3DO376" name="Strahl (1995)(Panasonic)(US)[!]" cn_name="光"/>
+	<game FlagNo="3DO377" name="Striker - World Cup Special (1995)(Panasonic)(Eu)[!]" cn_name="世界杯sp（欧版）"/>
+	<game FlagNo="3DO378" name="Suchie Pai Special, The (J)" cn_name="偶像雀士特别篇（18+）"/>
+	<game FlagNo="3DO379" name="Super Model, The - Gail McKenna (JP) (Digital Production)" cn_name="超级模特（18+）"/>
+	<game FlagNo="3DO380" name="super models go wild (u)" cn_name="超级模特-野外特写（18+）"/>
+	<game FlagNo="3DO381" name="Super Real Mahjong PIV + Aishou Shindan (1994)(Naxat)(Jp)" cn_name="超真实麻将4（18+）"/>
+	<game FlagNo="3DO382" name="Super Street Fighter II Turbo (Europe)" cn_name="超级街头霸王2加速版（欧版）"/>
+	<game FlagNo="3DO383" name="Super Street Fighter II Turbo (Europe) (4 Character Demo Disc)" cn_name="超级街头霸王2加速版（欧版） (4 Character Demo Disc)"/>
+	<game FlagNo="3DO384" name="Super Street Fighter II Turbo (USA)" cn_name="超级街头霸王2加速版（美版）"/>
+	<game FlagNo="3DO385" name="Super Street Fighter II X - Grand Master Challenge (Japan)" cn_name="超级街头霸王2X（日版）"/>
+	<game FlagNo="3DO386" name="Super Wing Commander (1994)(Origin)(US)[!]" cn_name="银河飞将（美版）"/>
+	<game FlagNo="3DO387" name="Super Wing Commander (Europe)" cn_name="银河飞将（欧版）"/>
+	<game FlagNo="3DO388" name="Super Wing Commander (Japan)" cn_name="银河飞将（日版）"/>
+	<game FlagNo="3DO389" name="Supreme Warrior (1994)(Digital Pictures)(US)(Disc 1 of 2)[!][Fire &amp; Earth]" cn_name="英雄CD1（美版）"/>
+	<game FlagNo="3DO390" name="Supreme Warrior (1994)(Digital Pictures)(US)(Disc 2 of 2)[!][Wind &amp; Fang Tu]" cn_name="英雄CD2（美版）"/>
+	<game FlagNo="3DO391" name="Supreme Warrior (Japan) (Ja,Zh) (Disc 1) (Fire &amp; Earth)" cn_name="英雄CD1（日版）"/>
+	<game FlagNo="3DO392" name="Supreme Warrior (Japan) (Ja,Zh) (Disc 2) (Wind &amp; Fang Tu)" cn_name="英雄CD2（日版）"/>
+	<game FlagNo="3DO393" name="Sword &amp; Sorcery (Japan)" cn_name="剑与魔法（日版）"/>
+	<game FlagNo="3DO394" name="Syndicate (1995)(Electronic Arts)(US)[!]" cn_name="枭雄（美版）"/>
+	<game FlagNo="3DO395" name="Syndicate (Europe)" cn_name="枭雄（欧版）"/>
+	<game FlagNo="3DO396" name="Syndicate (Europe) (Demo)" cn_name="枭雄（欧版demo）"/>
+	<game FlagNo="3DO397" name="Syndicate (Japan)" cn_name="枭雄（日版）"/>
+	<game FlagNo="3DO399" name="T&amp;E VR Golf - Devil's Course (Japan)" cn_name="VR高尔夫 - 死亡谷国家公园"/>
+	<game FlagNo="3DO400" name="T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan)" cn_name="VR高尔夫 -  Masters - Harukanaru Augusta 3"/>
+	<game FlagNo="3DO401" name="T&amp;E VR Golf - Pebble Beach no Hatou (Japan)" cn_name="VR高尔夫 - 圆石滩球场"/>
+	<game FlagNo="3DO402" name="T&amp;E VR Golf - Waialae no Kiseki (Japan)" cn_name="VR高尔夫 - 瓦乐奇迹"/>
+	<game FlagNo="3DO403" name="Taiketsu Rumiizu! (Japan)" cn_name="対決　るみーず！"/>
+	<game FlagNo="3DO404" name="Takeru (J)" cn_name="武尊"/>
+	<game FlagNo="3DO405" name="Tetsujin (Japan)" cn_name="铁人"/>
+	<game FlagNo="3DO406" name="The Mysterious Travel of Kyotaro Nishima (J)" cn_name="西岛京太郎的神秘旅行 "/>
+	<game FlagNo="3DO407" name="the real sampler (u)" cn_name="真实样本"/>
+	<game FlagNo="3DO408" name="Theatre Wars - Goraku no Dendou (Japan)" cn_name="战争剧场 娱乐的殿堂"/>
+	<game FlagNo="3DO409" name="Theme Park (1994)(Electronic Arts)(US)(en-fr)[!]" cn_name="主题公园（美版）"/>
+	<game FlagNo="3DO410" name="Theme Park (Europe)" cn_name="主题公园（欧版）"/>
+	<game FlagNo="3DO411" name="Theme Park (Europe) (Demo)" cn_name="主题公园（欧版DEMO）"/>
+	<game FlagNo="3DO412" name="Theme Park (Japan)" cn_name="主题公园（日版）"/>
+	<game FlagNo="3DO413" name="The - eye - of - typhoon" cn_name="台风之眼"/>
+	<game FlagNo="3DO414" name="Toki o Koeta Tegami (Japan)" cn_name="時を超えた手紙"/>
+	<game FlagNo="3DO415" name="Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (Japan)" cn_name="心跳麻雀乐园（18+）"/>
+	<game FlagNo="3DO416" name="toontime in the classroom (u)" cn_name="教室里的时间"/>
+	<game FlagNo="3DO417" name="Total Eclipse (Europe)" cn_name="心之全蚀（欧版）"/>
+	<game FlagNo="3DO418" name="Total Eclipse (Japan)" cn_name="心之全蚀（日版）"/>
+	<game FlagNo="3DO419" name="Total Eclipse (Korea)" cn_name="心之全蚀（韩版）"/>
+	<game FlagNo="3DO420" name="Total Eclipse (USA)" cn_name="心之全蚀（美版）"/>
+	<game FlagNo="3DO421" name="Tower, The (Japan)" cn_name="高楼（日版）"/>
+	<game FlagNo="3DO422" name="Tozasareta Yakata (Japan)" cn_name="紧闭的浴衣"/>
+	<game FlagNo="3DO423" name="Trip'D (USA)" cn_name=""/>
+	<game FlagNo="3DO424" name="True Golf Classics - Pebble Beach Golf Links (Europe)" cn_name="真正的高尔夫经典 -圆石滩高尔夫林克斯球场"/>
+	<game FlagNo="3DO425" name="true golf classics - wicked 18 (u)" cn_name="真正的高尔夫经典"/>
+	<game FlagNo="3DO426" name="Twinkle Knights (J)" cn_name="闪耀骑士(18+)"/>
+	<game FlagNo="3DO427" name="Twisted (Japan)" cn_name="扭曲"/>
+	<game FlagNo="3DO428" name="Twisted - The Game Show (1993)(Electronic Arts)(US)[!][730807-2 R73]" cn_name="扭曲-游戏秀（美版）"/>
+	<game FlagNo="3DO429" name="Twisted - The Game Show (Europe)" cn_name="扭曲-游戏秀（欧版）"/>
+	<game FlagNo="3DO430" name="Uchuu Seibutsu Flopon-kun (Japan)" cn_name="宇宙生物:浮若风君"/>
+	<game FlagNo="3DO431" name="Ultraman Powered Ultimate Hero (J)" cn_name="超人力霸王"/>
+	<game FlagNo="3DO432" name="VGoal - Soccer - 96 - J" cn_name="胜利足球96（日版）"/>
+	<game FlagNo="3DO433" name="Virtual Cameraman Part 1 - Naomi Sawada &amp; Anna Juri (Japan)" cn_name="虚拟摄影师1（18+）"/>
+	<game FlagNo="3DO435" name="Virtual Cameraman Part 2 - Kawai Natsumi and Tachihara Kimi (J)" cn_name="虚拟摄影师2（18+）"/>
+	<game FlagNo="3DO437" name="Virtual Cameraman Part 3 - Sugimoto Yumika (J)" cn_name="虚拟摄影师3（18+）"/>
+	<game FlagNo="3DO439" name="Virtual Cameraman Part 4 - Shiori Fujitani (JP) (Naxat Soft)" cn_name="虚拟摄影师4（18+）"/>
+	<game FlagNo="3DO440" name="Virtual Cameraman Part 4 - Toya Shiori (J)" cn_name="虚拟摄影师4（18+）"/>
+	<game FlagNo="3DO441" name="Virtual Cameraman Part 5 - Anzo Ari (J)" cn_name="虚拟摄影师5（18+）"/>
+	<game FlagNo="3DO442" name="Virtual Cameraman Part 5 - Yuri Andou (JP) (Naxat Soft)" cn_name="虚拟摄影师5（18+）"/>
+	<game FlagNo="3DO443" name="Virtual Horror - Norowareta Yakata (Japan)" cn_name="虚拟恐惧"/>
+	<game FlagNo="3DO444" name="Virtual Quest - Pharaoh no Fuuin (Japan)" cn_name="法老的封印"/>
+	<game FlagNo="3DO445" name="Virtual Stadium Professional Baseball (J)" cn_name="虚拟体育场职业棒球大赛"/>
+	<game FlagNo="3DO446" name="virtual vivid sampler (u)" cn_name="虚拟花样集锦(18+)"/>
+	<game FlagNo="3DO447" name="Virtuoso (1995)(Data East)(US)" cn_name="虚拟光标（美版）"/>
+	<game FlagNo="3DO448" name="Virtuoso (Japan)" cn_name="虚拟光标(日版)"/>
+	<game FlagNo="3DO449" name="VR Stalker (1994)(American Laser Games)(US)[!]" cn_name="VR潜行者（美版）"/>
+	<game FlagNo="3DO450" name="VR Stalker (Europe)" cn_name="VR潜行者（欧版）"/>
+	<game FlagNo="3DO451" name="Waialae Country Club (1994)(Panasonic)(US)[!]" cn_name="维艾勒伊乡村俱乐部"/>
+	<game FlagNo="3DO452" name="Way of the Warrior (1994)(Universal)(US)[!]" cn_name="战士之路（美版）"/>
+	<game FlagNo="3DO453" name="Way of the Warrior (Japan)" cn_name="战士之路（日版）"/>
+	<game FlagNo="3DO454" name="who shot johnny rock (u)" cn_name="谁杀了约翰洛克（美版）"/>
+	<game FlagNo="3DO455" name="Wicked 18 (1994)(Panasonic)(US)" cn_name="邪恶女巫18（美版）"/>
+	<game FlagNo="3DO456" name="Wing Commander III - Heart of the Tiger (1995)(Origin)(Eu-US)(Disc 1 of 4)[!]" cn_name="银河飞将3:猛虎之心cd1（美版）"/>
+	<game FlagNo="3DO457" name="Wing Commander III - Heart of the Tiger (1995)(Origin)(Eu-US)(Disc 2 of 4)[!]" cn_name="银河飞将3:猛虎之心cd2（美版）"/>
+	<game FlagNo="3DO458" name="Wing Commander III - Heart of the Tiger (1995)(Origin)(Eu-US)(Disc 3 of 4)[!]" cn_name="银河飞将3:猛虎之心cd3（美版）"/>
+	<game FlagNo="3DO459" name="Wing Commander III - Heart of the Tiger (1995)(Origin)(Eu-US)(Disc 4 of 4)[!]" cn_name="银河飞将3:猛虎之心cd4（美版）"/>
+	<game FlagNo="3DO460" name="Wing Commander III - Heart of the Tiger (Germany) (Disc 1)" cn_name="银河飞将3:猛虎之心cd1（德版）"/>
+	<game FlagNo="3DO461" name="Wing Commander III - Heart of the Tiger (Germany) (Disc 2)" cn_name="银河飞将3:猛虎之心cd2（德版）"/>
+	<game FlagNo="3DO462" name="Wing Commander III - Heart of the Tiger (Germany) (Disc 3)" cn_name="银河飞将3:猛虎之心cd3（德版）"/>
+	<game FlagNo="3DO463" name="Wing Commander III - Heart of the Tiger (Germany) (Disc 4)" cn_name="银河飞将3:猛虎之心cd4（德版）"/>
+	<game FlagNo="3DO464" name="Winning Post (Japan)" cn_name="赛马大亨（日版）"/>
+	<game FlagNo="3DO465" name="Wolfenstein 3D (1994)(Interplay)(US)" cn_name="德军总部3D（美版）"/>
+	<game FlagNo="3DO466" name="woody woodpecker &amp; friends, vol 1 (u)" cn_name="啄木鸟伍迪和朋友们1（美版）"/>
+	<game FlagNo="3DO467" name="woody woodpecker &amp; friends, vol 2 (u)" cn_name="啄木鸟伍迪和朋友们2（美版）"/>
+	<game FlagNo="3DO468" name="woody woodpecker &amp; friends, vol 3 (u)" cn_name="啄木鸟伍迪和朋友们3（美版）"/>
+	<game FlagNo="3DO469" name="World Cup Golf (Europe)" cn_name="高尔夫世界杯 （欧版）"/>
+	<game FlagNo="3DO470" name="World Cup Golf - Hyatt Dorado Beach (1994)(U.S. Gold)(US)" cn_name="高尔夫世界杯 凯悦多拉多海滩（美版）"/>
+	<game FlagNo="3DO471" name="World Cup Special (Japan)" cn_name="世界杯SP（日版）"/>
+	<game FlagNo="3DO472" name="WorldCup Super Stadium (Japan)" cn_name="世界杯 超级运动场（日版）"/>
+	<game FlagNo="3DO473" name="Yakyuuken Special, The (JP) (Societa Daikanyama)" cn_name="野球拳SP（日版）（18+）"/>
+	<game FlagNo="3DO474" name="Yamada Kamachi Bijutsukan - Kamachi's Museum (Japan)" cn_name="山田かまち美術館（日版）"/>
+	<game FlagNo="3DO475" name="Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1)" cn_name="山村美紗サスペンス 京都鞍馬山荘殺人事件CD1（日版）"/>
+	<game FlagNo="3DO476" name="Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 2)" cn_name="山村美紗サスペンス 京都鞍馬山荘殺人事件CD2（日版）"/>
+	<game FlagNo="3DO477" name="Yu Yu Hakusho (1994)(Tomy)(Jp)" cn_name="幽游白书（日版）"/>
+	<game FlagNo="3DO478" name="Yuujou Densetsu - The Doraemons (Japan)" cn_name="友情传说-哆啦A梦（日版）"/>
+	<game FlagNo="3DO479" name="Zhadnost - The Peoples Party (1995)(3DO Company)(Eu)[!]" cn_name="Zhadnost:人民党（欧版）"/>
+	<game FlagNo="3DO480" name="Konpeki.no.Kantai" cn_name="绀碧之舰队（日版）"/>
+	<game FlagNo="3DO481" name="Lost.Dungeon.(1995)(T&amp;E.Soft)(JP)" cn_name="龙与地下城失落的迷宫（日版）"/>
+	<game FlagNo="3DO482" name="Oukoku.no.Grand.Chef.(1996)(Sala.International)(JP)" cn_name="王国之厨师"/>
+</datafile>
