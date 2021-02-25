@@ -1,0 +1,54 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>游戏列表</title>
+    <link rel="shortcut icon" href="./img/favicon.ico">
+    <!-- Load required Bootstrap and BootstrapVue CSS -->
+    <link type="text/css" rel="stylesheet"
+          href="https://cdn.staticfile.org/twitter-bootstrap/4.5.0/css/bootstrap.min.css"/>
+    <link type="text/css" rel="stylesheet"
+          href="https://cdn.staticfile.org/bootstrap-vue/2.21.2/bootstrap-vue.min.css"/>
+    <!-- Load polyfills to support older browsers -->
+    <script src="//polyfill.io/v3/polyfill.min.js?features=es2015%2CIntersectionObserver"
+            crossorigin="anonymous"></script>
+    <!-- Load Vue followed by BootstrapVue -->
+    <script src="https://cdn.staticfile.org/vue/2.6.12/vue.min.js"></script>
+    <script src="https://cdn.staticfile.org/bootstrap-vue/2.21.2/bootstrap-vue.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/axios/0.21.1/axios.min.js"></script>
+    <!-- Load the following for BootstrapVueIcons support -->
+    <script src="https://cdn.staticfile.org/bootstrap-vue/2.21.2/bootstrap-vue-icons.min.js"></script>
+    <link href=".\css\base.css" rel="stylesheet">
+    <script src="./js/html.js"></script>
+</head>
+
+<body>
+<div id="app">
+    <script>navigation()</script>
+    <main role="main" class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <b-table striped hover bordered table-variant="light" :items="message.content" :fields="message.header"
+                         head-variant="dark"></b-table>
+            </div>
+        </div>
+    </main>
+</div>
+<script>bottom()</script>
+</body>
+
+<script>
+    var app = new Vue({
+        el: '#app',
+        data: {
+            message: ''
+        },
+        mounted() {
+            axios
+                .get('./data/1.json')
+                .then(response => (this.message = response.data))
+        }
+    })
+
+</script>
+</html>
