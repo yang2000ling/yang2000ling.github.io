@@ -1,2 +1,2 @@
 # yang2000ling.github.io
-个人博客
+yang2000ling个人博客
