@@ -1,0 +1,101 @@
+{
+  "name": "SNK Neo Geo Pocket游戏目录",
+  "plate": "NGP",
+  "download": [
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1a01vJRacVLFzvVBYteK20Q",
+      "comment": "提取码：iqy7 解压密码：yang2000ling.cn"
+    }
+  ],
+  "header": [
+    {"id":"编号"},
+    {"name":"游戏名称"}
+  ],
+  "content": [
+    {
+      "id": "NGP#1",
+      "name": "[BIOS] SNK Neo Geo Pocket (Japan, Europe)"
+    },
+    {
+      "id": "NGP#2",
+      "name": "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#3",
+      "name": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#4",
+      "name": "King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo)"
+    },
+    {
+      "id": "NGP#5",
+      "name": "Melon-chan no Seichou Nikki (Japan)"
+    },
+    {
+      "id": "NGP#6",
+      "name": "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)"
+    },
+    {
+      "id": "NGP#7",
+      "name": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#8",
+      "name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#9",
+      "name": "Renketsu Puzzle Tsunagete Pon! (Japan)"
+    },
+    {
+      "id": "NGP#10",
+      "name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#11",
+      "name": "Shougi no Tatsujin (Japan)"
+    },
+    {
+      "id": "NGP#7",
+      "name": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#8",
+      "name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#9",
+      "name": "Renketsu Puzzle Tsunagete Pon! (Japan)"
+    },
+    {
+      "id": "NGP#10",
+      "name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#11",
+      "name": "Shougi no Tatsujin (Japan)"
+    },
+    {
+      "id": "NGP#7",
+      "name": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#8",
+      "name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#9",
+      "name": "Renketsu Puzzle Tsunagete Pon! (Japan)"
+    },
+    {
+      "id": "NGP#10",
+      "name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#11",
+      "name": "Shougi no Tatsujin (Japan)"
+    }
+  ]
+}
