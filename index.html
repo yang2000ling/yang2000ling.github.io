@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>主页</title>
+    <link rel="shortcut icon" href="./img/favicon.ico">
     <!-- Load required Bootstrap and BootstrapVue CSS -->
     <link type="text/css" rel="stylesheet"
           href="https://cdn.staticfile.org/twitter-bootstrap/4.5.0/css/bootstrap.min.css"/>
@@ -19,7 +20,7 @@
     <script src="https://cdn.bootcdn.net/ajax/libs/axios/0.21.1/axios.min.js"></script>
     <!-- Load the following for BootstrapVueIcons support -->
     <script src="https://cdn.staticfile.org/bootstrap-vue/2.21.2/bootstrap-vue-icons.min.js"></script>
-    <link href=".\css\base.css" rel="stylesheet">
+    <link href="./css/base.css" rel="stylesheet">
     <script src="./js/html.js"></script>
 </head>
 
@@ -29,8 +30,25 @@
     <main role="main" class="container">
         <div class="row">
             <div class="col-md-12">
-                <b-table striped hover bordered table-variant="light" :items="message.content" :fields="message.header"
-                         head-variant="dark"></b-table>
+                <div class="jumbotron">
+                    <div class="media">
+                        <div class="d-none d-lg-block d-xl-block d-md-block">
+                            <img src="./img/cat200.jpg" class="mr-3 rounded" alt="..." style="height: auto">
+                        </div>
+                        <div class="d-lg-none d-xl-none d-md-none d-sm-block ">
+                            <img src="./img/cat200.jpg" class="mr-3 rounded" alt="..."
+                                 style="height: 100px">
+                        </div>
+                        <div class="media-body">
+                            <h2 class="mt-0">欢迎各位怀旧玩家访问本站！</h2><br>
+                            <p>
+                                本站为个人工作之余，打发闲暇时间的作品，主要目的是为了给大家提供各个平台游戏资源和模拟器教程，方便大家收集游玩。
+                                资源以REDUMP，NO-INTRO版本为主，暂时只有部分游戏合集下载,其他资源以后会慢慢上传.传输媒介为国内各大网盘（比如百度网盘，城通网盘）。<br>
+                                所有资源均已测包，请大家放心使用。推荐用WINRAR进行解压，如下载两次均解压失败，请电邮直接联系站长。
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </main>
@@ -43,11 +61,6 @@
         el: '#app',
         data: {
             message: ''
-        },
-        mounted() {
-            axios
-                .get('./data/1.json')
-                .then(response => (this.message = response.data))
         }
     })
 
