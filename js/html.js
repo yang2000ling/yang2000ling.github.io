@@ -9,7 +9,7 @@ function navigation() {
     document.writeln("            <b-navbar-toggle target=\'nav-collapse\'></b-navbar-toggle>");
     document.writeln("            <b-collapse id=\'nav-collapse\' is-nav>");
     document.writeln("                <b-navbar-nav>");
-    document.writeln("                    <b-nav-item href=\'#\'>首页</b-nav-item>");
+    document.writeln("                    <b-nav-item href='https:\\yang2000ling.cn'>首页</b-nav-item>");
     document.writeln("                    <b-nav-item href=\'#\'>更新日志</b-nav-item>");
     document.writeln("                    <!-- Navbar dropdowns -->");
     document.writeln("                    <b-nav-item-dropdown text=\'游戏目录与相关下载\' right>");
