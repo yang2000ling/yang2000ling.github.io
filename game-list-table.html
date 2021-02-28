@@ -19,36 +19,77 @@
     <!-- Load the following for BootstrapVueIcons support -->
     <script src="https://cdn.staticfile.org/bootstrap-vue/2.21.2/bootstrap-vue-icons.min.js"></script>
     <link href=".\css\base.css" rel="stylesheet">
-    <script src="./js/html.js"></script>
+    <script src="./js/html.js" id="myJS"></script>
 </head>
 
 <body>
-<div id="app">
-    <script>navigation()</script>
+<div id="header">
+    <myheader></myheader>
+</div>
+<div id="table">
     <main role="main" class="container">
         <div class="row">
             <div class="col-md-12">
-                <b-table striped hover bordered table-variant="light" :items="message.content" :fields="message.header"
-                         head-variant="dark"></b-table>
+                <b-table striped hover bordered table-variant="light" :items="message.content.slice(0,list_length)" :fields="message.header"
+                         head-variant="dark" :busy.sync="isBusy">
+                    <template v-slot:table-busy>
+                        <div class="d-flex justify-content-center mb-3">
+                            <strong>数据载入中，请耐心等待......&emsp;</strong><br>
+                            <b-spinner></b-spinner>
+                        </div>
+                    </template>
+                    <template v-slot:cell(name)="data">
+                        {{ data.item.game_name}} <br> <span style="color: red">{{ data.item.ch_name }}</span>
+                    </template>
+                </b-table>
+            </div>
+            <div class="col-md-12">
+                <b-button block variant="dark" v-on:click="ifShow" v-show="buttonShow">点击展开全部列表</b-button>
             </div>
         </div>
     </main>
 </div>
-<script>bottom()</script>
+<div id="bottom">
+    <Bottom></Bottom>
+</div>
 </body>
 
 <script>
     var app = new Vue({
-        el: '#app',
+        el: '#table',
         data: {
-            message: ''
+            message: {'content': '', 'header': ''},
+            isBusy: false,
+            list_length:7,
         },
         mounted() {
             axios
-                .get('./data/1.json')
+                .get('./data/psv_dlc.json')
                 .then(response => (this.message = response.data))
+        },
+        computed:{
+            buttonShow:function () {
+                return this.list_length !== this.message.content.length;
+            }
+            },
+        methods: {
+            ifShow:function() {
+                this.list_length=this.message.content.length
+            }
+        }
+    })
+    var app_header = new Vue({
+        el: '#header',
+        components: {
+            'Myheader': header
         }
     })
 
+    var app_bottom = new Vue({
+        el: '#bottom',
+        components: {
+            'Bottom': bottom
+        }
+    })
 </script>
 </html>

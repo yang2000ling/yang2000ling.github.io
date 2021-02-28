@@ -15,6 +15,91 @@
   "content": [
     {
       "id": "NGP#1",
+      "name": "[BIOS] SNK Neo Geo Pocket (Japan, Europe)",
+      "chname":"中gals肯定就是大家"
+    },
+    {
+      "id": "NGP#2",
+      "name": "Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#3",
+      "name": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#4",
+      "name": "King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo)"
+    },
+    {
+      "id": "NGP#5",
+      "name": "Melon-chan no Seichou Nikki (Japan)"
+    },
+    {
+      "id": "NGP#6",
+      "name": "Neo Cherry Master - Real Casino Series (Japan) (En,Ja)"
+    },
+    {
+      "id": "NGP#7",
+      "name": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#8",
+      "name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#9",
+      "name": "Renketsu Puzzle Tsunagete Pon! (Japan)"
+    },
+    {
+      "id": "NGP#10",
+      "name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#11",
+      "name": "Shougi no Tatsujin (Japan)"
+    },
+    {
+      "id": "NGP#7",
+      "name": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#8",
+      "name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#9",
+      "name": "Renketsu Puzzle Tsunagete Pon! (Japan)"
+    },
+    {
+      "id": "NGP#10",
+      "name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#11",
+      "name": "Shougi no Tatsujin (Japan)"
+    },
+    {
+      "id": "NGP#7",
+      "name": "Neo Geo Cup '98 (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#8",
+      "name": "Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#9",
+      "name": "Renketsu Puzzle Tsunagete Pon! (Japan)"
+    },
+    {
+      "id": "NGP#10",
+      "name": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja)"
+    },
+    {
+      "id": "NGP#11",
+      "name": "Shougi no Tatsujin (Japan)"
+    },
+    {
+      "id": "NGP#1",
       "name": "[BIOS] SNK Neo Geo Pocket (Japan, Europe)"
     },
     {
@@ -95,6 +180,10 @@
     },
     {
       "id": "NGP#11",
+      "name": "Shougi no Tatsujin (Japan)"
+    },
+    {
+      "id": "NGP#8888888",
       "name": "Shougi no Tatsujin (Japan)"
     }
   ]
