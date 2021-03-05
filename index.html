@@ -1,72 +1,57 @@
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>主页</title>
-    <link rel="shortcut icon" href="./img/favicon.ico">
-    <!-- Load required Bootstrap and BootstrapVue CSS -->
-    <link type="text/css" rel="stylesheet"
-          href="https://cdn.staticfile.org/twitter-bootstrap/4.5.0/css/bootstrap.min.css"/>
-    <link type="text/css" rel="stylesheet"
-          href="https://cdn.staticfile.org/bootstrap-vue/2.21.2/bootstrap-vue.min.css"/>
-
-    <!-- Load polyfills to support older browsers -->
-    <script src="//polyfill.io/v3/polyfill.min.js?features=es2015%2CIntersectionObserver"
-            crossorigin="anonymous"></script>
-
-    <!-- Load Vue followed by BootstrapVue -->
-    <script src="https://cdn.staticfile.org/vue/2.6.12/vue.js"></script>
-    <script src="https://cdn.staticfile.org/bootstrap-vue/2.21.2/bootstrap-vue.min.js"></script>
-    <script src="https://cdn.bootcdn.net/ajax/libs/axios/0.21.1/axios.min.js"></script>
-    <!-- Load the following for BootstrapVueIcons support -->
-    <script src="https://cdn.staticfile.org/bootstrap-vue/2.21.2/bootstrap-vue-icons.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
     <link href="./css/base.css" rel="stylesheet">
-    <script src="./js/html.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
 </head>
-
 <body>
 <div id="app">
-    <Myheader></Myheader>
-    <main role="main" class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="jumbotron">
-                    <div class="media">
-                        <div class="d-none d-lg-block d-xl-block d-md-block">
-                            <img src="./img/cat200.jpg" class="mr-3 rounded" alt="..." style="height: auto">
-                        </div>
-                        <div class="d-lg-none d-xl-none d-md-none d-sm-block ">
-                            <img src="./img/cat200.jpg" class="mr-3 rounded" alt="..."
-                                 style="height: 100px">
-                        </div>
-                        <div class="media-body">
-                            <h2 class="mt-0">欢迎各位怀旧玩家访问本站！</h2><br>
-                            <p>
-                                本站为个人工作之余，打发闲暇时间的作品，主要目的是为了给大家提供各个平台游戏资源和模拟器教程，方便大家收集游玩。
-                                资源以REDUMP，NO-INTRO版本为主，暂时只有部分游戏合集下载,其他资源以后会慢慢上传.传输媒介为国内各大网盘（比如百度网盘，城通网盘）。<br>
-                                所有资源均已测包，请大家放心使用。推荐用WINRAR进行解压，如下载两次均解压失败，请电邮直接联系站长。
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </main>
-    <Bottom></Bottom>
-</div>
-</body>
+    <v-app>
 
+        <Headerv></Headerv>
+
+        <v-main>
+            <v-container>
+                <div class="d-flex flex-column justify-space-between align-center">
+                    <v-img
+                            lazy-src="./img/cat200.jpg"
+                            max-width="500"
+                            src="./img/cat_big.jpg"
+                    ></v-img>
+                </div>
+                <div align="center">
+                    <p>
+                    <h1 class="v-heading text-h3">欢迎访问 ROM猎人</h1><br>
+                    <p class="mx-auto" style="max-width: 600px;">本站为个人工作之余，打发闲暇时间的作品，主要目的是为了给大家提供各个平台游戏资源和模拟器教程，方便大家收集游玩。
+                        所有资源均已测包，请大家放心使用。推荐用WINRAR进行解压，如下载两次均解压失败，请电邮直接联系站长。</p>
+                </div>
+
+            </v-container>
+            <Bottom></Bottom>
+        </v-main>
+    </v-app>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/axios/0.21.1/axios.min.js"></script>
+<script src="js/component.js"></script>
+<script src="./js/var.js"></script>
 <script>
     var app = new Vue({
         el: '#app',
-        data: {
-            message: ''
+        vuetify: new Vuetify(),
+        mounted() {
         },
         components: {
-            'Bottom':bottom,
-            'Myheader':header
-
+            'Bottom': bottom,
+            'Headerv': headerV
         }
     })
 </script>
+</body>
 </html>
