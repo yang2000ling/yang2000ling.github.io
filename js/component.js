@@ -11,7 +11,7 @@ var headerV = {
         },
     template:'<div>\n' +
         '            <v-app-bar fixed dark>\n' +
-        '                <v-toolbar-title><h3>ROM猎人</h3></v-toolbar-title>\n' +
+        '                <v-toolbar-title><a href="index.html"><span style="color: white"><h3>ROM猎人</h3></span></a></v-toolbar-title>\n' +
         '                <v-spacer></v-spacer>\n' +
         '                <div class="text-center">\n' +
         '                    <v-btn text>\n' +
@@ -42,7 +42,7 @@ var bottom = {
         '<br><br>' +
         '<p><small>如有内容侵权请致邮aeeleling@gmail.com，本站将及时处理。' +
         '<br>Powered by seele<br>' +
-        'Copyright © 2019-2021&nbsp<a href="./index">ROM猎人</a>&nbsp<a href="./index">yang2000ling.com</a>&nbsp&nbspAll Rights Reserved.</small></p>' +
+        'Copyright © 2019-2021&nbsp<a href="index.html">ROM猎人</a>&nbsp<a href="index.html">yang2000ling.com</a>&nbsp&nbspAll Rights Reserved.</small></p>' +
         '</div>'
 }
 
