@@ -1,11 +1,13 @@
-var table_footer = {
-    showFirstLastPage: true,
-    itemsPerPageAllText: "全部",
-    itemsPerPageText: '每页行数',
-    showCurrentPage: true,
-    firstIcon: 'mdi-arrow-collapse-left',
-    lastIcon: 'mdi-arrow-collapse-right',
-    prevIcon: 'mdi-minus',
-    nextIcon: 'mdi-plus',
-    itemsPerPageOptions: [10, 50, 100, -1]
-}
+const navitems =
+    {
+        admins: [
+            ['Management', 'mdi-account-multiple-outline'],
+            ['Settings', 'mdi-cog-outline'],
+        ],
+        cruds: [
+            ['Create', 'mdi-plus-outline'],
+            ['Read', 'mdi-file-outline'],
+            ['Update', 'mdi-update'],
+            ['Delete', 'mdi-delete'],
+        ],
+    }

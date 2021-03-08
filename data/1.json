@@ -9,8 +9,8 @@
     }
   ],
   "header": [
-    {"id":"编号"},
-    {"name":"游戏名称"}
+    {"value":"id","text":"编号"},
+    {"value":"name","text":"游戏名称"}
   ],
   "content": [
     {

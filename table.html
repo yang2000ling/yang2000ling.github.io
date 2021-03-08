@@ -33,13 +33,13 @@
         routes:myroutes // （缩写）相当于 routes: routes
     })
     var app = new Vue({
-        el: '#app',
         router,
+        el: '#app',
         vuetify: new Vuetify(),
         components: {
             'Bottom': bottom,
             'Headerv': headerV,
-            'indexv':index
+            'Tablev': table
         }
     })
 </script>
