@@ -2,23 +2,23 @@ const headerV = {
     template: '<div>\n' +
         '<v-navigation-drawer v-model="drawer" app><v-card class="mx-auto" width="300">' +
         '<v-list nav>' +
-        '<v-list-item>' +
-        '<v-list-item-icon><v-icon>mdi-home</v-icon></v-list-item-icon>' +
-        '<v-list-item-title><router-link to="/index">主页</router-link></v-list-item-title>' +
+        '<v-subheader><span style="color: black"><h1>ROM猎人</h1></span></v-subheader>'+
+        '<v-divider></v-divider>'+
+        '<v-list-item-group>'+
+        '<v-list-item to="/index">' +
+        '<v-list-item-title>主页</v-list-item-title>' +
         '</v-list-item>' +
-        '<v-list-item>' +
-        '<v-list-item-icon><v-icon>mdi-home</v-icon></v-list-item-icon>' +
-        '<v-list-item-title><router-link to="/table/log">更新日志</router-link></v-list-item-title>' +
+        '<v-list-item to="/table/log">' +
+        '<v-list-item-title >更新日志</v-list-item-title>' +
         '</v-list-item>' +
-        '<v-list-item>' +
-        '<v-list-item-icon><v-icon>mdi-home</v-icon></v-list-item-icon>' +
-        '<v-list-item-title><router-link to="/table/psv_dlc">PSV DLC目录</router-link></v-list-item-title>' +
+        '<v-list-item to="/table/psv_dlc">' +
+        '<v-list-item-title>PSV DLC目录</v-list-item-title>' +
         '</v-list-item>' +
-        '</v-list></v-card>' +
+        '</v-list-item-group></v-list-item-group></v-list></v-card>' +
         '</v-navigation-drawer>\n'+
         '            <v-app-bar dark app>\n' +
         '<v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>\n'+
-        '                <v-toolbar-title><a href="#/index"><span style="color: white"><h3>ROM猎人</h3></span></a></v-toolbar-title>\n' +
+        '                <v-toolbar-title v-show="!drawer"><a href="#/index"><span style="color: white"><h3>ROM猎人</h3></span></a></v-toolbar-title>\n' +
         '                <v-spacer></v-spacer>\n' +
         '                <div class="text-center" v-show="navtext">\n' +
         '                    <v-btn text>\n' +
@@ -77,7 +77,6 @@ const table = {
             itemsPerPage:20,
             search: '',
             message: [],
-            plateName:'./data/'+this.plate+'.json',
             tableFooter: {
                 showFirstLastPage: true,
                 itemsPerPageAllText: "全部",
@@ -91,10 +90,19 @@ const table = {
             }
         }
     },
+    methods: {
+        fetchData () {
+            axios
+                .get('./data/'+this.$route.params.plate+'.json')
+                .then(response => (this.message = response.data))
+        }
+    },
+    watch: {
+        // 如果路由有变化，会再次执行该方法
+        '$route': 'fetchData'
+    },
     mounted() {
-        axios
-            .get(this.plateName)
-            .then(response => (this.message = response.data))
+        this.fetchData()
     },
     template:
         '<v-card>\n' +
