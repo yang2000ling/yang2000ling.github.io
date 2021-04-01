@@ -1,0 +1,19 @@
+{
+  "name": "NEC - PC-FX 中文游戏目录",
+  "header": [
+    {
+      "value": "id",
+      "text": "编号"
+    },
+    {
+      "value": "game_name",
+      "text": "游戏名称"
+    }
+  ],
+  "content": [
+    {
+      "id": "PCFXZH#1",
+      "game_name": "梦幻模拟战FX汉化版V1.0修正版"
+    }
+  ]
+}

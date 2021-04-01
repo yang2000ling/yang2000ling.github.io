@@ -1,0 +1,1683 @@
+{
+  "name": "NEC PCEngine游戏合集目录",
+  "header": [
+    {
+      "value": "id",
+      "text": "编号"
+    },
+    {
+      "value": "game_name",
+      "text": "游戏名称"
+    }
+  ],
+  "content": [
+    {
+      "id": "PCE#1",
+      "game_name": "1941 - Counter Attack (Super Grafx) (J)"
+    },
+    {
+      "id": "PCE#2",
+      "game_name": "1943 Kai (J)"
+    },
+    {
+      "id": "PCE#3",
+      "game_name": "21 Emon - Mezase Hotel Ou!! (J)"
+    },
+    {
+      "id": "PCE#4",
+      "game_name": "Adventure Island (J)"
+    },
+    {
+      "id": "PCE#5",
+      "game_name": "Aero Blasters (J)"
+    },
+    {
+      "id": "PCE#6",
+      "game_name": "Aero Blasters (U)"
+    },
+    {
+      "id": "PCE#7",
+      "game_name": "After Burner II (J)"
+    },
+    {
+      "id": "PCE#8",
+      "game_name": "Air Zonk (U)"
+    },
+    {
+      "id": "PCE#9",
+      "game_name": "Aldynes (Super Grafx) (J)"
+    },
+    {
+      "id": "PCE#10",
+      "game_name": "Alien Crush (J)"
+    },
+    {
+      "id": "PCE#11",
+      "game_name": "Alien Crush (U)"
+    },
+    {
+      "id": "PCE#12",
+      "game_name": "Ankoku Densetsu (J)"
+    },
+    {
+      "id": "PCE#13",
+      "game_name": "Aoi Blink (J)"
+    },
+    {
+      "id": "PCE#14",
+      "game_name": "Appare Gateball (J)"
+    },
+    {
+      "id": "PCE#15",
+      "game_name": "Armed Formation F (J)"
+    },
+    {
+      "id": "PCE#16",
+      "game_name": "Artist Tool (J)"
+    },
+    {
+      "id": "PCE#17",
+      "game_name": "Atomic Robo-Kid Special (J)"
+    },
+    {
+      "id": "PCE#18",
+      "game_name": "AV Poker (J)"
+    },
+    {
+      "id": "PCE#19",
+      "game_name": "Ballistix (J)"
+    },
+    {
+      "id": "PCE#20",
+      "game_name": "Ballistix (U)"
+    },
+    {
+      "id": "PCE#21",
+      "game_name": "Bari Bari Densetsu (J)"
+    },
+    {
+      "id": "PCE#22",
+      "game_name": "Barunba (J)"
+    },
+    {
+      "id": "PCE#23",
+      "game_name": "Batman (J)"
+    },
+    {
+      "id": "PCE#24",
+      "game_name": "Battle Ace (Super Grafx) (J)"
+    },
+    {
+      "id": "PCE#25",
+      "game_name": "Battle Lode Runner (J)"
+    },
+    {
+      "id": "PCE#26",
+      "game_name": "Battle Royale (U)"
+    },
+    {
+      "id": "PCE#27",
+      "game_name": "Be Ball (J)"
+    },
+    {
+      "id": "PCE#28",
+      "game_name": "Benkei Gaiden (J) [a]"
+    },
+    {
+      "id": "PCE#29",
+      "game_name": "Benkei Gaiden (J)"
+    },
+    {
+      "id": "PCE#30",
+      "game_name": "Bikkuriman World (J) [a]"
+    },
+    {
+      "id": "PCE#31",
+      "game_name": "Bikkuriman World (J)"
+    },
+    {
+      "id": "PCE#32",
+      "game_name": "Blazing Lazers (U)"
+    },
+    {
+      "id": "PCE#33",
+      "game_name": "Blodia (J)"
+    },
+    {
+      "id": "PCE#34",
+      "game_name": "Bloody Wolf (U)"
+    },
+    {
+      "id": "PCE#35",
+      "game_name": "Body Conquest II (J)"
+    },
+    {
+      "id": "PCE#36",
+      "game_name": "Bomberman '93 (J)"
+    },
+    {
+      "id": "PCE#37",
+      "game_name": "Bomberman '93 (Special Version) (J)"
+    },
+    {
+      "id": "PCE#38",
+      "game_name": "Bomberman '93 (U)"
+    },
+    {
+      "id": "PCE#39",
+      "game_name": "Bomberman '94 (J)"
+    },
+    {
+      "id": "PCE#40",
+      "game_name": "Bomberman (J)"
+    },
+    {
+      "id": "PCE#41",
+      "game_name": "Bomberman (U)"
+    },
+    {
+      "id": "PCE#42",
+      "game_name": "Bomberman - Users Battle (J)"
+    },
+    {
+      "id": "PCE#43",
+      "game_name": "Bonk III - Bonk's Big Adventure (U)"
+    },
+    {
+      "id": "PCE#44",
+      "game_name": "Bonk's Adventure (U)"
+    },
+    {
+      "id": "PCE#45",
+      "game_name": "Bonk's Revenge (U)"
+    },
+    {
+      "id": "PCE#46",
+      "game_name": "Bouken Danshaku Don - The Lost Sunheart (J)"
+    },
+    {
+      "id": "PCE#47",
+      "game_name": "Boxyboy (U)"
+    },
+    {
+      "id": "PCE#48",
+      "game_name": "Bravoman (U)"
+    },
+    {
+      "id": "PCE#49",
+      "game_name": "Break In (J)"
+    },
+    {
+      "id": "PCE#50",
+      "game_name": "Bubblegum Crash! - Knight Sabers 2034 (J)"
+    },
+    {
+      "id": "PCE#51",
+      "game_name": "Bull Fight - Ring no Haja (J)"
+    },
+    {
+      "id": "PCE#52",
+      "game_name": "Burning Angels (J)"
+    },
+    {
+      "id": "PCE#53",
+      "game_name": "Busou Keiji - Cyber Cross (J)"
+    },
+    {
+      "id": "PCE#54",
+      "game_name": "Cadash (J)"
+    },
+    {
+      "id": "PCE#55",
+      "game_name": "Cadash (U)"
+    },
+    {
+      "id": "PCE#56",
+      "game_name": "Champion Wrestler (J)"
+    },
+    {
+      "id": "PCE#57",
+      "game_name": "Champions Forever Boxing (U)"
+    },
+    {
+      "id": "PCE#58",
+      "game_name": "Chew Man Fu (U)"
+    },
+    {
+      "id": "PCE#59",
+      "game_name": "Chibi Maruko Chan - Quiz de Piihyara (J)"
+    },
+    {
+      "id": "PCE#60",
+      "game_name": "Chikudenya Toubei - Kubikiri Yakata Yori (J) [a]"
+    },
+    {
+      "id": "PCE#61",
+      "game_name": "Chikudenya Toubei - Kubikiri Yakata Yori (J)"
+    },
+    {
+      "id": "PCE#62",
+      "game_name": "China Warrior (U)"
+    },
+    {
+      "id": "PCE#63",
+      "game_name": "Chouzetsu Rinjin - Bravoman (J)"
+    },
+    {
+      "id": "PCE#64",
+      "game_name": "Circus Lido (J)"
+    },
+    {
+      "id": "PCE#65",
+      "game_name": "City Hunter (J)"
+    },
+    {
+      "id": "PCE#66",
+      "game_name": "Columns (J)"
+    },
+    {
+      "id": "PCE#67",
+      "game_name": "Coryoon - Child of Dragon (J) [a]"
+    },
+    {
+      "id": "PCE#68",
+      "game_name": "Coryoon - Child of Dragon (J)"
+    },
+    {
+      "id": "PCE#69",
+      "game_name": "Cratermaze (U)"
+    },
+    {
+      "id": "PCE#70",
+      "game_name": "Cross Wiber - Cyber Combat Police (J)"
+    },
+    {
+      "id": "PCE#71",
+      "game_name": "Cyber Core (J)"
+    },
+    {
+      "id": "PCE#72",
+      "game_name": "Cyber Core (U)"
+    },
+    {
+      "id": "PCE#73",
+      "game_name": "Cyber Dodge (J)"
+    },
+    {
+      "id": "PCE#74",
+      "game_name": "Cyber Knight (J)"
+    },
+    {
+      "id": "PCE#75",
+      "game_name": "Dai Makaimura (Super Grafx) (J)"
+    },
+    {
+      "id": "PCE#76",
+      "game_name": "Dai Senpu (J)"
+    },
+    {
+      "id": "PCE#77",
+      "game_name": "Daichi Kun Crisis - Do Natural (J)"
+    },
+    {
+      "id": "PCE#78",
+      "game_name": "Darius Alpha (J)"
+    },
+    {
+      "id": "PCE#79",
+      "game_name": "Darius Plus (Super Grafx-compatible) (J)"
+    },
+    {
+      "id": "PCE#80",
+      "game_name": "Darkwing Duck (U)"
+    },
+    {
+      "id": "PCE#81",
+      "game_name": "Davis Cup Tennis (U)"
+    },
+    {
+      "id": "PCE#82",
+      "game_name": "Dead Moon (J)"
+    },
+    {
+      "id": "PCE#83",
+      "game_name": "Dead Moon (U)"
+    },
+    {
+      "id": "PCE#84",
+      "game_name": "Deep Blue (U)"
+    },
+    {
+      "id": "PCE#85",
+      "game_name": "Deep Blue - Kaitei Shinwa (J)"
+    },
+    {
+      "id": "PCE#86",
+      "game_name": "Detana!! TwinBee (J)"
+    },
+    {
+      "id": "PCE#87",
+      "game_name": "Devil Crash - Naxat Pinball (J)"
+    },
+    {
+      "id": "PCE#88",
+      "game_name": "Devil's Crush - Naxat Pinball (U)"
+    },
+    {
+      "id": "PCE#89",
+      "game_name": "Die Hard (J)"
+    },
+    {
+      "id": "PCE#90",
+      "game_name": "Digital Champ (J)"
+    },
+    {
+      "id": "PCE#91",
+      "game_name": "Don Doko Don! (J)"
+    },
+    {
+      "id": "PCE#92",
+      "game_name": "Doraemon - Meikyuu Dai Sakusen (J)"
+    },
+    {
+      "id": "PCE#93",
+      "game_name": "Doraemon - Nobita no Dorabian Night (J)"
+    },
+    {
+      "id": "PCE#94",
+      "game_name": "Double Dungeons - W (J)"
+    },
+    {
+      "id": "PCE#95",
+      "game_name": "Double Dungeons - W (U)"
+    },
+    {
+      "id": "PCE#96",
+      "game_name": "Download (J) [a]"
+    },
+    {
+      "id": "PCE#97",
+      "game_name": "Download (J)"
+    },
+    {
+      "id": "PCE#98",
+      "game_name": "Dragon Egg! (J)"
+    },
+    {
+      "id": "PCE#99",
+      "game_name": "Dragon Saber - After Story of Dragon Spirit (J) [a]"
+    },
+    {
+      "id": "PCE#100",
+      "game_name": "Dragon Saber - After Story of Dragon Spirit (J)"
+    },
+    {
+      "id": "PCE#101",
+      "game_name": "Dragon Spirit (J)"
+    },
+    {
+      "id": "PCE#102",
+      "game_name": "Dragon Spirit (U)"
+    },
+    {
+      "id": "PCE#103",
+      "game_name": "Dragon's Curse (U)"
+    },
+    {
+      "id": "PCE#104",
+      "game_name": "Drop Rock Hora Hora (J) [a]"
+    },
+    {
+      "id": "PCE#105",
+      "game_name": "Drop Rock Hora Hora (J)"
+    },
+    {
+      "id": "PCE#106",
+      "game_name": "Drop.Off (U)"
+    },
+    {
+      "id": "PCE#107",
+      "game_name": "Dungeon Explorer (J)"
+    },
+    {
+      "id": "PCE#108",
+      "game_name": "Dungeon Explorer (U)"
+    },
+    {
+      "id": "PCE#109",
+      "game_name": "Energy (J)"
+    },
+    {
+      "id": "PCE#110",
+      "game_name": "F-1 Dream (J)"
+    },
+    {
+      "id": "PCE#111",
+      "game_name": "F-1 Pilot - You're King of Kings (J)"
+    },
+    {
+      "id": "PCE#112",
+      "game_name": "F1 Circus '91 - World Championship (J)"
+    },
+    {
+      "id": "PCE#113",
+      "game_name": "F1 Circus '92 - The Speed of Sound (J)"
+    },
+    {
+      "id": "PCE#114",
+      "game_name": "F1 Circus (J) [a]"
+    },
+    {
+      "id": "PCE#115",
+      "game_name": "F1 Circus (J)"
+    },
+    {
+      "id": "PCE#116",
+      "game_name": "F1 Triple Battle (J)"
+    },
+    {
+      "id": "PCE#117",
+      "game_name": "Falcon (U)"
+    },
+    {
+      "id": "PCE#118",
+      "game_name": "Fantasy Zone (J)"
+    },
+    {
+      "id": "PCE#119",
+      "game_name": "Fantasy Zone (U)"
+    },
+    {
+      "id": "PCE#120",
+      "game_name": "Fighting Run (J)"
+    },
+    {
+      "id": "PCE#121",
+      "game_name": "Final Blaster (J)"
+    },
+    {
+      "id": "PCE#122",
+      "game_name": "Final Lap Twin (J)"
+    },
+    {
+      "id": "PCE#123",
+      "game_name": "Final Lap Twin (U)"
+    },
+    {
+      "id": "PCE#124",
+      "game_name": "Final Match Tennis (J)"
+    },
+    {
+      "id": "PCE#125",
+      "game_name": "Final Soldier (J)"
+    },
+    {
+      "id": "PCE#126",
+      "game_name": "Final Soldier (Special Version) (J)"
+    },
+    {
+      "id": "PCE#127",
+      "game_name": "Fire Pro Wrestling - Combination Tag (J)"
+    },
+    {
+      "id": "PCE#128",
+      "game_name": "Fire Pro Wrestling 2 - 2nd Bout (J)"
+    },
+    {
+      "id": "PCE#129",
+      "game_name": "Fire Pro Wrestling 3 - Legend Bout (J)"
+    },
+    {
+      "id": "PCE#130",
+      "game_name": "Formation Soccer - Human Cup '90 (J)"
+    },
+    {
+      "id": "PCE#131",
+      "game_name": "Formation Soccer - On J. League (J)"
+    },
+    {
+      "id": "PCE#132",
+      "game_name": "Fushigi no Yume no Alice (J)"
+    },
+    {
+      "id": "PCE#133",
+      "game_name": "Gai Flame (J)"
+    },
+    {
+      "id": "PCE#134",
+      "game_name": "Gaia no Monshou (J)"
+    },
+    {
+      "id": "PCE#135",
+      "game_name": "Galaga '88 (J)"
+    },
+    {
+      "id": "PCE#136",
+      "game_name": "Galaga '90 (U)"
+    },
+    {
+      "id": "PCE#137",
+      "game_name": "Ganbare! Golf Boys (J)"
+    },
+    {
+      "id": "PCE#138",
+      "game_name": "Gekisha Boy (J)"
+    },
+    {
+      "id": "PCE#139",
+      "game_name": "Genji Tsuushin Agedama (J)"
+    },
+    {
+      "id": "PCE#140",
+      "game_name": "Genpei Toumaden (J)"
+    },
+    {
+      "id": "PCE#141",
+      "game_name": "Genpei Toumaden Ni no Maki (J)"
+    },
+    {
+      "id": "PCE#142",
+      "game_name": "Ghost Manor (U)"
+    },
+    {
+      "id": "PCE#143",
+      "game_name": "Gokuraku! Chuuka Taisen (J)"
+    },
+    {
+      "id": "PCE#144",
+      "game_name": "Gomola Speed (J)"
+    },
+    {
+      "id": "PCE#145",
+      "game_name": "Gradius (J)"
+    },
+    {
+      "id": "PCE#146",
+      "game_name": "Gunboat (U)"
+    },
+    {
+      "id": "PCE#147",
+      "game_name": "Gunhed (J)"
+    },
+    {
+      "id": "PCE#148",
+      "game_name": "Gunhed - Hudson Gunhed Taikai (J)"
+    },
+    {
+      "id": "PCE#149",
+      "game_name": "Hana Taaka Daka! (J)"
+    },
+    {
+      "id": "PCE#150",
+      "game_name": "Hanii in the Sky (J)"
+    },
+    {
+      "id": "PCE#151",
+      "game_name": "Hanii on the Road (J)"
+    },
+    {
+      "id": "PCE#152",
+      "game_name": "Hatris (J)"
+    },
+    {
+      "id": "PCE#153",
+      "game_name": "Heavy Unit (J)"
+    },
+    {
+      "id": "PCE#154",
+      "game_name": "Hisou Kihei - Xserd (J)"
+    },
+    {
+      "id": "PCE#155",
+      "game_name": "Hit the Ice - VHL the Official Video Hockey League (J)"
+    },
+    {
+      "id": "PCE#156",
+      "game_name": "Hit the Ice - VHL the Official Video Hockey League (U)"
+    },
+    {
+      "id": "PCE#157",
+      "game_name": "Honoo no Toukyuuji Dodge Danpei (J)"
+    },
+    {
+      "id": "PCE#158",
+      "game_name": "Idol Hanafuda Fan Club (J)"
+    },
+    {
+      "id": "PCE#159",
+      "game_name": "Image Fight (J)"
+    },
+    {
+      "id": "PCE#160",
+      "game_name": "Impossamole (U)"
+    },
+    {
+      "id": "PCE#161",
+      "game_name": "J. League Greatest Eleven (J)"
+    },
+    {
+      "id": "PCE#162",
+      "game_name": "J.J. & Jeff (U)"
+    },
+    {
+      "id": "PCE#163",
+      "game_name": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (J)"
+    },
+    {
+      "id": "PCE#164",
+      "game_name": "Jack Nicklaus' Turbo Golf (U)"
+    },
+    {
+      "id": "PCE#165",
+      "game_name": "Jackie Chan (J)"
+    },
+    {
+      "id": "PCE#166",
+      "game_name": "Jackie Chan's Action Kung Fu (U)"
+    },
+    {
+      "id": "PCE#167",
+      "game_name": "Jigoku Meguri (J)"
+    },
+    {
+      "id": "PCE#168",
+      "game_name": "Jinmu Denshou (J) [a]"
+    },
+    {
+      "id": "PCE#169",
+      "game_name": "Jinmu Denshou (J)"
+    },
+    {
+      "id": "PCE#170",
+      "game_name": "Juuouki (J) [a]"
+    },
+    {
+      "id": "PCE#171",
+      "game_name": "Juuouki (J)"
+    },
+    {
+      "id": "PCE#172",
+      "game_name": "Kaizou Choujin Shubibinman (J)"
+    },
+    {
+      "id": "PCE#173",
+      "game_name": "Kaizou Choujin Shubibinman 2 - Aratanaru Teki (J)"
+    },
+    {
+      "id": "PCE#174",
+      "game_name": "Kato Chan & Ken Chan (J)"
+    },
+    {
+      "id": "PCE#175",
+      "game_name": "Kattobi! Takuhai Kun (J)"
+    },
+    {
+      "id": "PCE#176",
+      "game_name": "Keith Courage in Alpha Zones (U)"
+    },
+    {
+      "id": "PCE#177",
+      "game_name": "KickBall (J)"
+    },
+    {
+      "id": "PCE#178",
+      "game_name": "Kiki Kaikai (J)"
+    },
+    {
+      "id": "PCE#179",
+      "game_name": "King of Casino (J)"
+    },
+    {
+      "id": "PCE#180",
+      "game_name": "King of Casino (U)"
+    },
+    {
+      "id": "PCE#181",
+      "game_name": "Klax (J)"
+    },
+    {
+      "id": "PCE#182",
+      "game_name": "Klax (U)"
+    },
+    {
+      "id": "PCE#183",
+      "game_name": "Knight Rider Special (J)"
+    },
+    {
+      "id": "PCE#184",
+      "game_name": "Kore ga Pro Yakyuu '89 (J)"
+    },
+    {
+      "id": "PCE#185",
+      "game_name": "Kore ga Pro Yakyuu '90 (J)"
+    },
+    {
+      "id": "PCE#186",
+      "game_name": "Kung Fu, The (J)"
+    },
+    {
+      "id": "PCE#187",
+      "game_name": "Kyuukyoku Mahjong - Idol Graphics (J)"
+    },
+    {
+      "id": "PCE#188",
+      "game_name": "Kyuukyoku Mahjong II (J)"
+    },
+    {
+      "id": "PCE#189",
+      "game_name": "Kyuukyoku Tiger (J)"
+    },
+    {
+      "id": "PCE#190",
+      "game_name": "Lady Sword (J) [a]"
+    },
+    {
+      "id": "PCE#191",
+      "game_name": "Lady Sword (J)"
+    },
+    {
+      "id": "PCE#192",
+      "game_name": "Legend of Hero Tonma (J)"
+    },
+    {
+      "id": "PCE#193",
+      "game_name": "Legend of Hero Tonma (U)"
+    },
+    {
+      "id": "PCE#194",
+      "game_name": "Legendary Axe II, The (U)"
+    },
+    {
+      "id": "PCE#195",
+      "game_name": "Legendary Axe, The (U)"
+    },
+    {
+      "id": "PCE#196",
+      "game_name": "Lode Runner - Lost Labyrinth (J)"
+    },
+    {
+      "id": "PCE#197",
+      "game_name": "Madou Ou - Granzooto (Super Grafx) (J)"
+    },
+    {
+      "id": "PCE#198",
+      "game_name": "Maerchen Maze (J)"
+    },
+    {
+      "id": "PCE#199",
+      "game_name": "Magical Chase (J)"
+    },
+    {
+      "id": "PCE#200",
+      "game_name": "Magical Chase (U)"
+    },
+    {
+      "id": "PCE#201",
+      "game_name": "Mahjong Gakuen - Touma Soushirou Toujou (J)"
+    },
+    {
+      "id": "PCE#202",
+      "game_name": "Mahjong Gakuen Mild - Touma Soushirou Toujou (J) [a]"
+    },
+    {
+      "id": "PCE#203",
+      "game_name": "Mahjong Gakuen Mild - Touma Soushirou Toujou (J)"
+    },
+    {
+      "id": "PCE#204",
+      "game_name": "Mahjong Gokuu Special (J)"
+    },
+    {
+      "id": "PCE#205",
+      "game_name": "Mahjong Haou Den - Kaiser's Quest (J)"
+    },
+    {
+      "id": "PCE#206",
+      "game_name": "Mahjong Shikyaku Retsuden - Mahjong Wars (J)"
+    },
+    {
+      "id": "PCE#207",
+      "game_name": "Maison Ikkoku (J)"
+    },
+    {
+      "id": "PCE#208",
+      "game_name": "Majin Eiyuu Den Wataru (J)"
+    },
+    {
+      "id": "PCE#209",
+      "game_name": "Makai Hakken Den Shada (J)"
+    },
+    {
+      "id": "PCE#210",
+      "game_name": "Makai Prince Dorabocchan (J)"
+    },
+    {
+      "id": "PCE#211",
+      "game_name": "Makyou Densetsu (J)"
+    },
+    {
+      "id": "PCE#212",
+      "game_name": "Maniac Puroresu - Asu heno Tatakai (J)"
+    },
+    {
+      "id": "PCE#213",
+      "game_name": "Mesopotamia (J)"
+    },
+    {
+      "id": "PCE#214",
+      "game_name": "Metal Stoker (J)"
+    },
+    {
+      "id": "PCE#215",
+      "game_name": "Military Madness (U)"
+    },
+    {
+      "id": "PCE#216",
+      "game_name": "Mizubaku Dai Bouken (J)"
+    },
+    {
+      "id": "PCE#217",
+      "game_name": "Momotarou Densetsu Gaiden Dai 1 Shuu (J)"
+    },
+    {
+      "id": "PCE#218",
+      "game_name": "Momotarou Densetsu II (J)"
+    },
+    {
+      "id": "PCE#219",
+      "game_name": "Momotarou Densetsu Turbo (J)"
+    },
+    {
+      "id": "PCE#220",
+      "game_name": "Momotarou Katsugeki (J)"
+    },
+    {
+      "id": "PCE#221",
+      "game_name": "Monster Puroresu (J)"
+    },
+    {
+      "id": "PCE#222",
+      "game_name": "Morita Shougi PC (J)"
+    },
+    {
+      "id": "PCE#223",
+      "game_name": "Moto Roader (J)"
+    },
+    {
+      "id": "PCE#224",
+      "game_name": "Moto Roader (U)"
+    },
+    {
+      "id": "PCE#225",
+      "game_name": "Moto Roader II (J) [a]"
+    },
+    {
+      "id": "PCE#226",
+      "game_name": "Moto Roader II (J)"
+    },
+    {
+      "id": "PCE#227",
+      "game_name": "Mr. Heli no Daibouken (J) [a]"
+    },
+    {
+      "id": "PCE#228",
+      "game_name": "Mr. Heli no Daibouken (J)"
+    },
+    {
+      "id": "PCE#229",
+      "game_name": "Narazumono Sentai Butai - Bloody Wolf (J)"
+    },
+    {
+      "id": "PCE#230",
+      "game_name": "Naxat Open (J)"
+    },
+    {
+      "id": "PCE#231",
+      "game_name": "Naxat Stadium (J)"
+    },
+    {
+      "id": "PCE#232",
+      "game_name": "Nazo no Mascarade (J)"
+    },
+    {
+      "id": "PCE#233",
+      "game_name": "Necromancer (J)"
+    },
+    {
+      "id": "PCE#234",
+      "game_name": "Necros no Yousai (J)"
+    },
+    {
+      "id": "PCE#235",
+      "game_name": "Nectaris (J)"
+    },
+    {
+      "id": "PCE#236",
+      "game_name": "Nekketsu Koukou Dodgeball Bu - PC Bangai Hen (J)"
+    },
+    {
+      "id": "PCE#237",
+      "game_name": "Nekketsu Koukou Dodgeball Bu - Soccer PC Hen (J)"
+    },
+    {
+      "id": "PCE#238",
+      "game_name": "Neutopia (J)"
+    },
+    {
+      "id": "PCE#239",
+      "game_name": "Neutopia (U)"
+    },
+    {
+      "id": "PCE#240",
+      "game_name": "Neutopia II (J)"
+    },
+    {
+      "id": "PCE#241",
+      "game_name": "Neutopia II (U)"
+    },
+    {
+      "id": "PCE#242",
+      "game_name": "New Adventure Island (U)"
+    },
+    {
+      "id": "PCE#243",
+      "game_name": "New Zealand Story, The (J)"
+    },
+    {
+      "id": "PCE#244",
+      "game_name": "NHK Taiga Drama - Taiheiki (J)"
+    },
+    {
+      "id": "PCE#245",
+      "game_name": "Night Creatures (U)"
+    },
+    {
+      "id": "PCE#246",
+      "game_name": "Niko Niko Pun (J)"
+    },
+    {
+      "id": "PCE#247",
+      "game_name": "Ninja Ryuuken Den (J)"
+    },
+    {
+      "id": "PCE#248",
+      "game_name": "Ninja Spirit (U)"
+    },
+    {
+      "id": "PCE#249",
+      "game_name": "Ninja Warriors, The (J)"
+    },
+    {
+      "id": "PCE#250",
+      "game_name": "Obocchama Kun (J)"
+    },
+    {
+      "id": "PCE#251",
+      "game_name": "Operation Wolf (J)"
+    },
+    {
+      "id": "PCE#252",
+      "game_name": "Order of the Griffon (U)"
+    },
+    {
+      "id": "PCE#253",
+      "game_name": "Ordyne (J)"
+    },
+    {
+      "id": "PCE#254",
+      "game_name": "Ordyne (U)"
+    },
+    {
+      "id": "PCE#255",
+      "game_name": "Out Live (J)"
+    },
+    {
+      "id": "PCE#256",
+      "game_name": "Out Run (J)"
+    },
+    {
+      "id": "PCE#257",
+      "game_name": "Override (J)"
+    },
+    {
+      "id": "PCE#258",
+      "game_name": "P-47 - The Freedom Fighter (J)"
+    },
+    {
+      "id": "PCE#259",
+      "game_name": "Pac-Land (J)"
+    },
+    {
+      "id": "PCE#260",
+      "game_name": "Pac-Land (U)"
+    },
+    {
+      "id": "PCE#261",
+      "game_name": "Pachio Kun - Juuban Shoubu (J)"
+    },
+    {
+      "id": "PCE#262",
+      "game_name": "Panza Kick Boxing (U)"
+    },
+    {
+      "id": "PCE#263",
+      "game_name": "Paranoia (J)"
+    },
+    {
+      "id": "PCE#264",
+      "game_name": "Parasol Stars - The Story of Bubble Bobble III (J)"
+    },
+    {
+      "id": "PCE#265",
+      "game_name": "Parasol Stars - The Story of Bubble Bobble III (U)"
+    },
+    {
+      "id": "PCE#266",
+      "game_name": "Parodius da! - Shinwa Kara Owarai he (J)"
+    },
+    {
+      "id": "PCE#267",
+      "game_name": "PC Denjin - Punkic Cyborgs (J) [a]"
+    },
+    {
+      "id": "PCE#268",
+      "game_name": "PC Denjin - Punkic Cyborgs (J)"
+    },
+    {
+      "id": "PCE#269",
+      "game_name": "PC Genjin - Pithecanthropus Computerurus (J) [a]"
+    },
+    {
+      "id": "PCE#270",
+      "game_name": "PC Genjin - Pithecanthropus Computerurus (J)"
+    },
+    {
+      "id": "PCE#271",
+      "game_name": "PC Genjin 2 - Pithecanthropus Computerurus (J)"
+    },
+    {
+      "id": "PCE#272",
+      "game_name": "PC Genjin 3 - Pithecanthropus Computerurus (J)"
+    },
+    {
+      "id": "PCE#273",
+      "game_name": "PC Genjin 3 - Pithecanthropus Computerurus (Taikenban) (J)"
+    },
+    {
+      "id": "PCE#274",
+      "game_name": "PC Pachi-Slot (J)"
+    },
+    {
+      "id": "PCE#275",
+      "game_name": "Populous (J) [a]"
+    },
+    {
+      "id": "PCE#276",
+      "game_name": "Populous (J)"
+    },
+    {
+      "id": "PCE#277",
+      "game_name": "Power Drift (J) [a]"
+    },
+    {
+      "id": "PCE#278",
+      "game_name": "Power Drift (J)"
+    },
+    {
+      "id": "PCE#279",
+      "game_name": "Power Eleven (J)"
+    },
+    {
+      "id": "PCE#280",
+      "game_name": "Power Gate (J)"
+    },
+    {
+      "id": "PCE#281",
+      "game_name": "Power Golf (J)"
+    },
+    {
+      "id": "PCE#282",
+      "game_name": "Power Golf (U)"
+    },
+    {
+      "id": "PCE#283",
+      "game_name": "Power League '93 (J)"
+    },
+    {
+      "id": "PCE#284",
+      "game_name": "Power League (All Star Version) (J)"
+    },
+    {
+      "id": "PCE#285",
+      "game_name": "Power League (J)"
+    },
+    {
+      "id": "PCE#286",
+      "game_name": "Power League II (J)"
+    },
+    {
+      "id": "PCE#287",
+      "game_name": "Power League III (J)"
+    },
+    {
+      "id": "PCE#288",
+      "game_name": "Power League IV (J)"
+    },
+    {
+      "id": "PCE#289",
+      "game_name": "Power League V (J)"
+    },
+    {
+      "id": "PCE#290",
+      "game_name": "Power Sports (J)"
+    },
+    {
+      "id": "PCE#291",
+      "game_name": "Power Tennis (J)"
+    },
+    {
+      "id": "PCE#292",
+      "game_name": "Pro Tennis World Court (J)"
+    },
+    {
+      "id": "PCE#293",
+      "game_name": "Pro Yakyuu World Stadium '91 (J)"
+    },
+    {
+      "id": "PCE#294",
+      "game_name": "Pro Yakyuu World Stadium (J)"
+    },
+    {
+      "id": "PCE#295",
+      "game_name": "Psycho Chaser (J)"
+    },
+    {
+      "id": "PCE#296",
+      "game_name": "Psychosis (U)"
+    },
+    {
+      "id": "PCE#297",
+      "game_name": "Puzzle Boy (J)"
+    },
+    {
+      "id": "PCE#298",
+      "game_name": "Puzznic (J)"
+    },
+    {
+      "id": "PCE#299",
+      "game_name": "Quiz Toukou Shashin (J)"
+    },
+    {
+      "id": "PCE#300",
+      "game_name": "R-Type (U)"
+    },
+    {
+      "id": "PCE#301",
+      "game_name": "R-Type Part-1 (J)"
+    },
+    {
+      "id": "PCE#302",
+      "game_name": "R-Type Part-2 (J)"
+    },
+    {
+      "id": "PCE#303",
+      "game_name": "Rabio Lepus Special (J)"
+    },
+    {
+      "id": "PCE#304",
+      "game_name": "Racing Damashii (J)"
+    },
+    {
+      "id": "PCE#305",
+      "game_name": "Raiden (J)"
+    },
+    {
+      "id": "PCE#306",
+      "game_name": "Raiden (U)"
+    },
+    {
+      "id": "PCE#307",
+      "game_name": "Rastan Saga II (J)"
+    },
+    {
+      "id": "PCE#308",
+      "game_name": "Rock-On (J)"
+    },
+    {
+      "id": "PCE#309",
+      "game_name": "Ryukyu (J)"
+    },
+    {
+      "id": "PCE#310",
+      "game_name": "Sadakichi 7 Series - Hideyoshi no Ougon (J)"
+    },
+    {
+      "id": "PCE#311",
+      "game_name": "Saigo no Nindou - Ninja Spirit (J)"
+    },
+    {
+      "id": "PCE#312",
+      "game_name": "Salamander (J)"
+    },
+    {
+      "id": "PCE#313",
+      "game_name": "Samurai-Ghost (U)"
+    },
+    {
+      "id": "PCE#314",
+      "game_name": "Sekigahara (J)"
+    },
+    {
+      "id": "PCE#315",
+      "game_name": "Sengoku Mahjong (J)"
+    },
+    {
+      "id": "PCE#316",
+      "game_name": "Shanghai (J)"
+    },
+    {
+      "id": "PCE#317",
+      "game_name": "Shinobi (J)"
+    },
+    {
+      "id": "PCE#318",
+      "game_name": "Shiryou Sensen (J)"
+    },
+    {
+      "id": "PCE#319",
+      "game_name": "Shockman (U)"
+    },
+    {
+      "id": "PCE#320",
+      "game_name": "Shougi Shodan Icchokusen (J)"
+    },
+    {
+      "id": "PCE#321",
+      "game_name": "Shougi Shoshinsha Muyou (J)"
+    },
+    {
+      "id": "PCE#322",
+      "game_name": "SideArms - Hyper Dyne (J)"
+    },
+    {
+      "id": "PCE#323",
+      "game_name": "SideArms - Hyper Dyne (U)"
+    },
+    {
+      "id": "PCE#324",
+      "game_name": "Silent Debuggers (J)"
+    },
+    {
+      "id": "PCE#325",
+      "game_name": "Silent Debuggers (U)"
+    },
+    {
+      "id": "PCE#326",
+      "game_name": "Sindibad Chitei no Dai Makyuu (J)"
+    },
+    {
+      "id": "PCE#327",
+      "game_name": "Sinistron (U)"
+    },
+    {
+      "id": "PCE#328",
+      "game_name": "Skweek (J)"
+    },
+    {
+      "id": "PCE#329",
+      "game_name": "Soldier Blade (J)"
+    },
+    {
+      "id": "PCE#330",
+      "game_name": "Soldier Blade (U)"
+    },
+    {
+      "id": "PCE#331",
+      "game_name": "Soldier Blade Special - Caravan Stage (J)"
+    },
+    {
+      "id": "PCE#332",
+      "game_name": "Somer Assault (U)"
+    },
+    {
+      "id": "PCE#333",
+      "game_name": "Son Son II (J)"
+    },
+    {
+      "id": "PCE#334",
+      "game_name": "Sonic Spike - World Championship Beach Volleyball (U)"
+    },
+    {
+      "id": "PCE#335",
+      "game_name": "Soukoban World (J)"
+    },
+    {
+      "id": "PCE#336",
+      "game_name": "Space Harrier (J)"
+    },
+    {
+      "id": "PCE#337",
+      "game_name": "Space Harrier (U)"
+    },
+    {
+      "id": "PCE#338",
+      "game_name": "Space Invaders - Fukkatsu no Hi (J)"
+    },
+    {
+      "id": "PCE#339",
+      "game_name": "Special Criminal Investigation (J)"
+    },
+    {
+      "id": "PCE#340",
+      "game_name": "Spin Pair (J)"
+    },
+    {
+      "id": "PCE#341",
+      "game_name": "Spiral Wave (J)"
+    },
+    {
+      "id": "PCE#342",
+      "game_name": "Splatterhouse (J)"
+    },
+    {
+      "id": "PCE#343",
+      "game_name": "Splatterhouse (U)"
+    },
+    {
+      "id": "PCE#344",
+      "game_name": "Stratego (J)"
+    },
+    {
+      "id": "PCE#345",
+      "game_name": "Street Fighter II' - Champion Edition (J)"
+    },
+    {
+      "id": "PCE#346",
+      "game_name": "Strip Fighter II (J)"
+    },
+    {
+      "id": "PCE#347",
+      "game_name": "Super Metal Crusher (J)"
+    },
+    {
+      "id": "PCE#348",
+      "game_name": "Super Momotarou Dentetsu (J)"
+    },
+    {
+      "id": "PCE#349",
+      "game_name": "Super Momotarou Dentetsu II (J)"
+    },
+    {
+      "id": "PCE#350",
+      "game_name": "Super Star Soldier (J)"
+    },
+    {
+      "id": "PCE#351",
+      "game_name": "Super Star Soldier (U)"
+    },
+    {
+      "id": "PCE#352",
+      "game_name": "Super Volleyball (J)"
+    },
+    {
+      "id": "PCE#353",
+      "game_name": "Super Volleyball (U)"
+    },
+    {
+      "id": "PCE#354",
+      "game_name": "Susanoo Densetsu (J)"
+    },
+    {
+      "id": "PCE#355",
+      "game_name": "Taito Chase H.Q. (J)"
+    },
+    {
+      "id": "PCE#356",
+      "game_name": "Taito Chase H.Q. (U)"
+    },
+    {
+      "id": "PCE#357",
+      "game_name": "Takahashi Meijin no Shin Boukenjima (J)"
+    },
+    {
+      "id": "PCE#358",
+      "game_name": "Takeda Shingen (J) [a]"
+    },
+    {
+      "id": "PCE#359",
+      "game_name": "Takeda Shingen (J)"
+    },
+    {
+      "id": "PCE#360",
+      "game_name": "Takin' It to the Hoop (U)"
+    },
+    {
+      "id": "PCE#361",
+      "game_name": "TaleSpin (U)"
+    },
+    {
+      "id": "PCE#362",
+      "game_name": "Tatsujin (J) (Proto)"
+    },
+    {
+      "id": "PCE#363",
+      "game_name": "Tatsujin (J)"
+    },
+    {
+      "id": "PCE#364",
+      "game_name": "Tatsunoko Fighter (J)"
+    },
+    {
+      "id": "PCE#365",
+      "game_name": "Tennokoe Bank (J)"
+    },
+    {
+      "id": "PCE#366",
+      "game_name": "Tenseiryuu - Saint Dragon (J)"
+    },
+    {
+      "id": "PCE#367",
+      "game_name": "Terra Cresta II - Mandoraa no Gyakushuu (J)"
+    },
+    {
+      "id": "PCE#368",
+      "game_name": "Thunder Blade (J)"
+    },
+    {
+      "id": "PCE#369",
+      "game_name": "Tiger Road (U)"
+    },
+    {
+      "id": "PCE#370",
+      "game_name": "Time Cruise (U)"
+    },
+    {
+      "id": "PCE#371",
+      "game_name": "Time Cruise II (J)"
+    },
+    {
+      "id": "PCE#372",
+      "game_name": "Timeball (U)"
+    },
+    {
+      "id": "PCE#373",
+      "game_name": "Titan (J)"
+    },
+    {
+      "id": "PCE#374",
+      "game_name": "Toilet Kids (J)"
+    },
+    {
+      "id": "PCE#375",
+      "game_name": "Tora heno Michi (J)"
+    },
+    {
+      "id": "PCE#376",
+      "game_name": "Toshi Tensou Keikaku - Eternal City (J)"
+    },
+    {
+      "id": "PCE#377",
+      "game_name": "Tower of Druaga, The (J)"
+    },
+    {
+      "id": "PCE#378",
+      "game_name": "Toy Shop Boys (J)"
+    },
+    {
+      "id": "PCE#379",
+      "game_name": "Tricky (J)"
+    },
+    {
+      "id": "PCE#380",
+      "game_name": "Tricky Kick (U)"
+    },
+    {
+      "id": "PCE#381",
+      "game_name": "Tsuppari Oozumou - Heisei Ban (J)"
+    },
+    {
+      "id": "PCE#382",
+      "game_name": "Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (J)"
+    },
+    {
+      "id": "PCE#383",
+      "game_name": "Turrican (U)"
+    },
+    {
+      "id": "PCE#384",
+      "game_name": "TV Sports Basketball (J)"
+    },
+    {
+      "id": "PCE#385",
+      "game_name": "TV Sports Basketball (U)"
+    },
+    {
+      "id": "PCE#386",
+      "game_name": "TV Sports Football (J)"
+    },
+    {
+      "id": "PCE#387",
+      "game_name": "TV Sports Football (U)"
+    },
+    {
+      "id": "PCE#388",
+      "game_name": "TV Sports Hockey (J)"
+    },
+    {
+      "id": "PCE#389",
+      "game_name": "TV Sports Hockey (U)"
+    },
+    {
+      "id": "PCE#390",
+      "game_name": "USA Pro Basketball (J)"
+    },
+    {
+      "id": "PCE#391",
+      "game_name": "Veigues - Tactical Gladiator (J)"
+    },
+    {
+      "id": "PCE#392",
+      "game_name": "Veigues - Tactical Gladiator (U)"
+    },
+    {
+      "id": "PCE#393",
+      "game_name": "Victory Run (J)"
+    },
+    {
+      "id": "PCE#394",
+      "game_name": "Victory Run (U)"
+    },
+    {
+      "id": "PCE#395",
+      "game_name": "Vigilante (J)"
+    },
+    {
+      "id": "PCE#396",
+      "game_name": "Vigilante (U)"
+    },
+    {
+      "id": "PCE#397",
+      "game_name": "Violent Soldier (J)"
+    },
+    {
+      "id": "PCE#398",
+      "game_name": "Volfied (J)"
+    },
+    {
+      "id": "PCE#399",
+      "game_name": "W-Ring - The Double Rings (J)"
+    },
+    {
+      "id": "PCE#400",
+      "game_name": "Wai Wai Mahjong - Yukaina Janyuu Tachi (J)"
+    },
+    {
+      "id": "PCE#401",
+      "game_name": "Walkuere no Densetsu (J)"
+    },
+    {
+      "id": "PCE#402",
+      "game_name": "Wallaby!! - Usagi no Kuni no Kangaroo Race (J)"
+    },
+    {
+      "id": "PCE#403",
+      "game_name": "Winning Shot (J)"
+    },
+    {
+      "id": "PCE#404",
+      "game_name": "Wonder Momo (J)"
+    },
+    {
+      "id": "PCE#405",
+      "game_name": "World Beach Volley (J)"
+    },
+    {
+      "id": "PCE#406",
+      "game_name": "World Circuit (J)"
+    },
+    {
+      "id": "PCE#407",
+      "game_name": "World Class Baseball (U)"
+    },
+    {
+      "id": "PCE#408",
+      "game_name": "World Court Tennis (U)"
+    },
+    {
+      "id": "PCE#409",
+      "game_name": "World Jockey (J)"
+    },
+    {
+      "id": "PCE#410",
+      "game_name": "World Sports Competition (U)"
+    },
+    {
+      "id": "PCE#411",
+      "game_name": "Xevious - Fardraut Densetsu (J)"
+    },
+    {
+      "id": "PCE#412",
+      "game_name": "Yo, Bro (U)"
+    },
+    {
+      "id": "PCE#413",
+      "game_name": "Youkai Douchuuki (J)"
+    },
+    {
+      "id": "PCE#414",
+      "game_name": "Yuu Yuu Jinsei - Victory Life (J)"
+    },
+    {
+      "id": "PCE#415",
+      "game_name": "Zero 4 Champ (J) (v1.5)"
+    },
+    {
+      "id": "PCE#416",
+      "game_name": "Zero 4 Champ (J)"
+    },
+    {
+      "id": "PCE#417",
+      "game_name": "Zipang (J)"
+    }
+  ]
+}

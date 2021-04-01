@@ -1,0 +1,405 @@
+{
+  "name": "NEC - PC-FX & PC-FXGA游戏目录",
+  "header": [
+    {
+      "value": "id",
+      "text": "编号"
+    },
+    {
+      "value": "game_name",
+      "text": "游戏名称"
+    }
+  ],
+  "content": [
+    {
+      "id": "PCFX#1",
+      "game_name": "Amateur Teikyou CD-ROM (Japan) (NEC PC-FXGA)",
+      "ch_name": "アマチュア提供ＣＤ‐ＲＯＭ （日版） (NEC PC-FXGA)"
+    },
+    {
+      "id": "PCFX#2",
+      "game_name": "Langrisser FX, Der (Japan)",
+      "ch_name": "梦幻模拟战2  （日版）"
+    },
+    {
+      "id": "PCFX#3",
+      "game_name": "Battle Heat (Japan)",
+      "ch_name": "战斗英雄  （日版）"
+    },
+    {
+      "id": "PCFX#4",
+      "game_name": "Sotsugyou II FX - Neo Generation (Japan) (SABS, SACS)",
+      "ch_name": "卒业2-新生代  （日版） (SABS, SACS)"
+    },
+    {
+      "id": "PCFX#5",
+      "game_name": "Doukyuusei 2 (Japan)",
+      "ch_name": "同级生2  （日版）"
+    },
+    {
+      "id": "PCFX#6",
+      "game_name": "Dragon Knight 4 (Japan)",
+      "ch_name": "龙骑士4  （日版）"
+    },
+    {
+      "id": "PCFX#7",
+      "game_name": "Fire Woman Matoigumi (Japan)",
+      "ch_name": "火舞女子缠组  （日版）"
+    },
+    {
+      "id": "PCFX#8",
+      "game_name": "Megami Paradise II (Japan)",
+      "ch_name": "女神天国2  （日版）"
+    },
+    {
+      "id": "PCFX#9",
+      "game_name": "Fushigi no Kuni no Angelique (Japan)",
+      "ch_name": "不可思议之国的安琪莉可  （日版）"
+    },
+    {
+      "id": "PCFX#10",
+      "game_name": "Farland Story FX (Japan)",
+      "ch_name": "古大陆物语FX  （日版）"
+    },
+    {
+      "id": "PCFX#11",
+      "game_name": "Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)",
+      "ch_name": "恋爱餐厅  （日版）"
+    },
+    {
+      "id": "PCFX#12",
+      "game_name": "Can Can Bunny Extra DX (Japan)",
+      "ch_name": "首映日  （日版）"
+    },
+    {
+      "id": "PCFX#13",
+      "game_name": "AnimeFreak FX Vol. 2 (Japan)",
+      "ch_name": "动漫美少女大集合 Vol.2  （日版）"
+    },
+    {
+      "id": "PCFX#14",
+      "game_name": "First Kiss Story (Japan)",
+      "ch_name": "初吻物语  （日版）"
+    },
+    {
+      "id": "PCFX#15",
+      "game_name": "Kokuu Hyouryuu - Nirgends (Japan)",
+      "ch_name": "虚空漂流-尼鲁格恩斯  （日版）"
+    },
+    {
+      "id": "PCFX#16",
+      "game_name": "J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)",
+      "ch_name": "蓝色芝加哥  （日版） (Disc 1)"
+    },
+    {
+      "id": "PCFX#17",
+      "game_name": "J. B. Harold - Blue Chicago Blues (Japan) (Disc 2)",
+      "ch_name": "蓝色芝加哥  （日版） (Disc 2)"
+    },
+    {
+      "id": "PCFX#18",
+      "game_name": "Return to Zork (Japan)",
+      "ch_name": "重返魔域  （日版）"
+    },
+    {
+      "id": "PCFX#19",
+      "game_name": "Sparkling Feather (Japan)",
+      "ch_name": "闪光羽翼  （日版）"
+    },
+    {
+      "id": "PCFX#20",
+      "game_name": "Super Power League FX (Japan)",
+      "ch_name": "超级职棒联盟FX  （日版）"
+    },
+    {
+      "id": "PCFX#21",
+      "game_name": "Voice Paradise (Japan) (Disc A)",
+      "ch_name": "声优乐园  （日版） (Disc A)"
+    },
+    {
+      "id": "PCFX#22",
+      "game_name": "Voice Paradise (Japan) (Disc B)",
+      "ch_name": "声优乐园  （日版） (Disc B)"
+    },
+    {
+      "id": "PCFX#23",
+      "game_name": "Wakusei Koukitai - Little Cats (Japan)",
+      "ch_name": "惑星攻机队-小猫  （日版）"
+    },
+    {
+      "id": "PCFX#24",
+      "game_name": "Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc I)",
+      "ch_name": "续初恋物语-修学旅行 （日版） (Disc I)"
+    },
+    {
+      "id": "PCFX#25",
+      "game_name": "Zoku Hatsukoi Monogatari - Shuugaku Ryokou (Japan) (Disc II)",
+      "ch_name": "续初恋物语-修学旅行 （日版） (Disc II)"
+    },
+    {
+      "id": "PCFX#26",
+      "game_name": "Blue Breaker - Ken yori mo Hohoemi o (Japan)",
+      "ch_name": "纯爱游侠-剑之微笑  （日版）"
+    },
+    {
+      "id": "PCFX#27",
+      "game_name": "Same Game FX (Japan) (NEC PC-FXGA)",
+      "ch_name": "模拟器无法运行  （日版） (NEC PC-FXGA)"
+    },
+    {
+      "id": "PCFX#28",
+      "game_name": "AnimeFreak FX Vol. 1 (Japan)",
+      "ch_name": "动漫美少女大集合 Vol.1  （日版）"
+    },
+    {
+      "id": "PCFX#29",
+      "game_name": "AnimeFreak FX Vol. 3 (Japan)",
+      "ch_name": "动漫美少女大集合 Vol.3  （日版）"
+    },
+    {
+      "id": "PCFX#30",
+      "game_name": "AnimeFreak FX Vol. 4 (Japan)",
+      "ch_name": "动漫美少女大集合 Vol.4  （日版）"
+    },
+    {
+      "id": "PCFX#31",
+      "game_name": "AnimeFreak FX Vol. 5 (Japan) (Disc 1)",
+      "ch_name": "动漫美少女大集合 Vol.5  （日版） (Disc 1)"
+    },
+    {
+      "id": "PCFX#32",
+      "game_name": "AnimeFreak FX Vol. 5 (Japan) (Disc 2)",
+      "ch_name": "动漫美少女大集合 Vol.5  （日版） (Disc 2)"
+    },
+    {
+      "id": "PCFX#33",
+      "game_name": "AnimeFreak FX Vol. 6 (Japan) (Disc 1)",
+      "ch_name": "动漫美少女大集合 Vol.6  （日版） (Disc 1)"
+    },
+    {
+      "id": "PCFX#34",
+      "game_name": "AnimeFreak FX Vol. 6 (Japan) (Disc 2)",
+      "ch_name": "动漫美少女大集合 Vol.6  （日版） (Disc 2)"
+    },
+    {
+      "id": "PCFX#35",
+      "game_name": "Albaria no Otome (Japan)",
+      "ch_name": "阿尔巴雷亚少女  （日版）"
+    },
+    {
+      "id": "PCFX#36",
+      "game_name": "Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan) (Sample)",
+      "ch_name": "银河公主传说优奈FX-哀伤的海妖塞壬  （日版） （试玩版）"
+    },
+    {
+      "id": "PCFX#37",
+      "game_name": "Konpeki no Kantai (Japan)",
+      "ch_name": "绀碧之舰队  （日版）"
+    },
+    {
+      "id": "PCFX#38",
+      "game_name": "Mahjong Gokuu Tenjiku (Japan) (SABS)",
+      "ch_name": "麻将悟空-天竺  （日版） (SABS)"
+    },
+    {
+      "id": "PCFX#39",
+      "game_name": "Aa! Megami-sama (Japan) (Disc 1)",
+      "ch_name": "我的女神  （日版） (Disc 1)"
+    },
+    {
+      "id": "PCFX#40",
+      "game_name": "Aa! Megami-sama (Japan) (Disc 2)",
+      "ch_name": "我的女神  （日版） (Disc 2)"
+    },
+    {
+      "id": "PCFX#41",
+      "game_name": "Angelique - Tenkuu no Requiem (Japan)",
+      "ch_name": "安琪莉可-天空的镇魂歌  （日版）"
+    },
+    {
+      "id": "PCFX#42",
+      "game_name": "Last Imperial Prince (Japan) (Disc A)",
+      "ch_name": "王子最终传承  （日版） (Disc A)"
+    },
+    {
+      "id": "PCFX#43",
+      "game_name": "Last Imperial Prince (Japan) (Disc B)",
+      "ch_name": "王子最终传承  （日版） (Disc B)"
+    },
+    {
+      "id": "PCFX#44",
+      "game_name": "Power Dolls FX (Japan)",
+      "ch_name": "特勤机甲队FX  （日版）"
+    },
+    {
+      "id": "PCFX#45",
+      "game_name": "Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)",
+      "ch_name": "无罪制裁  （日版）"
+    },
+    {
+      "id": "PCFX#46",
+      "game_name": "PC Engine Fan - Special CD-ROM Vol. 2 (Japan)",
+      "ch_name": "PCE粉丝特别版CD卷2  （日版）"
+    },
+    {
+      "id": "PCFX#47",
+      "game_name": "PC Engine Fan - Special CD-ROM Vol. 3 (Japan)",
+      "ch_name": "PCE粉丝特别版CD卷3  （日版）"
+    },
+    {
+      "id": "PCFX#48",
+      "game_name": "Super PC Engine Fan Deluxe - Special CD-ROM Vol. 1 (Japan)",
+      "ch_name": "超级PCE粉丝豪华特别版CD卷1  （日版）"
+    },
+    {
+      "id": "PCFX#49",
+      "game_name": "Super PC Engine Fan Deluxe - Special CD-ROM Vol. 2 (Japan)",
+      "ch_name": "超级PCE粉丝豪华特别版CD卷2  （日版）"
+    },
+    {
+      "id": "PCFX#50",
+      "game_name": "Angelique Special (Japan)",
+      "ch_name": "安琪莉可特别版  （日版）"
+    },
+    {
+      "id": "PCFX#51",
+      "game_name": "Akazukin ChaCha - Osawagase! Panic Race! (Japan)",
+      "ch_name": "小红帽恰恰  （日版）"
+    },
+    {
+      "id": "PCFX#52",
+      "game_name": "Angelique Special 2 (Japan)",
+      "ch_name": "安琪莉可特别版2  （日版）"
+    },
+    {
+      "id": "PCFX#53",
+      "game_name": "Comic Road (Japan)",
+      "ch_name": "漫画家之路  （日版）"
+    },
+    {
+      "id": "PCFX#54",
+      "game_name": "Lunatic Dawn FX (Japan)",
+      "ch_name": "侠客游FX  （日版）"
+    },
+    {
+      "id": "PCFX#55",
+      "game_name": "Ojousama Sousamou (Japan)",
+      "ch_name": "大小姐搜查网  （日版）"
+    },
+    {
+      "id": "PCFX#56",
+      "game_name": "Tenchi Muyou! Ryououki FX (Japan) (Disc A) (Hakua Kaikou)",
+      "ch_name": "天地无用！魉皇鬼FX  （日版） (Disc A) (Hakua Kaikou)"
+    },
+    {
+      "id": "PCFX#57",
+      "game_name": "Tenchi Muyou! Ryououki FX (Japan) (Disc B) (Kiyone Houguu)",
+      "ch_name": "天地无用！魉皇鬼FX  （日版） (Disc B) (Kiyone Houguu)"
+    },
+    {
+      "id": "PCFX#58",
+      "game_name": "Tonari no Princess Rolfee! (Japan)",
+      "ch_name": "邻居公主罗尔菲  （日版）"
+    },
+    {
+      "id": "PCFX#59",
+      "game_name": "Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc A) (Zenjo vs Zenjo)",
+      "ch_name": "全日本女子职业摔角  （日版） (Disc A) (Zenjo vs Zenjo)"
+    },
+    {
+      "id": "PCFX#60",
+      "game_name": "Zen Nihon Joshi Pro Wres - Queen of Queens (Japan) (Disc B) (Zenjo vs KWP)",
+      "ch_name": "全日本女子职业摔角  （日版） (Disc B) (Zenjo vs KWP)"
+    },
+    {
+      "id": "PCFX#61",
+      "game_name": "Boundary Gate - Daughter of Kingdom (Japan)",
+      "ch_name": "边界之门-王国的女儿  （日版）"
+    },
+    {
+      "id": "PCFX#62",
+      "game_name": "Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)",
+      "ch_name": "银河公主传说优奈FX-哀伤的海妖塞壬  （日版）"
+    },
+    {
+      "id": "PCFX#63",
+      "game_name": "Hataraku Shoujo - Tekipaki Working Love FX (Japan)",
+      "ch_name": " 乐天少女俱乐部 （日版）"
+    },
+    {
+      "id": "PCFX#64",
+      "game_name": "Minimum Nanonic (Japan)",
+      "ch_name": "迷你宝贝  （日版）"
+    },
+    {
+      "id": "PCFX#65",
+      "game_name": "Miraculum - The Last Revelation (Japan)",
+      "ch_name": "奇迹-最后的启示  （日版）"
+    },
+    {
+      "id": "PCFX#66",
+      "game_name": "Sotsugyou R - Graduation Real (Japan)",
+      "ch_name": "卒业R-真实毕业  （日版）"
+    },
+    {
+      "id": "PCFX#67",
+      "game_name": "Cutey Honey FX (Japan)",
+      "ch_name": "甜心战士FX  （日版）"
+    },
+    {
+      "id": "PCFX#68",
+      "game_name": "Tengai Makyou - Dennou Karakuri Kakutouden (Japan)",
+      "ch_name": "天外魔境-电脑络缲格斗传  （日版）"
+    },
+    {
+      "id": "PCFX#69",
+      "game_name": "Chip-chan Kick! (Japan)",
+      "ch_name": "猫鼠姐妹 （日版）"
+    },
+    {
+      "id": "PCFX#70",
+      "game_name": "Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)",
+      "ch_name": "柏青哥君 幻之岛大决战 （日版）"
+    },
+    {
+      "id": "PCFX#71",
+      "game_name": "Makeruna! Makendou Z (Japan)",
+      "ch_name": "魔剑道Z （日版）"
+    },
+    {
+      "id": "PCFX#72",
+      "game_name": "Amateur Teikyou CD-ROM (Japan) (DOS-V-you) (NEC PC-FXGA)",
+      "ch_name": "アマチュア提供ＣＤ‐ＲＯＭ （日版） (DOS-V-you) (NEC PC-FXGA)"
+    },
+    {
+      "id": "PCFX#73",
+      "game_name": "Ruruli Ra Rura (Japan)",
+      "ch_name": "路路里拉路拉 （日版）"
+    },
+    {
+      "id": "PCFX#74",
+      "game_name": "Choujin Heiki Zeroigar (Japan)",
+      "ch_name": "超神兵器ゼロイガー （日版）"
+    },
+    {
+      "id": "PCFX#75",
+      "game_name": "Kishin Douji Zenki FX - Vajra Fight (Japan)",
+      "ch_name": "鬼神童子ＺＥＮＫＩＦＸ　～金剛交闘～ （日版）"
+    },
+    {
+      "id": "PCFX#76",
+      "game_name": "Super Real Mahjong P.V FX (Japan)",
+      "ch_name": "超真实麻将 P.V FX （日版）"
+    },
+    {
+      "id": "PCFX#77",
+      "game_name": "Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)",
+      "ch_name": "心跳麻雀天堂 恋爱的节奏 （日版）"
+    },
+    {
+      "id": "PCFX#78",
+      "game_name": "Shanghai - Banri no Choujou (Japan)",
+      "ch_name": "上海-万里长城 （日版）"
+    }
+  ]
+}

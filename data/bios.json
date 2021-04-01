@@ -1,0 +1,217 @@
+{
+  "name": "各平台BIOS文件列表",
+  "comment": "本页文件基本涵盖了大部分主机平台bios,整理出来为方便大家配合各类模拟器(比如RetroArch)使用，以下为城通网盘下载地址。",
+  "url": "https://u1.share.web.ctdisk.com/dir/17607981-38558444-90ab50",
+  "content": [
+    {
+      "name": "Sega - 32X",
+      "list": [
+        "32X - Genesis BIOS.bin",
+        "32X - Master BIOS.bin",
+        "32X - Slave BIOS.bin"
+      ]
+    },
+    {
+      "name": "3DO - 3DO",
+      "list": [
+        "3do_arcade_saot.bin",
+        "goldstar.bin",
+        "panafz1.bin",
+        "panafz1-kanji.bin",
+        "panafz10.bin",
+        "panafz10-patched.bin",
+        "panafz10e-anvil.bin",
+        "panafz10e-anvil-patched.bin",
+        "panafz10ja-anvil-kanji.bin",
+        "sanyotry.bin"
+      ]
+    },
+    {
+      "name": "Atari - 5200",
+      "list": [
+        "5200.rom",
+        "ataribas.rom",
+        "atariosb.rom",
+        "atarixl.rom"
+      ]
+    },
+    {
+      "name": "Atari - 7800",
+      "list": [
+        "7800 BIOS (E).rom",
+        "7800 BIOS (U).rom"
+      ]
+    },
+    {
+      "name": "Nintendo - DS",
+      "list": [
+        "BIOSNDS7.ROM",
+        "BIOSNDS9.ROM"
+      ]
+    },
+    {
+      "name": "Sharp - X68000",
+      "list": [
+        "cgrom.dat",
+        "IPLROM.DAT",
+        "IPLROM30.DAT",
+        "IPLROMCO.DAT",
+        "IPLROMXV.DAT"
+      ]
+    },
+    {
+      "name": "Sega - Dreamcast",
+      "list": [
+        "dc_boot.bin",
+        "dc_flash.bin"
+      ]
+    },
+    {
+      "name": "Nintendo - Famicom Disk System",
+      "list": [
+        "disksys.rom"
+      ]
+    },
+    {
+      "name": "SONY - PS1",
+      "list": [
+        "DTLH-3000.bin",
+        "DTLH-3002.bin",
+        "PSO - DTLH3000.BIN",
+        "PSO - DTLH3002.BIN",
+        "PSX - BIOS41A.BIN",
+        "PSX - SCPH1000.BIN",
+        "PSX - SCPH1001.BIN",
+        "PSX - SCPH1002.bin",
+        "PSX - SCPH101.BIN",
+        "PSX - SCPH3000.bin",
+        "PSX - SCPH3500.bin",
+        "PSX - SCPH5000.BIN",
+        "PSX - SCPH5500.BIN",
+        "PSX - SCPH5502.BIN",
+        "PSX - SCPH5552.bin",
+        "PSX - SCPH7000.BIN",
+        "PSX - SCPH7001.BIN",
+        "PSX - SCPH7003.BIN",
+        "PSX - SCPH7502.BIN",
+        "SCPH-1000.bin",
+        "SCPH-1001.bin",
+        "SCPH-5000.bin",
+        "SCPH-5500.bin",
+        "SCPH-5502.bin",
+        "SCPH-7000.bin",
+        "SCPH-7001.bin",
+        "SCPH-7003.bin",
+        "SCPH-7502.bin",
+        "SCPH1000.BIN",
+        "SCPH1001.BIN",
+        "SCPH101.bin",
+        "SCPH3000.BIN",
+        "SCPH5000.BIN",
+        "SCPH5500.BIN",
+        "SCPH5501.BIN",
+        "SCPH5502.bin",
+        "SCPH7000.bin",
+        "SCPH7001.BIN",
+        "SCPH7003.bin",
+        "SCPH7502.BIN",
+        "SCPH7502(41a).bin",
+        "SCPHDRAX.BIN",
+        "SRPG BIOS.bin"
+      ]
+    },
+    {
+      "name": "Mattel - Intellivision",
+      "list": [
+        "exec.bin",
+        "grom.bin"
+      ]
+    },
+    {
+      "name": "Nintendo - Game Boy",
+      "list": [
+        "Gameboy Boot.bin"
+      ]
+    },
+    {
+      "name": "Nintendo - Game Boy Advance",
+      "list": [
+        "gba_bios.bin"
+      ]
+    },
+    {
+      "name": "Atari - Jaguar",
+      "list": [
+        "jagboot.rom"
+      ]
+    },
+    {
+      "name": "Atari - Lynx",
+      "list": [
+        "lynxboot.img"
+      ]
+    },
+    {
+      "name": "Sega - SegaCD",
+      "list": [
+        "MegaCD_Model_1_BIOS_V1.00_(E)_(Oct_1992)_[!].bin",
+        "MegaCD_Model_1_BIOS_V1.00_(J)_(Dec_1991)_[!].bin",
+        "MegaCD_Model_1_BIOS_V1.01_(J)_(Dec_1991).smd",
+        "MegaCD_Model_2_BIOS_V2.00_(E)_(Jun_1993).smd",
+        "MegaCD_Model_2_BIOS_V2.00_(E)_(Mar_1993)_[!].bin",
+        "MegaCD_Model_2_BIOS_V2.00_(E)_(Mar_1993)_[a1][!].bin",
+        "MegaCD_Model_2_BIOS_V2.21_(E)_(Sep_1993).bin",
+        "SegaCD_Model_2_BIOS_V2.00_(U)_(Mar_1993)_[!].bin",
+        "SegaCD_Model_2_BIOS_V2.00W_(U)_(Jun_1993).bin",
+        "SegaCD_Model_2_BIOS_V2.11_(U)_(Jun_1993)_[!].bin"
+      ]
+    },
+    {
+      "name": "SNK - Neo Geo Pocket",
+      "list": [
+        "Neo Geo Pocket BIOS (J).bin",
+        "Neo Geo Pocket Color BIOS (JE).bin"
+      ]
+    },
+    {
+      "name": "Magnavox - Odyssey2",
+      "list": [
+        "o2rom.bin"
+      ]
+    },
+    {
+      "name": "NEC - PC-FX",
+      "list": [
+        "pcfx.rom",
+        "pcfx+ch.rom"
+      ]
+    },
+    {
+      "name": "Sega - Saturn",
+      "list": [
+        "Sega_Saturn_BIOS_v1.00_(E).bin",
+        "Sega_Saturn_BIOS_v1.01_(J).bin"
+      ]
+    },
+    {
+      "name": "NEC - PC Engine TurboGrafx 16",
+      "list": [
+        "Syscard1.pce",
+        "Syscard2.pce",
+        "syscard3.pce"
+      ]
+    },
+    {
+      "name": "Vectrex",
+      "list": [
+        "Vectrex BIOS (1982).vec"
+      ]
+    },
+    {
+      "name": "SNK NeoGeo CD",
+      "list": [
+        "NEOCD.BIN"
+      ]
+    }
+  ]
+}
