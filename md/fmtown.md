@@ -6,7 +6,7 @@
 
 ### FUJITSU FM-TOWNS MARTY 主机介绍
 
-![](/img/article/fm_towns/FMTOWNS.jpg)
+![](https://data.yang2000ling.com/img/article/fm_towns/FMTOWNS.jpg)
 
 Marty 是FM TOWNS的游戏机版本主机，是32位的早在1991年出品，是富士通开发的FM TOWNS电脑对应的性能产品，FM TOWNS是日本早期的家用电脑，和NEC的PC-98系列相当，后来的NEC推出的PC-FX也是对应PC-98的性能产品，但是这两台都是比较早淘汰的，PC-FX因为是正式推出的32位游戏主机，游戏软件属于另外开发的，所以和当年的3DO,PS,SS,PlayDia之类并齐，当时号称5款次时代主机之一，但是这款Marty却是完全的FM电脑配套产品，是使用原电脑游戏软件的，所以Marty并不能完全成为专业游戏主机，后来也并没有加入到次时代行列中，故此我们国内的很多人并不知道有这样的一款游戏主机。
 
@@ -27,21 +27,21 @@ Unz模拟器又日本Kasanova氏开发，主要是个模拟FM-TOWNS及FM TOWNS M
 
 打开模拟器主程序Unz，在菜单状态栏里面 选择 “设置”
 
-![](/img/article/fm_towns/Snap1.jpg)
+![](https://data.yang2000ling.com/img/article/fm_towns/Snap1.jpg)
 
 然后在 “设置” 里的下拉菜单下面选择 “属性” 点击进入。
 
-![](/img/article/fm_towns/Snap2.jpg)
+![](https://data.yang2000ling.com/img/article/fm_towns/Snap2.jpg)
 
 在“属性”状态栏里面 移动鼠标到 “光驱1”这里，设置你电脑里面已安装好的虚拟光驱盘符。
 
-![](/img/article/fm_towns/Snap3.jpg)
+![](https://data.yang2000ling.com/img/article/fm_towns/Snap3.jpg)
 
 如果你的系统是WIN9X的话 选择“ASPI” 注意选择这个话，需要另外安装ASPI的驱动程序。如果你的系统是WINXP以后版本的话 选择“IOCTRL”，选择好“IOCTRL”后，可以在它的右边看见“IOCTRL设置”，在这里修改下，改成你电脑里面的虚拟光驱盘符。
 
 最后在下面的“速度兼容”前面打钩一下。
 
-![](/img/article/fm_towns/Snap4.jpg)
+![](https://data.yang2000ling.com/img/article/fm_towns/Snap4.jpg)
 
 把鼠标移动到“输入”这里，如果默认你电脑上安装了USB的手柄的话，那就在使用设备这里选择一下即可。为了省去麻烦，请在右边的“开启6位按钮”前面打钩，电脑里的“F12键”作用是：可以在UNZ模拟器里面使用鼠标(部分游戏要适用)。
 
@@ -52,14 +52,14 @@ Unz模拟器又日本Kasanova氏开发，主要是个模拟FM-TOWNS及FM TOWNS M
 
 2.光盘+磁盘/软盘/硬盘的组合存储介质游戏，这个就比上面多一步骤。在Unz模拟器的菜单状态栏里面 选择 “磁盘驱动器”里面加载和光盘游戏同一目录对应的磁盘文件。
 
-![](/img/article/fm_towns/Snap6.jpg)
+![](https://data.yang2000ling.com/img/article/fm_towns/Snap6.jpg)
 
-![](/img/article/fm_towns/Snap7.jpg)
+![](https://data.yang2000ling.com/img/article/fm_towns/Snap7.jpg)
 
 3.另外还有种是“卡带游戏”在Unz模拟器的菜单状态栏里面 选择 “文件” ，在“文件”下面的下拉菜单里选择“卡带”这里加载所需的卡带程序文件。
 
-![](/img/article/fm_towns/Snap9.jpg)
+![](https://data.yang2000ling.com/img/article/fm_towns/Snap9.jpg)
 
 下面的成功运行游戏的截图，UNZ模拟器使用的游戏媒介分为：光盘 卡带 磁盘/软盘及硬盘，如果运行还是没反应请在菜单里面选择“重新启动”或者关闭模拟器，再运行。
 
-![](/img/article/fm_towns/Snap5.jpg)
+![](https://data.yang2000ling.com/img/article/fm_towns/Snap5.jpg)

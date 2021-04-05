@@ -12,24 +12,24 @@
 
 第一步：解压文件后得mednafen-1.22.2-win64目录，双击运行mednaffe.exe。
 
-![](/img/article/mednafen01.png)
+![](https://data.yang2000ling.com/img/article/mednafen01.png)
 
 如果是第一次运行模拟器,会弹出以下此窗口提示需要设置主程序，然后选择YES。
 
-![](/img/article/mednafen02.png)
+![](https://data.yang2000ling.com/img/article/mednafen02.png)
 
 接下来弹出主程序路径选择窗口，选择mednafen-1.22.2-win64目录的mednafen.exe后，点击OPEN，主程序设置完成（以后打开模拟器都不需要再设置）。
 
-![](/img/article/mednafen03.png)
+![](https://data.yang2000ling.com/img/article/mednafen03.png)
 
 第二步：以运行土星游戏为例设置按键，点击下图Systems标签，选择Sega Saturn，点击右上角Input再选择Controller Setup。
 
-![](/img/article/mednafen04.png)
+![](https://data.yang2000ling.com/img/article/mednafen04.png)
 
 弹出按键设置窗口后，按提示设置相关按键就可以了。
 
-![](/img/article/mednafen05.png)
+![](https://data.yang2000ling.com/img/article/mednafen05.png)
 
 第三步：运行光盘游戏镜像时，需将bin和cue文件放在同一文件夹。点击左上角File—open rom,弹出以下窗口，选择解压后的游戏CUE文件点击OPEN，就可以运行游戏。
 
-![](/img/article/mednafen06.png)
+![](https://data.yang2000ling.com/img/article/mednafen06.png)

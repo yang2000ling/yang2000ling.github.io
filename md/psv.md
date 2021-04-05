@@ -23,7 +23,7 @@ MaiDumpTool （mai游戏解密提取工具，另外还有安装文件夹格式�
 下面介绍下vpk游戏格式的文件结构，方便了解游戏是不是vpk格式的结构,是不是错误导致无法安装等问题。
 具体就不在做详细说明了，有需要的可以自行百度。
 
-![psv1](/img/article/psv1.jpg)
+![psv1](https://data.yang2000ling.com/img/article/psv1.jpg)
 
 电脑上用压缩软件打开就如上图是这个种结构，就代表是正确的，简单的判断就是根目录下没有红框里面的文件，所以下载来的文件夹格式只要结构正确就可以把所有文件打包zip格式的压缩包，完成后把后缀.zip改成vpk就可以了。 文件没有显示后缀的又不知道哪里改的也请自行百度。
 ***
@@ -32,7 +32,7 @@ mai安装需要注意的是文件一定要传到 <kbd>ux0:/mai</kbd> 文件夹�
 这个需要你安装了上面mai软件，游戏传到小V后打开mai选择文件夹安装在选游戏就可以安装完成，vitashell现在也支持文件夹格式的安装但是我几乎没用过（有兴趣的朋友可以试试看），所以还是推荐使用mai安装。
 vpk格式的也可以转文件夹格式，是要把vpk的文件全部解压出来传到自定文件夹了用mai安装。但需要注意的是这个比vpk的结构多了一层文件夹。
 
-![psv2](/img/article/psv2.jpg)
+![psv2](https://data.yang2000ling.com/img/article/psv2.jpg)
 
 主要多了一个以游戏id为名的文件夹，里面才是之前说的vpk里的文件结构，所以转文件夹格式时要自行建立以游戏id的文件夹，把游戏解压到里面。 上传时要传游戏id名的文件夹到 ux0:/mai 。
 
@@ -60,9 +60,9 @@ NoNpDrm游戏区分很简单，因为是加密的所以在游戏里随便找个�
 
 打开vita工具箱，选择常用插件大全，安装NoNpDrm插件，如果安装过该插件的可以跳过这个步骤。
 
-![psv3](/img/article/psvnnd1.jpg)
+![psv3](https://data.yang2000ling.com/img/article/psvnnd1.jpg)
 
-![psv4](/img/article/psvnnd2.jpg)
+![psv4](https://data.yang2000ling.com/img/article/psvnnd2.jpg)
 
 用数据线把PSV连接到电脑上，接下来在vitashell或者vita工具箱主界面按start键启用USB连接。
 
@@ -78,8 +78,8 @@ DLC传输到ux0:/addcont下，路径为<kbd>ux0:/addcont/游戏编号</kbd>
 
 如果下载的游戏文件包括（如app、addcont、patch其中一个或几个）这些文件夹的直接用数据线上传到ux0根目录就可以了。
 
-![psv5](/img/article/psvnnd3.jpg)
+![psv5](https://data.yang2000ling.com/img/article/psvnnd3.jpg)
 
-![psv6](/img/article/psvnnd4.jpg)
+![psv6](https://data.yang2000ling.com/img/article/psvnnd4.jpg)
 
 上传完成后用vitashell或使用工具箱刷新出游戏气泡，必须是安装了NoNpDrm插件后才能刷出。
