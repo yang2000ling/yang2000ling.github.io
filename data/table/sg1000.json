@@ -1,5 +1,12 @@
 {
   "name": "世嘉SG-1000游戏目录",
+  "download": [
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/18wh1iTthdd1Pv2gaZOaeRw",
+      "comment": "提取码：5olb 解压密码yang2000ling或者yang2000ling.cn"
+    }
+  ],
   "header": [
     {
       "value": "id",

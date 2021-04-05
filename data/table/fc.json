@@ -1,5 +1,12 @@
 {
   "name": "任天堂FC/NES游戏目录",
+  "download": [
+    {
+      "name": "城通网盘",
+      "url": "https://545c.com/dir/17607981-40632879-b548da",
+      "comment": "解压密码yang2000ling或者yang2000ling.cn"
+    }
+  ],
   "header": [
     {
       "value": "id",

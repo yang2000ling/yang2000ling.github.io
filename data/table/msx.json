@@ -1,5 +1,12 @@
 {
   "name": "微软MSX游戏目录",
+  "download": [
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1dtGybM6wafn-3ygmaG_PeQ",
+      "comment": "提取码：u8z7 解压密码yang2000ling或者yang2000ling.cn"
+    }
+  ],
   "header": [
     {
       "value": "id",

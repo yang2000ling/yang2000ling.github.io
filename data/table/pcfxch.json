@@ -1,5 +1,12 @@
 {
   "name": "NEC - PC-FX 中文游戏目录",
+  "download": [
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1IAyQopxYWqFxKw0ZW8SDwA",
+      "comment": "提取码：6666 解压密码yang2000ling或者yang2000ling.cn"
+    }
+  ],
   "header": [
     {
       "value": "id",
