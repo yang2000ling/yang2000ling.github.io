@@ -2,17 +2,17 @@
   "name": "各平台模拟器教程",
   "comment": "本页为各平台的模拟器或者游戏安装教程，文章附带相关软件的下载。",
   "items": [
-    {"name": "PSV掌机游戏安装教程","url": "/jiaochen/psv"},
-    {"name": "3DS掌机安装CIA格式游戏","url": "/jiaochen/3ds"},
-    {"name": "4DO模拟器运行3DO游戏教程","url": "/jiaochen/4do"},
-    {"name": "RetroArch模拟器运行DC游戏教程","url": "/jiaochen/dc"},
-    {"name": "富士通FM-TOWNS模拟器UNZ图文教程","url": "/jiaochen/fmtown"},
-    {"name": "Mednaffe模拟器前端设置教程","url": "/jiaochen/mednafen"},
-    {"name": "PC88模拟器教程","url": "/jiaochen/pc88"},
-    {"name": "PC98模拟器教程","url": "/jiaochen/pc98"},
-    {"name": "世嘉土星Redump镜像刻录CD视频教程","url": "/jiaochen/sscd"},
-    {"name": "SSF土星模拟器使用教程","url": "/jiaochen/ssf"},
-    {"name": "WII实机安装游戏教程","url": "/jiaochen/wii"}
+    {"name": "PSV掌机游戏安装教程","url": "/article/psv"},
+    {"name": "3DS掌机安装CIA格式游戏","url": "/article/3ds"},
+    {"name": "4DO模拟器运行3DO游戏教程","url": "/article/4do"},
+    {"name": "RetroArch模拟器运行DC游戏教程","url": "/article/dc"},
+    {"name": "富士通FM-TOWNS模拟器UNZ图文教程","url": "/article/fmtown"},
+    {"name": "Mednaffe模拟器前端设置教程","url": "/article/mednafen"},
+    {"name": "PC88模拟器教程","url": "/article/pc88"},
+    {"name": "PC98模拟器教程","url": "/article/pc98"},
+    {"name": "世嘉土星Redump镜像刻录CD视频教程","url": "/article/sscd"},
+    {"name": "SSF土星模拟器使用教程","url": "/article/ssf"},
+    {"name": "WII实机安装游戏教程","url": "/article/wii"}
 
   ]
 }
