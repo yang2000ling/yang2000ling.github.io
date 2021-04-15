@@ -1,6 +1,13 @@
 {
   "name": "PSV中文游戏合集",
   "plate": "PSV",
+  "download": [
+    {
+      "comment": "提取码：otqg 解压密码：yang2000ling.cn或者yang2000ling或者yang2000ling.com",
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/16YjrqtqcvJsi2MFzgu6nrg"
+    }
+  ],
   "header": [
     {
       "value":"game_id",
