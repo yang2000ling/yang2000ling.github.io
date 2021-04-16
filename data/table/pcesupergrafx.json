@@ -1,5 +1,5 @@
 {
-  "name": "游戏目录",
+  "name": "NEC PC Engine SuperGrafx 游戏目录",
   "header": [
     {
       "value": "id",
@@ -8,6 +8,13 @@
     {
       "value": "game_name",
       "text": "游戏名称"
+    }
+  ],
+  "download": [
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1j-8dsbSJJjdXtYNwakoc-A",
+      "comment": "提取码：sz93 解压密码yang2000ling.com"
     }
   ],
   "content": [
