@@ -18,6 +18,10 @@
       "text":"游戏名称"
     },
     {
+      "value": "ch_name",
+      "text": "中文名"
+    },
+    {
       "value":"region",
       "text": "区域"
     },

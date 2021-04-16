@@ -15,6 +15,10 @@
     {
       "value": "game_name",
       "text": "游戏名称"
+    },
+    {
+      "value": "ch_name",
+      "text": "中文名"
     }
   ],
   "content": [
