@@ -1,0 +1,146 @@
+{
+  "name": "Photo CD游戏目录",
+  "header": [
+    {
+      "value": "id",
+      "text": "编号"
+    },
+    {
+      "value": "game_name",
+      "text": "游戏名称"
+    },
+    {
+      "value": "size",
+      "text": "文件大小"
+    }
+  ],
+  "version": "2021-01-26 22-24-27",
+  "size": "5.25GB",
+  "content": [
+    {
+      "id": "PHOTOCD#1",
+      "game_name": "Autosport Magazine Presents Grand Prix Special (UK)",
+      "size": "489.02MB"
+    },
+    {
+      "id": "PHOTOCD#2",
+      "game_name": "Dark Chaser (Japan)",
+      "size": "146.30MB"
+    },
+    {
+      "id": "PHOTOCD#3",
+      "game_name": "Dazzling - Hara Kumiko by Tatsuo Watanabe (Japan)",
+      "size": "93.11MB"
+    },
+    {
+      "id": "PHOTOCD#4",
+      "game_name": "Etsuko Nishio - Finger by Hajime Sawatari (Japan)",
+      "size": "123.04MB"
+    },
+    {
+      "id": "PHOTOCD#5",
+      "game_name": "Flowers of Robert Mapplethorpe, The (USA)",
+      "size": "289.25MB"
+    },
+    {
+      "id": "PHOTOCD#6",
+      "game_name": "Honoo no On'na Janshi Kyoko Makenai!! Jissen Mondai-shuu (Japan)",
+      "size": "352.15MB"
+    },
+    {
+      "id": "PHOTOCD#7",
+      "game_name": "Inu-ou Chikyuu o Sukuu (Japan)",
+      "size": "235.53MB"
+    },
+    {
+      "id": "PHOTOCD#8",
+      "game_name": "Kodak Photo CD - Discover Photo CD (USA) (Version 1)",
+      "size": "104.12MB"
+    },
+    {
+      "id": "PHOTOCD#9",
+      "game_name": "Langrisser - Seiken Secret File (Japan)",
+      "size": "81.42MB"
+    },
+    {
+      "id": "PHOTOCD#10",
+      "game_name": "Marilyn Monroe (Germany)",
+      "size": "380.93MB"
+    },
+    {
+      "id": "PHOTOCD#11",
+      "game_name": "Mars Blade (Japan)",
+      "size": "233.88MB"
+    },
+    {
+      "id": "PHOTOCD#12",
+      "game_name": "Mode-Trends 92-93 Elle (Germany)",
+      "size": "35.09MB"
+    },
+    {
+      "id": "PHOTOCD#13",
+      "game_name": "Mono CD Series Vol. 1 - Zippo Lighter no Sekai - Zippo Collection Manual (Japan)",
+      "size": "218.39MB"
+    },
+    {
+      "id": "PHOTOCD#14",
+      "game_name": "Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 1 - Hokkaido, Touhoku (Japan)",
+      "size": "367.73MB"
+    },
+    {
+      "id": "PHOTOCD#15",
+      "game_name": "Notte Mitai Ressha, Ittemitai Rosen Catalog - Tetsudou no Tabi Vol. 2 - Kantou, Koushinetsu, Toukai, Hokuriku (Japan)",
+      "size": "390.22MB"
+    },
+    {
+      "id": "PHOTOCD#16",
+      "game_name": "Nympheas - La Musique des tableaux celebres (France) (Bundled with [SS] Photo CD Operating System)",
+      "size": "421.40MB"
+    },
+    {
+      "id": "PHOTOCD#17",
+      "game_name": "Photo CD Demo Disc (Netherlands)",
+      "size": "240.02MB"
+    },
+    {
+      "id": "PHOTOCD#18",
+      "game_name": "Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 1 - Dark Kingdom-hen (Japan)",
+      "size": "131.45MB"
+    },
+    {
+      "id": "PHOTOCD#19",
+      "game_name": "Pretty Soldier SailorMoon - Bishoujo Senshi Sailor Moon Vol. 2 - Black Moon-hen (Japan)",
+      "size": "128.31MB"
+    },
+    {
+      "id": "PHOTOCD#20",
+      "game_name": "Profile of The Great F1 Driver - Alain Prost - Alain Prost - Professor no Shouzou (Japan)",
+      "size": "212.98MB"
+    },
+    {
+      "id": "PHOTOCD#21",
+      "game_name": "Profile of The Great F1 Driver - Ayrton Senna - Ayrton Senna no Shinjitsu (Japan)",
+      "size": "155.13MB"
+    },
+    {
+      "id": "PHOTOCD#22",
+      "game_name": "Profile of The Great F1 Driver - Nigel Mansell - Nigel Mansell Moeru Jonburu Tamashii (Japan) (2M)",
+      "size": "223.94MB"
+    },
+    {
+      "id": "PHOTOCD#23",
+      "game_name": "Sakura Taisen - Teigeki Secret File (Japan)",
+      "size": "61.01MB"
+    },
+    {
+      "id": "PHOTOCD#24",
+      "game_name": "Shimada Youko - Quatre (Japan)",
+      "size": "95.65MB"
+    },
+    {
+      "id": "PHOTOCD#25",
+      "game_name": "Steelwood - Private Eye (Japan)",
+      "size": "166.13MB"
+    }
+  ]
+}
