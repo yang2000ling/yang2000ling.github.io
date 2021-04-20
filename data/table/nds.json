@@ -1,6 +1,13 @@
 {
   "name": "任天堂DS游戏目录",
   "version": "No-Intro[20210418-211714]",
+  "download": [
+    {
+      "name": "百度网盘",
+      "url": "https://545c.com/d/17607981-43330200-918711",
+      "comment": "访问密码：9509 解压密码：yang2000ling.com"
+    }
+  ],
   "header": [
     {
       "value": "id",
