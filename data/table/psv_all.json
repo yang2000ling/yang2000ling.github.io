@@ -1,6 +1,6 @@
 {
   "name": "PSV官方商店游戏目录",
-  "plate": "PSV",
+  "comment": "本目录与黑商店中文目录同步，资源过于庞大(差不多4T的容量)难以上传到网盘，需要资源的小伙伴们可以自行到黑商店下载，如有好的建议欢迎电邮站长。",
   "version": "20210426",
   "download": [
     {
@@ -14,7 +14,8 @@
       "value": "img",
       "text": "游戏封面",
       "sortable": false,
-      "divider": true
+      "divider": true,
+      "width": 220
     },
     {
       "value": "game_id",
@@ -44,6 +45,7 @@
     {
       "value": "date",
       "text": "发售日期",
+      "width": 150,
       "divider": true
     }
   ],
