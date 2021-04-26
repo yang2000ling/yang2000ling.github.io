@@ -10,6 +10,10 @@
   ],
   "header": [
     {
+      "value": "img",
+      "text": "游戏封面"
+    },
+    {
       "value": "game_id",
       "text": "游戏编号"
     },
