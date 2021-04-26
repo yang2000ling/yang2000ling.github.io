@@ -13,20 +13,24 @@
       "value": "img",
       "text": "游戏封面",
       "sortable": false,
-      "width": 220
+      "width": 220,
+      "divider": true
     },
     {
       "value": "game_id",
-      "text": "文件编号"
+      "text": "文件编号",
+      "divider": true
     },
     {
       "value": "game_name",
-      "text": "游戏名称"
+      "text": "游戏名称",
+      "divider": true
     },
     {
       "value": "date",
       "text": "更新日期",
-      "width": 120
+      "width": 120,
+      "divider": true
     }
   ],
   "content": [
