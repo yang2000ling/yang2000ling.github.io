@@ -1,6 +1,7 @@
 {
-  "name": "PSV官方游戏目录",
+  "name": "PSV官方商店游戏目录",
   "plate": "PSV",
+  "version": "20210426",
   "download": [
     {
       "game_name": "NPS0.95中文修复版",
