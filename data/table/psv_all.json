@@ -30,20 +30,8 @@
       "text": "区域"
     },
     {
-      "value": "language",
-      "text": "语言"
-    },
-    {
-      "value": "genre",
-      "text": "类别"
-    },
-    {
-      "value": "developer",
-      "text": "开发商"
-    },
-    {
-      "value": "publisher",
-      "text": "发行商"
+      "value": "other",
+      "text": "其他"
     },
     {
       "value": "date",
