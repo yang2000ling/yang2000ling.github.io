@@ -12,7 +12,8 @@
   "header": [
     {
       "value": "img",
-      "text": "游戏封面"
+      "text": "游戏封面",
+      "sortable": false
     },
     {
       "value": "game_id",
