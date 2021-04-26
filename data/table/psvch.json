@@ -13,8 +13,7 @@
       "value": "img",
       "text": "游戏封面",
       "sortable": false,
-      "width": 220,
-      "divider": true
+      "width": 220
     },
     {
       "value": "game_id",

@@ -17,27 +17,33 @@
     },
     {
       "value": "game_id",
-      "text": "游戏编号"
+      "text": "游戏编号",
+      "divider": true
     },
     {
       "value": "game_name",
-      "text": "游戏名称"
+      "text": "游戏名称",
+      "divider": true
     },
     {
       "value": "ch_name",
-      "text": "中文名"
+      "text": "中文名",
+      "divider": true
     },
     {
       "value": "region",
-      "text": "区域"
+      "text": "区域",
+      "divider": true
     },
     {
       "value": "other",
-      "text": "其他"
+      "text": "其他",
+      "divider": true
     },
     {
       "value": "date",
-      "text": "发售日期"
+      "text": "发售日期",
+      "divider": true
     }
   ],
   "content": [
