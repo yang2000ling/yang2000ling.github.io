@@ -29,11 +29,46 @@
     {
       "value": "date",
       "text": "更新日期",
-      "width": 120,
+      "width": 150,
       "divider": true
     }
   ],
   "content": [
+    {
+      "game_id": "PSVzh#486",
+      "game_name": "灾厄逆刃[PCSB01467][NND]",
+      "date": "2021-04-26",
+      "id": "PCSB01467",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSB01467.jpg"
+    },
+    {
+      "game_id": "PSVzh#485",
+      "game_name": "Pachi Pachi On A Roll [NND][NND]",
+      "date": "2021-04-26",
+      "id": "PCSG01333",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSG01333.jpg"
+    },
+    {
+      "game_id": "PSVzh#484",
+      "game_name": "讨鬼传 2 共斗版 [需3.63及以上系统版本 | 中文版][NND]",
+      "date": "2021-04-26",
+      "id": "PCSH10027",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSH10027.jpg"
+    },
+    {
+      "game_id": "PSVzh#483",
+      "game_name": "几何冒险 [需3.69及以上系统版本 | 中英文版][NND]",
+      "date": "2021-04-26",
+      "id": "PCSH10241",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSH10241.jpg"
+    },
+    {
+      "game_id": "PSVzh#482",
+      "game_name": "棒豌豆 2 [需3.69及以上系统版本 | 中日英文版][NND]",
+      "date": "2021-04-12",
+      "id": "PCSH10275",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSH10275.jpg"
+    },
     {
       "game_id": "PSVzh#481",
       "game_name": "混沌之子lovechuchu汉化版[PCSG00995][NND]",
