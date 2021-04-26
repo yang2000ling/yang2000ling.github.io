@@ -12,7 +12,8 @@
     {
       "value": "img",
       "text": "游戏封面",
-      "sortable": false
+      "sortable": false,
+      "width": 220
     },
     {
       "value": "game_id",
@@ -24,7 +25,8 @@
     },
     {
       "value": "date",
-      "text": "更新日期"
+      "text": "更新日期",
+      "width": 120
     }
   ],
   "content": [
