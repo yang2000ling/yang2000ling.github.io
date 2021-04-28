@@ -28,6 +28,12 @@
       "value": "other",
       "text": "其他",
       "divider": true
+    },
+    {
+      "value": "Publish Date",
+      "text": "发售时间",
+      "divider": true,
+      "width": 220
     }
   ],
   "content": [
