@@ -19,16 +19,6 @@
       "divider": true
     },
     {
-      "value": "ch_name",
-      "text": "中文名",
-      "divider": true
-    },
-    {
-      "value": "other",
-      "text": "其他",
-      "divider": true
-    },
-    {
       "value": "date",
       "text": "更新时间",
       "divider": true
