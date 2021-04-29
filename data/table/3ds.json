@@ -8266,7 +8266,7 @@
     {
       "game_id": "0520",
       "game_name": "Professor Layton und das Vermaechtnis von Aslant (DE)",
-      "ch_name": "雷顿教授与超文明A(",
+      "ch_name": "雷顿教授与超文明A的遗产",
       "publisher": "Nintendo",
       "genre": [
         "混合",
@@ -22042,8 +22042,8 @@
     },
     {
       "game_id": "1396",
-      "game_name": "",
-      "ch_name": "Minna no Pokemon Scramble (Japan)",
+      "game_name": "Minna no Pokemon Scramble (Japan)",
+      "ch_name": "大家的口袋妖怪 乱战(日)",
       "publisher": "Nintendo",
       "genre": [
         "动作",
