@@ -9,7 +9,7 @@
       "width": 220
     },
     {
-      "value": "no",
+      "value": "id",
       "text": "游戏编号",
       "divider": true
     },
@@ -154,7 +154,8 @@
       "id": "3DSZH#19",
       "game_id": "",
       "game_name": "以撒的结合 重生[IO汉化组](new3ds专用)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh19.jpg"
     },
     {
       "id": "3DSZH#20",
