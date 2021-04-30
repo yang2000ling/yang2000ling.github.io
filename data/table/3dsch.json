@@ -722,43 +722,50 @@
       "id": "3DSZH#100",
       "game_id": "",
       "game_name": "幻想秘境2(Fairune2)[Advance汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh100.jpg"
     },
     {
       "id": "3DSZH#101",
       "game_id": "",
       "game_name": "异史战国传 宿业[汉化版final][QAQ汉化组](需字库工具)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh101.jpg"
     },
     {
       "id": "3DSZH#102",
       "game_id": "",
       "game_name": "异度之刃3D[ACG汉化组](new3ds专用)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh102.jpg"
     },
     {
       "id": "3DSZH#103",
       "game_id": "",
       "game_name": "微型小说系列vol.01 收获的十二月 v1.0[PB汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh103.jpg"
     },
     {
       "id": "3DSZH#104",
       "game_id": "",
       "game_name": "微型小说系列vol.02 境域的一月 v1.0[PB汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh104.jpg"
     },
     {
       "id": "3DSZH#105",
       "game_id": "",
       "game_name": "微型小说系列vol.03 赠与的二月 v1.0[PB汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh105.jpg"
     },
     {
       "id": "3DSZH#106",
       "game_id": "",
       "game_name": "微型小说系列vol.04 恋恋的三月 v1.0[PB汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh106.jpg"
     },
     {
       "id": "3DSZH#107",
@@ -827,19 +834,22 @@
       "id": "3DSZH#116",
       "game_id": "",
       "game_name": "我们的七天战争 友情的冒险[IO汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh116.jpg"
     },
     {
       "id": "3DSZH#117",
       "game_id": "",
       "game_name": "我的世界 Minecraft [美版自带简繁官中][1.3补丁](限new3ds使用)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh117.jpg"
     },
     {
       "id": "3DSZH#118",
       "game_id": "",
       "game_name": "推拉方块 (eShop)(官中)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh118.jpg"
     },
     {
       "id": "3DSZH#119",
@@ -950,7 +960,8 @@
       "id": "3DSZH#134",
       "game_id": "",
       "game_name": "暴走老精灵 (eShop)(官中)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh134.jpg"
     },
     {
       "id": "3DSZH#135",
@@ -963,7 +974,8 @@
       "id": "3DSZH#136",
       "game_id": "",
       "game_name": "极度恐惧 汉化版",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh136.jpg"
     },
     {
       "id": "3DSZH#137",
@@ -983,7 +995,8 @@
       "id": "3DSZH#139",
       "game_id": "",
       "game_name": "武士2 官中",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh139.jpg"
     },
     {
       "id": "3DSZH#140",
@@ -1003,13 +1016,15 @@
       "id": "3DSZH#142",
       "game_id": "",
       "game_name": "水滴解谜 反射 (eShop)(美版自带官中)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh142.jpg"
     },
     {
       "id": "3DSZH#143",
       "game_id": "",
       "game_name": "沙漠老鼠团(eShop)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh143.jpg"
     },
     {
       "id": "3DSZH#144",
@@ -1043,7 +1058,8 @@
       "id": "3DSZH#148",
       "game_id": "",
       "game_name": "涂鸦切割 (eShop)(欧版自带官中)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh148.jpg"
     },
     {
       "id": "3DSZH#149",
@@ -1056,7 +1072,8 @@
       "id": "3DSZH#150",
       "game_id": "",
       "game_name": "游戏王最强卡片战斗 纯卡片汉化",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh150.jpg"
     },
     {
       "id": "3DSZH#151",
@@ -1090,7 +1107,8 @@
       "id": "3DSZH#155",
       "game_id": "",
       "game_name": "热血魔法物语[汉化v2.0][QAQ汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh155.jpg"
     },
     {
       "id": "3DSZH#156",
@@ -1124,7 +1142,8 @@
       "id": "3DSZH#160",
       "game_id": "",
       "game_name": "王国道具店 BUG修复版[ACG汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh160.jpg"
     },
     {
       "id": "3DSZH#161",
@@ -1151,13 +1170,15 @@
       "id": "3DSZH#164",
       "game_id": "",
       "game_name": "疾走DX[奶牛前辈]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh164.jpg"
     },
     {
       "id": "3DSZH#165",
       "game_id": "",
       "game_name": "疾风兔丸 知惠之珠与封魔之印[IO汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh165.jpg"
     },
     {
       "id": "3DSZH#166",
@@ -1191,7 +1212,8 @@
       "id": "3DSZH#170",
       "game_id": "",
       "game_name": "神枪手物语(eShop)(官中)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh170.jpg"
     },
     {
       "id": "3DSZH#171",
@@ -1218,7 +1240,8 @@
       "id": "3DSZH#174",
       "game_id": "",
       "game_name": "究极FC名作合集[超巨星汉化组](需跨区)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh174.jpg"
     },
     {
       "id": "3DSZH#175",
@@ -1287,25 +1310,29 @@
       "id": "3DSZH#184",
       "game_id": "",
       "game_name": "绘图方块e2[3DS汉化吧汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh184.jpg"
     },
     {
       "id": "3DSZH#185",
       "game_id": "",
       "game_name": "绘图方块e8[3DS汉化吧汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh185.jpg"
     },
     {
       "id": "3DSZH#186",
       "game_id": "",
       "game_name": "绘图方块e9[3DS汉化吧汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh186.jpg"
     },
     {
       "id": "3DSZH#187",
       "game_id": "",
       "game_name": "绘图方块e[3DS汉化吧汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh187.jpg"
     },
     {
       "id": "3DSZH#188",
@@ -1339,25 +1366,29 @@
       "id": "3DSZH#192",
       "game_id": "",
       "game_name": "蒸汽世界 大劫掠[ACG汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh192.jpg"
     },
     {
       "id": "3DSZH#193",
       "game_id": "",
       "game_name": "蒸汽世界 挖掘2[noword2k](新三专用)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh193.jpg"
     },
     {
       "id": "3DSZH#194",
       "game_id": "",
       "game_name": "蒸汽世界 挖掘[Advance汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh194.jpg"
     },
     {
       "id": "3DSZH#195",
       "game_id": "",
       "game_name": "血污 月之诅咒[v1.1补丁汉化][3ds汉化吧+3DM]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh195.jpg"
     },
     {
       "id": "3DSZH#196",
@@ -1412,7 +1443,8 @@
       "id": "3DSZH#203",
       "game_id": "",
       "game_name": "跳出！猫猫大战争 汉化版",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh203.jpg"
     },
     {
       "id": "3DSZH#204",
@@ -1446,7 +1478,8 @@
       "id": "3DSZH#208",
       "game_id": "",
       "game_name": "邦妮早午餐 (eShop)(官中)",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh208.jpg"
     },
     {
       "id": "3DSZH#209",
@@ -1466,7 +1499,8 @@
       "id": "3DSZH#212",
       "game_id": "",
       "game_name": "钢铁陨落 入侵[eshop][PB汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh212.jpg"
     },
     {
       "id": "3DSZH#213",
@@ -1584,7 +1618,8 @@
       "id": "3DSZH#229",
       "game_id": "",
       "game_name": "马里奥医生[完全汉化版][超巨星汉化组]",
-      "date": "2020-02-15"
+      "date": "2020-02-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh229.jpg"
     },
     {
       "id": "3DSZH#230",
@@ -1632,31 +1667,36 @@
       "id": "3DSZH#236",
       "game_id": "",
       "game_name": "魔女与勇者 (eShop)(官中)",
-      "date": "2020-08-15"
+      "date": "2020-08-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh236.jpg"
     },
     {
       "id": "3DSZH#237",
       "game_id": "",
       "game_name": "魔女与勇者2 汉化 1.2修复版",
-      "date": "2020-08-15"
+      "date": "2020-08-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh237.jpg"
     },
     {
       "id": "3DSZH#238",
       "game_id": "",
       "game_name": "魔王的盒子 (eShop)(美版自带官中)",
-      "date": "2020-08-15"
+      "date": "2020-08-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh238.jpg"
     },
     {
       "id": "3DSZH#239",
       "game_id": "",
       "game_name": "魔神少女",
-      "date": "2020-08-15"
+      "date": "2020-08-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh239.jpg"
     },
     {
       "id": "3DSZH#240",
       "game_id": "",
       "game_name": "魔神少女第二章 愿望的代价(eShop)(官中)",
-      "date": "2020-08-15"
+      "date": "2020-08-15",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh240.jpg"
     },
     {
       "id": "3DSZH#241",
