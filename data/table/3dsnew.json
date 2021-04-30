@@ -35,7 +35,7 @@
       "id": "N3DS#2",
       "game_name": "Runbow 口袋豪华版 Runbow Pocket Deluxe Edition 美版(New3DS专用)",
       "date": "2020-11-27",
-      "img": "https://data.yang2000ling.com/img/3ds_200/n3ds3.jpg"
+      "img": "https://data.yang2000ling.com/img/3ds_200/n3ds2.jpg"
     },
     {
       "id": "N3DS#3",
@@ -44,16 +44,16 @@
       "img": "https://data.yang2000ling.com/img/3ds_200/n3ds3.jpg"
     },
     {
-      "id": "N3DS#4",
-      "game_name": "我的世界 Minecraft 美版自带官方简繁体中文(New3DS专用)",
-      "date": "2020-11-27",
-      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh117.jpg"
-    },
-    {
       "id": "N3DS#5",
       "game_name": "异度之刃3D Xenoblade Chronicles 3D 欧版(New3DS专用)",
       "date": "2020-11-27",
       "img": "https://data.yang2000ling.com/img/3ds_200/3dszh102.jpg"
+    },
+    {
+      "id": "N3DS#4",
+      "game_name": "我的世界 Minecraft 美版自带官方简繁体中文(New3DS专用)",
+      "date": "2020-11-27",
+      "img": "https://data.yang2000ling.com/img/3ds_200/3dszh117.jpg"
     }
   ]
 }
