@@ -1,6 +1,13 @@
 {
   "name": "PSV中文游戏合集",
   "comment": "本目录主要收集PSV掌机平台上所有的中文游戏，如果建议可以电邮站长，大部分游戏都是用NND方法安装，不懂的玩家建议去B战找一下相关视频安装教程。",
+  "download": [
+    {
+      "comment": "解压密码：yang2000ling 提取码：otqg",
+      "name": "百度网盘",
+      "url": "链接：https://pan.baidu.com/s/16YjrqtqcvJsi2MFzgu6nrg"
+    }
+  ],
   "header": [
     {
       "value": "img",
@@ -27,6 +34,13 @@
     }
   ],
   "content": [
+    {
+      "game_id": "PSVzh#487",
+      "game_name": "GNOSIA汉化版V1.2[XXGAME][NND]",
+      "date": "2021-04-30",
+      "id": "PCSG01277",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSG01277.jpg"
+    },
     {
       "game_id": "PSVzh#486",
       "game_name": "灾厄逆刃[PCSB01467][NND]",
