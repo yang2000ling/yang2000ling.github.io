@@ -3,7 +3,7 @@
   "comment": "本目录旨在收集PSV掌机平台上所有的中文游戏，如有侵权或者建议，请及时联系我们。",
   "download": [
     {
-      "comment": "提取码：fmv2 解压密码：yang2000ling.cn或者yang2000ling",
+      "comment": "提取码：fmv2 解压密码：yang2000ling.com或者yang2000ling",
       "name": "百度网盘",
       "url": "https://pan.baidu.com/s/14e1E_aLhaKNp5VjjZ-iuqA"
     }
@@ -34,6 +34,20 @@
     }
   ],
   "content": [
+    {
+      "game_id": "PSVzh#498",
+      "game_name": "棒豌豆合集[PCSH10276][中文][NND]",
+      "date": "2021-06-30",
+      "id": "PCSH10276",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSH10276.jpg"
+    },
+    {
+      "game_id": "PSVzh#497",
+      "game_name": "Sense-不祥的预感[PCSH10287][中文][NND]",
+      "date": "2021-06-30",
+      "id": "PCSH10287",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSH10287.jpg"
+    },
     {
       "game_id": "PSVzh#496",
       "game_name": "Synergia协同力量[PCSH10306][中文版][NND]",
