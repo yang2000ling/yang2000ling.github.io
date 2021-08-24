@@ -1,10 +1,11 @@
 {
   "name": "PSV中文游戏合集",
-  "comment": "本目录旨在收集PSV掌机平台上所有的中文游戏，如有侵权或者建议，请及时联系我们。",
+  "comment": "本目录旨在收集PSV掌机平台上所有的中文游戏，资源如有侵权，请及时联系我们。",
+  "version": "PSVZH",
   "download": [
     {
       "comment": "提取码：8848 解压密码1：yang2000ling 解压密码2：yang2000ling.com 解压密码3：yang2000ling.cn",
-      "name": "百度网盘",
+      "game_name": "百度网盘",
       "url": "https://pan.baidu.com/s/1KXCv0-7UcJrPAyGkUR5wpQ"
     }
   ],
