@@ -49041,16 +49041,18 @@
     },
     {
       "game_id": "3276",
-      "publisher": "Quinrose",
+      "publisher": "Konami",
       "genre": [
-        "冒险"
+        "运动",
+        "传统",
+        "棒球"
       ],
       "language": [
         "日语"
       ],
-      "game_name": "Majoou",
+      "game_name": "Pro Yakyuu Spirits 2014 (v2)",
       "img": "https://data.yang2000ling.com/img/psp_200/3276.jpg",
-      "ch_name": "魔女王"
+      "ch_name": "职业棒球之魂2014(v2)"
     },
     {
       "game_id": "3277",
@@ -49064,7 +49066,7 @@
       ],
       "game_name": "Toukiden Kiwami",
       "img": "https://data.yang2000ling.com/img/psp_200/3277.jpg",
-      "ch_name": "职业棒球之魂2014(v2)"
+      "ch_name": "讨鬼传 极"
     },
     {
       "game_id": "3278",
@@ -49079,7 +49081,7 @@
       ],
       "game_name": "PixelJunk Monsters (UMD Limited Edition)",
       "img": "https://data.yang2000ling.com/img/psp_200/3278.jpg",
-      "ch_name": "讨鬼传 极"
+      "ch_name": "像素垃圾-妖怪豪华版"
     },
     {
       "game_id": "3279",
@@ -49095,7 +49097,7 @@
       ],
       "game_name": "FIFA Soccer 13",
       "img": "https://data.yang2000ling.com/img/psp_200/3279.jpg",
-      "ch_name": "像素垃圾-妖怪豪华版(UMD"
+      "ch_name": "FIFA足球2013"
     },
     {
       "game_id": "3280",
@@ -49111,7 +49113,7 @@
       ],
       "game_name": "FIFA Soccer 11 (v2)",
       "img": "https://data.yang2000ling.com/img/psp_200/3280.jpg",
-      "ch_name": "FIFA足球2013"
+      "ch_name": "FIFA足球2011(v2)"
     },
     {
       "game_id": "3281",
@@ -49125,7 +49127,7 @@
       ],
       "game_name": "Bakumatsu Rock: Ultra Soul",
       "img": "https://data.yang2000ling.com/img/psp_200/3281.jpg",
-      "ch_name": "FIFA足球2011(v2)"
+      "ch_name": "幕末摇滚-超魂"
     },
     {
       "game_id": "3282",
@@ -49139,7 +49141,7 @@
       ],
       "game_name": "Enkeltbillet",
       "img": "https://data.yang2000ling.com/img/psp_200/3282.jpg",
-      "ch_name": "幕末摇滚-超魂"
+      "ch_name": "单程票"
     },
     {
       "game_id": "3283",
@@ -49153,7 +49155,7 @@
       ],
       "game_name": "Kiniro no Corda 3: Another Sky feat. Amane Gakuen",
       "img": "https://data.yang2000ling.com/img/psp_200/3283.jpg",
-      "ch_name": "Enkeltbillet"
+      "ch_name": "金色的琴弦3-另一片天空 天音学园篇"
     },
     {
       "game_id": "3284",
@@ -49167,7 +49169,7 @@
       ],
       "game_name": "Satomi Hakkenden: Hamaji Hime no Ki",
       "img": "https://data.yang2000ling.com/img/psp_200/3284.jpg",
-      "ch_name": "金色的琴弦3-另一片天空 天音学园篇"
+      "ch_name": "里见八犬传-浜路姬之记"
     },
     {
       "game_id": "3285",
@@ -49182,7 +49184,7 @@
       ],
       "game_name": "FIFA 11 (v2) (Platinum)",
       "img": "https://data.yang2000ling.com/img/psp_200/3285.jpg",
-      "ch_name": "里见八犬传-浜路姬之记"
+      "ch_name": "FIFA足球2011(v2)"
     },
     {
       "game_id": "3286",
@@ -49196,7 +49198,7 @@
       ],
       "game_name": "Pri-Pia: Prince Pia Carrot",
       "img": "https://data.yang2000ling.com/img/psp_200/3286.jpg",
-      "ch_name": "FIFA足球2011(v2)"
+      "ch_name": "恋爱餐厅-王子"
     },
     {
       "game_id": "3287",
@@ -49210,7 +49212,7 @@
       ],
       "game_name": "Taishou Kitan: Koto no Hazakura",
       "img": "https://data.yang2000ling.com/img/psp_200/3287.jpg",
-      "ch_name": "恋爱餐厅-王子"
+      "ch_name": "大正鬼谭-和歌樱花~"
     },
     {
       "game_id": "3288",
@@ -49224,7 +49226,7 @@
       ],
       "game_name": "Omerta: Chinmoku no Okite - The Legacy",
       "img": "https://data.yang2000ling.com/img/psp_200/3288.jpg",
-      "ch_name": "学园K-完美校园生活"
+      "ch_name": "沉默的法则"
     },
     {
       "game_id": "3289",
@@ -49238,7 +49240,7 @@
       ],
       "game_name": "Kuroyukihime: Snow Magic",
       "img": "https://data.yang2000ling.com/img/psp_200/3289.jpg",
-      "ch_name": "大正鬼谭-和歌樱花"
+      "ch_name": "黑雪姬-雪魔法"
     },
     {
       "game_id": "3290",
@@ -49252,7 +49254,7 @@
       ],
       "game_name": "Flowers",
       "img": "https://data.yang2000ling.com/img/psp_200/3290.jpg",
-      "ch_name": "人鱼哥特"
+      "ch_name": "花"
     },
     {
       "game_id": "3291",
@@ -49266,7 +49268,7 @@
       ],
       "game_name": "Shinsouban Clover no Kuni no Alice: Wonderful Twin World",
       "img": "https://data.yang2000ling.com/img/psp_200/3291.jpg",
-      "ch_name": "沉默的法则"
+      "ch_name": "新装版 梅花国的爱丽丝-美妙双世界"
     },
     {
       "game_id": "3292",
@@ -49280,7 +49282,7 @@
       ],
       "game_name": "Kaleido-Eve",
       "img": "https://data.yang2000ling.com/img/psp_200/3292.jpg",
-      "ch_name": "黑雪姬-雪魔法"
+      "ch_name": "万花筒前夜"
     },
     {
       "game_id": "3293",
@@ -49294,7 +49296,7 @@
       ],
       "game_name": "Satomi Hakkenden: Murasame Maru no Ki",
       "img": "https://data.yang2000ling.com/img/psp_200/3293.jpg",
-      "ch_name": "花"
+      "ch_name": "里見八犬伝 ～村雨丸之記～"
     },
     {
       "game_id": "3294",
@@ -49308,7 +49310,7 @@
       ],
       "game_name": "Gakuen K: Wonderful School Days",
       "img": "https://data.yang2000ling.com/img/psp_200/3294.jpg",
-      "ch_name": "新装版 梅花国的爱丽丝-美妙双世界"
+      "ch_name": "学园K：完美校园生活"
     },
     {
       "game_id": "3295",
@@ -49322,7 +49324,7 @@
       ],
       "game_name": "Mermaid Gothic",
       "img": "https://data.yang2000ling.com/img/psp_200/3295.jpg",
-      "ch_name": "万花筒前夜"
+      "ch_name": "哥特式美人鱼"
     },
     {
       "game_id": "3296",
@@ -49336,7 +49338,7 @@
       ],
       "game_name": "Cars",
       "img": "https://data.yang2000ling.com/img/psp_200/3296.jpg",
-      "ch_name": "里见八犬传-村雨丸之记"
+      "ch_name": "汽车总动员"
     },
     {
       "game_id": "3297",
@@ -49354,7 +49356,7 @@
       ],
       "game_name": "Puzzler Collection",
       "img": "https://data.yang2000ling.com/img/psp_200/3297.jpg",
-      "ch_name": "汽车总动员"
+      "ch_name": "益智游戏合集"
     },
     {
       "game_id": "3298",
@@ -49369,7 +49371,7 @@
       ],
       "game_name": "Buzz! Quiz World",
       "img": "https://data.yang2000ling.com/img/psp_200/3298.jpg",
-      "ch_name": "益智游戏合集"
+      "ch_name": "喧闹少年找碴大师 测验世界"
     },
     {
       "game_id": "3299",
@@ -49383,7 +49385,7 @@
       ],
       "game_name": "Harukanaru Toki no Naka de 6",
       "img": "https://data.yang2000ling.com/img/psp_200/3299.jpg",
-      "ch_name": "喧闹少年找碴大师 测验世界"
+      "ch_name": "遥远的时空中6"
     },
     {
       "game_id": "3300",
@@ -49397,7 +49399,7 @@
       ],
       "game_name": "Uta no * Prince-Sama: All Star After Secret",
       "img": "https://data.yang2000ling.com/img/psp_200/3300.jpg",
-      "ch_name": "遥远的时空中6"
+      "ch_name": "歌之王子殿下-全明星背后的秘密"
     },
     {
       "game_id": "3301",
@@ -49411,7 +49413,7 @@
       ],
       "game_name": "Yoiyomori no Hime",
       "img": "https://data.yang2000ling.com/img/psp_200/3301.jpg",
-      "ch_name": "歌之王子殿下-全明星背后的秘密"
+      "ch_name": "宵夜森的公主"
     },
     {
       "game_id": "3302",
@@ -49426,7 +49428,7 @@
       ],
       "game_name": "Tube Mania",
       "img": "https://data.yang2000ling.com/img/psp_200/3302.jpg",
-      "ch_name": "宵夜森的公主"
+      "ch_name": "疯狂水管工"
     },
     {
       "game_id": "3303",
@@ -49440,7 +49442,7 @@
       ],
       "game_name": "Tony Hawk's Project 8 (v2) (Greatest Hits)",
       "img": "https://data.yang2000ling.com/img/psp_200/3303.jpg",
-      "ch_name": "疯狂水管工"
+      "ch_name": "托尼霍克滑板-八强争霸(v2)"
     },
     {
       "game_id": "3304",
@@ -49455,7 +49457,7 @@
       ],
       "game_name": "Ratatouille",
       "img": "https://data.yang2000ling.com/img/psp_200/3304.jpg",
-      "ch_name": "托尼霍克滑板-八强争霸(v2)(Greatest"
+      "ch_name": "料理鼠王"
     },
     {
       "game_id": "3305",
@@ -49473,7 +49475,7 @@
       ],
       "game_name": "Football Manager Handheld 2013",
       "img": "https://data.yang2000ling.com/img/psp_200/3305.jpg",
-      "ch_name": "料理鼠王"
+      "ch_name": "足球经理2013"
     },
     {
       "game_id": "3306",
@@ -49487,7 +49489,7 @@
       ],
       "game_name": "Imagine Champion Rider",
       "img": "https://data.yang2000ling.com/img/psp_200/3306.jpg",
-      "ch_name": "足球经理2013"
+      "ch_name": "幻想-冠军骑师"
     },
     {
       "game_id": "3307",
@@ -49501,7 +49503,7 @@
       ],
       "game_name": "Meiji Tokyo Renka: Twilight Kiss",
       "img": "https://data.yang2000ling.com/img/psp_200/3307.jpg",
-      "ch_name": "幻想-冠军骑师"
+      "ch_name": "明治东京恋伽-黄昏之吻"
     },
     {
       "game_id": "3308",
@@ -49515,7 +49517,7 @@
       ],
       "game_name": "Gakuen Heaven 2: Double Scramble! (UMD Disc 1)",
       "img": "https://data.yang2000ling.com/img/psp_200/3308.jpg",
-      "ch_name": "明治东京恋伽-黄昏之吻"
+      "ch_name": "学园天堂2(UMD-Disc 1)"
     },
     {
       "game_id": "3309",
@@ -49529,7 +49531,7 @@
       ],
       "game_name": "Gakuen Heaven 2: Double Scramble! (UMD Disc 2)",
       "img": "https://data.yang2000ling.com/img/psp_200/3309.jpg",
-      "ch_name": "学园天堂2(UMD-Disc 1)"
+      "ch_name": "学园天堂2(UMD-Disc 2)"
     },
     {
       "game_id": "3310",
@@ -49545,7 +49547,7 @@
       ],
       "game_name": "WALL-E",
       "img": "https://data.yang2000ling.com/img/psp_200/3310.jpg",
-      "ch_name": "学园天堂2(UMD-Disc 2)"
+      "ch_name": "机器人总动员"
     },
     {
       "game_id": "3311",
@@ -49559,7 +49561,7 @@
       ],
       "game_name": "Cars",
       "img": "https://data.yang2000ling.com/img/psp_200/3311.jpg",
-      "ch_name": "机器人总动员"
+      "ch_name": "汽车总动员"
     },
     {
       "game_id": "3312",
@@ -49574,7 +49576,7 @@
       ],
       "game_name": "FIFA 14",
       "img": "https://data.yang2000ling.com/img/psp_200/3312.jpg",
-      "ch_name": "汽车总动员"
+      "ch_name": "FIFA足球2014"
     },
     {
       "game_id": "3313",
@@ -49588,7 +49590,7 @@
       ],
       "game_name": "Transformers: Revenge of the Fallen",
       "img": "https://data.yang2000ling.com/img/psp_200/3313.jpg",
-      "ch_name": "FIFA足球2014"
+      "ch_name": "变形金刚2-卷土重来"
     },
     {
       "game_id": "3314",
@@ -49618,7 +49620,7 @@
       ],
       "game_name": "FIFA 13",
       "img": "https://data.yang2000ling.com/img/psp_200/3315.jpg",
-      "ch_name": "变形金刚2-卷土重来"
+      "ch_name": "FIFA世界杯 13"
     },
     {
       "game_id": "3316",
@@ -49633,7 +49635,7 @@
       ],
       "game_name": "Championship Manager 2006",
       "img": "https://data.yang2000ling.com/img/psp_200/3316.jpg",
-      "ch_name": "FIFA足球2013"
+      "ch_name": "冠军足球经理2006"
     },
     {
       "game_id": "3317",
@@ -49646,7 +49648,7 @@
       ],
       "game_name": "Cloudy With a Chance of Meatballs",
       "img": "https://data.yang2000ling.com/img/psp_200/3317.jpg",
-      "ch_name": "冠军足球经理2006"
+      "ch_name": "美食从天降"
     },
     {
       "game_id": "3318",
@@ -49660,7 +49662,7 @@
       ],
       "game_name": "Flowers: Natsu-Hen",
       "img": "https://data.yang2000ling.com/img/psp_200/3318.jpg",
-      "ch_name": "美食从天降"
+      "ch_name": "花-夏篇"
     },
     {
       "game_id": "3319",
@@ -49675,7 +49677,7 @@
       ],
       "game_name": "FIFA 12",
       "img": "https://data.yang2000ling.com/img/psp_200/3319.jpg",
-      "ch_name": "花-夏篇"
+      "ch_name": "FIFA足球2012"
     },
     {
       "game_id": "3320",
@@ -49690,7 +49692,7 @@
       ],
       "game_name": "FIFA 10",
       "img": "https://data.yang2000ling.com/img/psp_200/3320.jpg",
-      "ch_name": "FIFA足球2012"
+      "ch_name": "FIFA世界杯10"
     },
     {
       "game_id": "3321",
@@ -49705,7 +49707,7 @@
       ],
       "game_name": "FIFA 11",
       "img": "https://data.yang2000ling.com/img/psp_200/3321.jpg",
-      "ch_name": "FIFA足球2010"
+      "ch_name": "FIFA足球11"
     },
     {
       "game_id": "3322",
@@ -49720,7 +49722,7 @@
       ],
       "game_name": "Buzz! The Ultimate Music Quiz",
       "img": "https://data.yang2000ling.com/img/psp_200/3322.jpg",
-      "ch_name": "FIFA足球2011"
+      "ch_name": "喧闹少年找碴大师 终极音乐测验"
     },
     {
       "game_id": "3323",
@@ -49734,7 +49736,7 @@
       ],
       "game_name": "Buzz! Brain of...",
       "img": "https://data.yang2000ling.com/img/psp_200/3323.jpg",
-      "ch_name": "喧闹少年找碴大师 终极音乐测验"
+      "ch_name": "喧闹少年找碴大师 世界智囊团"
     },
     {
       "game_id": "3324",
@@ -49750,7 +49752,7 @@
       ],
       "game_name": "Pro Evolution Soccer 2014",
       "img": "https://data.yang2000ling.com/img/psp_200/3324.jpg",
-      "ch_name": "喧闹少年找碴大师 世界智囊团"
+      "ch_name": "实况足球2014"
     },
     {
       "game_id": "3325",
@@ -49764,7 +49766,7 @@
       ],
       "game_name": "Angelique Retour",
       "img": "https://data.yang2000ling.com/img/psp_200/3325.jpg",
-      "ch_name": "实况足球2014"
+      "ch_name": "安琪莉可"
     },
     {
       "game_id": "3326",
@@ -49778,7 +49780,7 @@
       ],
       "game_name": "Walpurga no Uta: Walpurgisgedichte",
       "img": "https://data.yang2000ling.com/img/psp_200/3326.jpg",
-      "ch_name": "安琪莉可"
+      "ch_name": "魔女之诗"
     },
     {
       "game_id": "3327",
@@ -49792,7 +49794,7 @@
       ],
       "game_name": "Summon Night 5",
       "img": "https://data.yang2000ling.com/img/psp_200/3327.jpg",
-      "ch_name": "魔女之诗"
+      "ch_name": "召唤之夜5"
     },
     {
       "game_id": "3328",
@@ -49806,7 +49808,7 @@
       ],
       "game_name": "Blazing Souls: Accelate (v2)",
       "img": "https://data.yang2000ling.com/img/psp_200/3328.jpg",
-      "ch_name": "召唤之夜5"
+      "ch_name": "炙热之魂 加速（v2）"
     },
     {
       "game_id": "3329",
@@ -49820,7 +49822,7 @@
       ],
       "game_name": "Code Geass: Hangyaku no Lelouch - Lost Colors (v2)",
       "img": "https://data.yang2000ling.com/img/psp_200/3329.jpg",
-      "ch_name": "众神的恶作剧 无限"
+      "ch_name": "反叛的鲁路修:遗失的色彩"
     },
     {
       "game_id": "3330",
@@ -49834,7 +49836,7 @@
       ],
       "game_name": "Crash Tag Team Racing",
       "img": "https://data.yang2000ling.com/img/psp_200/3330.jpg",
-      "ch_name": "大众高尔夫球场Vol.2(GPS同捆版)(UMD-Disc 1)"
+      "ch_name": "古惑狼赛车 团队竞速"
     },
     {
       "game_id": "3331",
@@ -49851,7 +49853,7 @@
       ],
       "game_name": "FIFA 10",
       "img": "https://data.yang2000ling.com/img/psp_200/3331.jpg",
-      "ch_name": "大众高尔夫球场Vol.2(GPS同捆版)(UMD-Disc 2)"
+      "ch_name": "FIFA 10"
     },
     {
       "game_id": "3332",
@@ -49866,7 +49868,7 @@
       ],
       "game_name": "FIFA 13",
       "img": "https://data.yang2000ling.com/img/psp_200/3332.jpg",
-      "ch_name": "侍魂 六番胜负"
+      "ch_name": "FIFA 13"
     },
     {
       "game_id": "3333",
@@ -49881,7 +49883,7 @@
       ],
       "game_name": "FIFA 14",
       "img": "https://data.yang2000ling.com/img/psp_200/3333.jpg",
-      "ch_name": "三国恋战记-回忆追想 CS版(UMD-Disc 1)"
+      "ch_name": "FIFA 14"
     },
     {
       "game_id": "3334",
@@ -49896,7 +49898,7 @@
       ],
       "game_name": "FIFA 14",
       "img": "https://data.yang2000ling.com/img/psp_200/3334.jpg",
-      "ch_name": "三国恋战记-回忆追想 CS版(UMD-Disc 2)"
+      "ch_name": "FIFA 14"
     },
     {
       "game_id": "3335",
@@ -49910,7 +49912,7 @@
       ],
       "game_name": "Grisaia no Meikyuu: Le Labyrinthe de la Grisaia",
       "img": "https://data.yang2000ling.com/img/psp_200/3335.jpg",
-      "ch_name": "FIFA足球2014"
+      "ch_name": "灰色的迷宫"
     },
     {
       "game_id": "3336",
@@ -49924,7 +49926,7 @@
       ],
       "game_name": "Grisaia no Meikyuu: Le Eden de la Grisaia",
       "img": "https://data.yang2000ling.com/img/psp_200/3336.jpg",
-      "ch_name": "FIFA足球2011"
+      "ch_name": "灰色的迷宮"
     },
     {
       "game_id": "3337",
@@ -49939,7 +49941,7 @@
       ],
       "game_name": "Jikkyou Powerful Pro Yakyuu Portable 3 (v2)",
       "img": "https://data.yang2000ling.com/img/psp_200/3337.jpg",
-      "ch_name": "杰克与达斯特-失落的边境(a)"
+      "ch_name": "实况力量棒球 携带版3 （v2）"
     },
     {
       "game_id": "3338",
@@ -49954,7 +49956,7 @@
       ],
       "game_name": "Minna no Golf Jou Vol. 2 (with GPS Receiver) (UMD Disc 1)",
       "img": "https://data.yang2000ling.com/img/psp_200/3338.jpg",
-      "ch_name": "欧洲冠军联赛2006-2007"
+      "ch_name": "大众高尔夫球场Vol.2(UMD-Disc 1)(GPS同捆版)"
     },
     {
       "game_id": "3339",
@@ -49969,7 +49971,7 @@
       ],
       "game_name": "Minna no Golf Jou Vol. 2 (with GPS Receiver) (UMD Disc 2)",
       "img": "https://data.yang2000ling.com/img/psp_200/3339.jpg",
-      "ch_name": "合金装备-和平行者(v2)"
+      "ch_name": "大众高尔夫球场Vol.2(UMD-Disc 2)(GPS同捆版)"
     },
     {
       "game_id": "3340",
@@ -50329,7 +50331,7 @@
       ],
       "game_name": "FIFA 11 (v2) (Platinum)",
       "img": "https://data.yang2000ling.com/img/psp_200/3363.jpg",
-      "ch_name": "FIFA 11 (v2) (白金版)"
+      "ch_name": "FIFA世界杯 11 (v2) (白金版)"
     },
     {
       "game_id": "3364",
