@@ -28,6 +28,11 @@
       "divider": true
     },
     {
+      "value": "id",
+      "text": "游戏ID",
+      "divider": true
+    },
+    {
       "value": "date",
       "text": "更新日期",
       "width": 150,
