@@ -48957,15 +48957,15 @@
     },
     {
       "game_id": "3270",
-      "publisher": "Idea Factory",
+      "publisher": "Konami",
       "genre": [
-        "冒险",
+        "运动",
         "普通"
       ],
       "language": [
         "日语"
       ],
-      "game_name": "Chronostacia",
+      "game_name": "Pro Yakyuu Spirits 2014",
       "img": "https://data.yang2000ling.com/img/psp_200/3270.jpg",
       "ch_name": "职业棒球之魂2014"
     },
@@ -48979,7 +48979,7 @@
       "language": [
         "日语"
       ],
-      "game_name": "Heart no Kuni no Alice: Wonderful Twin World",
+      "game_name": "Chronostacia",
       "img": "https://data.yang2000ling.com/img/psp_200/3271.jpg",
       "ch_name": "时限的轮舞"
     },
@@ -48993,35 +48993,33 @@
       "language": [
         "日语"
       ],
-      "game_name": "Black Code",
+      "game_name": "Heart no Kuni no Alice - Wonderful Twin World",
       "img": "https://data.yang2000ling.com/img/psp_200/3272.jpg",
       "ch_name": "红心国的爱丽丝-美妙双世界"
     },
     {
       "game_id": "3273",
-      "publisher": "System Soft",
+      "publisher": "Quinrose",
       "genre": [
-        "策略",
-        "回合制"
+        "冒险"
       ],
       "language": [
         "日语"
       ],
-      "game_name": "Daisenryaku: Daitoua Kouboushi - Dainiji Sekai Taisen Boppatsu! Suujikugun tai Rengougun Zensekai-sen",
+      "game_name": "Black Code",
       "img": "https://data.yang2000ling.com/img/psp_200/3273.jpg",
       "ch_name": "黑色代码"
     },
     {
       "game_id": "3274",
-      "publisher": "Quinrose",
+      "publisher": "SystemSoft",
       "genre": [
-        "冒险",
-        "普通"
+        "策略"
       ],
       "language": [
         "日语"
       ],
-      "game_name": "Majoou",
+      "game_name": "Daisenryaku - Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen",
       "img": "https://data.yang2000ling.com/img/psp_200/3274.jpg",
       "ch_name": "大战略 大东亚兴亡史-第二次世界大战爆发 枢轴军对联合军 全世界战"
     },
@@ -49041,6 +49039,20 @@
     },
     {
       "game_id": "3276",
+      "publisher": "Quinrose",
+      "genre": [
+        "冒险",
+        "普通"
+      ],
+      "language": [
+        "日语"
+      ],
+      "game_name": "Majoou",
+      "img": "https://data.yang2000ling.com/img/psp_200/3276.jpg",
+      "ch_name": "魔女王"
+    },
+    {
+      "game_id": "3277",
       "publisher": "Konami",
       "genre": [
         "运动",
@@ -49055,7 +49067,7 @@
       "ch_name": "职业棒球之魂2014(v2)"
     },
     {
-      "game_id": "3277",
+      "game_id": "3278",
       "publisher": "Koei Tecmo Games",
       "genre": [
         "动作",
@@ -49069,7 +49081,7 @@
       "ch_name": "讨鬼传 极"
     },
     {
-      "game_id": "3278",
+      "game_id": "3279",
       "publisher": "Sony",
       "genre": [
         "策略",
@@ -49084,7 +49096,7 @@
       "ch_name": "像素垃圾-妖怪豪华版"
     },
     {
-      "game_id": "3279",
+      "game_id": "3280",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -49100,7 +49112,7 @@
       "ch_name": "FIFA足球2013"
     },
     {
-      "game_id": "3280",
+      "game_id": "3281",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -49116,7 +49128,7 @@
       "ch_name": "FIFA足球2011(v2)"
     },
     {
-      "game_id": "3281",
+      "game_id": "3282",
       "publisher": "Marvelous Inc.",
       "genre": [
         "混合",
@@ -49130,7 +49142,7 @@
       "ch_name": "幕末摇滚-超魂"
     },
     {
-      "game_id": "3282",
+      "game_id": "3283",
       "publisher": "Idea Factory",
       "genre": [
         "冒险",
@@ -49144,7 +49156,7 @@
       "ch_name": "单程票"
     },
     {
-      "game_id": "3283",
+      "game_id": "3284",
       "publisher": "Koei Tecmo Games",
       "genre": [
         "RPG",
@@ -49158,7 +49170,7 @@
       "ch_name": "金色的琴弦3-另一片天空 天音学园篇"
     },
     {
-      "game_id": "3284",
+      "game_id": "3285",
       "publisher": "Quinrose",
       "genre": [
         "冒险",
@@ -49172,7 +49184,7 @@
       "ch_name": "里见八犬传-浜路姬之记"
     },
     {
-      "game_id": "3285",
+      "game_id": "3286",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -49187,7 +49199,7 @@
       "ch_name": "FIFA足球2011(v2)"
     },
     {
-      "game_id": "3286",
+      "game_id": "3287",
       "publisher": "dramatic create",
       "genre": [
         "冒险",
@@ -49201,105 +49213,7 @@
       "ch_name": "恋爱餐厅-王子"
     },
     {
-      "game_id": "3287",
-      "publisher": "Quinrose",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Taishou Kitan: Koto no Hazakura",
-      "img": "https://data.yang2000ling.com/img/psp_200/3287.jpg",
-      "ch_name": "大正鬼谭-和歌樱花~"
-    },
-    {
       "game_id": "3288",
-      "publisher": "Karin Entertainment",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Omerta: Chinmoku no Okite - The Legacy",
-      "img": "https://data.yang2000ling.com/img/psp_200/3288.jpg",
-      "ch_name": "沉默的法则"
-    },
-    {
-      "game_id": "3289",
-      "publisher": "Quinrose",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Kuroyukihime: Snow Magic",
-      "img": "https://data.yang2000ling.com/img/psp_200/3289.jpg",
-      "ch_name": "黑雪姬-雪魔法"
-    },
-    {
-      "game_id": "3290",
-      "publisher": "Prototype",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Flowers",
-      "img": "https://data.yang2000ling.com/img/psp_200/3290.jpg",
-      "ch_name": "花"
-    },
-    {
-      "game_id": "3291",
-      "publisher": "Quinrose",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Shinsouban Clover no Kuni no Alice: Wonderful Twin World",
-      "img": "https://data.yang2000ling.com/img/psp_200/3291.jpg",
-      "ch_name": "新装版 梅花国的爱丽丝-美妙双世界"
-    },
-    {
-      "game_id": "3292",
-      "publisher": "estciel",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Kaleido-Eve",
-      "img": "https://data.yang2000ling.com/img/psp_200/3292.jpg",
-      "ch_name": "万花筒前夜"
-    },
-    {
-      "game_id": "3293",
-      "publisher": "Quinrose",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Satomi Hakkenden: Murasame Maru no Ki",
-      "img": "https://data.yang2000ling.com/img/psp_200/3293.jpg",
-      "ch_name": "里見八犬伝 ～村雨丸之記～"
-    },
-    {
-      "game_id": "3294",
       "publisher": "Idea Factory",
       "genre": [
         "冒险",
@@ -49313,7 +49227,21 @@
       "ch_name": "学园K：完美校园生活"
     },
     {
-      "game_id": "3295",
+      "game_id": "3289",
+      "publisher": "Quinrose",
+      "genre": [
+        "冒险",
+        "普通"
+      ],
+      "language": [
+        "日语"
+      ],
+      "game_name": "Taishou Kitan: Koto no Hazakura",
+      "img": "https://data.yang2000ling.com/img/psp_200/3287.jpg",
+      "ch_name": "大正鬼谭-和歌樱花~"
+    },
+    {
+      "game_id": "3290",
       "publisher": "Quinrose",
       "genre": [
         "冒险",
@@ -49327,7 +49255,91 @@
       "ch_name": "哥特式美人鱼"
     },
     {
+      "game_id": "3291",
+      "publisher": "Karin Entertainment",
+      "genre": [
+        "冒险",
+        "普通"
+      ],
+      "language": [
+        "日语"
+      ],
+      "game_name": "Omerta: Chinmoku no Okite - The Legacy",
+      "img": "https://data.yang2000ling.com/img/psp_200/3288.jpg",
+      "ch_name": "沉默的法则"
+    },
+    {
+      "game_id": "3292",
+      "publisher": "Quinrose",
+      "genre": [
+        "冒险",
+        "普通"
+      ],
+      "language": [
+        "日语"
+      ],
+      "game_name": "Kuroyukihime: Snow Magic",
+      "img": "https://data.yang2000ling.com/img/psp_200/3289.jpg",
+      "ch_name": "黑雪姬-雪魔法"
+    },
+    {
+      "game_id": "3293",
+      "publisher": "Prototype",
+      "genre": [
+        "冒险",
+        "普通"
+      ],
+      "language": [
+        "日语"
+      ],
+      "game_name": "Flowers",
+      "img": "https://data.yang2000ling.com/img/psp_200/3290.jpg",
+      "ch_name": "花"
+    },
+    {
+      "game_id": "3294",
+      "publisher": "Quinrose",
+      "genre": [
+        "冒险",
+        "普通"
+      ],
+      "language": [
+        "日语"
+      ],
+      "game_name": "Shinsouban Clover no Kuni no Alice: Wonderful Twin World",
+      "img": "https://data.yang2000ling.com/img/psp_200/3291.jpg",
+      "ch_name": "新装版 梅花国的爱丽丝-美妙双世界"
+    },
+    {
+      "game_id": "3295",
+      "publisher": "estciel",
+      "genre": [
+        "冒险",
+        "普通"
+      ],
+      "language": [
+        "日语"
+      ],
+      "game_name": "Kaleido-Eve",
+      "img": "https://data.yang2000ling.com/img/psp_200/3292.jpg",
+      "ch_name": "万花筒前夜"
+    },
+    {
       "game_id": "3296",
+      "publisher": "Quinrose",
+      "genre": [
+        "冒险",
+        "普通"
+      ],
+      "language": [
+        "日语"
+      ],
+      "game_name": "Satomi Hakkenden: Murasame Maru no Ki",
+      "img": "https://data.yang2000ling.com/img/psp_200/3293.jpg",
+      "ch_name": "里見八犬伝 ～村雨丸之記～"
+    },
+    {
+      "game_id": "3297",
       "publisher": "THQ",
       "genre": [
         "驾驶",
@@ -49336,12 +49348,12 @@
       "language": [
         "葡萄牙语"
       ],
-      "game_name": "Cars",
+      "game_name": "Carros",
       "img": "https://data.yang2000ling.com/img/psp_200/3296.jpg",
       "ch_name": "汽车总动员"
     },
     {
-      "game_id": "3297",
+      "game_id": "3298",
       "publisher": "ZOO Digital Publishing",
       "genre": [
         "混合",
@@ -49359,7 +49371,7 @@
       "ch_name": "益智游戏合集"
     },
     {
-      "game_id": "3298",
+      "game_id": "3299",
       "publisher": "Sony",
       "genre": [
         "混合",
@@ -49374,7 +49386,7 @@
       "ch_name": "喧闹少年找碴大师 测验世界"
     },
     {
-      "game_id": "3299",
+      "game_id": "3300",
       "publisher": "Koei Tecmo Games",
       "genre": [
         "RPG",
@@ -49388,7 +49400,7 @@
       "ch_name": "遥远的时空中6"
     },
     {
-      "game_id": "3300",
+      "game_id": "3301",
       "publisher": "Broccoli",
       "genre": [
         "混合",
@@ -49402,7 +49414,7 @@
       "ch_name": "歌之王子殿下-全明星背后的秘密"
     },
     {
-      "game_id": "3301",
+      "game_id": "3302",
       "publisher": "eterire",
       "genre": [
         "冒险",
@@ -49416,7 +49428,7 @@
       "ch_name": "宵夜森的公主"
     },
     {
-      "game_id": "3302",
+      "game_id": "3303",
       "publisher": "Empire Interactive",
       "genre": [
         "混合",
@@ -49431,7 +49443,7 @@
       "ch_name": "疯狂水管工"
     },
     {
-      "game_id": "3303",
+      "game_id": "3304",
       "publisher": "Activision",
       "genre": [
         "运动",
@@ -49445,7 +49457,7 @@
       "ch_name": "托尼霍克滑板-八强争霸(v2)"
     },
     {
-      "game_id": "3304",
+      "game_id": "3305",
       "publisher": "THQ",
       "genre": [
         "动作",
@@ -49460,7 +49472,7 @@
       "ch_name": "料理鼠王"
     },
     {
-      "game_id": "3305",
+      "game_id": "3306",
       "publisher": "Sega",
       "genre": [
         "运动",
@@ -49478,7 +49490,7 @@
       "ch_name": "足球经理2013"
     },
     {
-      "game_id": "3306",
+      "game_id": "3307",
       "publisher": "UbiSoft",
       "genre": [
         "运动",
@@ -49492,7 +49504,7 @@
       "ch_name": "幻想-冠军骑师"
     },
     {
-      "game_id": "3307",
+      "game_id": "3308",
       "publisher": "Broccoli",
       "genre": [
         "冒险",
@@ -49506,7 +49518,7 @@
       "ch_name": "明治东京恋伽-黄昏之吻"
     },
     {
-      "game_id": "3308",
+      "game_id": "3309",
       "publisher": "Prototype",
       "genre": [
         "冒险",
@@ -49520,7 +49532,7 @@
       "ch_name": "学园天堂2(UMD-Disc 1)"
     },
     {
-      "game_id": "3309",
+      "game_id": "3310",
       "publisher": "Prototype",
       "genre": [
         "冒险",
@@ -49534,7 +49546,7 @@
       "ch_name": "学园天堂2(UMD-Disc 2)"
     },
     {
-      "game_id": "3310",
+      "game_id": "3311",
       "publisher": "THQ",
       "genre": [
         "动作",
@@ -49550,7 +49562,7 @@
       "ch_name": "机器人总动员"
     },
     {
-      "game_id": "3311",
+      "game_id": "3312",
       "publisher": "THQ",
       "genre": [
         "驾驶",
@@ -49564,7 +49576,7 @@
       "ch_name": "汽车总动员"
     },
     {
-      "game_id": "3312",
+      "game_id": "3313",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -49579,7 +49591,7 @@
       "ch_name": "FIFA足球2014"
     },
     {
-      "game_id": "3313",
+      "game_id": "3314",
       "publisher": "Activision",
       "genre": [
         "动作",
@@ -49593,7 +49605,7 @@
       "ch_name": "变形金刚2-卷土重来"
     },
     {
-      "game_id": "3314",
+      "game_id": "3315",
       "publisher": "Activision",
       "genre": [
         "动作",
@@ -49608,7 +49620,7 @@
       "ch_name": "变形金刚2-卷土重来"
     },
     {
-      "game_id": "3315",
+      "game_id": "3316",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -49623,7 +49635,7 @@
       "ch_name": "FIFA世界杯 13"
     },
     {
-      "game_id": "3316",
+      "game_id": "3317",
       "publisher": "Eidos Interactive",
       "genre": [
         "运动",
@@ -49638,7 +49650,7 @@
       "ch_name": "冠军足球经理2006"
     },
     {
-      "game_id": "3317",
+      "game_id": "3318",
       "publisher": "UbiSoft",
       "genre": [
         "动作冒险"
@@ -49651,7 +49663,7 @@
       "ch_name": "美食从天降"
     },
     {
-      "game_id": "3318",
+      "game_id": "3319",
       "publisher": "Prototype",
       "genre": [
         "冒险",
@@ -49665,7 +49677,7 @@
       "ch_name": "花-夏篇"
     },
     {
-      "game_id": "3319",
+      "game_id": "3320",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -49680,7 +49692,7 @@
       "ch_name": "FIFA足球2012"
     },
     {
-      "game_id": "3320",
+      "game_id": "3321",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -49695,7 +49707,7 @@
       "ch_name": "FIFA世界杯10"
     },
     {
-      "game_id": "3321",
+      "game_id": "3322",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -49710,7 +49722,7 @@
       "ch_name": "FIFA足球11"
     },
     {
-      "game_id": "3322",
+      "game_id": "3323",
       "publisher": "Sony",
       "genre": [
         "混合",
@@ -49725,7 +49737,7 @@
       "ch_name": "喧闹少年找碴大师 终极音乐测验"
     },
     {
-      "game_id": "3323",
+      "game_id": "3324",
       "publisher": "Sony",
       "genre": [
         "混合",
@@ -49739,7 +49751,7 @@
       "ch_name": "喧闹少年找碴大师 世界智囊团"
     },
     {
-      "game_id": "3324",
+      "game_id": "3325",
       "publisher": "Konami",
       "genre": [
         "运动",
@@ -49755,7 +49767,7 @@
       "ch_name": "实况足球2014"
     },
     {
-      "game_id": "3325",
+      "game_id": "3326",
       "publisher": "Koei Tecmo Games",
       "genre": [
         "冒险",
@@ -49769,7 +49781,7 @@
       "ch_name": "安琪莉可"
     },
     {
-      "game_id": "3326",
+      "game_id": "3327",
       "publisher": "Prototype",
       "genre": [
         "冒险",
@@ -49783,7 +49795,7 @@
       "ch_name": "魔女之诗"
     },
     {
-      "game_id": "3327",
+      "game_id": "3328",
       "publisher": "Gaijinworks",
       "genre": [
         "策略",
@@ -49797,22 +49809,8 @@
       "ch_name": "召唤之夜5"
     },
     {
-      "game_id": "3328",
-      "publisher": "Idea Factory",
-      "genre": [
-        "策略",
-        "回合制"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Blazing Souls: Accelate (v2)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3328.jpg",
-      "ch_name": "炙热之魂 加速（v2）"
-    },
-    {
       "game_id": "3329",
-      "publisher": "Bandai Namco Games",
+      "publisher": "Broccoli",
       "genre": [
         "冒险",
         "普通"
@@ -49820,131 +49818,12 @@
       "language": [
         "日语"
       ],
-      "game_name": "Code Geass: Hangyaku no Lelouch - Lost Colors (v2)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3329.jpg",
-      "ch_name": "反叛的鲁路修:遗失的色彩"
+      "game_name": "Kamigami no Asobi: InFinite",
+      "img": "https://data.yang2000ling.com/img/psp_200/3347.jpg",
+      "ch_name": "众神的恶作剧:无限"
     },
     {
       "game_id": "3330",
-      "publisher": "Sierra Entertainment",
-      "genre": [
-        "驾驶",
-        "竞速"
-      ],
-      "language": [
-        "荷兰语"
-      ],
-      "game_name": "Crash Tag Team Racing",
-      "img": "https://data.yang2000ling.com/img/psp_200/3330.jpg",
-      "ch_name": "古惑狼赛车 团队竞速"
-    },
-    {
-      "game_id": "3331",
-      "publisher": "Electronic Arts",
-      "genre": [
-        "运动",
-        "传统",
-        "足球"
-      ],
-      "language": [
-        "波兰语",
-        "捷克语",
-        "匈牙利语"
-      ],
-      "game_name": "FIFA 10",
-      "img": "https://data.yang2000ling.com/img/psp_200/3331.jpg",
-      "ch_name": "FIFA 10"
-    },
-    {
-      "game_id": "3332",
-      "publisher": "Electronic Arts",
-      "genre": [
-        "运动",
-        "传统",
-        "足球"
-      ],
-      "language": [
-        "荷兰语"
-      ],
-      "game_name": "FIFA 13",
-      "img": "https://data.yang2000ling.com/img/psp_200/3332.jpg",
-      "ch_name": "FIFA 13"
-    },
-    {
-      "game_id": "3333",
-      "publisher": "Electronic Arts",
-      "genre": [
-        "运动",
-        "传统",
-        "足球"
-      ],
-      "language": [
-        "荷兰语"
-      ],
-      "game_name": "FIFA 14",
-      "img": "https://data.yang2000ling.com/img/psp_200/3333.jpg",
-      "ch_name": "FIFA 14"
-    },
-    {
-      "game_id": "3334",
-      "publisher": "Electronic Arts",
-      "genre": [
-        "运动",
-        "传统",
-        "足球"
-      ],
-      "language": [
-        "波兰语"
-      ],
-      "game_name": "FIFA 14",
-      "img": "https://data.yang2000ling.com/img/psp_200/3334.jpg",
-      "ch_name": "FIFA 14"
-    },
-    {
-      "game_id": "3335",
-      "publisher": "Prototype",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Grisaia no Meikyuu: Le Labyrinthe de la Grisaia",
-      "img": "https://data.yang2000ling.com/img/psp_200/3335.jpg",
-      "ch_name": "灰色的迷宫"
-    },
-    {
-      "game_id": "3336",
-      "publisher": "Prototype",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Grisaia no Meikyuu: Le Eden de la Grisaia",
-      "img": "https://data.yang2000ling.com/img/psp_200/3336.jpg",
-      "ch_name": "灰色的迷宮"
-    },
-    {
-      "game_id": "3337",
-      "publisher": "Konami",
-      "genre": [
-        "运动",
-        "传统",
-        "棒球"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Jikkyou Powerful Pro Yakyuu Portable 3 (v2)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3337.jpg",
-      "ch_name": "实况力量棒球 携带版3 （v2）"
-    },
-    {
-      "game_id": "3338",
       "publisher": "Sony",
       "genre": [
         "运动",
@@ -49959,7 +49838,7 @@
       "ch_name": "大众高尔夫球场Vol.2(UMD-Disc 1)(GPS同捆版)"
     },
     {
-      "game_id": "3339",
+      "game_id": "3331",
       "publisher": "Sony",
       "genre": [
         "运动",
@@ -49974,150 +49853,7 @@
       "ch_name": "大众高尔夫球场Vol.2(UMD-Disc 2)(GPS同捆版)"
     },
     {
-      "game_id": "3340",
-      "publisher": "Idea Factory",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Nise no Chigiri",
-      "img": "https://data.yang2000ling.com/img/psp_200/3340.jpg",
-      "ch_name": "二世之约"
-    },
-    {
-      "game_id": "3341",
-      "publisher": "Konami",
-      "genre": [
-        "运动",
-        "传统",
-        "棒球"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Pro Yakyuu Spirits 2014",
-      "img": "https://data.yang2000ling.com/img/psp_200/3341.jpg",
-      "ch_name": "职业棒球之魂2014"
-    },
-    {
-      "game_id": "3342",
-      "publisher": "D3 Publisher",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "StormLover",
-      "img": "https://data.yang2000ling.com/img/psp_200/3342.jpg",
-      "ch_name": "暴风情人"
-    },
-    {
-      "game_id": "3343",
-      "publisher": "Koei",
-      "genre": [
-        "策略",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Taikou Risshiden V (v2)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3343.jpg",
-      "ch_name": "太阁立志传V (v2)"
-    },
-    {
-      "game_id": "3344",
-      "publisher": "Koei",
-      "genre": [
-        "策略",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Taikou Risshiden V (v3)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3344.jpg",
-      "ch_name": "太阁立志传V (v3)"
-    },
-    {
-      "game_id": "3345",
-      "publisher": "THQ",
-      "genre": [
-        "动作",
-        "平面",
-        "3D"
-      ],
-      "language": [
-        "法语",
-        "荷兰语"
-      ],
-      "game_name": "Up",
-      "img": "https://data.yang2000ling.com/img/psp_200/3345.jpg",
-      "ch_name": "飞屋冒险记"
-    },
-    {
-      "game_id": "3346",
-      "publisher": "Idea Factory",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Wand of Fortune Portable",
-      "img": "https://data.yang2000ling.com/img/psp_200/3346.jpg",
-      "ch_name": "命运之杖:携带版"
-    },
-    {
-      "game_id": "3347",
-      "publisher": "Broccoli",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Kamigami no Asobi: InFinite",
-      "img": "https://data.yang2000ling.com/img/psp_200/3347.jpg",
-      "ch_name": "众神的恶作剧:无限"
-    },
-    {
-      "game_id": "3348",
-      "publisher": "Prototype",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Sangoku Rensenki: Otome no Heihou! Omoide Gaeshi - CS Edition (UMD Disc 1)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3348.jpg",
-      "ch_name": "三国恋战记 回忆 CS版 (UMD 1)"
-    },
-    {
-      "game_id": "3349",
-      "publisher": "Prototype",
-      "genre": [
-        "冒险",
-        "普通"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Sangoku Rensenki: Otome no Heihou! Omoide Gaeshi - CS Edition (UMD Disc 2)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3349.jpg",
-      "ch_name": "三国恋战记 回忆 CS版 (UMD 2)"
-    },
-    {
-      "game_id": "3350",
+      "game_id": "3332",
       "publisher": "SNK Playmore",
       "genre": [
         "动作",
@@ -50132,47 +49868,35 @@
       "ch_name": "侍魂:六番胜负"
     },
     {
-      "game_id": "3351",
-      "publisher": "Rockstar Games",
+      "game_id": "3333",
+      "publisher": "Prototype",
       "genre": [
-        "驾驶",
-        "竞速"
+        "冒险",
+        "普通"
       ],
       "language": [
         "日语"
       ],
-      "game_name": "Midnight Club: L. A. Remix (Rockstar Classics)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3351.jpg",
-      "ch_name": "湾岸午夜俱乐部 洛杉矶 混合版"
+      "game_name": "Sangoku Rensenki: Otome no Heihou! Omoide Gaeshi - CS Edition (UMD Disc 1)",
+      "img": "https://data.yang2000ling.com/img/psp_200/3348.jpg",
+      "ch_name": "三国恋战记 回忆 CS版 (UMD 1)"
     },
     {
-      "game_id": "3352",
-      "publisher": "Rockstar Games",
+      "game_id": "3334",
+      "publisher": "Prototype",
       "genre": [
-        "动作冒险"
+        "冒险",
+        "普通"
       ],
       "language": [
         "日语"
       ],
-      "game_name": "Grand Theft Auto: Liberty City Stories (Rockstar Classics)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3352.jpg",
-      "ch_name": "侠盗猎车:自由城故事"
+      "game_name": "Sangoku Rensenki: Otome no Heihou! Omoide Gaeshi - CS Edition (UMD Disc 2)",
+      "img": "https://data.yang2000ling.com/img/psp_200/3349.jpg",
+      "ch_name": "三国恋战记 回忆 CS版 (UMD 2)"
     },
     {
-      "game_id": "3353",
-      "publisher": "Rockstar Games",
-      "genre": [
-        "动作冒险"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Grand Theft Auto: Vice City Stories (Rockstar Classics)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3353.jpg",
-      "ch_name": "侠盗猎车手：罪恶都市传奇"
-    },
-    {
-      "game_id": "3354",
+      "game_id": "3335",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -50187,21 +49911,7 @@
       "ch_name": "FIFA 14"
     },
     {
-      "game_id": "3355",
-      "publisher": "SEGA",
-      "genre": [
-        "驾驶",
-        "竞速"
-      ],
-      "language": [
-        "日语"
-      ],
-      "game_name": "Initial D: Street Stage (Koudansha Prize)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3355.jpg",
-      "ch_name": "头文字D:公路传说"
-    },
-    {
-      "game_id": "3356",
+      "game_id": "3336",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -50216,22 +49926,7 @@
       "ch_name": "FIFA 11"
     },
     {
-      "game_id": "3357",
-      "publisher": "Electronic Arts",
-      "genre": [
-        "运动",
-        "传统",
-        "足球"
-      ],
-      "language": [
-        "西班牙语"
-      ],
-      "game_name": "UEFA Champions League 2006-2007",
-      "img": "https://data.yang2000ling.com/img/psp_200/3357.jpg",
-      "ch_name": "欧洲冠军联赛2006-2007"
-    },
-    {
-      "game_id": "3358",
+      "game_id": "3337",
       "publisher": "Sony",
       "genre": [
         "动作冒险"
@@ -50255,7 +49950,7 @@
       "ch_name": "杰克与达斯特:迷失边境"
     },
     {
-      "game_id": "3359",
+      "game_id": "3338",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -50270,25 +49965,7 @@
       "ch_name": "欧洲冠军联赛2006-2007"
     },
     {
-      "game_id": "3360",
-      "publisher": "Konami",
-      "genre": [
-        "运动",
-        "传统",
-        "足球"
-      ],
-      "language": [
-        "英语",
-        "法语",
-        "西班牙语",
-        "葡萄牙语"
-      ],
-      "game_name": "Pro Evolution Soccer 2014",
-      "img": "https://data.yang2000ling.com/img/psp_200/3360.jpg",
-      "ch_name": "实况足球2014"
-    },
-    {
-      "game_id": "3361",
+      "game_id": "3339",
       "publisher": "Konami",
       "genre": [
         "动作冒险"
@@ -50303,53 +49980,33 @@
       "ch_name": ":合金装备:和平行者（V2）"
     },
     {
-      "game_id": "3362",
-      "publisher": "Disney Interactive",
+      "game_id": "3340",
+      "publisher": "Rockstar Games",
       "genre": [
-        "动作",
-        "平面",
-        "3D"
+        "动作冒险"
       ],
       "language": [
-        "英语",
-        "西班牙语"
+        "日语"
       ],
-      "game_name": "Toy Story 3 (v2)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3362.jpg",
-      "ch_name": "具总动员3（v2）"
+      "game_name": "Grand Theft Auto: Vice City Stories (Rockstar Classics)",
+      "img": "https://data.yang2000ling.com/img/psp_200/3353.jpg",
+      "ch_name": "侠盗猎车手：罪恶都市传奇"
     },
     {
-      "game_id": "3363",
-      "publisher": "Electronic Arts",
+      "game_id": "3341",
+      "publisher": "Rockstar Games",
       "genre": [
-        "运动",
-        "传统",
-        "足球"
+        "动作冒险"
       ],
       "language": [
-        "西班牙语"
+        "日语"
       ],
-      "game_name": "FIFA 11 (v2) (Platinum)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3363.jpg",
-      "ch_name": "FIFA世界杯 11 (v2) (白金版)"
+      "game_name": "Grand Theft Auto: Liberty City Stories (Rockstar Classics)",
+      "img": "https://data.yang2000ling.com/img/psp_200/1104.jpg",
+      "ch_name": "侠盗猎车-自由城的故事"
     },
     {
-      "game_id": "3364",
-      "publisher": "South Peak Games",
-      "genre": [
-        "动作",
-        "战斗",
-        "3D"
-      ],
-      "language": [
-        "英语"
-      ],
-      "game_name": "The Con",
-      "img": "https://data.yang2000ling.com/img/psp_200/3364.jpg",
-      "ch_name": "非法地带"
-    },
-    {
-      "game_id": "3365",
+      "game_id": "3342",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -50364,184 +50021,19 @@
       "ch_name": "FIFA 11 (v2) (白金版)"
     },
     {
-      "game_id": "3366",
-      "publisher": "Virtual Heroes",
-      "genre": [
-        "混合",
-        "教育"
-      ],
-      "language": [
-        "英语"
-      ],
-      "game_name": "Hilton Garden Inn: Ultimate Team Play",
-      "img": "https://data.yang2000ling.com/img/psp_200/3366.jpg",
-      "ch_name": "希尔顿花园酒店 终极团队合作"
-    },
-    {
-      "game_id": "3367",
-      "publisher": "Sony",
-      "genre": [
-        "混合",
-        "普通"
-      ],
-      "language": [
-        "英语",
-        "法语",
-        "西班牙语",
-        "德语",
-        "意大利语",
-        "荷兰语",
-        "葡萄牙语",
-        "丹麦语",
-        "瑞典语",
-        "挪威语",
-        "芬兰语"
-      ],
-      "game_name": "Go!Explore (Spain & Portugal Map Pack)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3367.jpg",
-      "ch_name": "Go!探索"
-    },
-    {
-      "game_id": "3368",
+      "game_id": "3343",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
         "传统",
         "足球"
-      ],
-      "language": [
-        "波兰语"
-      ],
-      "game_name": "FIFA 11 (v2) (Platinum)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3368.jpg",
-      "ch_name": "FIFA 11 (v2) (白金版)"
-    },
-    {
-      "game_id": "3369",
-      "publisher": "Sony",
-      "genre": [
-        "混合",
-        "普通"
-      ],
-      "language": [
-        "英语",
-        "法语",
-        "西班牙语",
-        "德语",
-        "意大利语",
-        "荷兰语",
-        "葡萄牙语",
-        "丹麦语",
-        "瑞典语",
-        "挪威语",
-        "芬兰语"
-      ],
-      "game_name": "Go!Explore (Italy Map Pack)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3369.jpg",
-      "ch_name": "Go!探索"
-    },
-    {
-      "game_id": "3370",
-      "publisher": "Sony",
-      "genre": [
-        "混合",
-        "普通"
-      ],
-      "language": [
-        "英语",
-        "法语",
-        "西班牙语",
-        "德语",
-        "意大利语",
-        "荷兰语",
-        "葡萄牙语",
-        "丹麦语",
-        "瑞典语",
-        "挪威语",
-        "芬兰语"
-      ],
-      "game_name": "Go!Explore (Benelux Map Pack)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3370.jpg",
-      "ch_name": "Go!探索"
-    },
-    {
-      "game_id": "3371",
-      "publisher": "Electronic Arts",
-      "genre": [
-        "运动",
-        "传统",
-        "足球"
-      ],
-      "language": [
-        "葡萄牙语"
-      ],
-      "game_name": "FIFA 10",
-      "img": "https://data.yang2000ling.com/img/psp_200/3371.jpg",
-      "ch_name": "FIFA 10"
-    },
-    {
-      "game_id": "3372",
-      "publisher": "Electronic Arts",
-      "genre": [
-        "运动",
-        "传统",
-        "足球"
-      ],
-      "language": [
-        "葡萄牙语"
-      ],
-      "game_name": "FIFA 14",
-      "img": "https://data.yang2000ling.com/img/psp_200/3372.jpg",
-      "ch_name": "FIFA 14"
-    },
-    {
-      "game_id": "3373",
-      "publisher": "THQ",
-      "genre": [
-        "动作",
-        "平面",
-        "3D"
-      ],
-      "language": [
-        "葡萄牙语"
-      ],
-      "game_name": "Up",
-      "img": "https://data.yang2000ling.com/img/psp_200/3373.jpg",
-      "ch_name": "飞屋冒险记"
-    },
-    {
-      "game_id": "3374",
-      "publisher": "South Peak Games",
-      "genre": [
-        "动作",
-        "战斗",
-        "3D"
       ],
       "language": [
         "西班牙语"
       ],
-      "game_name": "The Con",
-      "img": "https://data.yang2000ling.com/img/psp_200/3374.jpg",
-      "ch_name": "非法地带"
-    },
-    {
-      "game_id": "3375",
-      "publisher": "Atari",
-      "genre": [
-        "动作",
-        "平面",
-        "3D"
-      ],
-      "language": [
-        "英语",
-        "法语",
-        "西班牙语",
-        "德语",
-        "意大利语"
-      ],
-      "game_name": "Kao Challengers (v2)",
-      "img": "https://data.yang2000ling.com/img/psp_200/3375.jpg",
-      "ch_name": "百战小袋鼠-卡欧（v2）"
+      "game_name": "FIFA 11 (v2) (Platinum)",
+      "img": "https://data.yang2000ling.com/img/psp_200/3363.jpg",
+      "ch_name": "FIFA世界杯 11 (v2) (白金版)"
     }
   ],
   "header": [
