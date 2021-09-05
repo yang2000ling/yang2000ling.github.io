@@ -35527,21 +35527,6 @@
     },
     {
       "game_id": "2353",
-      "publisher": "Electronic Arts",
-      "genre": [
-        "运动",
-        "传统",
-        "足球"
-      ],
-      "language": [
-        "英语"
-      ],
-      "game_name": "FIFA 11",
-      "img": "https://data.yang2000ling.com/img/psp_200/2353.jpg",
-      "ch_name": "乐高哈利波特-第1-4年"
-    },
-    {
-      "game_id": "2354",
       "publisher": "Warner Interactive",
       "genre": [
         "动作冒险"
@@ -35555,11 +35540,11 @@
         "丹麦语"
       ],
       "game_name": "LEGO Harry Potter: Years 1-4 (v2)",
-      "img": "https://data.yang2000ling.com/img/psp_200/2354.jpg",
-      "ch_name": "FIFA足球2011"
+      "img": "https://data.yang2000ling.com/img/psp_200/2353.jpg",
+      "ch_name": "乐高哈利波特-第1-4年"
     },
     {
-      "game_id": "2355",
+      "game_id": "2354",
       "publisher": "Electronic Arts",
       "genre": [
         "运动",
@@ -35567,14 +35552,14 @@
         "足球"
       ],
       "language": [
-        "意大利语"
+        "英语"
       ],
       "game_name": "FIFA 11",
-      "img": "https://data.yang2000ling.com/img/psp_200/2355.jpg",
-      "ch_name": "剑斗士-起源"
+      "img": "https://data.yang2000ling.com/img/psp_200/2354.jpg",
+      "ch_name": "FIFA足球2011"
     },
     {
-      "game_id": "2356",
+      "game_id": "2355",
       "publisher": "Acquire",
       "genre": [
         "动作",
@@ -35585,11 +35570,11 @@
         "英语"
       ],
       "game_name": "Gladiator Begins",
-      "img": "https://data.yang2000ling.com/img/psp_200/2356.jpg",
-      "ch_name": "英雄传说-零之轨迹"
+      "img": "https://data.yang2000ling.com/img/psp_200/2355.jpg",
+      "ch_name": "剑斗士-起源"
     },
     {
-      "game_id": "2357",
+      "game_id": "2356",
       "publisher": "Falcom",
       "genre": [
         "RPG",
@@ -35598,7 +35583,20 @@
       "language": [
         "日语"
       ],
-      "game_name": "Eiyuu Densetsu: Zero no Kiseki",
+      "game_name": "Eiyuu Densetsu - Zero no Kiseki",
+      "img": "https://data.yang2000ling.com/img/psp_200/2356.jpg",
+      "ch_name": "英雄传说-零之轨迹"
+    },
+    {
+      "game_id": "2357",
+      "publisher": "Namco Bandai Games",
+      "genre": [
+        "格斗"
+      ],
+      "language": [
+        "日语"
+      ],
+      "game_name": "Dragon Ball Tag VS",
       "img": "https://data.yang2000ling.com/img/psp_200/2357.jpg",
       "ch_name": "龙珠TagVS"
     },
@@ -35612,7 +35610,7 @@
       "language": [
         "日语"
       ],
-      "game_name": "L@ve Once",
+      "game_name": "Love Once",
       "img": "https://data.yang2000ling.com/img/psp_200/2358.jpg",
       "ch_name": "只有一次的恋爱"
     },
