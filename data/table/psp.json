@@ -23,11 +23,6 @@
       "divider": true
     },
     {
-      "value": "publisher",
-      "text": "发行商",
-      "divider": true
-    },
-    {
       "value": "other",
       "text": "其他",
       "divider": true
