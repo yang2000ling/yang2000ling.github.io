@@ -1,0 +1,51 @@
+{
+  "family": {
+    "list": [
+      {"name": "索尼 PS1","uri": "/plate/ps1"},
+      {"name": "索尼 PS2","uri": "/plate/ps2"},
+      {"name": "索尼 PS3","uri": "/plate/ps3"},
+      {"name": "任天堂 FC","uri": "/plate/fc"},
+      {"name": "任天堂 SFC","uri": "/plate/sfc"},
+      {"name": "任天堂 N64","uri": "/plate/n64"},
+      {"name": "任天堂 NGC","uri": "/plate/ngc"},
+      {"name": "任天堂 WII","uri": "/plate/wii"},
+      {"name": "世嘉 SG-1000","uri": "/plate/sg1000"},
+      {"name": "世嘉 SMS","uri": "/plate/sms"},
+      {"name": "世嘉 MD","uri": "/plate/md"},
+      {"name": "世嘉 MDCD","uri": "/plate/mdcd"},
+      {"name": "世嘉 SUPER 32X","uri": "/plate/super32x"},
+      {"name": "世嘉 PICO","uri": "/plate/pico"},
+      {"name": "世嘉 Beena","uri": "/plate/beena"},
+      {"name": "世嘉 DC","uri": "/plate/dc"},
+      {"name": "世嘉 SS","uri": "/plate/ss"},
+      {"name": "世嘉 Photo CD","uri": "/plate/photocd"},
+      {"name": "松下 3DO","uri": "/plate/3do"},
+      {"name": "SNK NEOGEO CD","uri": "/plate/neogeocd"},
+      {"name": "NEC PC88系列","uri": "/plate/pc88"},
+      {"name": "NEC PCE","uri": "/plate/pce"},
+      {"name": "NEC PC Engine SuperGrafx","uri": "/plate/pcesupergrafx"},
+      {"name": "NEC PCE CD","uri": "/plate/pcecd"},
+      {"name": "NEC PC-FX","uri": "/plate/pcfx"},
+      {"name": "富士通 FM-Towns","uri": "/plate/fmtowns"},
+      {"name": "Commodore Amiga","uri": "/plate/amiga"},
+      {"name": "微软 MSX、MSX2","uri": "/plate/msx"}
+    ]
+  },
+  "portable": {
+    "list": [
+      {"name": "索尼 PSV","uri": "/plate/psv"},
+      {"name": "索尼 PSP","uri": "/plate/psp"},
+      {"name": "任天堂 3DS","uri": "/plate/3ds"},
+      {"name": "任天堂 NDS","uri": "/plate/nds"},
+      {"name": "任天堂 GBA","uri": "/plate/gba"},
+      {"name": "任天堂 GB、GBC","uri": "/plate/gb"},
+      {"name": "世嘉 Game Gear","uri": "/plate/gg"},
+      {"name": "世嘉 Genesis Nomad","uri": "/plate/nomad"},
+      {"name": "诺基亚N-Gage","uri": "/plate/ngage"},
+      {"name": "万代 WonderSwan","uri": "/plate/ws"},
+      {"name": "SNK NGP、NGPC","uri": "/plate/ngp"},
+      {"name": "雅达利 Lynx","uri": "/plate/lynx"},
+      {"name": "Watara Supervision","uri": "/plate/supervision"}
+    ]
+  }
+}
