@@ -24,6 +24,58 @@
       }
     ]
   },
+  "n64": {
+    "img": "https://data.yang2000ling.com/img/console/n64.jpg",
+    "name": "Nintendo 64",
+    "text": "任天堂64（Nintendo 64，简称N64），是任天堂公司的第三代家用游戏机，是SFC的后续机种，是消费电子64位计算的先驱者。1996年6月23日在日本面世，而北美于1996年9月29日、欧洲和澳洲于1997年3月1日、法国于1997年公开发售。",
+    "list": [
+      {
+        "name": "任天堂N64游戏合集目录",
+        "url": "/table/n64"
+      }
+    ]
+  },
+  "ngc": {
+    "img": "https://data.yang2000ling.com/img/console/ngc.jpg",
+    "name": "Nintendo 64",
+    "text": "任天堂GameCube（日语：ニンテンドー ゲームキューブ，Nintendo GameCube，中文区和日本缩写为“NGC”，欧美缩写为“GCN”）是任天堂于2001年在日本和北美、2002年在欧洲和澳洲发布的家用游戏机。任天堂GameCube为任天堂64的后继机种，并与其他第六世代游戏机：索尼电脑娱乐的PlayStation 2和微软的Xbox竞争。",
+    "list": [
+      {
+        "name": "任天堂NGC游戏合集目录",
+        "url": "/table/ngc"
+      },
+      {
+        "name": "任天堂NGC中文游戏合集目录",
+        "url": "/table/ngcch"
+      }
+    ]
+  },
+  "wii": {
+    "img": "https://data.yang2000ling.com/img/console/wii.jpg",
+    "name": "Nintendo WII",
+    "text": "Wii是任天堂公司2006年11月19日推出的家用游戏机。是NGC的后续机种。Wii第一次将体感引入了电视游戏主机。开发代号为 “Revolution”（革命），表示电子游戏的革命。通过体感概念和家庭娱乐模式， 发售第一年销量达2000万台。截止2018年12月，Wii全球累计销量1亿零163万台，游戏9亿2千零66万份。",
+    "list": [
+      {
+        "name": "任天堂WII（nkit.gcz格式）游戏合集目录",
+        "url": "/table/wii_gcz"
+      },
+      {
+        "name": "任天堂WII（wbfs格式）游戏合集目录",
+        "url": "/table/wii"
+      }
+    ]
+  },
+  "md": {
+    "img": "https://data.yang2000ling.com/img/console/md.jpg",
+    "name": "SEGA Mega Drive/Genesis",
+    "text": "Mega Drive（日版名：メガドライブ，美版名：Sega Genesis，简称MD）是世嘉在1988年推出的16-bit家用游戏机，1989年在美国推出。Mega Drive在全球共售出3075万台。此外Tectoy在巴西售出大约300万台授权的兼容机。Majesco估计在美国共售出150万台授权的兼容机。",
+    "list": [
+      {
+        "name": "世嘉MD游戏合集目录",
+        "url": "/table/md"
+      }
+    ]
+  },
   "ss": {
     "img": "https://data.yang2000ling.com/img/console/ss.jpg",
     "name": "SEGA Saturn",
@@ -69,6 +121,434 @@
       {
         "name": "PSP格式PS1游戏目录",
         "url": "/table/pspps1"
+      }
+    ]
+  },
+  "mdcd": {
+    "img": "https://data.yang2000ling.com/img/console/mdcd.jpg",
+    "name": "SEGA Mega-CD",
+    "text": "Mega-CD（日版名：メガCD，美版名：SEGA CD，多简称为MCD、SCD）是日本电子游戏发行商世嘉于1991年12月在日本、1992年10月在北美,1993年4月在欧洲发行的家用游戏机硬件，是世嘉于1988年发售的16位家用游戏机Mega Drive/世嘉 Genesis的外接配件之一",
+    "list": [
+      {
+        "name": "世嘉MDCD游戏合集目录",
+        "url": "/table/mdcd"
+      }
+    ]
+  },
+  "beena": {
+    "img": "https://data.yang2000ling.com/img/console/beena.jpg",
+    "name": "SEGA Advanced Pico Beena",
+    "text": "Advanced Pico Beena面向2至8岁的儿童，主要用作教育工具。此后，它被进一步简化，现在通常简称为Beena（ビーナ）或BeenaLite（ビーナLite）。与Sega Pico不同，Advanced Pico Beena尚未在日本以外的地区发行，并且完全由该公司的Sega Toys部门维护（该部门在其生命周期的后期也控制了原始的Pico）。尽管尚未正式停止使用该主机，但自2011年7月以来，该系统尚未发布任何游戏。",
+    "list": [
+      {
+        "name": "世嘉Beena游戏合集目录",
+        "url": "/table/beena"
+      }
+    ]
+  },
+  "pico": {
+    "img": "https://data.yang2000ling.com/img/console/pico.jpg",
+    "name": "SEGA PICO",
+    "text": "Kids Computer PICO（日版名：キッズコンピュータピコ，英文版名：SEGA PICO），通称PICO，是日本电子游戏发行商世嘉于1993年6月26日在日本、1994年9月在欧洲、1994年11月在北美发行的16位教育家用游戏机，为Mega Drive（在北美以外地区被称为世嘉 Genesis）的派生机型，由世嘉的子公司世嘉玩具制造。以“寓教于乐”为主打，PICO的目标客户层为3至5岁的幼童。Kids Computer PICO的改良机型Kids Communication PICO（キッズコミュニケーションピコ）于2001年6月1日发行，后继机型Advanced PICO Beena则于2005年推出。尽管PICO于日本表现不俗，但是在欧美市场并未获得相同程度的成功。PICO的游戏阵容多为教育电子游戏以及动漫授权游戏，其中包含世嘉自家的刺猬索尼克系列。PICO系列主机在其生命周期中销量共计达340万部。",
+    "list": [
+      {
+        "name": "世嘉PICO游戏合集目录",
+        "url": "/table/pico"
+      }
+    ]
+  },
+  "lynx": {
+    "img": "https://data.yang2000ling.com/img/console/lynx.jpg",
+    "name": "雅达利Lynx",
+    "text": "Atari Lynx是生产商雅达利于1989年发布的手提式游戏机，是世上首款设有彩色液晶显示屏的手提电子游戏机，与任天堂的GameBoy游戏机同年推出。及后由于销量并不理想，即使于1990年推出改良版Lynx II，但仍未能吸引游戏开发商生产足够的游戏，而最终随Atari与JT Storage合并而消失于市场。",
+    "list": [
+      {
+        "name": "雅达利 Lynx游戏合集目录",
+        "url": "/table/lynx"
+      }
+    ]
+  },
+  "dc": {
+    "img": "https://data.yang2000ling.com/img/console/dc.jpg",
+    "name": "SEGA Dreamcast",
+    "text": "Dreamcast（日语：ドリームキャスト，简称为DC）是日本电子游戏商世嘉于1998年11月27日在日本、1999年9月9日在北美、1999年10月14日在欧洲发行的家用游戏机，是第六世代电子游戏机中第一部推出的主机，也是世嘉开发的最后一部家用游戏机。主要竞争对手包括索尼的PlayStation 2、任天堂的任天堂GameCube及微软的Xbox。",
+    "list": [
+      {
+        "name": "世嘉DC游戏合集目录",
+        "url": "/table/dc"
+      },
+      {
+        "name": "世嘉DC中文游戏合集目录",
+        "url": "/table/dcch"
+      }
+    ],
+    "article": [
+      {
+        "name": "RetroArch模拟器运行DC游戏教程",
+        "url": "/jiaochen/dc"
+      }
+    ]
+  },
+  "3do": {
+    "img": "https://data.yang2000ling.com/img/console/3do.jpg",
+    "name": "3DO Interactive Multiplayer",
+    "text": "3DO互动多人游戏机（简称3DO游戏机，3DO，英语：3DO Interactive Multiplayer）是3DO公司于1993年发行的一款游戏机。3DO不仅是该公司制作的一个游戏平台，它也是一系列可以授权给第三方的规格。3DO由企业家、艺电创始人特里普·霍金斯构思，最初由New Technologies集团的Dave Needle和R. J. Mical设计。松下公司于1993年制作了第一批样品，之后由三洋和GoldStar制造了硬件并于1994年发行。",
+    "list": [
+      {
+        "name": "松下3DO游戏合集目录",
+        "url": "/table/3do"
+      }
+    ]
+  },
+  "neogeocd": {
+    "img": "https://data.yang2000ling.com/img/console/3do.jpg",
+    "name": "SNK NEOGEO CD",
+    "text": "NEOGEO CD是着名游戏厂商SNK开发的，其前身是NEOGEO，一款出生于超任时代的主机，俗称机皇，双16位CPU，存储媒体是卡带，大多数游戏都是SNK自己移植的着名街机游戏，比如《格斗之王》、《侍魂》、《饿狼传说》、《合金弹头》等，而NEOGEO CD则是机皇加强版，俗称机皇CD版，采用CD为媒介，无论在画质和音质上都有极大的提高，游戏种类和机皇卡带版差不多，比较出名的有《KOF 97》、《武士道列传》、《月华剑士2》、《天外魔境》等。",
+    "list": [
+      {
+        "name": "SNK NEOGEO CD游戏合集目录",
+        "url": "/table/neogeocd"
+      }
+    ]
+  },
+  "pcfx": {
+    "img": "https://data.yang2000ling.com/img/console/pcfx.jpg",
+    "name": "NEC PC-FX",
+    "text": "PC-FX是日本电气（NEC）的子公司“NEC Home Electronics”（NECホームエレクトロニクス，简称NEC HE）在1994年12月推出的32位元家庭用游戏机，名义上是PC Engine的后继机种，同时也是NEC HE最后一部游戏主机。随着NEC集团的改组，NEC HE已于2000年3月31日结束营业、2002年2月完成清算并解散，也意味NEC全面撤出电玩游戏市场。",
+    "list": [
+      {
+        "name": "NEC PC-FX游戏合集目录",
+        "url": "/table/pcfx"
+      },
+      {
+        "name": "NEC PC-FX中文游戏目录",
+        "url": "/table/pcfxch"
+      }
+    ]
+  },
+  "pce": {
+    "img": "https://data.yang2000ling.com/img/console/pce.jpg",
+    "name": "NEC PC Engine",
+    "text": "PC Engine（北美版称为TurboGrafx-16），简称PCE，是由Hudson Soft与NEC两家日本公司联手开发的家用游戏机，并在1987年10月30日由NEC的子公司“NEC Home Electronics”（简称NEC HE）推出。",
+    "list": [
+      {
+        "name": "NEC PCE游戏合集目录",
+        "url": "/table/pce"
+      }
+    ]
+  },
+  "pc88": {
+    "img": "https://data.yang2000ling.com/img/console/pc8801.jpg",
+    "name": "NEC PC-88系列",
+    "text": "PC-8801是使用Zilog Z80的家用电脑，1981年由日本电气（NEC）在日本发行（之后移交NEC Home Electronics），并非常畅销。PC-8801非正式称为PC-88。NEC美国子公司“NEC Home Electronics (USA)”，在美国销售了几个PC-8801的变种版。",
+    "list": [
+      {
+        "name": "NEC PC88游戏合集目录",
+        "url": "/table/pc88"
+      }
+    ]
+  },
+  "photocd": {
+    "img": "https://data.yang2000ling.com/img/console/photocd.jpg",
+    "name": "Photo CD",
+    "text": "Photo CD操作系统，在日本称为Photo CD Operator (セガサターン フォトＣＤオペレーター)，它是Sega Saturn软件的一个特殊部件，它允许用户在土星主机上运行Photo CD光盘。后期版本的Video CD卡为世嘉土星主机整合了Photo CD的支持。",
+    "list": [
+      {
+        "name": "世嘉 Photo CD游戏合集目录",
+        "url": "/table/photocd"
+      }
+    ]
+  },
+  "fmtowns": {
+    "img": "https://data.yang2000ling.com/img/console/fm-towns.jpg",
+    "name": "富士通 FM-Towns",
+    "text": "Marty 是FM TOWNS的游戏机版本主机，是32位的早在1991年出品，是富士通开发的FM TOWNS电脑对应的性能产品，FM TOWNS是日本早期的家用电脑，和NEC的PC-98系列相当，后来的NEC推出的PC-FX也是对应PC-98的性能产品，但是这两台都是比较早淘汰的，PC-FX因为是正式推出的32位游戏主机，游戏软件属于另外开发的，所以和当年的3DO,PS,SS,PlayDia之类并齐，当时号称5款次时代主机之一，但是这款Marty却是完全的FM电脑配套产品，是使用原电脑游戏软件的，所以Marty并不能完全成为专业游戏主机，后来也并没有加入到次时代行列中，故此我们国内的很多人并不知道有这样的一款游戏主机。FM TOWNS MARTY只是对应了发售的大部分FM TOWNS的游戏，如果你有FM TOWNS的ISO是可以直接刻录后使用在该游戏主机上面的，和早先的流行游戏主机相同没有加防护。FM TOWNS中发售的游戏很多与PC-98软件相重复，正是因为两款电脑都在同一时期进行开发和移植的，故此MARTY软件大多是后期开发的，有很多18+游戏在里面，可以说是比较经典的一款主机系列。但是发售量较少日本只出过数量4万台左右，该主机收藏者极多主机卖出目前都很罕见。",
+    "list": [
+      {
+        "name": "富士通FM-Towns游戏合集目录",
+        "url": "/table/fmtowns"
+      }
+    ],
+    "article": [
+      {
+        "name": "富士通FM-TOWNS模拟器UNZ图文教程",
+        "url": "/jiaochen/fmtown"
+      }
+    ]
+  },
+  "pcecd": {
+    "img": "https://data.yang2000ling.com/img/console/pcecd.jpg",
+    "name": "NEC PC Engine CD",
+    "text": "PC Engine是世界第一部可选配CD模组的家用游戏机，使得它有CD载体的标准好处：更多储存空间、更便宜的载体成本、可播放Red Book标准的CD音乐。高效的设计、部分日本大型游戏软件厂商的支持、以及可加装CD-ROM的能力，使得PC Engine拥有题材广阔的游戏软件可供使用。其中HuCard和CD格式各拥有数百款游戏，而在1991年NEC推出SUPER CD-ROM²后，PC ENGINE的游戏制造商都以CD作主力游戏媒体。",
+    "list": [
+      {
+        "name": "NEC PCE CD游戏合集目录",
+        "url": "/table/pcecd"
+      }
+    ]
+  },
+  "amiga": {
+    "img": "https://data.yang2000ling.com/img/console/amiga.jpg",
+    "name": "Commodore Amiga",
+    "text": "Amiga（非正式译名为阿米加）是Amiga公司开发的个人电脑产品系列。在1982年，主要的硬件设计师杰·迈纳开始了Amiga的开发工作。Commodore International收购了Amiga公司后，在1985年将Amiga引入到市场里。“Amiga”这个名词在西班牙语里意为女性朋友，其意为\"User Friendly\"(对用户友好的)Amiga系列电脑一共售出了约485万部，多数售往欧洲国家，在英国和德国销量最高。美国销量则有70万部左右，多数售给了商业用户。",
+    "list": [
+      {
+        "name": "Commodore Amiga游戏合集目录",
+        "url": "/table/amiga"
+      }
+    ]
+  },
+  "msx": {
+    "img": "https://data.yang2000ling.com/img/console/msx.jpg",
+    "name": "微软MSX与MSX2",
+    "text": "MSX是一个标准化的家用计算机体系结构，最早由微软于1983年6月16日提出，并由后来的微软日本副总裁与ASCII主管西和彦构思。有人说这是由微软领导，试图在标准硬件制造商建立统一标准的项目。尽管有微软的介入，但MSX构架的机器在美国很少出现，而在日本、韩国、中东、巴西、苏联、荷兰、西班牙以及其他几个小型欧洲国家却非常流行。MSX计算机的销售数量难以估计，但仅在日本的最终销量就超过500万。在任天堂的FC游戏机出现之前，MSX是日文主要的游戏平台，如科乐美和Hudson Soft就在这平台上生产游戏软件。比如潜龙谍影系列最初就是为MSX硬件而编写。",
+    "list": [
+      {
+        "name": "微软MSX游戏合集目录",
+        "url": "/table/msx"
+      },
+      {
+        "name": "微软MSX2游戏合集目录",
+        "url": "/table/msx2"
+      }
+    ]
+  },
+  "ngp": {
+    "img": "https://data.yang2000ling.com/img/console/ngp.jpg",
+    "name": "SNK Neo Geo Pocket",
+    "text": "Neo Geo Pocket（简称NGP）是SNK第一款便携式游戏机，于1998年10月28日在日本发售，但低于预期的销售额导致在1999年停产，并立即被其后继机种Neo Geo Pocket Color取代。该系统只在日本与香港市场以零售的方式发售。 尽管该系统只有很短的寿命，其间仍发售了一些显著的游戏，如侍魂!与拳皇R-1等。 Neo Geo Pocket大致上可向上兼容，意即可执行大部分新的彩色游戏，但亦有如索尼克大冒险Pocket与SNK vs. Capcom：千年之战等例外。Neo Geo Pocket Color完全向下兼容并可执行所有为Neo Geo Pocket发布的游戏。",
+    "list": [
+      {
+        "name": "SNK NGP游戏合集目录",
+        "url": "/table/ngp"
+      },
+      {
+        "name": "SNK NGPC游戏合集目录",
+        "url": "/table/ngpc"
+      }
+    ]
+  },
+  "ws": {
+    "img": "https://data.yang2000ling.com/img/console/ws.jpg",
+    "name": "万代 WonderSwan",
+    "text": "WonderSwan（日语：ワンダースワン，简称为WS）是日本玩具制造商万代（后与南梦宫合并为万代南梦宫）推出的16位掌上游戏机、第五世代游戏机，由Game Boy设计者横井军平成立的的公司Koto Laboratory和万代共同设计，并是横井军平在1997年因车祸逝世前主导设计的最后一款硬件。初代WonderSwan于1999年3月于日本推出；派生机型包括于2000年推出的WonderSwan Color（日语：ワンダースワンカラー，简称为WSC），以及2002年推出的SwanCrystal（日语：スワンクリスタル，简称为SC）。在生命周期内，没有任何一款WonderSwan系列主机于日本以外的地区正式推出。WonderSwan系列主机在其生命周期中销量共计约350万部，于日本掌上游戏机市场市占率最高达8%。尽管在市场龙头任天堂Game Boy系列的竞争下表现并不算突出，多数舆论仍给予WonderSwan正面评价。",
+    "list": [
+      {
+        "name": "万代WS游戏合集目录",
+        "url": "/table/ws"
+      },
+      {
+        "name": "万代WSC游戏合集目录",
+        "url": "/table/wsc"
+      }
+    ]
+  },
+  "ngage": {
+    "img": "https://data.yang2000ling.com/img/console/ngage.jpg",
+    "name": "诺基亚N-Gage",
+    "text": "N-Gage是一款由诺基亚发行的具有手机和游戏功能的掌上游戏设备。此设备于2002年11月4日宣布并于2003年10月7日发行。它在塞班OSV6.1的S60平台运行。相比同时期其它智能手机来说，它们具有很大的运行内存，运行游戏非常流畅。它们的区别在于N-Gage QD取消了N-Gage的立体声喇叭和收音机。另外N-Gage没有推出中文版本。2004年，诺基亚通过重新设计了最初的N-Gage，推出了N-Gage QD。",
+    "list": [
+      {
+        "name": "诺基亚N-Gage游戏合集目录",
+        "url": "/table/ngage"
+      }
+    ]
+  },
+  "nomad": {
+    "img": "https://data.yang2000ling.com/img/console/nomad.jpg",
+    "name": "SEGA Nomad",
+    "text": "Genesis Nomad（又称为世嘉 Nomad），通称Nomad，是日本电子游戏商世嘉于1995年10月在北美发行的16位掌上游戏机，为世嘉家用游戏机世嘉 Genesis（在北美以外地区被称为Mega Drive）的派生机型，同时是世嘉开发的最后一部掌上游戏机。Genesis Nomad之硬件架构以日本限定的航空特供游戏机Mega Jet为基础，与世嘉 Genesis大致相同。Genesis Nomad可游玩几乎所有的世嘉 Genesis游戏，然而并不支持大多数的世嘉 Genesis配件，使其无法游玩世嘉 Master System、世嘉 CD（在北美以外地区称为Mega-CD）及32X（在北美以外地区称为Super 32X）平台之游戏。由于世嘉在Genesis Nomad推出后不久便将多数研发资源转移至其次世代主机世嘉土星的开发上，Genesis Nomad很快便淡出市场。"
+  },
+  "gg": {
+    "img": "https://data.yang2000ling.com/img/console/gg.jpg",
+    "name": "SEGA Game Gear",
+    "text": "Game Gear（日语：ゲームギア，简称为GG）是日本电子游戏商世嘉于1990年10月在日本、1991年4月在北美、1991年6月在欧洲发行的8位掌上游戏机，是世嘉开发的第一部掌上游戏机。继任主机为世嘉 Nomad。Game Gear的硬件架构与世嘉的家用游戏机世嘉 Mark III（在日本以外地区称为Master System）大致相同，通过转接器还可游玩部分世嘉 Mark III/Master System游戏。虽然世嘉为尽快与任天堂竞争而仓促将Game Gear上架，不过在开发资源的支持之下，其游戏阵容及价格定位上仍较雅达利的雅达利Lynx及日本电气的PC Engine GT等当时市场上的大部分掌上游戏机更具竞争力；至于其主要竞争对手（即由任天堂推出的Game Boy），世嘉虽以横向全彩屏幕及硬件规格上的优势为卖点试图打击其销量，不过由于Game Boy本身优异的续航力，加上任天堂及大量第三方游戏开发商游戏的支持下，Game Gear不敌，于1997年停产。世嘉一度于2000年授权Majesco娱乐以同捆游戏形式销售主机，不过最终于2001年再度停产，宣告主机生命周期正式终结。尽管有着相对高水准的运算能力及全彩屏幕，但Game Gear仍因其庞大的体积、严重不足的续航力及缺乏第三方游戏阵容等因素而遭到舆论抨击。",
+    "list": [
+      {
+        "name": "世嘉Game Gear游戏目录",
+        "url": "/table/gg"
+      }
+    ]
+  },
+  "gba": {
+    "img": "https://data.yang2000ling.com/img/console/gba.jpg",
+    "name": "Nintendo Game Boy Advance",
+    "text": "Game Boy Advance（日语：ゲームボーイアドバンス，简称GBA）是任天堂公司于2001年3月21日发售的便携式游戏机，最大特点是采用了彩色的TFT液晶屏幕。售价9800日元，可向下兼容上一代的的Game Boy和Game Boy Color的游戏。Game Boy Advance是任天堂经历了上一代拥有彩色液晶显示屏的Game Boy Color后推出的。 ",
+    "list": [
+      {
+        "name": "任天堂GBA游戏目录",
+        "url": "/table/gba"
+      },
+      {
+        "name": "任天堂GBA中文游戏合集",
+        "url": "/table/gbach"
+      }
+    ]
+  },
+  "fc": {
+    "img": "https://data.yang2000ling.com/img/console/fc.jpg",
+    "name": "Nintendo Famicom",
+    "text": "红白机是任天堂生产的8位家用游戏机。游戏机于1983年7月15日在日本以“Family Computer”（ファミリーコンピュータ，简称“Famicom”或“FC”）为名推出，1985年起在欧美以“Nintendo Entertainment System”（简称“NES”）为名发行。红白机是当时最畅销的游戏机，全球累计销量超过了6100万台。红白机出现对电子游戏产生了十分深远的影响，让美国电子游戏界从1983年的崩溃中恢复过来，也奠定了任天堂在当今游戏界的地位。 ",
+    "list": [
+      {
+        "name": "任天堂FC游戏合集目录",
+        "url": "/table/fc"
+      }
+    ]
+  },
+  "sfc": {
+    "img": "https://data.yang2000ling.com/img/console/sfc.jpg",
+    "name": "Nintendo Super Famicom",
+    "text": "超级任天堂（日版名：スーパーファミコン，Super Famicom，英文版名：Super Nintendo Entertainment System，简称超任；SFC；Super Nintendo、SNES）是由游戏公司任天堂继红白机后开发的家用游戏机。超级任天堂于1990年11月21日在日本开始发售，北美于1991年8月13日发售，欧洲于1992年4月11日发售。手柄的改进之处在于第一次加入了肩部按键L/R，并形成了ABXY四个按键的手柄布局。超级任天堂全球累计销量为4910万台。",
+    "list": [
+      {
+        "name": "任天堂SFC游戏合集目录",
+        "url": "/table/sfc"
+      }
+    ]
+  },
+  "ps1": {
+    "img": "https://data.yang2000ling.com/img/console/ps1.jpg",
+    "name": "SONY PlayStation",
+    "text": "PlayStation（日语：プレイステーション，官方缩写为“PS”，通常被称为“PS1”或其代号“PSX”）是由索尼电脑娱乐开发和发售的家用游戏机。主机于1994年12月3日在日本发布，1995年9月9日在北美发售，1995年9月29日在欧洲发售，1995年11月15日在澳大利亚发售。这款游戏机是PlayStation系列家用视频游戏机的第一款。作为第五世代游戏机的一部分，与其他第五时代游戏机如任天堂64和世嘉土星竞争。",
+    "list": [
+      {
+        "name": "索尼PS1游戏合集目录",
+        "url": "/table/ps1"
+      },
+      {
+        "name": "索尼PS1中文游戏合集目录",
+        "url": "/table/ps1ch"
+      }
+    ]
+  },
+  "ps2": {
+    "img": "https://data.yang2000ling.com/img/console/ps2.jpg",
+    "name": "SONY PlayStation 2",
+    "text": "PlayStation 2，简称PS2，是日本sony（Sony）旗下的索尼电脑娱乐SCEI(Sony Computer Entertainment Inc.)，于2000年3月4日推出的家用型128位游戏主机，日本推出当天即造成抢购热潮，并于2004年在全球推出了超薄版的PS2主机（名称为PlayStation Two，相对于MINI版的PS——PlayStation One来说），到2012年2月14日为止已经在全球销售超过1亿5千万台。目前，索尼官方正式宣布停售PS2。",
+    "list": [
+      {
+        "name": "索尼PS2中文游戏合集目录",
+        "url": "/table/ps2ch"
+      },
+      {
+        "name": "索尼PS2美版游戏合集目录",
+        "url": "/table/ps2usa"
+      },
+      {
+        "name": "索尼PS2欧版游戏合集目录",
+        "url": "/table/ps2eur"
+      },
+      {
+        "name": "索尼PS2日版游戏合集目录",
+        "url": "/table/ps2jp"
+      }
+    ]
+  },
+  "ps3": {
+    "img": "https://data.yang2000ling.com/img/console/ps2.jpg",
+    "name": "SONY PlayStation 3",
+    "text": "PlayStation 3（简称为“PS3”）是索尼电脑娱乐所开发的家用游戏机，也是该公司推出的第三款电视游戏机。PlayStation 3提供称为“PlayStation Network”的整合网络游戏服务，使用蓝光光盘（Blu-ray Disc）作为主要的储存媒体，拥有与PlayStation Portable（PSP）的链接能力。PlayStation 3首先在2006年11月11日于日本发售，并于2009年9月，PlayStation 3推出较薄及更大容量的改良机型PS3 Slim。 ",
+    "list": [
+      {
+        "name": "索尼PS3游戏合集目录",
+        "url": "/table/ps3"
+      }
+    ]
+  },
+  "gb": {
+    "img": "https://data.yang2000ling.com/img/console/gb.jpg",
+    "name": "Nintendo Game Boy",
+    "text": "Game Boy（日语：ゲームボーイ，简称GB）是日本任天堂公司在1989年发售的第一代便携式掌上游戏机。 Game Boy拥有三个改版机型，分别是小尺寸的Game Boy Pocket，加入背光功能的Game Boy Light，以及彩色的Game Boy Color。截止2003年3月23日停产后，Game Boy的全系列机种合计在全球累计销量为1亿1869万台，为目前世界上累计销量第2位的掌上型游戏机（第一位是任天堂DS）。",
+    "list": [
+      {
+        "name": "任天堂GB游戏目录",
+        "url": "/table/gb"
+      },
+      {
+        "name": "任天堂GBC游戏合集",
+        "url": "/table/gbc"
+      }
+    ]
+  },
+  "supervision": {
+    "img": "https://data.yang2000ling.com/img/console/supervision.jpg",
+    "name": "Watara Supervision",
+    "text": "Watara Supervision，在英国也被称为QuickShot Supervision，是黑白色掌上游戏机，原产自亚洲，并于1992年推出的一款降价版机型与任天堂的GameBoy竞争。它附带了一个名为Crystball的游戏，该游戏类似于Breakout。Watara Supervision的一个独特功能是可以通过链接电缆将其连接到电视显示。以这种方式玩的游戏将以四种颜色显示，效果就像任天堂为SNES制作的“Super Game Boy”附加组件一样。后续开发中的一个支持完整的色彩的电视显示功能，但是由于Supervision未能给游戏玩家中留下深刻的印象，因此被取消了，同时也取消了大部分正在开发的游戏。",
+    "list": [
+      {
+        "name": "Watara Supervision游戏合集目录",
+        "url": "/table/supervision"
+      }
+    ]
+  },
+  "nds": {
+    "img": "https://data.yang2000ling.com/img/console/nds.jpg",
+    "name": "Nintendo DS",
+    "text": "任天堂DS（日语：ニンテンドーDS，英语：Nintendo DS，官方简称DS，中文圈民间简称NDS）是日本电玩游戏商任天堂公司开发的第三代掌上游戏机。DS是Dual Screen（双屏幕）的缩写。主要的特征包括双屏幕显示，其中下方的屏幕为触摸屏；并配置有麦克风声音输入装置和Wi-Fi无线网络功能。任天堂DS在北美地区于2004年11月21日发售，12月2日日本上市。台湾于12月13日正式发售。而欧洲在2005年3月11日发售。中国大陆由神游科技使用“iQue DS（iDS）”（神游DS双屏互动多媒体系统）的名称推出，于2005年7月23日发售。任天堂DS推出过三款改良机型，依时间顺序分别为任天堂DS Lite、任天堂DSi、任天堂DSi LL。在2006年7月底，任天堂正式宣布DS主机的日本销量突破1000万大关，为日本电玩史上销售最快的主机。截至2009年3月6日NDS主机在全球的累计销量突破1亿台。2004年11月21日问世的NDS主机用时4年3个月零2周的时间达到了1亿台的销售成绩，创造了家用游戏机史上的最快纪录。 截止2011年11月5日世界累计销量1.5亿台，即一星期平均销售约40万部。打破同公司生产的GameBoy（约1.18亿部）的销量纪录，成为全世界最高销量的掌上型游戏机。任天堂DS的下一代掌机为任天堂3DS。",
+    "list": [
+      {
+        "name": "任天堂DS游戏目录",
+        "url": "/table/nds"
+      },
+      {
+        "name": "任天堂DS中文游戏合集",
+        "url": "/table/ndsch"
+      }
+    ]
+  },
+  "3ds": {
+    "img": "https://data.yang2000ling.com/img/console/3ds.jpg",
+    "name": "Nintendo 3DS",
+    "text": "任天堂3DS（日语：ニンテンドー3DS，英语：Nintendo 3DS，简称“N3DS”或“3DS”），是任天堂于2011年至2020年推出的便携式游戏机，为任天堂DS的后续机种。最大特点是利用了视差障壁技术，让使用者不需配戴任何特殊眼镜即可裸眼感受到立体3D图像效果。该平台向下兼容任天堂DS和任天堂DSi的软件。任天堂3DS有五个衍生机型，分别是2012年7月发售的大屏幕版本任天堂3DS LL/XL；2013年10月在欧美发售的廉价型号任天堂2DS；2014年10月起在日本发售的新任天堂3DS与新任天堂3DS LL/XL；以及于2017年7月起发售的新任天堂2DS XL。2012年9月28日台湾以及香港地区同步发行繁体中文版的“Nintendo 3DS”以及“Nintendo 3DS XL”。2012年11月1日中国大陆地区由神游科技发行的简体中文版“iQue 3DS XL”（神游DS双屏互动多媒体系统）主机正式公布，12月1日起陆续供货发售。",
+    "list": [
+      {
+        "name": "3DS全集目录",
+        "url": "/table/3ds"
+      },
+      {
+        "name": "3DS中文合集目录",
+        "url": "/table/3dsch"
+      },
+      {
+        "name": "3DS游戏DLC与更新内容目录",
+        "url": "/table/3dsdlc"
+      },
+      {
+        "name": "3DS eShop游戏合集",
+        "url": "/table/3dseshop"
+      },
+      {
+        "name": "NEW 3DS游戏合集",
+        "url": "/table/3dsnew"
+      }
+    ],
+    "article": [
+      {
+        "name": "3DS掌机游戏安装教程",
+        "url": "/jiaochen/3ds"
+      }
+    ]
+  },
+  "super32x": {
+    "img": "https://data.yang2000ling.com/img/console/32x.jpg",
+    "name": "世嘉SUPER 32X",
+    "text": "SUPER 32X是日本世嘉公司于1994年推出的一款拓展延伸机能的外设，一旦Mega Drive接驳，性能将直接由16位元升级为32位元。但由于价格、兼容性、软件稀少等一些因素，SUPER 32X未能达成世嘉官方在发售前的预估， 如流星一般惨淡收场。SUPER 32X是继MEGA-CD以后提升MD机能延长MD寿命的第二个举措，和MEGA-CD单纯的量变不同，Super 32X是真正的质变，拥有两块日立的32位元CPU \"SH2\"，这是一块时钟速率为23 MHz的RISC CPU，其速度可达40 MIPS，而MD的M68000和Z80两块CPU变成了辅助处理器。SUPER 32X每秒可以处理50,000多边形，硬件支持回旋和缩放，最大发色32,768色，使画面更加绚丽。音源则在MD的基础上再加了两个立体声声道。单纯的从机能来说，SUPER 32X已是一台不折不扣的32位次世代主机。",
+    "list": [
+      {
+        "name": "世嘉SUPER 32X游戏合集目录",
+        "url": "/table/super32x"
+      }
+    ]
+  },
+  "pcesupergrafx": {
+    "img": "https://data.yang2000ling.com/img/console/pcesupergrafx.jpg",
+    "name": "NEC PC Engine SuperGrafx",
+    "text": "NEC PC Engine SuperGrafx简称SuperGrafx，是NEC生成的第四代家用游戏主机，在PCE平台发布两年后，1989年在日本和法国同步发布。最初在生产阶段被称为PC Engine 2，据称它是一台真正的16位家用游戏主机，具有比其前身（PCE）更高的图形和音频功能。SuperGrafx仅发布了六款零售游戏，这是一个商业失败，在两个地区的总销量仅为75,000台。",
+    "list": [
+      {
+        "name": "NEC PC Engine SuperGrafx游戏合集目录",
+        "url": "/table/pcesupergrafx"
       }
     ]
   }
