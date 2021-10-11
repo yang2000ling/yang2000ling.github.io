@@ -1,0 +1,26 @@
+{
+  "psv": {
+    "img": "https://data.yang2000ling.com/img/console/psv.jpg",
+    "name": "SONY PlayStation VITA",
+    "text": "PlayStation®VITA是索尼的一代掌机，简称PSV。Vita来自拉丁语，意思是“Life”：对于带着超越娱乐和现实的界线，力求将日常生活化为娱乐，提供高品质游戏和现实体验的联动实现革新游戏可能的“新一代便携式娱乐系统”来说，是相当适合的名称。",
+    "list": [
+      {"name": "PSV 中文合集目录", "url": "/table/psvch"},
+      {"name": "PSV DLC全集目录", "url": "/table/psv_dlc"},
+      {"name": "PSV 官方游戏目录", "url": "/table/psv_all"}
+    ],
+    "article":[
+      {"name": "PSV掌机游戏安装教程", "url": "/jiaochen/psv"}
+    ]
+    
+  },
+  "psp": {
+    "img": "https://data.yang2000ling.com/img/console/psp.jpg",
+    "name": "SONY PlayStation Portable",
+    "text": "PlayStation Portable（PSP）是由索尼电脑娱乐开发的第七世代掌上游戏机，与任天堂开发的第七世代掌上游戏机任天堂DS竞争。E3 2003上索尼公布它们正在开发一款掌上游戏机，并在2004年5月11日下一届E3之前的索尼新闻发布会上公布具体详情。PlayStation Portable于2004年12月12日在日本发布；2005年3月24日在北美发布；并于2005年9月1日在其他使用PAL制式的地区发布。",
+    "list": [
+      {"name": "PSP官方游戏合集", "url": "/table/psp"},
+      {"name": "PSP中文游戏合集", "url": "/table/pspch"},
+      {"name": "PSP格式PS1游戏目录", "url": "/table/pspps1"}
+    ]
+  }
+}
