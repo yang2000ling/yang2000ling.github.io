@@ -357,7 +357,8 @@
   "nomad": {
     "img": "https://data.yang2000ling.com/img/console/nomad.jpg",
     "name": "SEGA Nomad",
-    "text": "Genesis Nomad（又称为世嘉 Nomad），通称Nomad，是日本电子游戏商世嘉于1995年10月在北美发行的16位掌上游戏机，为世嘉家用游戏机世嘉 Genesis（在北美以外地区被称为Mega Drive）的派生机型，同时是世嘉开发的最后一部掌上游戏机。Genesis Nomad之硬件架构以日本限定的航空特供游戏机Mega Jet为基础，与世嘉 Genesis大致相同。Genesis Nomad可游玩几乎所有的世嘉 Genesis游戏，然而并不支持大多数的世嘉 Genesis配件，使其无法游玩世嘉 Master System、世嘉 CD（在北美以外地区称为Mega-CD）及32X（在北美以外地区称为Super 32X）平台之游戏。由于世嘉在Genesis Nomad推出后不久便将多数研发资源转移至其次世代主机世嘉土星的开发上，Genesis Nomad很快便淡出市场。"
+    "text": "Genesis Nomad（又称为世嘉 Nomad），通称Nomad，是日本电子游戏商世嘉于1995年10月在北美发行的16位掌上游戏机，为世嘉家用游戏机世嘉 Genesis（在北美以外地区被称为Mega Drive）的派生机型，同时是世嘉开发的最后一部掌上游戏机。Genesis Nomad之硬件架构以日本限定的航空特供游戏机Mega Jet为基础，与世嘉 Genesis大致相同。Genesis Nomad可游玩几乎所有的世嘉 Genesis游戏，然而并不支持大多数的世嘉 Genesis配件，使其无法游玩世嘉 Master System、世嘉 CD（在北美以外地区称为Mega-CD）及32X（在北美以外地区称为Super 32X）平台之游戏。由于世嘉在Genesis Nomad推出后不久便将多数研发资源转移至其次世代主机世嘉土星的开发上，Genesis Nomad很快便淡出市场。",
+    "list": []
   },
   "gg": {
     "img": "https://data.yang2000ling.com/img/console/gg.jpg",
@@ -456,6 +457,17 @@
       }
     ]
   },
+  "sms": {
+    "img": "https://data.yang2000ling.com/img/console/sms.jpg",
+    "name": "SEGA Master System",
+    "text": "SEGA Master System（简称SMS）是SEGA在1987年在日本（1986年在美国）推出的8位元家用游戏机，原型机是SEGA Mark III。在北美发售的版本包括称为“Sega Base System”的仅附带单手柄的版本和称为“Sega Master System”的附带双手柄和光枪的版本。很快Master System就占了本系统的大宗，成了其正式名字。当时 Master System 的推出是为了与任天堂红白机相抗衡。其在欧洲和巴西市场获得了一定的成功，将世嘉带到了可与任天堂抗衡的位置。但在北美和日本地区却没有这样的成功。后来的 Game Gear 正是SMS的缩小版，只是还需要卡带转接器才能玩 SMS 的游戏。",
+    "list": [
+      {
+        "name": "世嘉SG-1000游戏合集目录",
+        "url": "/table/sg1000"
+      }
+    ]
+  },
   "gb": {
     "img": "https://data.yang2000ling.com/img/console/gb.jpg",
     "name": "Nintendo Game Boy",
@@ -546,7 +558,10 @@
     "name": "SEGA SG-1000",
     "text": "SG-1000是日本电子游戏发行商世嘉于1983年7月15日在日本发行（与任天堂的红白机同日）的8位家用游戏机，由世嘉的个人电脑SC-3000派生而来，是世嘉的第一部家用游戏机。世嘉后来对SG-1000进行了两次改版，分别为SG-1000 II（1984年）和世嘉 Mark III（1985年），世嘉 Mark III并成为了世嘉下一款家用游戏机，也是第一部于日本以外地区发行之家用游戏机Master System的基础。SG-1000是在世嘉旗下街机事业于1982年遭遇瓶颈时，因应时任世嘉会长中山隼雄的建议而开发的；在初代SG-1000发售后不久，世嘉便被CSK（现SCSK）所收购。SC-3000和SG-1000系列一共有76款ROM卡带作品以及29款世嘉 My Card作品，并与世嘉 Mark III以及日版Master System主机完全兼容。",
     "list": [
-      {"name": "世嘉SG-1000游戏合集目录", "url": "/table/sg1000"}
+      {
+        "name": "世嘉SG-1000游戏合集目录",
+        "url": "/table/sg1000"
+      }
     ]
   },
   "pcesupergrafx": {
