@@ -4,9 +4,9 @@
   "version": "PSVZH",
   "download": [
     {
-      "comment": "百度网盘扫码入分享群 解压密码1：yang2000ling 解压密码2：yang2000ling.com 解压密码3：yang2000ling.cn",
+      "comment": "提取码：8848 解压密码1：yang2000ling 解压密码2：yang2000ling.com 解压密码3：yang2000ling.cn",
       "game_name": "百度网盘",
-      "url": "https://data.yang2000ling.com/img/etc/psv_share.jpg"
+      "url": "https://pan.baidu.com/s/198ESmYlQLAu4gpB8CP1slg"
     }
   ],
   "header": [
@@ -40,6 +40,13 @@
     }
   ],
   "content": [
+    {
+      "game_id": "PSVzh#506",
+      "game_name": "祭品与雪之刹那[中文版1.0][XXGAME汉化][NND]",
+      "date": "2021-10-11",
+      "id": "PCSG00756",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSG00756.jpg"
+    },
     {
       "game_id": "PSVzh#505",
       "game_name": "地狱把妹王繁体中文版[XXGAME汉化][VPK]",
