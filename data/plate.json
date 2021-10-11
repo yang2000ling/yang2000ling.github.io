@@ -4,23 +4,72 @@
     "name": "SONY PlayStation VITA",
     "text": "PlayStation®VITA是索尼的一代掌机，简称PSV。Vita来自拉丁语，意思是“Life”：对于带着超越娱乐和现实的界线，力求将日常生活化为娱乐，提供高品质游戏和现实体验的联动实现革新游戏可能的“新一代便携式娱乐系统”来说，是相当适合的名称。",
     "list": [
-      {"name": "PSV 中文合集目录", "url": "/table/psvch"},
-      {"name": "PSV DLC全集目录", "url": "/table/psv_dlc"},
-      {"name": "PSV 官方游戏目录", "url": "/table/psv_all"}
+      {
+        "name": "PSV 中文合集目录",
+        "url": "/table/psvch"
+      },
+      {
+        "name": "PSV DLC全集目录",
+        "url": "/table/psv_dlc"
+      },
+      {
+        "name": "PSV 官方游戏目录",
+        "url": "/table/psv_all"
+      }
     ],
-    "article":[
-      {"name": "PSV掌机游戏安装教程", "url": "/jiaochen/psv"}
+    "article": [
+      {
+        "name": "PSV掌机游戏安装教程",
+        "url": "/jiaochen/psv"
+      }
     ]
-    
+  },
+  "ss": {
+    "img": "https://data.yang2000ling.com/img/console/ss.jpg",
+    "name": "SEGA Saturn",
+    "text": "世嘉土星（日语：セガサターン，英语：SEGA Saturn，多简称为SS、SAT），通称土星，是日本电子游戏商世嘉于1994年11月在日本、1995年5月在北美、1995年7月在欧洲发行的32位次世代家用游戏机，前代主机为Mega Drive。主机名“世嘉土星”源自于世嘉土星为世嘉发行的第六部主机，故取名为对应的太阳系第六颗行星——土星。",
+    "list": [
+      {
+        "name": "SS游戏合集目录",
+        "url": "/table/ss"
+      },
+      {
+        "name": "SS中文游戏合集目录",
+        "url": "/table/ssch"
+      }
+    ],
+    "article": [
+      {
+        "name": "世嘉土星Redump镜像刻录CD视频教程",
+        "url": "/jiaochen/sscd"
+      },
+      {
+        "name": "Mednaffe模拟器前端设置教程",
+        "url": "/jiaochen/mednafen"
+      },
+      {
+        "name": "SSF土星模拟器使用教程",
+        "url": "/jiaochen/ssf"
+      }
+    ]
   },
   "psp": {
     "img": "https://data.yang2000ling.com/img/console/psp.jpg",
     "name": "SONY PlayStation Portable",
     "text": "PlayStation Portable（PSP）是由索尼电脑娱乐开发的第七世代掌上游戏机，与任天堂开发的第七世代掌上游戏机任天堂DS竞争。E3 2003上索尼公布它们正在开发一款掌上游戏机，并在2004年5月11日下一届E3之前的索尼新闻发布会上公布具体详情。PlayStation Portable于2004年12月12日在日本发布；2005年3月24日在北美发布；并于2005年9月1日在其他使用PAL制式的地区发布。",
     "list": [
-      {"name": "PSP官方游戏合集", "url": "/table/psp"},
-      {"name": "PSP中文游戏合集", "url": "/table/pspch"},
-      {"name": "PSP格式PS1游戏目录", "url": "/table/pspps1"}
+      {
+        "name": "PSP官方游戏合集",
+        "url": "/table/psp"
+      },
+      {
+        "name": "PSP中文游戏合集",
+        "url": "/table/pspch"
+      },
+      {
+        "name": "PSP格式PS1游戏目录",
+        "url": "/table/pspps1"
+      }
     ]
   }
 }
