@@ -201,7 +201,7 @@
     ]
   },
   "neogeocd": {
-    "img": "https://data.yang2000ling.com/img/console/3do.jpg",
+    "img": "https://data.yang2000ling.com/img/console/neogeocd.jpg",
     "name": "SNK NEOGEO CD",
     "text": "NEOGEO CD是着名游戏厂商SNK开发的，其前身是NEOGEO，一款出生于超任时代的主机，俗称机皇，双16位CPU，存储媒体是卡带，大多数游戏都是SNK自己移植的着名街机游戏，比如《格斗之王》、《侍魂》、《饿狼传说》、《合金弹头》等，而NEOGEO CD则是机皇加强版，俗称机皇CD版，采用CD为媒介，无论在画质和音质上都有极大的提高，游戏种类和机皇卡带版差不多，比较出名的有《KOF 97》、《武士道列传》、《月华剑士2》、《天外魔境》等。",
     "list": [
@@ -446,7 +446,7 @@
     ]
   },
   "ps3": {
-    "img": "https://data.yang2000ling.com/img/console/ps2.jpg",
+    "img": "https://data.yang2000ling.com/img/console/ps3.jpg",
     "name": "SONY PlayStation 3",
     "text": "PlayStation 3（简称为“PS3”）是索尼电脑娱乐所开发的家用游戏机，也是该公司推出的第三款电视游戏机。PlayStation 3提供称为“PlayStation Network”的整合网络游戏服务，使用蓝光光盘（Blu-ray Disc）作为主要的储存媒体，拥有与PlayStation Portable（PSP）的链接能力。PlayStation 3首先在2006年11月11日于日本发售，并于2009年9月，PlayStation 3推出较薄及更大容量的改良机型PS3 Slim。 ",
     "list": [
@@ -539,6 +539,14 @@
         "name": "世嘉SUPER 32X游戏合集目录",
         "url": "/table/super32x"
       }
+    ]
+  },
+  "sg1000": {
+    "img": "https://data.yang2000ling.com/img/console/sg1000.jpg",
+    "name": "SEGA SG-1000",
+    "text": "SG-1000是日本电子游戏发行商世嘉于1983年7月15日在日本发行（与任天堂的红白机同日）的8位家用游戏机，由世嘉的个人电脑SC-3000派生而来，是世嘉的第一部家用游戏机。世嘉后来对SG-1000进行了两次改版，分别为SG-1000 II（1984年）和世嘉 Mark III（1985年），世嘉 Mark III并成为了世嘉下一款家用游戏机，也是第一部于日本以外地区发行之家用游戏机Master System的基础。SG-1000是在世嘉旗下街机事业于1982年遭遇瓶颈时，因应时任世嘉会长中山隼雄的建议而开发的；在初代SG-1000发售后不久，世嘉便被CSK（现SCSK）所收购。SC-3000和SG-1000系列一共有76款ROM卡带作品以及29款世嘉 My Card作品，并与世嘉 Mark III以及日版Master System主机完全兼容。",
+    "list": [
+      {"name": "世嘉SG-1000游戏合集目录", "url": "/table/sg1000"}
     ]
   },
   "pcesupergrafx": {
