@@ -28,7 +28,9 @@
       {"name": "NEC PC-FX","uri": "/plate/pcfx"},
       {"name": "富士通 FM-Towns","uri": "/plate/fmtowns"},
       {"name": "Commodore Amiga","uri": "/plate/amiga"},
-      {"name": "微软 MSX、MSX2","uri": "/plate/msx"}
+      {"name": "微软 MSX、MSX2","uri": "/plate/msx"},
+      {"name": "微软 XBOX","uri": "/plate/xbox"},
+      {"name": "微软 XBOX360","uri": "/plate/xbox360"}
     ]
   },
   "portable": {
