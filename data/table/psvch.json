@@ -41,6 +41,27 @@
   ],
   "content": [
     {
+      "game_id": "PSVzh#509",
+      "game_name": "最终幻想5汉化V1.0移植版[VPK]",
+      "date": "2021-10-14",
+      "id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PSVzh509.jpg"
+    },
+    {
+      "game_id": "PSVzh#508",
+      "game_name": "最终幻想4汉化V1.1.1移植版[VPK]",
+      "date": "2021-10-14",
+      "id": "移植",
+      "img": "https://data.yang2000ling.com/img/psp_200/2549.jpg"
+    },
+    {
+      "game_id": "PSVzh#507",
+      "game_name": "最终幻想3汉化1.1移植版[VPK]",
+      "date": "2021-10-14",
+      "id": "移植",
+      "img": "https://data.yang2000ling.com/img/psp_200/2986.jpg"
+    },
+    {
       "game_id": "PSVzh#506",
       "game_name": "祭品与雪之刹那[中文版1.0][XXGAME汉化][NND]",
       "date": "2021-10-11",
@@ -51,7 +72,7 @@
       "game_id": "PSVzh#505",
       "game_name": "地狱把妹王繁体中文版[XXGAME汉化][VPK]",
       "date": "2021-09-28",
-      "id": "",
+      "id": "移植",
       "img": "https://data.yang2000ling.com/img/psv_pic_200/PSVzh505.jpg"
     },
     {
@@ -86,7 +107,7 @@
       "game_id": "PSVzh#500",
       "game_name": "PSV战地叛逆连队2中文版[VPK][中文]",
       "date": "2021-08-24",
-      "id": "",
+      "id": "移植",
       "img": "https://data.yang2000ling.com/img/psv_pic_200/PSVzh500.jpg"
     },
     {
@@ -128,28 +149,28 @@
       "game_id": "PSVzh#494",
       "game_name": "英雄无敌2移植版[汉化版][VPK]",
       "date": "2021-06-27",
-      "id": "",
+      "id": "移植",
       "img": "https://data.yang2000ling.com/img/psv_pic_200/PSVzh494.jpg"
     },
     {
       "game_id": "PSVzh#493",
       "game_name": "馬克思佩恩移植版[汉化版][VPK]",
       "date": "2021-06-27",
-      "id": "",
+      "id": "移植",
       "img": "https://data.yang2000ling.com/img/psv_pic_200/PSVzh493.jpg"
     },
     {
       "game_id": "PSVzh#492",
       "game_name": "恶霸鲁尼移植汉化[汉化版][VPK]",
       "date": "2021-06-27",
-      "id": "",
+      "id": "移植",
       "img": "https://data.yang2000ling.com/img/psv_pic_200/PSVzh492.jpg"
     },
     {
       "game_id": "PSVzh#491",
       "game_name": "GTA圣安地列斯v1.6[汉化版][VPK]",
       "date": "2021-06-27",
-      "id": "",
+      "id": "移植",
       "img": "https://data.yang2000ling.com/img/psv_pic_200/PSVzh491.jpg"
     },
     {
@@ -3082,7 +3103,7 @@
       "game_id": "PSVzh#72",
       "game_name": "勇者别嚣张3D[汉化版][中文][NONPDRM]",
       "date": "2020-02-15",
-      "id": "",
+      "id": "移植",
       "img": "https://data.yang2000ling.com/img/psv_pic_200/PSVzh72.jpg"
     },
     {
@@ -3390,7 +3411,7 @@
       "game_id": "PSVzh#28",
       "game_name": "仙剑奇侠传 移植版(包含动画)[中文]",
       "date": "2020-02-15",
-      "id": "",
+      "id": "移植",
       "img": "https://data.yang2000ling.com/img/psv_pic_200/PSVzh28.jpg"
     },
     {
