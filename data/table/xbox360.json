@@ -19,6 +19,11 @@
       "divider": true
     },
     {
+      "value": "type",
+      "text": "类别",
+      "divider": true
+    },
+    {
       "value": "date",
       "text": "更新日期",
       "width": 150,
