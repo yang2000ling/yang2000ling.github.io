@@ -66,6 +66,13 @@
   ],
   "content": [
     {
+      "game_id": "PSVzh#517",
+      "game_name": "纪念碑谷 中文试玩版[VPK]",
+      "date": "2022-02-06",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh517.jpg"
+    },
+    {
       "game_id": "PSVzh#516",
       "game_name": "FLOWERS：秋篇 [汉化版][NND]",
       "date": "2022-01-31",
@@ -88,7 +95,7 @@
     },
     {
       "game_id": "PSVzh#513",
-      "game_name": "FLOWERS：夏篇[PCSG00739][日版][develseed汉化组][NND]",
+      "game_name": "FLOWERS：夏篇[汉化版1.3][develseed汉化组][NND]",
       "date": "2021-11-19",
       "psv_id": "PCSG00739",
       "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSG00739.jpg"
