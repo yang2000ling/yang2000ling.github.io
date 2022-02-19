@@ -9,16 +9,26 @@
   ],
   "header": [
     {
+      "value": "img",
+      "text": "游戏封面",
+      "sortable": false,
+      "width": 220,
+      "divider": true
+    },
+    {
       "value": "id",
-      "text": "编号"
+      "text": "编号",
+      "divider": true
     },
     {
       "value": "game_name",
-      "text": "游戏名称"
+      "text": "游戏名称",
+      "divider": true
     }
   ],
   "content": [
     {
+      "img": "https://data.yang2000ling.com/img/pcfx_200/pcfxch1.jpg",
       "id": "PCFXZH#1",
       "game_name": "梦幻模拟战FX汉化版V1.0修正版"
     }
