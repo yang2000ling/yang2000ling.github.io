@@ -313,6 +313,12 @@
         "name": "NEC PCE CD游戏合集目录",
         "url": "/table/pcecd"
       }
+    ],
+    "article": [
+      {
+        "name": "Mednaffe模拟器前端设置教程",
+        "url": "/jiaochen/mednafen"
+      }
     ]
   },
   "amiga": {
