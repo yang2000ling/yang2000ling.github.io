@@ -246,6 +246,12 @@
         "name": "NEC PC-FX中文游戏目录",
         "url": "/table/pcfxch"
       }
+    ],
+    "article": [
+      {
+        "name": "Mednaffe模拟器前端设置教程",
+        "url": "/jiaochen/mednafen"
+      }
     ]
   },
   "pce": {
