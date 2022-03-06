@@ -24,6 +24,13 @@
       "divider": true
     }
   ],
+  "download": [
+    {
+      "game_name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1zsLNDvLjBanwnh0GC9N2Tw",
+      "comment": "提取码：8848"
+    }
+  ],
   "content": [
     {
       "game_id": "PCECD#1",
@@ -1875,7 +1882,7 @@
     },
     {
       "game_id": "PCECD#310",
-      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD310.jpg",
+      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD.jpg",
       "game_name": "PC Engine Hyper Catalog CD-ROM (Japan)"
     },
     {
@@ -2340,7 +2347,7 @@
     },
     {
       "game_id": "PCECD#389",
-      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD389.jpg",
+      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD388.jpg",
       "game_name": "Seiryuu Densetsu - Monbit (Japan) (Rev 4)",
       "ch_name": "圣龙传说 （日版） （修正版 4）"
     },
@@ -2358,7 +2365,7 @@
     },
     {
       "game_id": "PCECD#392",
-      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD392.jpg",
+      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD391.jpg",
       "game_name": "Seiya Monogatari - Anearth Fantasy Stories (Japan) (Demo)",
       "ch_name": "圣夜物语 （日版） （演示版）"
     },
@@ -2490,7 +2497,7 @@
     },
     {
       "game_id": "PCECD#414",
-      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD414.jpg",
+      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD413.jpg",
       "game_name": "Snatcher CD-ROMantic - Pilot Disk (Japan)",
       "ch_name": "掠夺者 Pilot Disk （日版）"
     },
