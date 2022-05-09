@@ -1,6 +1,6 @@
 {
   "name": "PSV中文游戏合集",
-  "comment": "本目录旨在收集PSV掌机平台上所有的中文游戏，资源如有侵权，请及时联系我们。推荐用最新版WINRAR进行解压。为了提高维护效率，PSV中文合集链接将在电报频道不间断更新，欢迎大家到电报频道交流。",
+  "comment": "本目录旨在收集PSV掌机平台上所有的中文游戏，资源如有侵权，请及时联系我们，我们会及时删除。推荐用最新版WINRAR进行解压。为了提高维护效率，PSV中文合集链接将在电报频道不间断更新，欢迎大家到电报频道交流。",
   "version": "PSVZH",
   "download": [
     {
@@ -65,6 +65,20 @@
     }
   ],
   "content": [
+    {
+      "game_id": "PSVzh#534",
+      "game_name": "银河战士同人版[NND]",
+      "date": "2022-05-09",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh534.jpg"
+    },
+    {
+      "game_id": "PSVzh#533",
+      "game_name": "不要睁开眼睛[MAI]",
+      "date": "2022-05-09",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh533.jpg"
+    },
     {
       "game_id": "PSVzh#532",
       "game_name": "特斯拉学徒[NND]",
