@@ -1,5 +1,12 @@
 {
   "name": "任天堂DS中文游戏合集目录",
+  "download": [
+    {
+      "game_name": "NDS中文合集",
+      "url": "https://pan.baidu.com/s/1wEEDb4umrKP2EJdD_VCMVw?pwd=8848",
+      "comment": "提取码：8848"
+    }
+  ],
   "header": [
     {
       "value": "id",
