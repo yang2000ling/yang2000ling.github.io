@@ -66,6 +66,41 @@
   ],
   "content": [
     {
+      "game_id": "PSVzh#539",
+      "game_name": "克兰娜德Clannad[NND+MAI]",
+      "date": "2022-07-29",
+      "psv_id": "PCSG00415",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSG00415.jpg"
+    },
+    {
+      "game_id": "PSVzh#538",
+      "game_name": "浪漫沙加3重置版[NND]",
+      "date": "2022-07-29",
+      "psv_id": "PCSG01234",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSG01234.jpg"
+    },
+    {
+      "game_id": "PSVzh#537",
+      "game_name": "洛克兔铃仙[VPK]",
+      "date": "2022-07-29",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh537.jpg"
+    },
+    {
+      "game_id": "PSVzh#536",
+      "game_name": "欧米伽袭击[NND]",
+      "date": "2022-07-29",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh536.jpg"
+    },
+    {
+      "game_id": "PSVzh#535",
+      "game_name": "青蛙爆破者[VPK]",
+      "date": "2022-07-29",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh535.jpg"
+    },
+    {
       "game_id": "PSVzh#534",
       "game_name": "银河战士同人版[NND]",
       "date": "2022-05-09",
