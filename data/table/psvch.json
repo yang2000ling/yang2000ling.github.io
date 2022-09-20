@@ -66,6 +66,62 @@
   ],
   "content": [
     {
+      "game_id": "PSVzh#547",
+      "game_name": "轩辕剑：天之痕 移植版",
+      "date": "2022-09-20",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh547.jpg"
+    },
+    {
+      "game_id": "PSVzh#546",
+      "game_name": "限界凸骑：怪物卡片对决 汉化版",
+      "date": "2022-09-20",
+      "psv_id": "PCSG00148",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSG00148.jpg"
+    },
+    {
+      "game_id": "PSVzh#545",
+      "game_name": "索尼克：狂欢 中文移植版",
+      "date": "2022-09-20",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh545.jpg"
+    },
+    {
+      "game_id": "PSVzh#544",
+      "game_name": "入境管理处 汉化版1.2[NND+MAI]",
+      "date": "2022-09-20",
+      "psv_id": "PCSE01056",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSE01056.jpg"
+    },
+    {
+      "game_id": "PSVzh#543",
+      "game_name": "独眼娘 汉化移植版[VPK+MAI]",
+      "date": "2022-09-20",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh543.jpg"
+    },
+    {
+      "game_id": "PSVzh#542",
+      "game_name": "从零开始的异世界汉化版1.3.5[NND+MAI]",
+      "date": "2022-09-20",
+      "psv_id": "PCSG00933",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSG00933.jpg"
+    },
+    {
+      "game_id": "PSVzh#541",
+      "game_name": "超次元海王星：重生3V世纪 汉化版[NND+MAI]",
+      "date": "2022-09-20",
+      "psv_id": "PCSG00486",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/PCSG00486.jpg"
+    },
+    {
+      "game_id": "PSVzh#540",
+      "game_name": "暗黑破坏神1汉化版1.41[VPK]",
+      "date": "2022-09-20",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh512.jpg"
+    },
+    {
       "game_id": "PSVzh#539",
       "game_name": "克兰娜德Clannad[NND+MAI]",
       "date": "2022-07-29",
