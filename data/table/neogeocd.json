@@ -1,12 +1,5 @@
 {
-  "name": "SNK NEOGEO CD游戏合集目录",
-  "download": [
-    {
-      "name": "城通网盘",
-      "url": "https://t00y.com/dir/17607981-38397581-a43007",
-      "comment": "解压密码yang2000ling或者yang2000ling.cn"
-    }
-  ],
+  "name": "SNK NEOGEO CD游戏合集(redump版)",
   "header": [
     {
       "value": "id",
@@ -15,522 +8,453 @@
     {
       "value": "game_name",
       "text": "游戏名称"
-    },
-    {
-      "value": "ch_name",
-      "text": "中文名"
     }
   ],
+  "size": "39.86GB",
   "content": [
     {
-      "id": "NEOCD#1",
-      "game_name": "2020 Super Baseball (1995)(SNK)(JP-US)[!]",
-      "ch_name": "2020超级棒球 (1995)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#1",
+      "game_name": "2020 Super Baseball (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#2",
-      "game_name": "3 Count Bout (1995)(SNK)(JP-US)[!][Fire Suplex]",
-      "ch_name": "三回合较量 / 火线摔角 (1995)(snk)(jp-us)[!][fire suplex]"
+      "id": "NEOGEO-CD#2",
+      "game_name": "ADK World (Japan)"
     },
     {
-      "id": "NEOCD#3",
-      "game_name": "ADK World (1995)(ADK)(JP)[!]",
-      "ch_name": "ADK 世界 (1995)(adk)(jp)[!]"
+      "id": "NEOGEO-CD#3",
+      "game_name": "Andro Dunos (France) (Unl)"
     },
     {
-      "id": "NEOCD#4",
-      "game_name": "Aero Fighters 2 (1994)(SNK)(JP-US)[!][Sonic Wings 2]",
-      "ch_name": "四国战机 2 / 音速战机 2 (1994)(snk)(jp-us)[!][sonic wings 2]"
+      "id": "NEOGEO-CD#4",
+      "game_name": "Art of Fighting - Ryuuko no Ken Gaiden ~ The Path of the Warrior - Art of Fighting 3 (World) (En,Ja,Es,Pt)"
     },
     {
-      "id": "NEOCD#5",
-      "game_name": "Aero Fighters 3 (1995)(SNK)(JP-US)[!][Sonic Wings 3]",
-      "ch_name": "四国战机 3 / 音速战机 3 (1995)(snk)(jp-us)[!][sonic wings 3]"
+      "id": "NEOGEO-CD#5",
+      "game_name": "ASO II - The Last Guardian ~ Alpha Mission II (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#6",
-      "game_name": "Aggressors of Dark Kombat (1995)(ADK)(JP-US)[!][Tsuukai GanGan Koushinkyoku]",
-      "ch_name": "痛快进行曲 (1995)(adk)(jp-us)[!][tsuukai gangan koushinkyoku]"
+      "id": "NEOGEO-CD#6",
+      "game_name": "Bakumatsu Roman - Gekka no Kenshi ~ The Last Blade (Japan) (En,Ja,Es,Pt)"
     },
     {
-      "id": "NEOCD#7",
-      "game_name": "Alpha Mission II (1994)(SNK)(JP-US)[!][ASO II - Last Guardian]",
-      "ch_name": "阿尔法任务2 (1994)(snk)(jp-us)[!][aso ii - last guardian]"
+      "id": "NEOGEO-CD#7",
+      "game_name": "Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana ~ The Last Blade 2 (Japan) (En,Ja,Es,Pt)"
     },
     {
-      "id": "NEOCD#8",
-      "game_name": "Art of Fighting (1994)(SNK)(JP)[!][Ryuuko no Ken]",
-      "ch_name": " 龙虎之拳 (1994)(snk)(jp)[!][ryuuko no ken]"
+      "id": "NEOGEO-CD#8",
+      "game_name": "Bang^2 Busters (France) (En,Ja) (Unl)"
     },
     {
-      "id": "NEOCD#9",
-      "game_name": "Art of Fighting 2 (1994)(SNK)(JP-US)[!][Ryuuko no Ken 2]",
-      "ch_name": " 龙虎之拳2 (1994)(snk)(jp-us)[!][ryuuko no ken 2]"
+      "id": "NEOGEO-CD#9",
+      "game_name": "Baseball Stars 2 (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#10",
-      "game_name": "Art of Fighting 3 - Path of the Warrior (1996)(SNK)(JP)[!][Art of Fighting - Ryuuko no Ken Gaiden][NGCD-0961]",
-      "ch_name": "龙虎之拳 3 - 斗士之路（日版+美版） (1996)(snk)(jp)[!][ 龙虎之拳 - ryuuko no ken gaiden][ngcd-0961]"
+      "id": "NEOGEO-CD#10",
+      "game_name": "Baseball Stars Professional (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#11",
-      "game_name": "Art of Fighting 3 - Path of the Warrior (1996)(SNK)(JP-US)[!][Art of Fighting - Ryuuko no Ken Gaiden][NGCD-096, NGCD-096E]",
-      "ch_name": "龙虎之拳 3 - 斗士之路（日版+美版） (1996)(snk)(jp-us)[!][ 龙虎之拳 - ryuuko no ken gaiden][ngcd-096, ngcd-096e]"
+      "id": "NEOGEO-CD#11",
+      "game_name": "Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#12",
-      "game_name": "Bakumatsu Roman Daini Maku - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (1999)(SNK)(JP)[!][Last Blade 2, The]",
-      "ch_name": "幕末浪漫第二幕 月华剑士 - 月中芳华 散落月下 (1999)(snk)(jp)[!][last blade 2, the]"
+      "id": "NEOGEO-CD#12",
+      "game_name": "Breakers (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#13",
-      "game_name": "Baseball Stars 2 (1994)(SNK)(JP-US)[!]",
-      "ch_name": "棒球之星 2 (1994)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#13",
+      "game_name": "Burning Fight (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#14",
-      "game_name": "Baseball Stars Professional (1995)(SNK)(JP-US)[!]",
-      "ch_name": "棒球之星专业版 (1995)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#14",
+      "game_name": "Choujin Gakuen - Gowcaizer (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#15",
-      "game_name": "Breakers (1997)(Visco)(JP)[!]",
-      "ch_name": "爆烈人 - 末日英雄 (1997)(visco)(jp)[!]"
+      "id": "NEOGEO-CD#15",
+      "game_name": "Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#16",
-      "game_name": "Burning Fight (1994)(SNK)(JP-US)[!]",
-      "ch_name": "热血快打 (1994)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#16",
+      "game_name": "Crossed Swords (Japan)"
     },
     {
-      "id": "NEOCD#17",
-      "game_name": "Bust-A-Move (1995)(SNK)(JP-US)[!][Puzzle Bobble]",
-      "ch_name": " 泡泡龙-爆裂移动 (1995)(snk)(jp-us)[!][puzzle bobble]"
+      "id": "NEOGEO-CD#17",
+      "game_name": "Crossed Swords II (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#18",
-      "game_name": "Choutetsu Brikin'ger (1996)(Saurus)(JP)[!][Ironclad]",
-      "ch_name": "超铁战机 (1996)(saurus)(jp)[!][ironclad]"
+      "id": "NEOGEO-CD#18",
+      "game_name": "Cyber-Lip (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#19",
-      "game_name": "Crossed Swords (1994)(ADK)(JP)[!]",
-      "ch_name": "圣十字剑 (1994)(adk)(jp)[!]"
+      "id": "NEOGEO-CD#19",
+      "game_name": "Double Dragon (Export) (En,Ja)"
     },
     {
-      "id": "NEOCD#20",
-      "game_name": "Crossed Swords II (1995)(ADK)(JP)[!]",
-      "ch_name": "圣十字剑2 (1995)(adk)(jp)[!]"
+      "id": "NEOGEO-CD#20",
+      "game_name": "Double Dragon (Japan) (En,Ja) (Rev 1)"
     },
     {
-      "id": "NEOCD#21",
-      "game_name": "Cyber-Lip (1995)(SNK)(JP-US)[!]",
-      "ch_name": "战斗边缘 (1995)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#21",
+      "game_name": "Dunk Dream ~ Street Slam ~ Street Hoop (World)"
     },
     {
-      "id": "NEOCD#22",
-      "game_name": "Double Dragon (1995)(SNK)(JP-US)[!]",
-      "ch_name": "双截龙 (1995)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#22",
+      "game_name": "Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#23",
-      "game_name": "Fatal Fury - The Battle of Fury (1994)(SNK)(JP-US)[!][Garou Densetsu - Shukumei no Tatakai]",
-      "ch_name": "饿狼传说 - 宿命之战 (1994)(snk)(jp-us)[!][garou densetsu - shukumei no tatakai]"
+      "id": "NEOGEO-CD#23",
+      "game_name": "Fighter's History Dynamite ~ Karnov's Revenge (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#24",
-      "game_name": "Fatal Fury 2 (1994)(SNK)(JP-US)[!][Garou Densetsu 2 - Aratanaru Tatakai]",
-      "ch_name": "饿狼传说 2 - 新的战斗 (1994)(snk)(jp-us)[!][garou densetsu 2 - aratanaru tatakai]"
+      "id": "NEOGEO-CD#24",
+      "game_name": "Fire Suplex ~ 3 Count Bout (World) (En,Ja)"
     },
     {
-      "id": "NEOCD#25",
-      "game_name": "Fatal Fury 3 - Road to the Final Victory (1995)(SNK)(JP-US)[!][Garou Densetsu 3 - Harukanaru Tatakai][NGCD-069, NGCD-069E MT B02]",
-      "ch_name": "饿狼传说 3 - 通向最终胜利之路  (1995)(snk)(jp-us)[!][garou densetsu 3 - harukanaru tatakai][ngcd-069, ngcd-069e mt b02]"
+      "id": "NEOGEO-CD#25",
+      "game_name": "Flying Power Disc ~ Windjammers (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#26",
-      "game_name": "Fatal Fury 3 - Road to the Final Victory (1995)(SNK)(US)[!][Garou Densetsu 3 - Harukanaru Tatakai][NGCD-069E MT B03]",
-      "ch_name": "饿狼传说 3 - 通向最终胜利之路  (1995)(snk)(us)[!][garou densetsu 3 - harukanaru tatakai][ngcd-069e mt b03]"
+      "id": "NEOGEO-CD#26",
+      "game_name": "Football Frenzy (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#27",
-      "game_name": "Fatal Fury Special (1994)(SNK)(JP-US)[!][Garou Densetsu Special]",
-      "ch_name": "三回合较量 / 火线摔角 (1994)(snk)(jp-us)[!][garou densetsu special]"
+      "id": "NEOGEO-CD#27",
+      "game_name": "Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#28",
-      "game_name": "Football Frenzy (1994)(SNK)(JP-US)[!]",
-      "ch_name": "疯狂橄榄球 (1994)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#28",
+      "game_name": "Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1)"
     },
     {
-      "id": "NEOCD#29",
-      "game_name": "Futsal - 5 on 5 Mini Soccer (1996)(Saurus)(JP)[!][Pleasuregoal - 5 on 5 Mini Soccer]",
-      "ch_name": "快乐射门-五人足球 (1996)(saurus)(jp)[!][pleasuregoal - 5 on 5 mini soccer]"
+      "id": "NEOGEO-CD#29",
+      "game_name": "Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)"
     },
     {
-      "id": "NEOCD#30",
-      "game_name": "Galaxy Fight - Universal Warriors (1995)(Sunsoft)(JP-US)[!]",
-      "ch_name": "银河快打 - 宇宙战士 (1995)(sunsoft)(jp-us)[!]"
+      "id": "NEOGEO-CD#30",
+      "game_name": "Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)"
     },
     {
-      "id": "NEOCD#31",
-      "game_name": "Ghost Pilots (1995)(SNK)(JP)[!]",
-      "ch_name": "魔鬼飞行员 - 幽灵战区 (1995)(snk)(jp)[!]"
+      "id": "NEOGEO-CD#31",
+      "game_name": "Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#32",
-      "game_name": "Idol Mahjong Final Romance 2 (1995)(Video System)(JP)[!]",
-      "ch_name": "偶像麻将最后浪漫2 (1995)(video system)(jp)[!]"
+      "id": "NEOGEO-CD#32",
+      "game_name": "Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#33",
-      "game_name": "Janshin Densetsu - Quest of the Jongmaster (1995)(SNK)(JP)[!]",
-      "ch_name": "雀神传说 - 寻找麻将大师 (1995)(snk)(jp)[!]"
+      "id": "NEOGEO-CD#33",
+      "game_name": "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 2)"
     },
     {
-      "id": "NEOCD#34",
-      "game_name": "Karnov's Revenge (1994)(SNK)(JP-US)[!][Fighter's History Dynamite]",
-      "ch_name": "卡洛夫的复仇 (1994)(snk)(jp-us)[!][fighter's history dynamite]"
+      "id": "NEOGEO-CD#34",
+      "game_name": "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Export) (En,Ja,Es,Pt) (Rev 3)"
     },
     {
-      "id": "NEOCD#35",
-      "game_name": "King of Fighters '94, The (1994)(SNK)(JP)[!][NGCD-055 MT B01, B04]",
-      "ch_name": "拳皇94（日版+美版） (1994)(snk)(jp)[!][ngcd-055 mt b01, b04]"
+      "id": "NEOGEO-CD#35",
+      "game_name": "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt)"
     },
     {
-      "id": "NEOCD#36",
-      "game_name": "King of Fighters '94, The (1994)(SNK)(JP-US)[!][NGCD-055 MT B12, NGCD-055E]",
-      "ch_name": "拳皇94（日版+美版） (1994)(snk)(jp-us)[!][ngcd-055 mt b12, ngcd-055e]"
+      "id": "NEOGEO-CD#36",
+      "game_name": "Garou Densetsu 3 - Road to the Final Victory ~ Fatal Fury 3 - Road to the Final Victory (World) (En,Ja,Es,Pt) (Rev 1)"
     },
     {
-      "id": "NEOCD#37",
-      "game_name": "King of Fighters '95, The (1995)(SNK)(JP-US)[!][NGCD-084 MT B01, B03-B06, NGCD-084E MT B01]",
-      "ch_name": "拳皇95 (1995)(snk)(jp-us)[!][ngcd-084 mt b01, b03-b06, ngcd-084e mt b01]"
+      "id": "NEOGEO-CD#37",
+      "game_name": "Garou Densetsu Special ~ Fatal Fury Special (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#38",
-      "game_name": "King of Fighters '95, The (1995)(SNK)(JP-US)[!][NGCD-084 MT B10, NGCD-084E MT B03]",
-      "ch_name": "拳皇95 (1995)(snk)(jp-us)[!][ngcd-084 mt b10, ngcd-084e mt b03]"
+      "id": "NEOGEO-CD#38",
+      "game_name": "Garou Densetsu Special ~ Fatal Fury Special (World) (En,Ja) (Rev 1)"
     },
     {
-      "id": "NEOCD#39",
-      "game_name": "King of Fighters '96 NEOGEO Collection, The (1997)(SNK)(JP)[!][NGCD-229 MT B07]",
-      "ch_name": "拳皇96 NEOGEO合集 (1997)(snk)(jp)[!][ngcd-229 mt b07]"
+      "id": "NEOGEO-CD#39",
+      "game_name": "Ghost Pilots (World)"
     },
     {
-      "id": "NEOCD#40",
-      "game_name": "King of Fighters '96, The (1996)(SNK)(JP)[!][NGCD-214 MT A02]",
-      "ch_name": "拳皇96（日版+美版） (1996)(snk)(jp)[!][ngcd-214 mt a02]"
+      "id": "NEOGEO-CD#40",
+      "game_name": "Idol Mahjong - Final Romance 2 (Japan)"
     },
     {
-      "id": "NEOCD#41",
-      "game_name": "King of Fighters '96, The (1996)(SNK)(JP-US)[!][NGCD-214 MT A01, NGCD-214E]",
-      "ch_name": "拳皇96（日版+美版） (1996)(snk)(jp-us)[!][ngcd-214 mt a01, ngcd-214e]"
+      "id": "NEOGEO-CD#41",
+      "game_name": "Janshin Densetsu - Quest of Jongmaster (Japan)"
     },
     {
-      "id": "NEOCD#42",
-      "game_name": "King of Fighters '97, The (1997)(SNK)(JP)[!]",
-      "ch_name": "拳皇97 (1997)(snk)(jp)[!]"
+      "id": "NEOGEO-CD#42",
+      "game_name": "Joy Joy Kid ~ Puzzled (World) (En,Ja)"
     },
     {
-      "id": "NEOCD#43",
-      "game_name": "King of Fighters '98, The - The Slugfest (1998)(SNK)(JP)[!][King of Fighters '98, The - Dream Match Never Ends][NGCD-2420 MT A04, NGCD-2421]",
-      "ch_name": "拳皇98 (1998)(snk)(jp)[!][king of fighters '98, the - dream match never ends][ngcd-2420 mt a04, ngcd-2421]"
+      "id": "NEOGEO-CD#43",
+      "game_name": "King of Fighters '94, The (World) (En,Ja)"
     },
     {
-      "id": "NEOCD#44",
-      "game_name": "King of Fighters '99, The - Millennium Battle (1999)(SNK)(JP)[!][King of Fighters '99, The]",
-      "ch_name": "拳皇99 (1999)(snk)(jp)[!][king of fighters '99, the]"
+      "id": "NEOGEO-CD#44",
+      "game_name": "King of Fighters '94, The (World) (En,Ja) (Rev 1)"
     },
     {
-      "id": "NEOCD#45",
-      "game_name": "King of the Monsters 2 (1994)(SNK)(JP-US)[!]",
-      "ch_name": "怪兽之王 2 (1994)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#45",
+      "game_name": "King of Fighters '95, The (Japan) (En,Ja) (Rev 1)"
     },
     {
-      "id": "NEOCD#46",
-      "game_name": "Last Blade, The (1998)(SNK)(JP)[!][Bakumatsu Roman - Gekka no Kenshi]",
-      "ch_name": "幕末浪漫 月华剑士 (1998)(snk)(jp)[!][bakumatsu roman - gekka no kenshi]"
+      "id": "NEOGEO-CD#46",
+      "game_name": "King of Fighters '95, The (World) (En,Ja)"
     },
     {
-      "id": "NEOCD#47",
-      "game_name": "Last Resort (1994)(SNK)(JP-US)[!]",
-      "ch_name": "终极手段 (1994)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#47",
+      "game_name": "King of Fighters '96 NeoGeo Collection, The (Japan)"
     },
     {
-      "id": "NEOCD#48",
-      "game_name": "League Bowling (1994)(SNK)(JP-US)[!]",
-      "ch_name": "联盟保龄球 (1994)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#48",
+      "game_name": "King of Fighters '96, The (World) (En,Ja)"
     },
     {
-      "id": "NEOCD#49",
-      "game_name": "Magical Drop 2 (1996)(Data East)(JP)[!]",
-      "ch_name": "魔法堆球2 (1996)(data east)(jp)[!]"
+      "id": "NEOGEO-CD#49",
+      "game_name": "King of Fighters '97, The (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#50",
-      "game_name": "Magician Lord (1994)(ADK)(JP)[!]",
-      "ch_name": "幻魔大战 (1994)(adk)(jp)[!]"
+      "id": "NEOGEO-CD#50",
+      "game_name": "King of Fighters '98, The - Dream Match Never Ends ~ The King of Fighters '98 - The Slugfest (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#51",
-      "game_name": "Mahjong Kyo Retsuden - Nishi Nihon Hen (1994)(SNK)(JP)[!]",
-      "ch_name": "麻雀狂列传 (1994)(snk)(jp)[!]"
+      "id": "NEOGEO-CD#51",
+      "game_name": "King of Fighters '99, The ~ The King of Fighters '99 - Millennium Battle (World) (En,Ja,Es,Pt)"
     },
     {
-      "id": "NEOCD#52",
-      "game_name": "Metal Slug (1996)(SNK)(JP-US)[!]",
-      "ch_name": "合金弹头 (1996)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#52",
+      "game_name": "Last Hope (Germany) (Unl)"
     },
     {
-      "id": "NEOCD#53",
-      "game_name": "Metal Slug 2 (1998)(SNK)(JP)[!]",
-      "ch_name": "合金弹头2 (1998)(snk)(jp)[!]"
+      "id": "NEOGEO-CD#53",
+      "game_name": "Last Resort (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#54",
-      "game_name": "Mutation Nation (1995)(SNK)(JP-US)[!]",
-      "ch_name": "外星游龙 - 变异种族 (1995)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#54",
+      "game_name": "League Bowling (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#55",
-      "game_name": "NAM-1975 (1994)(SNK)(JP-US)[!]",
-      "ch_name": "越战 1975 (1994)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#55",
+      "game_name": "Magical Drop 2 (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#56",
-      "game_name": "Neo DriftOut (1996)(Visco)(JP)[!]",
-      "ch_name": "Neo 越野漂移 - 新的技术 (1996)(visco)(jp)[!]"
+      "id": "NEOGEO-CD#56",
+      "game_name": "Magician Lord (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#57",
-      "game_name": "Neo Geo CD Special (1996)(SNK)(JP)[!]",
-      "ch_name": "Neo Geo光盘特别版 (1996)(snk)(jp)[!]"
+      "id": "NEOGEO-CD#57",
+      "game_name": "Mahjong-kyou Retsuden - Nishi Nihon-hen (Japan)"
     },
     {
-      "id": "NEOCD#58",
-      "game_name": "Neo Turf Masters (1996)(SNK)(JP)[!][Big Tournament Golf]",
-      "ch_name": "新草坪大师赛 / 高尔夫锦标赛 (1996)(snk)(jp)[!][big tournament golf]"
+      "id": "NEOGEO-CD#58",
+      "game_name": "Metal Slug (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#59",
-      "game_name": "Ninja Combat (1994)(ADK)(JP)[!]",
-      "ch_name": "忍者大战 (1994)(adk)(jp)[!]"
+      "id": "NEOGEO-CD#59",
+      "game_name": "Metal Slug 2 (World) (En,Ja)"
     },
     {
-      "id": "NEOCD#60",
-      "game_name": "Ninja Commando (1994)(ADK)(JP)[!]",
-      "ch_name": "忍者指令 (1994)(adk)(jp)[!]"
+      "id": "NEOGEO-CD#60",
+      "game_name": "Mutation Nation (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#61",
-      "game_name": "Ninja Master's - Haou Ninpou-Chou (1996)(ADK)(JP)[!]",
-      "ch_name": "霸王忍法帖 (1996)(adk)(jp)[!]"
+      "id": "NEOGEO-CD#61",
+      "game_name": "Nam-1975 (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#62",
-      "game_name": "Oshidashi Zintrick (1996)(ADK)(JP)[!][Zintrick]",
-      "ch_name": "决战平推方块 (1996)(adk)(jp)[!][zintrick]"
+      "id": "NEOGEO-CD#62",
+      "game_name": "Neo Drift Out - New Technology (Japan)"
     },
     {
-      "id": "NEOCD#63",
-      "game_name": "OverTop (1996)(ADK)(JP)[!]",
-      "ch_name": "跨越巅峰 (1996)(adk)(jp)[!]"
+      "id": "NEOGEO-CD#63",
+      "game_name": "Neo-Geo CD Special (Japan)"
     },
     {
-      "id": "NEOCD#64",
-      "game_name": "Power Spikes II (1995)(Video System)(JP)[!]",
-      "ch_name": "力量排球 II (1995)(video system)(jp)[!]"
+      "id": "NEOGEO-CD#64",
+      "game_name": "Next Thing, The - King of the Monsters 2 (World) (En,Ja)"
     },
     {
-      "id": "NEOCD#65",
-      "game_name": "Pulstar (1995)(SNK)(JP-US)[!]",
-      "ch_name": "惑星战机 (1995)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#65",
+      "game_name": "Ninja Combat (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#66",
-      "game_name": "Puzzled (1994)(SNK)(JP-US)[!][Joy Joy Kid]",
-      "ch_name": "阳光方块 (1994)(snk)(jp-us)[!][joy joy kid]"
+      "id": "NEOGEO-CD#66",
+      "game_name": "Ninja Commando (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#67",
-      "game_name": "Quiz King of Fighters (1995)(Saurus)(JP)[!]",
-      "ch_name": "拳皇问答 (1995)(saurus)(jp)[!]"
+      "id": "NEOGEO-CD#67",
+      "game_name": "Ninja Master's - Haou Ninpou Chou (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#68",
-      "game_name": "Raguy (1994)(ADK)(JP)[!][Blue's Journey]",
-      "ch_name": "蓝色之旅 / 拉吉少年 (1994)(adk)(jp)[!][blue's journey]"
+      "id": "NEOGEO-CD#68",
+      "game_name": "Oshidashi Zintrick ~ ZinTricK (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#69",
-      "game_name": "Rally Chase (1994)(ADK)(JP)[!]",
-      "ch_name": "极速英豪 - 拉力赛车 (1994)(adk)(jp)[!]"
+      "id": "NEOGEO-CD#69",
+      "game_name": "OverTop (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#70",
-      "game_name": "Real Bout Fatal Fury (1996)(SNK)(JP-US)[!][Real Bout Garou Densetsu][NGCD-095 MT B06-B08, NGCD-095E]",
-      "ch_name": "真饿狼传说 (1996)(snk)(jp-us)[!][real bout garou densetsu][ngcd-095 mt b06-b08, ngcd-095e]"
+      "id": "NEOGEO-CD#70",
+      "game_name": "Power Spikes II (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#71",
-      "game_name": "Real Bout Fatal Fury 2 - The Newcomers (1998)(SNK)(JP-US)[!][Real Bout Garou Densetsu 2 - The Newcomers]",
-      "ch_name": "真饿狼传说2-新的挑战者 (1998)(snk)(jp-us)[!][real bout garou densetsu 2 - the newcomers]"
+      "id": "NEOGEO-CD#71",
+      "game_name": "Pulstar (Japan)"
     },
     {
-      "id": "NEOCD#72",
-      "game_name": "Real Bout Fatal Fury Special (1997)(SNK)(JP)[!][Real Bout Special]",
-      "ch_name": "真饿狼传说特别版 (1997)(snk)(jp)[!][real bout special]"
+      "id": "NEOGEO-CD#72",
+      "game_name": "Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#73",
-      "game_name": "Riding Hero (1995)(SNK)(JP-US)[!]",
-      "ch_name": "铁骑英雄 (1995)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#73",
+      "game_name": "Quiz King of Fighters (Japan)"
     },
     {
-      "id": "NEOCD#74",
-      "game_name": "Robo Army (1995)(SNK)(JP-US)[!]",
-      "ch_name": "机甲神兵 (1995)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#74",
+      "game_name": "Raguy ~ Blue's Journey (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#75",
-      "game_name": "Samurai Shodown (1994)(SNK)(JP-US)[!][Samurai Spirits]",
-      "ch_name": "侍魂 (1994)(snk)(jp-us)[!][samurai spirits]"
+      "id": "NEOGEO-CD#75",
+      "game_name": "Rally Chase (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#76",
-      "game_name": "Samurai Shodown II (1994)(SNK)(JP-US)[!][Shin Samurai Spirits - Haoumaru Jigoku Hen]",
-      "ch_name": "侍魂 II / 真侍魂 - 霸王丸地狱变 (1994)(snk)(jp-us)[!][shin samurai spirits - haoumaru jigoku hen]"
+      "id": "NEOGEO-CD#76",
+      "game_name": "RB2 - The Newcomers - Real Bout Garou Densetsu 2 ~ RB2 - The Newcomers - Real Bout Fatal Fury 2 (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#77",
-      "game_name": "Samurai Shodown III (1995)(SNK)(JP)[!][Samurai Spirits - Zankurou Musouken][NGCD-087 MT A04]",
-      "ch_name": "侍魂 III - 斩红郎无双剑 (1995)(snk)(jp)[!][samurai spirits - zankurou musouken][ngcd-087 mt a04]"
+      "id": "NEOGEO-CD#77",
+      "game_name": "Real Bout Garou Densetsu Special ~ Real Bout Fatal Fury Special (World) (En,Ja,Es,Pt)"
     },
     {
-      "id": "NEOCD#78",
-      "game_name": "Samurai Shodown IV - Amakusa's Revenge (1996)(SNK)(JP-US)[!][Samurai Spirits - Amakusa Kourin]",
-      "ch_name": "侍魂 IV - 天草降临 (1996)(snk)(jp-us)[!][samurai spirits - amakusa kourin]"
+      "id": "NEOGEO-CD#78",
+      "game_name": "Real Bout Garou Densetsu ~ Real Bout Fatal Fury (World) (En,Ja,Es,Pt)"
     },
     {
-      "id": "NEOCD#79",
-      "game_name": "Savage Reign (1995)(SNK)(JP-US)[!][Fu'un Mokujiroku - Kakutou Sousei]",
-      "ch_name": "风云默示录 - 格斗创世 (1995)(snk)(jp-us)[!][fu'un mokujiroku - kakutou sousei]"
+      "id": "NEOGEO-CD#79",
+      "game_name": "Riding Hero (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#80",
-      "game_name": "Sengoku (1995)(SNK)(JP-US)[!][Sengoku Denshou]",
-      "ch_name": "战国传承 (1995)(snk)(jp-us)[!][战国传承 denshou]"
+      "id": "NEOGEO-CD#80",
+      "game_name": "Robo Army (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#81",
-      "game_name": "Sengoku 2 (1995)(SNK)(JP-US)[!][Sengoku Denshou 2]",
-      "ch_name": "战国传承2 (1995)(snk)(jp-us)[!][战国传承 denshou 2]"
+      "id": "NEOGEO-CD#81",
+      "game_name": "Ryuuko no Ken 2 ~ Art of Fighting 2 (World) (En,Ja,Es)"
     },
     {
-      "id": "NEOCD#82",
-      "game_name": "Shinouken (1996)(Saurus)(JP)[!][Ragnagard]",
-      "ch_name": "神凰拳 (1996)(saurus)(jp)[!][ragnagard]"
+      "id": "NEOGEO-CD#82",
+      "game_name": "Ryuuko no Ken ~ Art of Fighting (World) (En,Ja,Es)"
     },
     {
-      "id": "NEOCD#83",
-      "game_name": "Shinsetsu Samurai Spirits - Bushidohretsuden (1997)(SNK)(JP)[!][NGCD-0850 MT A01]",
-      "ch_name": "真说侍魂 - 武士道列传 (1997)(snk)(jp)[!][ngcd-0850 mt a01]"
+      "id": "NEOGEO-CD#83",
+      "game_name": "Samurai Spirits - Amakusa Kourin ~ Samurai Shodown IV - Amakusa's Revenge (World) (En,Ja,Es,Pt)"
     },
     {
-      "id": "NEOCD#84",
-      "game_name": "Shougi no Tatsujin - Master of Syougi (1995)(ADK)(JP)[!]",
-      "ch_name": "将棋达人 (1995)(adk)(jp)[!]"
+      "id": "NEOGEO-CD#84",
+      "game_name": "Samurai Spirits - Zankurou Musouken ~ Samurai Shodown III (World) (En,Ja,Es,Pt)"
     },
     {
-      "id": "NEOCD#85",
-      "game_name": "Soccer Brawl (1995)(SNK)(JP-US)[!]",
-      "ch_name": "机器人足球 (1995)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#85",
+      "game_name": "Samurai Spirits ~ Samurai Shodown (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#86",
-      "game_name": "Stakes Winner - GI Kanzen Seiha Heno Machi (1996)(Saurus)(JP)[!]",
-      "ch_name": "赛马冠军 - GI 完全制霸之道 (1996)(saurus)(jp)[!]"
+      "id": "NEOGEO-CD#86",
+      "game_name": "Sengoku Denshou 2 ~ Sengoku 2 (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#87",
-      "game_name": "Street Hoop (1995)(Data East)(JP-US)[!][Dunk Dream]",
-      "ch_name": "街头篮球 (1995)(data east)(jp-us)[!][dunk dream]"
+      "id": "NEOGEO-CD#87",
+      "game_name": "Sengoku Denshou ~ Sengoku (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#88",
-      "game_name": "Super Sidekicks (1995)(SNK)(JP-US)[!][Tokuten Oh]",
-      "ch_name": "得点王 (1995)(snk)(jp-us)[!][tokuten oh]"
+      "id": "NEOGEO-CD#88",
+      "game_name": "Shin Samurai Spirits - Haoumaru Jigokuhen ~ Samurai Shodown II (World) (En,Ja)"
     },
     {
-      "id": "NEOCD#89",
-      "game_name": "Super Sidekicks 2 (1994)(SNK)(JP-US)[!][Tokuten Oh 2]",
-      "ch_name": "得点王 2 - 真实对抗足球 (1994)(snk)(jp-us)[!][tokuten oh 2]"
+      "id": "NEOGEO-CD#89",
+      "game_name": "Shinouken ~ Ragnagard (Japan) (En,Ja,Es)"
     },
     {
-      "id": "NEOCD#90",
-      "game_name": "Super Sidekicks 3 - The Next Glory (1995)(SNK)(JP-US)[!][Tokuten Oh 3 - Eikoue No Chousen]",
-      "ch_name": "得点王 3 - 荣耀之挑战 (1995)(snk)(jp-us)[!][tokuten oh 3 - eikoue no chousen]"
+      "id": "NEOGEO-CD#90",
+      "game_name": "Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan)"
     },
     {
-      "id": "NEOCD#91",
-      "game_name": "Super Spy, The (1994)(SNK)(JP-US)[!]",
-      "ch_name": "谍报飞龙 (1994)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#91",
+      "game_name": "Shougi no Tatsujin - Master of Syougi (Japan)"
     },
     {
-      "id": "NEOCD#92",
-      "game_name": "Tengai Makyou Shinden - Far East of Eden (1995)(Hudson)(JP)[!][Kabuki Klash]",
-      "ch_name": "三回合较量 / 火线摔角 (1995)(hudson)(jp)[!][kabuki klash]"
+      "id": "NEOGEO-CD#92",
+      "game_name": "Soccer Brawl (World)"
     },
     {
-      "id": "NEOCD#93",
-      "game_name": "Top Hunter - Roddy & Cathy (1994)(SNK)(JP-US)[!][NGCD-046 MT B02, NGCD-046E]",
-      "ch_name": "顶尖猎人 - 罗迪和凯茜 (1994)(snk)(jp-us)[!][ngcd-046 mt b02, ngcd-046e]"
+      "id": "NEOGEO-CD#93",
+      "game_name": "Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja)"
     },
     {
-      "id": "NEOCD#94",
-      "game_name": "Top Player's Golf (1994)(SNK)(JP-US)[!]",
-      "ch_name": "顶尖高尔夫 (1994)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#94",
+      "game_name": "Sonic Wings 3 ~ Aero Fighters 3 (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#95",
-      "game_name": "Twinkle Star Sprites (1997)(ADK)(JP)[!]",
-      "ch_name": "梦幻小妖精 (1997)(adk)(jp)[!]"
+      "id": "NEOGEO-CD#95",
+      "game_name": "Stakes Winner - GI Kanzen Seiha e no Michi (Japan)"
     },
     {
-      "id": "NEOCD#96",
-      "game_name": "Viewpoint (1995)(SNK)(JP-US)[!]",
-      "ch_name": "魔眼战机 (1995)(snk)(jp-us)[!]"
+      "id": "NEOGEO-CD#96",
+      "game_name": "Super Sidekicks - Tokuten-ou (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#97",
-      "game_name": "Voltage Fighter Gowcaizer (1995)(Technos)(JP)[!][Choujin Gakuen Gowcaizer]",
-      "ch_name": "超人学园钢帝王 (1995)(technos)(jp)[!][choujin gakuen gowcaizer]"
+      "id": "NEOGEO-CD#97",
+      "game_name": "Super Spy, The (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#98",
-      "game_name": "Windjammers (1995)(SNK)(JP-US)[!][Flying Power Disc]",
-      "ch_name": "超级飞碟球 (1995)(snk)(jp-us)[!][flying power disc]"
+      "id": "NEOGEO-CD#98",
+      "game_name": "Tokuten-ou 2 ~ Super Sidekicks 2 - The World Championship (Japan) (En,Ja,Es)"
     },
     {
-      "id": "NEOCD#99",
-      "game_name": "World Heroes (1995)(ADK)(JP-US)[!]",
-      "ch_name": "世界英雄 (1995)(adk)(jp-us)[!]"
+      "id": "NEOGEO-CD#99",
+      "game_name": "Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt)"
     },
     {
-      "id": "NEOCD#100",
-      "game_name": "World Heroes 2 (1995)(ADK)(JP-US)[!]",
-      "ch_name": "世界英雄 2 (1995)(adk)(jp-us)[!]"
+      "id": "NEOGEO-CD#100",
+      "game_name": "Top Hunter - Roddy & Cathy (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#101",
-      "game_name": "World Heroes 2 Jet (1994)(ADK)(JP)[!]",
-      "ch_name": "世界英雄 2 喷射版 (1994)(adk)(jp)[!]"
+      "id": "NEOGEO-CD#101",
+      "game_name": "Top Player's Golf (Japan) (En,Ja)"
     },
     {
-      "id": "NEOCD#102",
-      "game_name": "World Heroes Perfect (1995)(ADK)(JP-US)[!]",
-      "ch_name": "世界英雄 完美版 (1995)(adk)(jp-us)[!]"
+      "id": "NEOGEO-CD#102",
+      "game_name": "Treasure of the Caribbean (France) (En,Ja) (Unl)"
+    },
+    {
+      "id": "NEOGEO-CD#103",
+      "game_name": "Tsuukai Gangan Koushinkyoku ~ Aggressors of Dark Kombat (World) (En,Ja)"
+    },
+    {
+      "id": "NEOGEO-CD#104",
+      "game_name": "Twinkle Star Sprites (Japan) (En,Ja)"
+    },
+    {
+      "id": "NEOGEO-CD#105",
+      "game_name": "Viewpoint (Japan)"
+    },
+    {
+      "id": "NEOGEO-CD#106",
+      "game_name": "World Heroes (Japan) (En,Ja)"
+    },
+    {
+      "id": "NEOGEO-CD#107",
+      "game_name": "World Heroes 2 (Japan) (En,Ja)"
+    },
+    {
+      "id": "NEOGEO-CD#108",
+      "game_name": "World Heroes 2 Jet (Japan) (En,Ja)"
+    },
+    {
+      "id": "NEOGEO-CD#109",
+      "game_name": "World Heroes Perfect (Export) (En,Ja) (Rev 1)"
+    },
+    {
+      "id": "NEOGEO-CD#110",
+      "game_name": "World Heroes Perfect (World) (En,Ja)"
+    },
+    {
+      "id": "NEOGEO-CD#111",
+      "game_name": "Xeno Crisis (World) (Unl)"
     }
   ]
 }
