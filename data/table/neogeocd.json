@@ -1,5 +1,5 @@
 {
-  "name": "SNK NEOGEO CD游戏合集(redump版)",
+  "name": "SNK NEOGEO CD游戏合集(20221001-redump)",
   "header": [
     {
       "value": "id",
@@ -8,6 +8,13 @@
     {
       "value": "game_name",
       "text": "游戏名称"
+    }
+  ],
+  "download": [
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1hcVKmlrXSvo6KVvXjxmx5g?pwd=8848",
+      "comment": "NEOGEO CD REDUMP"
     }
   ],
   "size": "39.86GB",
