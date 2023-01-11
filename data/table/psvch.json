@@ -66,6 +66,55 @@
   ],
   "content": [
     {
+      "game_id": "PSVzh#554",
+      "game_name": "最终幻想4：月之归还[中文移植][VPK]",
+      "date": "2023-01-11",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh508.jpg"
+    },
+    {
+      "game_id": "PSVzh#553",
+      "game_name": "质量效应：渗透者[中文移植][VPK]",
+      "date": "2023-01-11",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh553.jpg"
+    },
+    {
+      "game_id": "PSVzh#552",
+      "game_name": "死亡空间[中文移植][VPK]",
+      "date": "2023-01-11",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh552.jpg"
+    },
+    {
+      "game_id": "PSVzh#551",
+      "game_name": "石河伦吾的朋友们[官中移植][MAI]",
+      "date": "2023-01-11",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh551.jpg"
+    },
+    {
+      "game_id": "PSVzh#550",
+      "game_name": "杰克冒险：剑之传说[官中移植][MAI]",
+      "date": "2023-01-11",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh550.jpg"
+    },
+    {
+      "game_id": "PSVzh#549",
+      "game_name": "纪念碑谷[全DLC版][VPK]",
+      "date": "2023-01-11",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh517.jpg"
+    },
+    {
+      "game_id": "PSVzh#548",
+      "game_name": "暗影之枪[中文测试版][VPK]",
+      "date": "2023-01-11",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh548.jpg"
+    },
+    {
       "game_id": "PSVzh#547",
       "game_name": "轩辕剑：天之痕 移植版",
       "date": "2022-09-20",
