@@ -10,12 +10,17 @@
     },
     {
       "value": "id",
-      "text": "游戏编号",
+      "text": "文件编号",
       "divider": true
     },
     {
       "value": "game_name",
       "text": "游戏名称",
+      "divider": true
+    },
+    {
+      "value": "game_id",
+      "text": "游戏编号",
       "divider": true
     },
     {
