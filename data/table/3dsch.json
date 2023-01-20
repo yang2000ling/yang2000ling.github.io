@@ -1845,7 +1845,7 @@
     },
     {
       "id": "3DSZH#259",
-      "game_id": "",
+      "game_id": "移植",
       "game_name": "金庸群侠传",
       "date": "2023-01-12",
       "img": "https://data.yang2000ling.com/img/psv_pic_200/PSVzh479.jpg"
@@ -2010,6 +2010,13 @@
       "game_name": "重装机兵4+DLC【汉化修正版】",
       "date": "2023-01-12",
       "img": "https://data.yang2000ling.com/img/3ds_200/0551.jpg"
+    },
+    {
+      "id": "3DSZH#283",
+      "game_id": "移植",
+      "game_name": "暗黑破坏神1+地狱火1.41【中文移植】",
+      "date": "2023-01-20",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh512.jpg"
     }
   ]
 }
