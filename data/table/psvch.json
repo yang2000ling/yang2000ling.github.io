@@ -1,6 +1,6 @@
 {
-  "name": "PSV中文游戏合集",
-  "comment": "本目录旨在收集PSV掌机平台上所有的中文游戏，资源如有侵权，请及时联系我们，我们会及时删除。推荐用最新版WINRAR进行解压。为了提高维护效率，PSV中文合集链接将在电报频道不间断更新，欢迎大家到电报频道交流。",
+  "name": "PSV中文游戏和移植游戏合集",
+  "comment": "本目录旨在收集PSV掌机平台上所有的中文游戏和移植游戏，资源如有侵权，请及时联系我们，我们会及时删除。推荐用最新版WINRAR进行解压。为了提高维护效率，PSV中文合集链接将在电报频道不间断更新，欢迎大家到电报频道交流。",
   "version": "PSVZH",
   "download": [
     {
@@ -40,6 +40,34 @@
     }
   ],
   "content": [
+    {
+      "game_id": "PSVzh#565",
+      "game_name": "异形高丽战区1.2整合版[非中文移植版][VPK]",
+      "date": "2023-04-04",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh565.jpg"
+    },
+    {
+      "game_id": "PSVzh#564",
+      "game_name": "管道HD( The Conduit HD) [非中文移植版][VPK]",
+      "date": "2023-04-04",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh564.jpg"
+    },
+    {
+      "game_id": "PSVzh#563",
+      "game_name": "危险节奏2[汉化移植][VPK]",
+      "date": "2023-04-04",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh563.jpg"
+    },
+    {
+      "game_id": "PSVzh#562",
+      "game_name": "背刺[1.0中文移植][VPK]",
+      "date": "2023-04-04",
+      "psv_id": "移植",
+      "img": "https://data.yang2000ling.com/img/psv_pic_200/psvzh562.jpg"
+    },
     {
       "game_id": "PSVzh#561",
       "game_name": "重力眩晕[高清CG修复版3.0][MAI]",
