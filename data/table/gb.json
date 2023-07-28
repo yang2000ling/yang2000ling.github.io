@@ -10,7 +10,14 @@
       "text": "游戏名称"
     }
   ],
-  "version": "no-intro[20200830-114116]",
+  "version": "no-intro",
+  "download": [
+    {
+      "name": "百度网盘",
+      "url": "https://pan.baidu.com/s/1fqbm0DVtZ0hiezy_D7zTGA?pwd=snvw",
+      "comment": "解压密码yang2000ling.com"
+    }
+  ],
   "content": [
     {
       "id": "GB#1",

@@ -10,7 +10,14 @@
       "text": "游戏名称"
     }
   ],
-  "version": "no-intro[20200830-020420]",
+  "version": "no-intro",
+  "download": [
+    {
+      "name": "网盘",
+      "url": "https://pan.baidu.com/s/16r4bRU6uZKjBUSR-CfVEkQ?pwd=wv15",
+      "comment": "解压密码yang2000ling.com"
+    }
+  ],
   "content": [
     {
       "id": "GBC#1",
