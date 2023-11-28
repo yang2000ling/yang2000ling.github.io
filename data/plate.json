@@ -318,8 +318,12 @@
     "text": "PC Engine是世界第一部可选配CD模组的家用游戏机，使得它有CD载体的标准好处：更多储存空间、更便宜的载体成本、可播放Red Book标准的CD音乐。高效的设计、部分日本大型游戏软件厂商的支持、以及可加装CD-ROM的能力，使得PC Engine拥有题材广阔的游戏软件可供使用。其中HuCard和CD格式各拥有数百款游戏，而在1991年NEC推出SUPER CD-ROM²后，PC ENGINE的游戏制造商都以CD作主力游戏媒体。",
     "list": [
       {
-        "name": "NEC PCE CD游戏合集目录",
+        "name": "NEC PCE CD游戏合集",
         "url": "/table/pcecd"
+      },
+      {
+        "name": "NEC PCE CD中文游戏合集",
+        "url": "/table/pcecdch"
       }
     ],
     "article": [
