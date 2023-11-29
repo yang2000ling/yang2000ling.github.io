@@ -103,6 +103,18 @@
       {
         "name": "任天堂WIIU美版游戏合集",
         "url": "/table/wiiuu"
+      },
+      {
+        "name": "任天堂WIIU欧版游戏合集",
+        "url": "/table/wiiue"
+      },
+      {
+        "name": "任天堂WIIU日版游戏合集",
+        "url": "/table/wiiuj"
+      },
+      {
+        "name": "任天堂WIIU未分类更新补丁和DLC合集",
+        "url": "/table/wiiud"
       }
     ]
   },

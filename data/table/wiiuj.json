@@ -1,0 +1,1029 @@
+{
+  "name": "WIIU游戏日版合集",
+  "comment": "",
+  "header": [
+    {
+      "value": "id",
+      "text": "编号",
+      "divider": true
+    },
+    {
+      "value": "game_name",
+      "text": "游戏名称",
+      "divider": true
+    },
+    {
+      "value": "date",
+      "text": "更新日期",
+      "width": 150,
+      "divider": true
+    }
+  ],
+  "content": [
+    {
+      "id": "J001",
+      "game_name": "3DS版モンスターハンター3G・ パケットリレーツール [0005000010111B00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J002",
+      "game_name": "Amazon Video [00050000101FE600]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J003",
+      "game_name": "Amiibo Tap Nintendo's Greatest Bits [00050000101B4100]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J004",
+      "game_name": "Animal Crossing Plaza [0005000E10145600] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J005",
+      "game_name": "Animal Crossing Plaza [0005000010145600]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J006",
+      "game_name": "Art Academy Home Studio [0005000E1017BE00] [UPDATE v48]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J007",
+      "game_name": "Art Academy Home Studio [000500001017BE00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J008",
+      "game_name": "Art Academy SketchPad [0005000E10142B00] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J009",
+      "game_name": "Art Academy SketchPad [0005000010142B00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J010",
+      "game_name": "Assassin's Creed® III [0005000E10112400] [UPDATE v80]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J011",
+      "game_name": "Assassin's Creed® III [0005000010112400]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J012",
+      "game_name": "Assassin's Creed® IV Black Flag [0005000E1014C800] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J013",
+      "game_name": "Assassin's Creed® IV Black Flag [000500001014C800]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J014",
+      "game_name": "BANDAI CHANNEL [0005000010136100]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J015",
+      "game_name": "Batman Arkham City Armoured Edition [0005000010112900]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J016",
+      "game_name": "Batman™ Arkham Origins [0005000E10154600] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J017",
+      "game_name": "Batman™ Arkham Origins [0005000010154600]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J018",
+      "game_name": "BAYONETTA [000500001014DB00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J019",
+      "game_name": "BAYONETTA 2 [000500001011B900]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J020",
+      "game_name": "Best way to motivate kids ManabiGet! [00050000101BA100]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J021",
+      "game_name": "Bike Rider UltraDX WORLD TOUR [0005000E101D2C00] [UPDATE v32]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J022",
+      "game_name": "Bike Rider UltraDX WORLD TOUR [00050000101D2C00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J023",
+      "game_name": "BIOHAZARD REVELATIONS Unveiled Edition [0005000C10113100] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J024",
+      "game_name": "BIOHAZARD REVELATIONS Unveiled Edition [0005000E10113100] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J025",
+      "game_name": "BIOHAZARD REVELATIONS Unveiled Edition [0005000010113100]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J026",
+      "game_name": "Captain Toad Treasure Tracker [0005000E10180500] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J027",
+      "game_name": "Captain Toad Treasure Tracker [0005000010180500]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J028",
+      "game_name": "Demaecan [0005000010102900]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J029",
+      "game_name": "Disney Epic Mickey 2 [0005000010136D00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J030",
+      "game_name": "Donkey Kong Country Tropical Freeze [0005000E10144800] [UPDATE v17]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J031",
+      "game_name": "Donkey Kong Country Tropical Freeze [0005000010144800]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J032",
+      "game_name": "Dr.LUIGI & 細菌撲滅 [0005000010150300]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J033",
+      "game_name": "Dragon Quest X [0005000C10115E00] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J034",
+      "game_name": "Dragon Quest X [0005000E10115E00] [UPDATE v3888]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J035",
+      "game_name": "Dragon Quest X [0005000010115E00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J036",
+      "game_name": "Dragon Quest X Beta test [0005000E1011B600] [UPDATE v96]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J037",
+      "game_name": "Dragon Quest X Beta test [000500001011B600]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J038",
+      "game_name": "F1 RACE STARS POWERED UP EDITION [0005000010133A00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J039",
+      "game_name": "FIFA 13 World Class Soccer [0005000010110C00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J040",
+      "game_name": "Game & Wario (Trial) [0005000010185500]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J041",
+      "game_name": "Game & Wario [0005000010112D00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J042",
+      "game_name": "Hulu [0005000010104C00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J043",
+      "game_name": "Hyrule Warriors [0005000C1017CD00] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J044",
+      "game_name": "Hyrule Warriors [0005000E1017CD00] [UPDATE v272]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J045",
+      "game_name": "Hyrule Warriors [000500001017CD00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J046",
+      "game_name": "Injustice Gods Among Us [0005000E10140700] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J047",
+      "game_name": "Injustice Gods Among Us [0005000010140700]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J048",
+      "game_name": "KAMEN RIDER BATTRIDE WAR Ⅱ [0005000E10170700] [UPDATE v17]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J049",
+      "game_name": "KAMEN RIDER BATTRIDE WAR Ⅱ [0005000010170700]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J050",
+      "game_name": "Kirby and the Rainbow Curse [0005000E10188B00] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J051",
+      "game_name": "Kirby and the Rainbow Curse [0005000010188B00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J052",
+      "game_name": "LEGO® Batman™ 3 Beyond Gotham [00050000101B2700]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J053",
+      "game_name": "LEGO® CITY UNDERCOVER [0005000010142F00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J054",
+      "game_name": "LEGO® Jurassic World™ [00050000101CDF00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J055",
+      "game_name": "LEGO® MARVEL's Avengers [0005000E101EA100] [UPDATE v18]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J056",
+      "game_name": "LEGO® MARVEL's Avengers [00050000101EA100]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J057",
+      "game_name": "LEGO® STAR WARS™ The Force Awakens [0005000E101EA000] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J058",
+      "game_name": "LEGO® STAR WARS™ The Force Awakens [00050000101EA000]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J059",
+      "game_name": "LOST REAVERS [0005000E1018D900] [UPDATE v48]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J060",
+      "game_name": "LOST REAVERS [000500001018D900]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J061",
+      "game_name": "LOST REAVERS BETA TEST VERSION [00050000101C2100]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J062",
+      "game_name": "M & S at the Rio 2016 Olympic Games [0005000E10190300] [UPDATE v48]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J063",
+      "game_name": "M & S at the Rio 2016 Olympic Games [0005000010190300]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J064",
+      "game_name": "Mario & Sonic at the Sochi 2014 Olympic Winter Games [0005000E10106900] [UPDATE v32]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J065",
+      "game_name": "Mario & Sonic at the Sochi 2014 Olympic Winter Games [0005000010106900]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J066",
+      "game_name": "MARIO KART 8 [0005000C1010EB00] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J067",
+      "game_name": "MARIO KART 8 [0005000E1010EB00] [UPDATE v64]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J068",
+      "game_name": "MARIO KART 8 [000500001010EB00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J069",
+      "game_name": "Mario Party 10 [0005000E10161F00] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J070",
+      "game_name": "Mario Party 10 [0005000010161F00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J071",
+      "game_name": "Mario Tennis Ultra Smash [0005000E10199000] [UPDATE v32]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J072",
+      "game_name": "Mario Tennis Ultra Smash [0005000010199000]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J073",
+      "game_name": "Mario vs. Donkey Kong Tipping Stars [0005000010179200]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J074",
+      "game_name": "MARIOKART 8 Campaign Soft [0005000010183A00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J075",
+      "game_name": "Minecraft Wii U Edition [0005000C101DBE00] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J076",
+      "game_name": "Minecraft Wii U Edition [0005000E101DBE00] [UPDATE v576]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J077",
+      "game_name": "Minecraft Wii U Edition [00050000101DBE00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J078",
+      "game_name": "Mini Mario & Friends amiibo Challenge [00050000101C6100]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J079",
+      "game_name": "MONSTER HUNTER 3(tri-)G HD Ver. [0005000E10104D00] [UPDATE v96]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J080",
+      "game_name": "MONSTER HUNTER 3(tri-)G HD Ver. [0005000010104D00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J081",
+      "game_name": "Monster Hunter Frontier G [0005000E1014DA00] [UPDATE v2064]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J082",
+      "game_name": "Monster Hunter Frontier G [000500001014DA00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J083",
+      "game_name": "Need for Speed™ Most Wanted U [0005000E1012B700] [UPDATE v32]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J084",
+      "game_name": "Need for Speed™ Most Wanted U [000500001012B700]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J085",
+      "game_name": "NES REMIX [0005000E10145F00] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J086",
+      "game_name": "NES REMIX [0005000010145F00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J087",
+      "game_name": "NES REMIX 2 [0005000010162400]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J088",
+      "game_name": "Netflix [0005000010105A00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J089",
+      "game_name": "New SUPER MARIO BROS. U [0005000C10101C00] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J090",
+      "game_name": "New SUPER MARIO BROS. U [0005000E10101C00] [UPDATE v65]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J091",
+      "game_name": "New SUPER MARIO BROS. U [0005000010101C00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J092",
+      "game_name": "Niconico [0005000010116400]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J093",
+      "game_name": "NINJA GAIDEN 3 Razor's Edge [0005000E10110900] [UPDATE v64]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J094",
+      "game_name": "NINJA GAIDEN 3 Razor's Edge [0005000010110900]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J095",
+      "game_name": "Nintendo Game Seminar 2013 Student Works [0005000010173000]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J096",
+      "game_name": "Nintendo Land (Trial) [0005000010185100]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J097",
+      "game_name": "Nintendo Land [0005000E10101F00] [UPDATE v32]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J098",
+      "game_name": "Nintendo Land [0005000010101F00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J099",
+      "game_name": "Nintendo×JOYSOUND Wii カラオケ U [0005000010100D00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J100",
+      "game_name": "PAPER MARIO Color Splash [0005000E1F600900] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J101",
+      "game_name": "PAPER MARIO Color Splash [000500001F600900]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J102",
+      "game_name": "Petitcom BIG [0005000E101DFF00] [UPDATE v48]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J103",
+      "game_name": "Petitcom BIG [00050000101DFF00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J104",
+      "game_name": "PIKMIN 3 [0005000C1012BC00] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J105",
+      "game_name": "PIKMIN 3 [0005000E1012BC00] [UPDATE v96]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J106",
+      "game_name": "PIKMIN 3 [000500001012BC00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J107",
+      "game_name": "PIKMIN Short Movies HD [0005000010161700]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J108",
+      "game_name": "POKKÉN TOURNAMENT [0005000E101C5800] [UPDATE v64]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J109",
+      "game_name": "POKKÉN TOURNAMENT [00050000101C5800]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J110",
+      "game_name": "PUYOPUYOTETRIS [0005000C1014D900] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J111",
+      "game_name": "PUYOPUYOTETRIS [0005000E1014D900] [UPDATE v32]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J112",
+      "game_name": "PUYOPUYOTETRIS [000500001014D900]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J113",
+      "game_name": "Rabbids Land [0005000010112700]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J114",
+      "game_name": "Rakuten SHOWTIME [00050000101A9100]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J115",
+      "game_name": "Rayman Legends [0005000010112600]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J116",
+      "game_name": "RODEA THE SKYSOLDIER [000500001018C500]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J117",
+      "game_name": "Romance of the Three Kingdoms 12 [0005000E10111C00] [UPDATE v33]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J118",
+      "game_name": "Romance of the Three Kingdoms 12 [0005000010111C00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J119",
+      "game_name": "Romance of the Three Kingdoms 12 with Powerup kit [0005000010149000]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J120",
+      "game_name": "Ryu-ga gotoku 1&2 HD for Wii U [0005000010136500]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J121",
+      "game_name": "Shovel Knight [0005000E101D9300] [UPDATE v32]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J122",
+      "game_name": "Shovel Knight [00050000101D9300]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J123",
+      "game_name": "SIMPLE Series for Wii U Vol.1 THE FamilyParty [0005000010118000]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J124",
+      "game_name": "Sonic & All-Stars Racing Transformed [000500001015B400]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J125",
+      "game_name": "SONIC LOST WORLD [0005000C10135700] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J126",
+      "game_name": "SONIC LOST WORLD [0005000E10135700] [UPDATE v48]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J127",
+      "game_name": "SONIC LOST WORLD [0005000010135700]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J128",
+      "game_name": "Sonic Toon Ancients' Secret Treasure [0005000010191F00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J129",
+      "game_name": "Splatoon [0005000E10162B00] [UPDATE v272]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J130",
+      "game_name": "Splatoon [0005000010162B00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J131",
+      "game_name": "Splatoon Global Testfire [000500001017E300]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J132",
+      "game_name": "Splatoon Testfire [00050000101D6A00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J133",
+      "game_name": "Sports Connection [0005000E10112500] [UPDATE v17]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J134",
+      "game_name": "Sports Connection [0005000010112500]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J135",
+      "game_name": "Star Fox Guard [00050000101BEB00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J136",
+      "game_name": "Star Fox Guard Special Demo [00050000101DCC00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J137",
+      "game_name": "Star Fox Zero [0005000E101AFF00] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J138",
+      "game_name": "Star Fox Zero [00050000101AFF00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J139",
+      "game_name": "StarFox Zero The Battle Begins + Training [0005000010201A00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J140",
+      "game_name": "SUPER MARIO 3D WORLD [0005000010106100]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J141",
+      "game_name": "Super Mario Maker [0005000E1018DB00] [UPDATE v272]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J142",
+      "game_name": "Super Mario Maker [000500001018DB00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J143",
+      "game_name": "Super Smash Bros. for Wii U [0005000C10110E00] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J144",
+      "game_name": "Super Smash Bros. for Wii U [0005000E10110E00] [UPDATE v304]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J145",
+      "game_name": "Super Smash Bros. for Wii U [0005000010110E00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J146",
+      "game_name": "Taiko no Tatsujin Atsumete★ TomodachiDaisakusen! [0005000C101D3000] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J147",
+      "game_name": "Taiko no Tatsujin Atsumete★ TomodachiDaisakusen! [0005000E101D3000] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J148",
+      "game_name": "Taiko no Tatsujin Atsumete★ TomodachiDaisakusen! [00050000101D3000]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J149",
+      "game_name": "Taiko no Tatsujin Tokumori! [0005000C10192000] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J150",
+      "game_name": "Taiko no Tatsujin Tokumori! [0005000010192000]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J151",
+      "game_name": "Taiko no Tatsujin Wii U version! [0005000C10132200] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J152",
+      "game_name": "Taiko no Tatsujin Wii U version! [0005000010132200]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J153",
+      "game_name": "TEKKEN TAG TOURNAMENT 2 Wii U EDITION [0005000E10100600] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J154",
+      "game_name": "TEKKEN TAG TOURNAMENT 2 Wii U EDITION [0005000010100600]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J155",
+      "game_name": "Terraria [00050000101F3A00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J156",
+      "game_name": "The Legend of Zelda Breath of the Wild [0005000C101C9300] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J157",
+      "game_name": "The Legend of Zelda Breath of the Wild [0005000E101C9300] [UPDATE v208]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J158",
+      "game_name": "The Legend of Zelda Breath of the Wild [00050000101C9300]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J159",
+      "game_name": "THE LEGEND OF ZELDA The Wind Waker HD [0005000010143400]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J160",
+      "game_name": "THE LEGEND OF ZELDA Twilight Princess HD [0005000E1019C800] [UPDATE v82]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J161",
+      "game_name": "THE LEGEND OF ZELDA Twilight Princess HD [000500001019C800]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J162",
+      "game_name": "The Wonderful 101 [0005000E10116300] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J163",
+      "game_name": "The Wonderful 101 [0005000010116300]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J164",
+      "game_name": "WARRIORS OROCHI 3 Hyper [0005000E1010EA00] [UPDATE v64]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J165",
+      "game_name": "WARRIORS OROCHI 3 Hyper [000500001010EA00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J166",
+      "game_name": "Wii Fit U [0005000E10102200] [UPDATE v81]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J167",
+      "game_name": "Wii Fit U [0005000010102200]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J168",
+      "game_name": "Wii Fit U Information [000500001016A800]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J169",
+      "game_name": "Wii Party U [000500001011A800]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J170",
+      "game_name": "Wii Sports Club [0005000C1012F100] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J171",
+      "game_name": "Wii Sports Club [0005000E1012F100] [UPDATE v112]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J172",
+      "game_name": "Wii Sports Club [000500001012F100]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J173",
+      "game_name": "Wii Sports Club Lite [0005000010171E00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J174",
+      "game_name": "Wii U Panorama View Bird's-Eye View [000500001012D500]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J175",
+      "game_name": "Wii U Panorama View Carnival in Rio [000500001012D600]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J176",
+      "game_name": "Wii U Panorama View Double-Decker Tour [000500001012D400]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J177",
+      "game_name": "Wii U Panorama View Kyoto Sightseeing [000500001012D700]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J178",
+      "game_name": "Wii U Panorama View Trailer [0005000010129600]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J179",
+      "game_name": "XenobladeX [0005000C10116100] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J180",
+      "game_name": "XenobladeX [0005000E10116100] [UPDATE v48]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J181",
+      "game_name": "XenobladeX [0005000010116100]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J182",
+      "game_name": "YNN [0005000010102A00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J183",
+      "game_name": "Yoshi's Woolly World [0005000E10131F00] [UPDATE v48]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J184",
+      "game_name": "Yoshi's Woolly World [0005000010131F00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J185",
+      "game_name": "YouTube [0005000010105700]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J186",
+      "game_name": "ZombiU [0005000E10112300] [UPDATE v32]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J187",
+      "game_name": "ZombiU [0005000010112300]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J188",
+      "game_name": "クニットアンダーグラウンド [000500001017B700]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J189",
+      "game_name": "ご当地鉄道 ～ご当地キャラと日本全国の旅～ [000500001017B600]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J190",
+      "game_name": "タンク！タンク！タンク！ (DL) [000500001012F200]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J191",
+      "game_name": "バンダイナムコからのお届け物 [00050000101F0A00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J192",
+      "game_name": "ブタメダル [0005000010185000]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J193",
+      "game_name": "幻影異聞録♯ＦＥ [0005000C10131D00] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J194",
+      "game_name": "幻影異聞録♯ＦＥ [0005000E10131D00] [UPDATE v32]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J195",
+      "game_name": "幻影異聞録♯ＦＥ [0005000010131D00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J196",
+      "game_name": "零 ～濡鴉ノ巫女～ [000500001014D200]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J197",
+      "game_name": "任天堂ゲームセミナー2014 ドキドキ手紙リレー [00050000101B2F00]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J198",
+      "game_name": "藤子・F・不二雄キャラクターズ 大集合！SFドタバタパーティー！！ [0005000E1018C400] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J199",
+      "game_name": "藤子・F・不二雄キャラクターズ 大集合！SFドタバタパーティー！！ [000500001018C400]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J200",
+      "game_name": "役満 鳳凰 [0005000E10149700] [UPDATE v64]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "J201",
+      "game_name": "役満 鳳凰 [0005000010149700]",
+      "date": "2023-11-29"
+    }
+  ]
+}
