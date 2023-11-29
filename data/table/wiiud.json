@@ -1,0 +1,134 @@
+{
+  "name": "WIIU未分类更新补丁和DLC合集",
+  "comment": "",
+  "header": [
+    {
+      "value": "id",
+      "text": "编号",
+      "divider": true
+    },
+    {
+      "value": "game_name",
+      "text": "游戏名称",
+      "divider": true
+    },
+    {
+      "value": "date",
+      "text": "更新日期",
+      "width": 150,
+      "divider": true
+    }
+  ],
+  "content": [
+    {
+      "id": "D01",
+      "game_name": "Call of Duty Black Ops II [0005000E1010CF00] [UPDATE v128]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D02",
+      "game_name": "Call of Duty Black Ops II [0005000E1011B400] [UPDATE v96]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D03",
+      "game_name": "Call of Duty Black Ops II [0005000E10113400] [UPDATE v128]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D04",
+      "game_name": "Call of Duty Ghosts [0005000C10146800] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D05",
+      "game_name": "Call of Duty Ghosts [0005000C10156100] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D06",
+      "game_name": "Call of Duty Ghosts [0005000E10146800] [UPDATE v112]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D07",
+      "game_name": "Call of Duty Ghosts [0005000E10156100] [UPDATE v112]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D08",
+      "game_name": "Funky Barn [0005000E10113C00] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D09",
+      "game_name": "Funky Barn [0005000E10118400] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D10",
+      "game_name": "Guitar Hero Live [0005000E101BA400] [UPDATE v96]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D11",
+      "game_name": "Guitar Hero Live [0005000E101BC600] [UPDATE v96]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D12",
+      "game_name": "KAMEN RIDER BATTRIDE WAR Ⅱ PREMIUM TV&MOVIE SOUND ED. [0005000E10170600] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D13",
+      "game_name": "KAMEN RIDER SUMMON RIDE! [0005000E10192200] [UPDATE v80]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D14",
+      "game_name": "LEGO® DIMENSIONS™ [0005000C10195D00] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D15",
+      "game_name": "LEGO® DIMENSIONS™ [0005000C10194200] [DLC]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D16",
+      "game_name": "LEGO® DIMENSIONS™ [0005000E10195D00] [UPDATE v352]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D17",
+      "game_name": "LEGO® DIMENSIONS™ [0005000E10194200] [UPDATE v320]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D18",
+      "game_name": "Mass Effect™ 3 Special Edition [0005000E1010DC00] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D19",
+      "game_name": "Mass Effect™ 3 Special Edition [0005000E1010F500] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D20",
+      "game_name": "Minecraft Story Mode [0005000E1020A200] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D21",
+      "game_name": "Skylanders™ Imaginators [0005000E101F4D00] [UPDATE v16]",
+      "date": "2023-11-29"
+    },
+    {
+      "id": "D22",
+      "game_name": "Skylanders™ Imaginators [0005000E101FB100] [UPDATE v16]",
+      "date": "2023-11-29"
+    }
+  ]
+}
