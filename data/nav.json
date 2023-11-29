@@ -9,6 +9,7 @@
       {"name": "任天堂 N64","uri": "/plate/n64"},
       {"name": "任天堂 NGC","uri": "/plate/ngc"},
       {"name": "任天堂 WII","uri": "/plate/wii"},
+      {"name": "任天堂 WIIU","uri": "/plate/wiiu"},
       {"name": "世嘉 SG-1000","uri": "/plate/sg1000"},
       {"name": "世嘉 SMS","uri": "/plate/sms"},
       {"name": "世嘉 MD","uri": "/plate/md"},
