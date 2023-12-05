@@ -38,6 +38,55 @@
   ],
   "content": [
     {
+      "id": "PSPCH#552",
+      "game_name": "月姬plus+disc",
+      "date": "2023-12-05",
+      "img": "https://data.yang2000ling.com/img/psp_200/pspch552.jpg",
+      "game_id": "移植"
+    },
+    {
+      "id": "PSPCH#551",
+      "game_name": "月姬[完整汉化版移植]",
+      "date": "2023-12-05",
+      "img": "https://data.yang2000ling.com/img/psp_200/pspch551.jpg",
+      "game_id": "移植"
+    },
+    {
+      "id": "PSPCH#550",
+      "game_name": "月姬：歌月十夜[中文移植版]",
+      "date": "2023-12-05",
+      "img": "https://data.yang2000ling.com/img/psp_200/pspch550.jpg",
+      "game_id": "移植"
+    },
+    {
+      "id": "PSPCH#549",
+      "game_name": "水仙：如果还有明天 携带版[1.0汉化]",
+      "date": "2023-12-05",
+      "img": "https://data.yang2000ling.com/img/psp_200/2266.jpg",
+      "game_id": "2266"
+    },
+    {
+      "id": "PSPCH#548",
+      "game_name": "少女爱上姐姐2：携带版[汉化]",
+      "date": "2023-12-05",
+      "img": "https://data.yang2000ling.com/img/psp_200/2592.jpg",
+      "game_id": "2592"
+    },
+    {
+      "id": "PSPCH#547",
+      "game_name": "第2次超级机器人大战Z：再世篇[完美汉化1.05]",
+      "date": "2023-12-05",
+      "img": "https://data.yang2000ling.com/img/psp_200/2870.jpg",
+      "game_id": "2870"
+    },
+    {
+      "id": "PSPCH#546",
+      "game_name": "刀剑神域：无限瞬间1.01版[V8汉化]",
+      "date": "2023-12-05",
+      "img": "https://data.yang2000ling.com/img/psp_200/3141.jpg",
+      "game_id": "3141"
+    },
+    {
       "id": "PSPCH#545",
       "game_name": "三国志8-新汉化版V1.1.1",
       "date": "2023-11-28",
