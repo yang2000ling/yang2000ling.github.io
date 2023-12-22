@@ -4,7 +4,7 @@
     {
       "name": "百度网盘",
       "url": "https://pan.baidu.com/s/1wqHdPGf0HGsWxuQ8l8eRrQ?pwd=8848",
-      "comment": "解压密码yang2000ling.com"
+      "comment": ""
     }
   ],
   "header": [
@@ -30,12 +30,17 @@
     {
       "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD127.jpg",
       "id": "PCECDCH#1",
-      "game_name": " 天外魔境：自来也 中文汉化版"
+      "game_name": "天外魔境：自来也 中文汉化版"
     },
     {
       "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD9.jpg",
       "id": "PCECDCH#2",
       "game_name": "恶魔城Dracula X：血之轮回 中文汉化版"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD125.jpg",
+      "id": "PCECDCH#3",
+      "game_name": "天外魔境：风云歌舞伎传 中文汉化版"
     }
   ]
 }
