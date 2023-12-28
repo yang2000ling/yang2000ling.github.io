@@ -39,7 +39,7 @@
   "content": [
     {
       "id": "PSPCH#553",
-      "game_name": " 山羊的报恩 移植汉化版",
+      "game_name": "山羊的报恩 移植汉化版",
       "date": "2023-12-27",
       "img": "https://data.yang2000ling.com/img/psp_200/pspch553.jpg",
       "game_id": "移植"
@@ -599,7 +599,7 @@
     },
     {
       "id": "PSPCH#473",
-      "game_name": "超时空要塞 V2.0 [简] [CG汉化组]",
+      "game_name": "超时空要塞：王牌边界 [简v2.0] [CG汉化组]",
       "date": "2023-04-06",
       "img": "https://data.yang2000ling.com/img/psp_200/1596.jpg",
       "game_id": "1596"
@@ -1768,21 +1768,21 @@
     },
     {
       "id": "PSPCH#306",
-      "game_name": "最终幻想 战略版 狮子战争 [简][CG汉化组&天幻网]",
+      "game_name": "最终幻想战略版 狮子战争 [简][CG汉化组&天幻网]",
       "date": "2023-04-06",
       "img": "https://data.yang2000ling.com/img/psp_200/1009.jpg",
       "game_id": "1009"
     },
     {
       "id": "PSPCH#305",
-      "game_name": "最终幻想 战略版 狮子战争 [简][CG汉化组&天幻网](修复释放技能拖慢BUG)",
+      "game_name": "最终幻想战略版 狮子战争 [简][CG汉化组&天幻网](修复释放技能拖慢BUG)",
       "date": "2023-04-06",
       "img": "https://data.yang2000ling.com/img/psp_200/1009.jpg",
       "game_id": "1009"
     },
     {
       "id": "PSPCH#304",
-      "game_name": "最终幻想 7 - 危机之源 V1.04 [简] [CG汉化组]",
+      "game_name": "最终幻想7 - 危机之源 V1.04 [简] [CG汉化组]",
       "date": "2023-04-06",
       "img": "https://data.yang2000ling.com/img/psp_200/1159.jpg",
       "game_id": "1159"
