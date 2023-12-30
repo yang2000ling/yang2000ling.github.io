@@ -20,7 +20,8 @@
     },
     {
       "value": "game_name",
-      "text": "游戏名称"
+      "text": "游戏名称",
+      "divider": true
     },
     {
       "value": "date",
@@ -93,7 +94,7 @@
     {
       "img": "https://data.yang2000ling.com/img/ss/ssch11.jpg",
       "id": "SSCH#11",
-      "game_name": "千年帝国之兴亡[简][全文本汉化版",
+      "game_name": "千年帝国之兴亡[简][全文本汉化版]",
       "date": "2021-01-01"
     },
     {
@@ -109,7 +110,7 @@
       "date": "2021-01-01"
     },
     {
-      "img": "https://data.yang2000ling.com/img/ss/ssch14.jpg",
+      "img": "https://data.yang2000ling.com/img/ss/ssch19.jpg",
       "id": "SSCH#14",
       "game_name": "托尔精灵王纪传[简][081225][Ken & madcell]",
       "date": "2021-01-01"
@@ -145,13 +146,13 @@
       "date": "2021-01-01"
     },
     {
-      "img": "https://data.yang2000ling.com/img/ss/ssch20.jpg",
+      "img": "https://data.yang2000ling.com/img/ss/ssch22.jpg",
       "id": "SSCH#20",
       "game_name": "守护英雄无限续关版",
       "date": "2021-01-01"
     },
     {
-      "img": "https://data.yang2000ling.com/img/ss/ssch21.jpg",
+      "img": "https://data.yang2000ling.com/img/ss/ssch22.jpg",
       "id": "SSCH#21",
       "game_name": "守護英雄繁體中文",
       "date": "2021-01-01"
@@ -175,7 +176,7 @@
       "date": "2023-11-28"
     },
     {
-      "img": "https://data.yang2000ling.com/img/ss/ssch1.jpg",
+      "img": "https://data.yang2000ling.com/img/ss/ssch25.jpg",
       "id": "SSCH#25",
       "game_name": "露娜1银色之星（中文1.02）",
       "date": "2023-11-28"
