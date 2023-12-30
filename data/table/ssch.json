@@ -16,7 +16,8 @@
     },
     {
       "value": "id",
-      "text": "编号"
+      "text": "编号",
+      "divider": true
     },
     {
       "value": "game_name",
@@ -142,7 +143,7 @@
     {
       "img": "https://data.yang2000ling.com/img/ss/ssch19.jpg",
       "id": "SSCH#19",
-      "game_name": "精灵王纪传_Thor_Seireioukiden_完全汉化版_20200601",
+      "game_name": "精灵王纪传 完全汉化版",
       "date": "2021-01-01"
     },
     {
