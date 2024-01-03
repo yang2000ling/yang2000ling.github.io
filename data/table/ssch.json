@@ -85,123 +85,39 @@
       "img": "https://data.yang2000ling.com/img/ss/ssch28.jpg"
     },
     {
-      "id": "SSCH#1",
-      "game_name": "慟哭之後[汉化版]",
-      "date": "2021-01-01",
-      "img": "https://data.yang2000ling.com/img/ss/ssch1.jpg"
+      "img": "https://data.yang2000ling.com/img/ss/ssch27.jpg",
+      "id": "SSCH#27",
+      "game_name": "七风岛物语（中文1.0）",
+      "date": "2023-11-28"
     },
     {
-      "id": "SSCH#2",
-      "game_name": "三国志4[繁][官方]",
-      "date": "2021-01-01",
-      "img": "https://data.yang2000ling.com/img/ss/ssch2.jpg"
+      "img": "https://data.yang2000ling.com/img/ss/ssch26.jpg",
+      "id": "SSCH#26",
+      "game_name": "露娜2永恒之蓝",
+      "date": "2023-11-28"
     },
     {
-      "img": "https://data.yang2000ling.com/img/ss/ssch3.jpg",
-      "id": "SSCH#3",
-      "game_name": "三国志5[繁][官方]",
-      "date": "2021-01-01"
+      "img": "https://data.yang2000ling.com/img/ss/ssch25.jpg",
+      "id": "SSCH#25",
+      "game_name": "露娜1银色之星（中文1.02）",
+      "date": "2023-11-28"
     },
     {
-      "img": "https://data.yang2000ling.com/img/ss/ssch4.jpg",
-      "id": "SSCH#4",
-      "game_name": "三国志英杰传[繁][官方]",
-      "date": "2021-01-01"
+      "img": "https://data.yang2000ling.com/img/ss/ssch24.jpg",
+      "id": "SSCH#24",
+      "game_name": "大江户繁华复兴（中文1.0）",
+      "date": "2023-11-28"
     },
     {
-      "img": "https://data.yang2000ling.com/img/ss/ssch5.jpg",
-      "id": "SSCH#5",
-      "game_name": "仙剑奇侠传[繁][官方]",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch6.jpg",
-      "id": "SSCH#6",
-      "game_name": "光明力量3剧本1 王都巨神[简][完美汉化]",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch7.jpg",
-      "id": "SSCH#7",
-      "game_name": "光明力量3剧本2 被狙击的神子[简][完美汉化]",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch8.jpg",
-      "id": "SSCH#8",
-      "game_name": "光明力量3剧本3 冰壁邪神宫[简][完美汉化]",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch9.jpg",
-      "id": "SSCH#9",
-      "game_name": "光明圣柜[简][完美汉化版]",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch10.jpg",
-      "id": "SSCH#10",
-      "game_name": "公主的皇冠[简][完美汉化版]",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch11.jpg",
-      "id": "SSCH#11",
-      "game_name": "千年帝国之兴亡[简][全文本汉化版]",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch12.jpg",
-      "id": "SSCH#12",
-      "game_name": "大航海时代2[简][完美汉化版]",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch13.jpg",
-      "id": "SSCH#13",
-      "game_name": "大航海时代外传[简][完美汉化版]",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch19.jpg",
-      "id": "SSCH#14",
-      "game_name": "托尔精灵王纪传[简][081225][Ken & madcell]",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch15.jpg",
-      "id": "SSCH#15",
-      "game_name": "梦幻模拟战1&2[简][V1",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch16.jpg",
-      "id": "SSCH#16",
-      "game_name": "梦幻模拟战3[简][意志之路]",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch17.jpg",
-      "id": "SSCH#17",
-      "game_name": "神秘岛[繁][官方]",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch18.jpg",
-      "id": "SSCH#18",
-      "game_name": "SS太閤立志伝2-無名漢化版",
-      "date": "2021-01-01"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/ss/ssch19.jpg",
-      "id": "SSCH#19",
-      "game_name": "精灵王纪传 完全汉化版",
-      "date": "2021-01-01"
+      "img": "https://data.yang2000ling.com/img/ss/ssch23.jpg",
+      "id": "SSCH#23",
+      "game_name": "超级机器人大战F&F完结篇汉化版",
+      "date": "2023-11-28"
     },
     {
       "img": "https://data.yang2000ling.com/img/ss/ssch22.jpg",
-      "id": "SSCH#20",
-      "game_name": "守护英雄无限续关版",
+      "id": "SSCH#22",
+      "game_name": "守护英雄简体中文版",
       "date": "2021-01-01"
     },
     {
@@ -212,39 +128,123 @@
     },
     {
       "img": "https://data.yang2000ling.com/img/ss/ssch22.jpg",
-      "id": "SSCH#22",
-      "game_name": "守护英雄简体中文版",
+      "id": "SSCH#20",
+      "game_name": "守护英雄无限续关版",
       "date": "2021-01-01"
     },
     {
-      "img": "https://data.yang2000ling.com/img/ss/ssch23.jpg",
-      "id": "SSCH#23",
-      "game_name": "超级机器人大战F&F完结篇汉化版",
-      "date": "2023-11-28"
+      "img": "https://data.yang2000ling.com/img/ss/ssch19.jpg",
+      "id": "SSCH#19",
+      "game_name": "精灵王纪传 完全汉化版",
+      "date": "2021-01-01"
     },
     {
-      "img": "https://data.yang2000ling.com/img/ss/ssch24.jpg",
-      "id": "SSCH#24",
-      "game_name": "大江户繁华复兴（中文1.0）",
-      "date": "2023-11-28"
+      "img": "https://data.yang2000ling.com/img/ss/ssch18.jpg",
+      "id": "SSCH#18",
+      "game_name": "SS太閤立志伝2-無名漢化版",
+      "date": "2021-01-01"
     },
     {
-      "img": "https://data.yang2000ling.com/img/ss/ssch25.jpg",
-      "id": "SSCH#25",
-      "game_name": "露娜1银色之星（中文1.02）",
-      "date": "2023-11-28"
+      "img": "https://data.yang2000ling.com/img/ss/ssch17.jpg",
+      "id": "SSCH#17",
+      "game_name": "神秘岛[繁][官方]",
+      "date": "2021-01-01"
     },
     {
-      "img": "https://data.yang2000ling.com/img/ss/ssch26.jpg",
-      "id": "SSCH#26",
-      "game_name": "露娜2永恒之蓝",
-      "date": "2023-11-28"
+      "img": "https://data.yang2000ling.com/img/ss/ssch16.jpg",
+      "id": "SSCH#16",
+      "game_name": "梦幻模拟战3[简][意志之路]",
+      "date": "2021-01-01"
     },
     {
-      "img": "https://data.yang2000ling.com/img/ss/ssch27.jpg",
-      "id": "SSCH#27",
-      "game_name": "七风岛物语（中文1.0）",
-      "date": "2023-11-28"
+      "img": "https://data.yang2000ling.com/img/ss/ssch15.jpg",
+      "id": "SSCH#15",
+      "game_name": "梦幻模拟战1&2[简][V1",
+      "date": "2021-01-01"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/ss/ssch19.jpg",
+      "id": "SSCH#14",
+      "game_name": "托尔精灵王纪传[简][081225][Ken & madcell]",
+      "date": "2021-01-01"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/ss/ssch13.jpg",
+      "id": "SSCH#13",
+      "game_name": "大航海时代外传[简][完美汉化版]",
+      "date": "2021-01-01"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/ss/ssch12.jpg",
+      "id": "SSCH#12",
+      "game_name": "大航海时代2[简][完美汉化版]",
+      "date": "2021-01-01"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/ss/ssch11.jpg",
+      "id": "SSCH#11",
+      "game_name": "千年帝国之兴亡[简][全文本汉化版]",
+      "date": "2021-01-01"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/ss/ssch10.jpg",
+      "id": "SSCH#10",
+      "game_name": "公主的皇冠[简][完美汉化版]",
+      "date": "2021-01-01"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/ss/ssch9.jpg",
+      "id": "SSCH#9",
+      "game_name": "光明圣柜[简][完美汉化版]",
+      "date": "2021-01-01"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/ss/ssch8.jpg",
+      "id": "SSCH#8",
+      "game_name": "光明力量3剧本3 冰壁邪神宫[简][完美汉化]",
+      "date": "2021-01-01"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/ss/ssch7.jpg",
+      "id": "SSCH#7",
+      "game_name": "光明力量3剧本2 被狙击的神子[简][完美汉化]",
+      "date": "2021-01-01"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/ss/ssch6.jpg",
+      "id": "SSCH#6",
+      "game_name": "光明力量3剧本1 王都巨神[简][完美汉化]",
+      "date": "2021-01-01"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/ss/ssch5.jpg",
+      "id": "SSCH#5",
+      "game_name": "仙剑奇侠传[繁][官方]",
+      "date": "2021-01-01"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/ss/ssch4.jpg",
+      "id": "SSCH#4",
+      "game_name": "三国志英杰传[繁][官方]",
+      "date": "2021-01-01"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/ss/ssch3.jpg",
+      "id": "SSCH#3",
+      "game_name": "三国志5[繁][官方]",
+      "date": "2021-01-01"
+    },
+    {
+      "id": "SSCH#2",
+      "game_name": "三国志4[繁][官方]",
+      "date": "2021-01-01",
+      "img": "https://data.yang2000ling.com/img/ss/ssch2.jpg"
+    },
+    {
+      "id": "SSCH#1",
+      "game_name": "慟哭之後[汉化版]",
+      "date": "2021-01-01",
+      "img": "https://data.yang2000ling.com/img/ss/ssch1.jpg"
     }
   ]
 }
