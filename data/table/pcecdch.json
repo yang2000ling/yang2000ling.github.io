@@ -24,23 +24,38 @@
       "value": "game_name",
       "text": "游戏名称",
       "divider": true
+    },
+    {
+      "value": "date",
+      "text": "更新日期",
+      "width": 150,
+      "divider": true
     }
   ],
   "content": [
     {
-      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD127.jpg",
-      "id": "PCECDCH#1",
-      "game_name": "天外魔境：自来也 中文汉化版"
-    },
-    {
-      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD9.jpg",
-      "id": "PCECDCH#2",
-      "game_name": "恶魔城Dracula X：血之轮回 中文汉化版"
+      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD522.jpg",
+      "id": "PCECDCH#4",
+      "game_name": "伊苏4：伊苏的黎明 [中文汉化版][Advance汉化组]",
+      "date": "2024-03-27"
     },
     {
       "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD126.jpg",
       "id": "PCECDCH#3",
-      "game_name": "天外魔境：风云歌舞伎传 中文汉化版"
+      "game_name": "天外魔境：风云歌舞伎传 中文汉化版",
+      "date": "2023-12-22"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD9.jpg",
+      "id": "PCECDCH#2",
+      "game_name": "恶魔城Dracula X：血之轮回 中文汉化版",
+      "date": "2023-12-03"
+    },
+    {
+      "img": "https://data.yang2000ling.com/img/pcecd_200/PCECD127.jpg",
+      "id": "PCECDCH#1",
+      "game_name": "天外魔境：自来也 中文汉化版",
+      "date": "2023-11-28"
     }
   ]
 }
